@@ -1,0 +1,54 @@
+#
+# File:   content-mit-8422-1x-captions/M1L8d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 45 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Then let me finish this discussion with a fully
+quantum mechanical description.
+If you describe the detection or collision of two particles
+in two modes-- so you have a mode, a mode operator,
+annihilation operator, a1 and a1.
+But if you are asking what happens
+if I measure two particles, you annihilate two particles
+with an operator, a1 and a2.
+But then, because of the indistinguishability
+of particles, you have to consider an exchange
+term, which is a2, a1.
+So whenever you detect two particles
+in two different modes, your signal
+is proportional to something related to a1, a2, plus a2, a1.
+This extra exchange term gives you an extra factor of two
+for bosons, which is exactly what appears
+in the g2 function.
+And, of course, if you have an exchange term for fermions,
+you get zero.
+And this of course leads to the antibunching or the g2 value
+of zero for fermions.
+However, and this is obvious, if you have a single-mode, then
+the only operator to detect two particles is a1 times a1,
+and this has no exchange term.
+And this is the situation of the laser
+and the Bose-Einstein condensate,
+and that means they have a g2 function of one.
+So, Cody, this is another argument
+why single-mode occupation has a g2 function of one,
+but I have to reconcile it with your question.
+Right now, I think there may be a difference
+between a canonical ensemble and grand canonical ensemble.
+In a canonical ensemble, the total particle number is fixed,
+but in a grand canonical it fluctuates.
+And maybe this leads to additional fluctuations
+for the case of single-mode chaotic light,
+but I really have to think about your question.
+But here's the same argument why if you occupy
+only a single-mode, if you look for instance
+at the Bose-Einstein condensate, you do not
+have the second exchange term.
+And the missing exchange term just
+propagates through the equations and gives you

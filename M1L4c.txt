@@ -1,0 +1,239 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 230 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, so we know what classical squeezing is.
+And what we have learned or so, and this helps me
+out a lot to motivate how we squeeze in quantum mechanics,
+you've realized that what is really essential here
+is to drive at 2 omega 0.
+So what we need now to do squeezing in the [? Kringle ?]
+domain, if you want to squeeze light,
+we need something at 2 omega 0.
+So we wanted to discuss a quantum harmonic oscillator.
+We want to have some form of parametric drive at 2 omega 0.
+And this will result in squeezed states.
+Now, what does it require if you're
+going to bring in 2 omega 0?
+Well, let's not forget our harmonic oscillators
+are modes of the electromagnetic field.
+If you now want to couple a mode of the electromagnetic field
+at 2 omega 0 with our harmonic oscillator at omega 0,
+we need a coupling between two electromagnetic fields.
+So therefore, we need non-linear interactions between photons.
+
+So, this was a tautology.
+We need non-linear physics, which
+leads to interactions between photons.
+And linear physics means each harmonic oscillator
+is independent.
+So we need some non-linear process
+which will be equivalent to have interactions between photons.
+
+And the device which will provide that
+is an optical parametric oscillator.
+
+I could spend a long time explaining to you how
+those non-linear crystals work, what is the polarization, what
+is the polarizability, how do you drive it,
+what is a linearity.
+But for the discussion in this class, which
+focuses on fundamental concepts, I can actually bypass it
+by just saying, assume you have a system--
+and this is actually what the optical parametric oscillator
+does is you pump it with photons at 2 omega 0.
+And then, the crystal generates two photons
+at omega 0, which, of course, is consistent with energy
+conservation.
+And if you fulfill some phase matching condition,
+it's also consistent with momentum conservation.
+But I don't want to go into phase matching at this point.
+
+Technically, this is done as simple as that.
+You have to pick the right crystal.
+Actually, a crystal which does mix mixing between three photon
+fields cannot have inversion symmetry.
+Otherwise, this non-linear term is zero.
+But what you need is a special crystal,
+KDP is a common choice.
+And this crystal will now do for us the following.
+
+You shine a laser light, let's say, at 532 nanometer,
+a green light.
+And then this photon breaks up into two photons of omega 0.
+And this is how it's done in the laboratory.
+And the piece of art is you have to pick the right crystal.
+It has to be cut at the right angle.
+You may have to heat it and make sure
+that you select the same picture for which
+some form of resonant condition is fulfilled to do that.
+But in essence, that's what you do-- one laser beam
+put in a crystal and then the fourth
+is broke into two equal parts.
+And these are our two photons at omega 0.
+
+OK, so we can bypass-- I hope you enjoy the elegance.
+We can completely bypass all the material physics
+by putting operators on it.
+We call this mode B and we call this mode A.
+So the whole parametric process, the down conversion process
+of one photon into two, is now described
+by the following Hamiltonian.
+We destroy a photon in mode B at 2 omega 0.
+And now, we create two photons-- we
+destroy a photon at 2 omega 0, create two photons at omega 0.
+And since the Hamiltonian has to be Hermitian,
+the opposite, the time reverse process,
+has to be possible too.
+And that means we destroy two photons at omega 0
+and create one photon at 2 omega 0.
+
+So now, we forget about non-linear crystals,
+about non-inversion symmetry and materials.
+We just take this Hamiltonian and play with it.
+So this is how we now discuss-- we [INAUDIBLE]
+can discuss, by simply looking at the Hamiltonian, what
+is a time evolution of a photon field under this Hamiltonian?
+We figure out what happens when you send light for crystal
+and what is the output.
+And I want to show you now that the output of that
+is squeezed light, which is exactly what I promised you
+with these quasi-probabilities.
+We have a coherent state, which is a nice circle.
+We time evolve the coherent state of a nice round
+circle with this Hamiltonian.
+And what we get is an ellipse.
+
+And if you want intuition, look at the classical example
+we did before which really tells you,
+in a more intuitive way, what is happening.
+OK, but we want to make one simplifying assumption here.
+And this is that we pump the crystal at 2 omega
+0 with a strong laser beam.
+So we assume that the mode B is a powerful laser
+beam or, in other words, a strong coherent state.
+So we assume that the mode B is in a coherent state described
+by-- coherent states are obviously
+labeled with a complex parameter which I call beta now.
+Well, it's mode B. Therefore, I call it beta.
+For more A, I've called it alpha.
+And the coherent state has an amplitude, which I call over 2.
+And it has a phase.
+We know, of course, that the operator B acting on beta
+gives us beta times beta because a coherent state is
+an eigenstate of the annihilation operator.
+And this is now-- but when we look
+at the action of the operator B plus the photon creation
+operator, well, you know, the coherent state
+is not an eigenstate of the creation operator.
+It's only an eigenstate of the annihilation operator.
+But what sort of happens is the coherent state
+is a sum over many, many number of states with n.
+And the creation operator goes from n to n plus 1
+and has matrix elements which are square root n plus 1.
+So in other words, if n is large and if we
+don't care about the subtle difference between n
+and 1 plus 1, in this limit, the coherent state
+is also an eigenstate of the creation operator
+with an eigenvalue which is beta star.
+So this means that we have a coherent state which is strong.
+Strong means it has a large amplitude
+of the electric field.
+Then, the photon states which are involved n are large
+and we don't care whether we have n or n plus 1.
+This is actually also, I should mention it here explicitly,
+this is sort of the step when we have a quantum
+description of light and we replace the operators B and B
+dega by a C number.
+Then, we really go back to classical physics.
+Then, we pretend that we have a classical electric field which
+is described by the imaginary part of beta.
+So when you have an Hamiltonian where you write down
+an electric field and the electric field
+is not changing-- you have an external electric field--
+this is really the limit of a quantum field
+where you've eliminated the operator by a C number.
+And this is essentially your electric field.
+And we do this approximation here.
+Because we are interested in the quantum features of mode A,
+A is our quantom mode with single photons
+or with a vacuum state and we want to squeeze it.
+B is just the [INAUDIBLE] parametric [? drive. ?]
+So with this approximation, we have only the A operators.
+So this is our operator.
+So--
+[INAUDIBLE]
+So [INAUDIBLE] your question?
+Beta [? wouldn't give ?] us a beta star, right?
+
+Yes, thank you.
+That means [? it ?] should be a minus sign, yes.
+So, I've motivated our discussion
+with non-linear crystal, which generates pair of photons.
+This is the Hamiltonian which describes it.
+And if you want to have a time evolution by this Hamiltonian,
+you put this Hamiltonian into a time evolution operator.
+In other words, e to the minus iht is the time evolution.
+So if we now evolve a quantum state of light for a fixed time
+t, we apply the operator to the minus iht
+to the quantum state of light.
+So, what I've just said is now the motivation
+for a definition of this-- the definition
+of the squeezing operator.
+The squeezing operator s of r is defined
+to be the exponent of minus r over 2 a squared
+minus a [? dega ?] squared.
+So this is related to the discussion above.
+You would say, hey, you wanted that time evolution.
+Where is the i?
+Well, I've just made a choice of phi.
+If phi is chosen to be pi over 2,
+then the time evolution with the Hamiltonian
+above gives me the squeezing operator below.
+So with that motivation, we are now
+studying what is the squeezing operator doing
+to quantum states of light.
+
+Any questions about that?
+I know I spent a lot of time on it.
+I could have taught this class by just saying, here
+is an operator, the squeezing operator.
+Trust me, it does wonderful things.
+And then we can work out everything.
+But I find this unsatisfying, so I
+wanted to show you what is really behind this operator
+and I wanted you to have a feeling
+where does this operator come from and what is it doing.
+But in essence, what I've introduced into our description
+is now an operator which is creating and destroying
+pairs of photons.
+And this will do actually wonderful things to our quantum
+seats.
+So, what are the properties of the squeezing operator?
+Well, what is important is it is unitary.
+It has a unitary time evolution.
+You may not see that immediately, so
+let me explain that.
+You know from your basic quantum mechanics course
+that e to the i operator a is unitary when a is Hermitian.
+So the squeezing operator with the definition
+above can be written as I factor out two i's over 2
+a squared minus a [? dega ?] squared.
+And you can immediately verify that this part here
+is Hermitian.
+If you do the Hermitian, you get a square
+turns into a [? dega ?] squared. a [? dega ?] squared turns
+into a square.
+So we have a problem with a minus sign.
+But if you do the complex conjugate of i,
+this takes care of the minus sign.
+So this part is Hermitian.
+We multiply it with i.
+Therefore, this whole operator does a unitary transformation

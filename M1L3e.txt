@@ -1,0 +1,155 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 146 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+If you just want to think about it intuitively,
+alpha is like the best description
+of an electromagnetic field.
+So if you write down this, we ask,
+what is the probability for an arbitrary quantum state
+described by an arbitrary statistical operator?
+What is the probability that the electric field is alpha
+in the complex description?
+So that's what those quasi probabilities are, q of alpha.
+And we immediately looked at some examples, of course,
+of probabilities.
+We showed that the vacuum state is sort of an area,
+it's a Gaussian, and the area is-- I don't know,
+I forgot the prefect are.
+It's on the order of one or one half.
+We realize that thermal states are also a Gaussian, singled
+at the origin.
+It is a much wider distribution so thermal states
+have much more uncertainty in the electric field
+than the vacuum state.
+And then we looked at the coherent state
+and now, of course, when we looked at the coherent state,
+we realize that coherent states have a maybe not as wonderful
+as I try to make you believe.
+They have some nasty properties and that
+is when you ask, what is the probability,
+the cause of probability of the coherent state to be beta?
+Now if you would expect a delta function because when you ask,
+what is the probability of a momentum state to be p naught?
+If you have a momentum state p naught,
+it has a delta function at p naught.
+But here it's not a delta function,
+it's a Gaussian of standard deviation.
+I think the standard deviation here is-- what is it?
+1 over square root 2?
+Because the Gaussian has usually 2 times sigma squared
+and since the denominator is unity,
+so the standard deviation of 1 over square root 2.
+And that showed us that the coherent states are not
+orthogonal.
+You have to be a little bit careful,
+it's not your standard basis set.
+It's an over complete basis.
+
+So therefore, the coherent state is not
+a delta function in the course of probability,
+it's a little bit blurred circle with an area
+on the order of unity.
+
+You have some homework assignment to look at it.
+So in some way, how you should look at
+it is that if you see some quasi probability distribution,
+the distance from the origin-- this
+is the absolute value of the electric field.
+The phase here is almost 45 degrees,
+but if you look at this uncertainty,
+you would also say, well, the phase is uncertain to
+within this angle.
+So you can pretty much read the uncertainty
+in the total electric field, the uncertainty in the phase,
+you can read pretty much everything
+you want from this diagram.
+
+Now when we look at a number state,
+[INAUDIBLE] off know in quantum mechanics,
+number and phase are complementarity.
+If the number of photons is fixed,
+you know nothing about the phase.
+And indeed, the cause of probability of a number state
+is rim.
+It has no phase.
+It has completely random phase over the 2 pi circle.
+The energy is sharp of a number state
+since the energy is e squared.
+You may have expected a delta function in the radial called
+in it, but what you get is also something
+blurred on the order of unity.
+And I want to say something about that in a second.
+Finally, we discussed the time dependence and the time
+dependence is very easy.
+After all, we're dealing with an harmonic oscillator.
+And in an harmonic oscillator, if you
+have a plane of x and p, symmetric and anti-symmetric
+combination of a and a [? daga ?] in this plane,
+in a harmonic oscillator, the quantum state
+is just rotating-- circular notation with omega.
+And, indeed, we showed that when we apply the time evolution
+operator-- and some of you replied,
+of course, with a minus sign, it moves
+with e to the minus i omega t and, therefore, everything
+rotates in a clockwise way.
+
+Now we discussed the operator of the electric field
+and in this quasi probability-- sorry, we
+discussed the operator of the electric field
+and I hope you'll remember that in the analogy
+with the harmonic oscillator, the electric field was
+a minus a [? daga ?] and this is the momentum operator.
+In those quasi probabilities-- and we will see more about it--
+something which is sharp in momentum
+is a sliver parallel to the x-axis.
+So therefore, you can regard the vertical axis,
+which is an imaginary part of alpha,
+as the momentum axis and you can regard
+this a the horizontal axis as the x-axis.
+So therefore, since momentum is electric field,
+you always get the electric field
+by projecting onto the vertical axis.
+And if you put check this fuzzy ball,
+you get a value 0 with some uncertainty.
+And if this quasi probability starts
+to rotate due to the time evolution,
+we get an oscillating electromagnetic field,
+almost classical, except for the fuzziness.
+
+So that's where we want to continue.
+Any questions about that?
+Yes?
+Why's there no phase fuzziness in the [INAUDIBLE]?
+
+No phase fuzziness-- there is a phase fuzziness.
+For instance, if you would say the phase is determined
+by this 0 crossing, you don't know
+exactly when the 0 crossing happened
+and that corresponds to an uncertainty in the phase.
+Trust me, everything is in this diagram.
+Now there are two things we want to continue.
+One is I want to show you that the coherent state is
+a minimum uncertainty state.
+The product of delta x delta p, delta p is just--
+is it h bar or h bar over 2?
+One of the two?
+So it's a minimum uncertainty state
+and, therefore, you can never have
+a quantum state which is less fussy than the coherent state.
+So this fuzziness here is the intrinsic uncertainty
+of quantum physics so that's what you want to discuss today.
+But then we will immediately start with non-classical states
+and that is, well, if this area is determined
+by Heisenberg's uncertainty relation, what can we
+maybe deform the circle into an ellipse,
+and these are three states of light.
+So that's an outlook.
+That's what you're going to do in the second half

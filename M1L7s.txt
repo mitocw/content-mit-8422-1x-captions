@@ -1,0 +1,155 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7s.txt
+#
+# Captions for 8.422x module
+#
+# This file has 146 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK.
+The last example is the squeezed light interferometer.
+I just want to mention it briefly
+because we've talked so much about squeezed light.
+So now I want to show you that squeezed light can also
+be used to realize Heisenberg limited interferometry.
+So the idea is when we plot the electric field versus time,
+and if we do squeezing in one quadrature,
+then for certain times, the electric field
+has lower noise and higher noise.
+We discussed that.
+And the idea is that if there is no noise at the zero crossing,
+that this means we can determine the zero crossing of the light,
+and therefore, a phase shift with higher accuracy.
+You may also argue if you have these quasi-probabilities,
+and with squeezing, we have squeezed the coherent light
+into an ellipse and things propagate with e
+to the i omega t, then you can determine a phase shift, which
+is sort of an angular sector in this diagram,
+with higher precision if you have squeezed the circle
+into an ellipse like that.
+So that's the idea.
+And well, it's fairly clear that squeezing, if done correctly,
+can provide a better phase measurement.
+And what I want to show you here in a few minutes
+is how you can think about it.
+So we have discussed at lengths the optical interferometer,
+where we have just a coherent state at the input.
+This is your standard laser interferometer.
+But of course, very importantly, the second input part
+has the vacuum state.
+And we discussed the importance of that.
+So the one difference we want to do now
+is that we replace the vacuum at the second input
+by the squeezed vacuum, where r is the parameter
+of the squeezed vacuum.
+
+OK.
+So that's pretty much what we do.
+We take the state, we plug it into our equation,
+we use exactly the same formulas we
+have used for coherent states, and the question,
+what is the result?
+Well, the result will be that the squeezing factor appears.
+Just as a reminder, for our interferometer,
+we derived the sensitivity of the interferometer.
+We had the quantities x and y.
+And the noise is delta in this y operator squared divided by x.
+This was the result when we operate the interferometer
+at a phase shift of 90 degrees.
+Just a reminder.
+That's what we have done.
+That's how we analyze the situation
+with the coherent state.
+The signal x is the number measurement, a dagger a.
+And we have now the input of the coherent state and b dagger b.
+We have an input mode a and a mode b.
+They get split and then we measure at the output.
+And we can now, at the output, have photons a dagger a which
+come from the coherent state, and b dagger b which
+come from the squeezed vacuum.
+So this is now using the beamsplitter formalism
+applied to the interferometer.
+So this is now the result we obtain.
+And in the strong local oscillator approximation,
+it is only the first part which contributes.
+And this is simply the number of photons in the coherent beam.
+The expectation value of y is 0 because it involves
+the b and b dagger operator.
+And the squeezed vacuum has only--
+if you write it down in the n basis, in the Fock state basis,
+has only even n.
+So if you change n by 1, you lose
+overlap with the squeezed vacuum.
+So therefore, this expectation value is 0.
+For the operator y is squared, you take this and square it.
+And you get many, many terms, which I don't want to discuss.
+I use the strong local oscillator limit
+that a dagger and a can be replaced
+by the eigenvalue alpha of the coherent state.
+So therefore, I factor out alpha squared
+in the strong local oscillator limit.
+And then what is left is b plus b dagger squared.
+And since we have squeezed the vacuum,
+this gives us a factor e to the minus r.
+So if we put all those results together,
+we find that the phase uncertainty is now
+what we obtained when we had a coherent state
+with the ordinary vacuum.
+And in the strong local oscillator limit,
+the only difference to the ordinary vacuum
+is that in this term, we've got the exponential factor e
+to the minus r.
+And since we have taken a square root, it's e to the minus r/2.
+So that result would actually suggest
+that the more we squeeze, that delta phi should go to 0.
+So it seems even better than the Heisenberg limit.
+
+However, well, this is to good to be true.
+What I've neglected here is the following.
+When you squeeze more and more, the more you
+squeeze the vacuum, the more photons
+are in the squeezed vacuum, because this ellipse stretches
+further and further out, and does overlap with Fock
+states at higher and higher photon number.
+So therefore, when you go to the limit of infinite squeezing,
+you squeeze out of the limit where you can regard
+the local oscillator as strong.
+Because the squeezed vacuum has more photons
+than your local oscillator.
+And then you have to consider additional terms.
+So let me just write that down.
+However, the squeezed vacuum has non-zero average photon number.
+And the photon number of the squeezed vacuum
+is, of course, apply b dagger b to the squeezed vacuum.
+This gives us a sinht function.
+And we can call this the number of photons
+in the squeezed vacuum.
+So we have to consider now this contribution to y square.
+So we have to consider the quadrature
+of the ellipse, the long part of the ellipse,
+the non-squeezed quadrature component.
+And we have to consider that when
+we calculate the expectation value of y square.
+And then we find additional terms, which
+I don't want to derive here.
+And the question is then, if you squeeze too much, we lose.
+So there's an optimal amount of squeezing.
+And for this optimal amount of squeezing,
+the phase uncertainty becomes approximately 1
+over the number of photons in the coherent state
+plus the number of photons in your squeezed vacuum.
+So this is, again, very close to the Heisenberg limit.
+So the situation with squeezed light
+is less elegant, because if you squeeze too much,
+you have to consider additional terms.
+This is why I gave you the example of the squeezed light
+and the squeezed vacuum as the last.
+But again, the Heisenberg limit is really fundamental,
+as we discussed.
+And for an optimum arrangement of the squeezing,
+you can also use a squeezed vacuum input
+to the interferometer to realize the Heisenberg limit.
+Any questions?

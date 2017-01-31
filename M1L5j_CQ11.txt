@@ -1,0 +1,16 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5j_CQ11.txt
+#
+# Captions for 8.422x module
+#
+# This file has 7 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, now the obvious next question,
+but I think I've given you the answer,
+is what happens when you-- we now measure the difference
+I1 minus I2?
+Again, without squeezing, the variance must end.

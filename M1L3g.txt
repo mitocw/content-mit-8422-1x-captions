@@ -1,0 +1,341 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 332 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I promised you, and this is what we
+want to do now, is we want to understand,
+in more depth, the fluctuations.
+And in particular, I want to show you
+that coherent states are minimum uncertainty states.
+
+So by identifying the vertical axis with p,
+the horizontal axis with x, we immediately
+expect that we find a result related to the Heisenberg
+Uncertainty Principle, which says that the width in p
+and the width in q has to be larger than h bar over 2.
+And we are mainly talking, with light,
+about the photon creation and annihilation operator,
+but just as a reminder, the momentum and position operator,
+symmetric and antisymmetric combinations--
+so let me just call those prefectors q0 and this one p0.
+
+We can then immediately, by just using elementary commutator,
+calculate what are the expectation
+values in a coherent state for p, p squared, q, and q squared.
+For p, it is-- the p operator is a dagger on minus a.
+If we act with a on alpha, we get alpha,
+because alpha-- the coherent state--
+is an eigenstate of alpha.
+With a dagger-- well, with a dagger,
+we act on the left hand side, and we get alpha star.
+Well, with p squared and q squared,
+you have to use one or two more steps
+to get rid of the products.
+But ultimately, you can express all of it
+just in powers of alpha, alpha square, alpha star, and such.
+So what we want is, we want to find out
+what are the fluctuations delta q, delta p.
+Just a reminder, delta q squared is
+of course q squared average minus q average squared.
+And q squared average and q squared is
+what we have just calculated.
+So-- actually, let me leave it in as a reminder for you.
+q squared minus q average squared--
+the square root of it.
+And what we find is that it's square root h bar over 2 omega.
+And for delta p, it is square root h bar over omega 2.
+And what we verify that, indeed, for a coherent state,
+the product of the two is Heisenberg uncertainty limit.
+So therefore, coherent states-- minimum uncertainty states.
+
+And maybe, Colin, to address your question,
+I could imagine that coherent states were maybe
+invented by simply saying, we have an harmonic oscillator.
+We want to find the minimum uncertainty states.
+The minimum uncertainty states for which
+the uncertainty in x and p, when expressed in natural units,
+is the same.
+In other words, the coherent state
+is the solution to the following question--
+if you plot the quasi-probability distribution,
+you give yourself an uncertainty area.
+One horizontal uncertainty is delta q.
+
+The vertical uncertainty is delta p.
+And the minimum uncertainty state
+means that the area of the two uncertainties--
+the area of the shaded region delta p times delta q--
+is h bar over 2.
+Or, if I want to re-write that in the real part of alpha,
+times the uncertainty in the imaginary part of alpha,
+for the quasi-probabilities, then this is 1/4.
+OK, we have learned about one way
+to characterize uncertainties-- the quantumness
+of the electromagnetic field-- by looking at the uncertainties
+in the x and p variable.
+And that led us to minimum uncertainty states.
+Now, I want to now introduce to you
+two other ways of characterizing the uncertainty of quantum
+states of light.
+One is, we can ask what are the fluctuations in the photon
+number?
+Right now, we have asked, what are the fluctuations
+in the electric field?
+But the next question is, what are the fluctuations
+in the photon number?
+
+Or we can ask, what are fluctuations
+in the intensity when we measure the intensity
+of the electromagnetic field?
+So lets do that.
+The fluctuations of the intensity
+are usually expressed by the second order temporal coherence
+function.
+And that's what we want to introduce now.
+
+This is the second order temporal correlation
+or coherence function.
+What I'm always encountering in this course is,
+I would just like to immediately tell you
+how it is defined in terms of a's and a daggers.
+It's simple, it's quantum mechanical, it's exact.
+But I always feel that if you want to really appreciate
+the quantum character, you have to know
+the classical description first.
+So I want to first tell you what is a second order coherence
+function for classical light, which
+has a classical description.
+And then you'll see what is the difference
+for quantum states of light.
+
+So the classical description is, you
+measure the intensity of light-- well, you're just sitting here.
+You perceive light from a light bulb.
+You measure the intensity at time t.
+You measure the intensity at time tau, later.
+And then you form the product, and you normalize it
+by the average intensity squared.
+
+So if tau equals 0, it's nothing else
+than the intensity squared average,
+divided by the average of the intensity squared.
+
+So this is the classical definition, g2 of tau.
+And I've left the proof to the homework
+to show that the classical g2 of tau is always larger than one.
+Well, pretty much what you show is for tau equals 0,
+it means i squared average is larger
+than i average squared, which is of course always the case.
+But you can show that this is also the case for finite tau.
+So quantum mechanically, we will see that the g2 function is not
+necessarily larger than one.
+It can be smaller than 1.
+And that's actually an interesting, you could say,
+litmus test for the quantumness if you generate
+states of the electromagnetic field-- Fock
+states, photon number states, we'll see that in a moment--
+and they have a g2 of tau which is smaller than 1.
+You know it is not possible in any way
+to associate an intensity-- an intensity
+of the electromagnetic field-- with that photon state,
+because whenever you can associate a classical intensity
+with that, and use a classical intensity to calculate
+the second order correlation function,
+you get something which is larger than 1.
+So often therefore, again, when people
+want to show we really have now non-classical photon states,
+they show that g2 of tau is smaller than 1.
+This is similar to what I said before, when
+you want to show that you have non-classical light,
+you do quantum state tomography, measure the Wigner
+Distribution, and show that the Wigner Distribution has
+negative quasi-probabilities.
+That's, again, something which is classically not
+possible-- it's only possible if you have a truly
+non-classical state.
+Yeah?
+So in the definition of g2 classical,
+the expectations values are averaging over time, not
+over ensembles of i of t?
+Ah, OK.
+Yeah, you can average over ensemble,
+so you can have 1,000 light bulbs, switch them all on,
+and then measure, at a certain time, that.
+But what we assume here is that the light bulb is
+on continuously, so things don't really depend on t.
+So you can set-- I mean, I've implicitly
+taken care of by defining the g2 function only of tau, and not
+of t and tau.
+You assume any time is the same, because it's a distribution.
+It's an ensemble in steady state.
+But, I mean, it's sort of the same story again and again.
+In classical physics, you can determine an ensemble average
+by taking a [INAUDIBLE] system, and observing it
+at many, many times.
+And then the idea is that one system, as time goes by,
+will sample all possible states.
+Or, you can prepare many, many identical systems,
+and do more of what is an ensemble average.
+So in other words, you would actually
+think, if you switch on a light bulb with a stable power
+supply, that the light emitted by the light bulb
+will go through all the possible quantum states as time evolves.
+And therefore, the temporal average
+is equal to the ensemble average.
+So how do we generalize that to quantum mechanics?
+Well, one possibility would be that-- OK, first of all,
+for quantum mechanics, we have to use operators.
+And one choice would be that, well, you
+say the intensity of the electromagnetic wave
+is proportional to the electric field squared,
+and you want to use the operator for the electric field squared.
+Now, there is a little bit of a problem,
+because what we really mean quantum mechanically
+by g2 of tau is we measure the intensity now,
+and a little bit later.
+But measuring the intensity really means absorbing photons,
+because the only way you can measure the intensity of light
+is with a photo multiplier.
+It makes click, the photon is absorbed.
+And this is not fully described by the electric field.
+Just as soon as you have no photon,
+you are in the zero point state of your harmonic oscillator,
+and your e squared has zero point fluctuations.
+So what is more closely related to an experiment, how
+you measure the correlation function is
+you want to look at something else--
+namely, at the probability of absorbing two photons.
+So you start with an initial state.
+You annihilate two photons, and then you have a final state.
+But if you are only interested in what
+is the probability you want to characterize
+your initial state, you may want to sum over all final states.
+And this is your total probability
+that you can absorb two photons out of an initial state.
+But since you sum now over all final states,
+this turns into-- now I could put for you in, as
+in the final state as a complete basis.
+But I can also take it out, so this is what we get.
+So this suggests that experiments
+where we look at two subsequent clicks of a photomultiplier,
+where we determine the photon correlation,
+that this is measuring a correlation function, which,
+for quantum states of light, should
+be defined as the expectation value of a dagger a dagger a a.
+And now we have to normalize by the probability squared
+of absorbing one photon, which is a dagger a expectation
+value squared.
+I just try to be a little bit sort of too motivated.
+In many, many textbooks, the discussion
+would start with this expression.
+You ask, where does it come from?
+And you realize, yes, for some measurement
+with photo multipliers, that's what you measure.
+But I wanted to show you how it is
+related to the intensity correlation function, defined
+classically.
+Cory?
+But this click is constant in tau, which doesn't really
+make sense intuitively to me.
+Because, at least classically, it
+shouldn't be constant at tau.
+OK.
+That's the next thing I wanted to say,
+is I've swept here-- I mean, I just
+wanted to give you the structure of the operators,
+and not get sort of distracted by discussing time.
+I've dropped the time argument here.
+But the fact is that as long as we limit ourselves
+to a single mode of the electromagnetic field,
+a single harmonic oscillator, things are independent of tau.
+In other words, g2 of tau equals g2 of 0,
+as long as we're dealing with single-mode light.
+You can actually say-- and that sort of tells you
+where the fluctuations come-- if g2 of tau changes,
+it comes because you have several modes
+of the electromagnetic field, which,
+as a function of time, constructively
+and destructively interfere.
+But if you have a single mode, in a single mode-- I mean,
+what is a single mode?
+It's just a sine wave, and nothing
+happens as a function of time.
+It's constant.
+So both modes coincide?
+
+You know, I'm squeezing a textbook of quantum optics
+into two classes.
+And I want to give you sort of the ideas and the concepts.
+What I've sort of mixed up here-- deliberately--
+is I've given you the classical definition of an intensity
+correlation function, which is the famous [INAUDIBLE]
+experiment.
+And if you have correlations as a function of time,
+then I have motivated how this should be defined
+for quantum states of light.
+But when I transition to quantum states of light,
+I decided to deal with only one mode of the light.
+We should now sum over-- I should
+put double or triple indices on all the alphas,
+for polarization, for spatial modes,
+for different frequencies, and we sum over all of them.
+But instead, what I did is I wanted to just show you
+the simple case, and I think you will be thankful
+for that in your homework, that you only
+have to deal with the simple case--
+that you only have to look at a's and a daggers
+in the operator algebra for single mode,
+for a single harmonic oscillator.
+But what we lose, so to speak, here
+is there is nothing interesting going on in time.
+I've already told you that for a single mode, all
+these quasi-probabilities, they just rotate in a circle.
+So the time evolution of the system
+you're describing right now is completely boring.
+It's really a rotation, and if you would rotate your head
+at omega, nothing will happen.
+And this is exactly what you see here.
+So you'll find everything you want for coherence time.
+Coherence time is the time for two modes to get out of phase.
+But if you have one mode, there is no coherence time.
+And when you find, for classical light,
+that the g2 function has a peak which decays with time,
+it takes time for modes to get out of phase.
+But in a single mode picture, this is absent.
+Anyway, what is important now for the discussion of quantum
+character of light is really-- we
+find that in a single mode picture.
+So I want to show you now, or at least give you
+the summary of the results, which
+can be very easily derived-- because the math is very
+simple-- of those operators, that we are now--
+with that definition, we have g2 functions which
+are no longer following the classical constraint
+that g2 has to be larger than 1.
+We find now g2 functions which are smaller than 1.
+And this sort of tells us now, where
+do we find the most non-classical behavior?
+Maybe when g2 of tau is as small as possible.
+
+OK, in your homework you will show immediately
+that the g2 function is related to number fluctuations.
+
+And it's related to an average and n squared average.
+
+Let me just write that down.
+It's independent of tau, and the reason
+is we have now limited ourselves to just one mode
+of the electromagnetic field.
+
+OK, so we are back to-- we started
+with intensity fluctuations, but for a single mode
+of the electromagnetic field, we are back to photon numbers.
+So what we are now expressing with the g2 function
+are, in other words, just fluctuations of photon numbers.

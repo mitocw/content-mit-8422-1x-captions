@@ -1,0 +1,143 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 134 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the question now is how to measure squeezing.
+So the situation we are facing is the following.
+Let's assume we have done a nice squeezing job.
+And that means that we have a sharp value.
+We have created a narrow distribution
+of the cosine omega [? 2 ?] coefficients
+so the cosine omega [? 2 ?] motion is rather sharp.
+But we also know that the electric field itself
+is sharp at this moment.
+But since this ellipse rotates, the electric field
+will have enormous uncertainty a quarter period later.
+So if we want to take advantage that we have squeezed
+the electromagnetic field, there are a couple
+of ideas which we can use.
+One is we could just measure the electric field
+stroboscopically.
+We would just make a set up where
+we look at the system in a [? quantum ?]
+measurement process.
+We only measure the electric field
+when the ellipse is like this or is like this.
+And therefore, we have a sharp value of the electric field.
+
+But instead of doing a stroboscopic measurement,
+we can do something else.
+Remember, we have a distribution of cosine omega t and sine
+omega t, and we have a distribution of coefficient c
+and s.
+And we know we are interested in the cosine omega t.
+So how to pick that out has actually
+been solved in early radios.
+You do a homodyne detection.
+In other words, you take a reference oscillator
+which is strong.
+B of t is B0 times cosine omega 0 plus delta.
+And if you mix-- maybe before I use the word "mixing,"
+I should simply mean multiply.
+If you multiply the two signals, your signal
+you are interested in-- or at least
+you're interested in one component-- you multiply it
+with your huge local oscillator, and then
+you integrate over time.
+Then, of course, when you pick the phase delta to be zero,
+cosine omega t times cosine omega Bt gives cosine
+square omega t.
+It averages to 1/2 so you would time average
+where its cosine omega t times sine omega t averages to zero.
+So for delta equals zero, you project out
+the cosine component.
+And for delta equal to 90 degree,
+you pick out the sine component.
+So, therefore, you can have a measurement.
+It's a phase sensitive measurement
+by multiplying your signal with a local oscillator where
+you are only sensitive to the component you have squeezed.
+And therefore, your measurement uncertainty
+has now been reduced by the squeezing factor.
+
+This only should be the frequency-related one?
+Yes, actually. homodyne means we use the same frequency.
+Heterodyning would mean we use two different frequencies,
+but I'm not talking about that.
+
+So we have to use exactly the same frequency here.
+So it means that this reference oscillator, you'd also
+use a laser to [? mix it? ?]
+Yes.
+So to address your question, [INAUDIBLE],
+what usually happens is you start with one laser
+in those experiments.
+You frequency double the laser.
+
+If you wanted to do some squeezing,
+you remember that we need a parametric oscillator
+where one energetic photon gives us two photons.
+So what you do is you start with a laser.
+Often it's a YAG laser at 1,064 nanometers.
+You frequency double it to a green laser.
+The green laser pumps your parametric oscillator.
+And then you get-- through down conversion,
+you get squeezed light at 1,064.
+But this is because you first doubled the laser,
+and then you break the photon into two pieces.
+It has exactly the same frequency as your laser
+you started with.
+And this laser is then the local oscillator
+or the reference clock for your whole experiment.
+So everything in your experiment--
+the doubled laser, the parametrically down-converted
+beams-- everything is related to the single,
+one laser you started with, and everything is phase coherent.
+So that's how usually the experiment is done.
+
+Before I tell you what we're doing quantum mechanically,
+let me just also get another question
+out of the system, which I've been asked several times.
+People ask me, well, the problem is that the ellipse rotates
+like this.
+Isn't there a way-- now I need my hand--
+that we can have an ellipse rotating like this.
+That would be great, but this is sort of unnatural
+because the harmonic oscillator does that.
+So if you wanted to do that, you need
+an operator, which is really-- at every cycle
+of the electromagnetic field is when the light wants
+to do this-- no.
+Always push it back.
+And this is impractical.
+You need really an oscillator, which would completely
+change the quadrature components of your harmonic oscillator
+in every single cycle of the electromagnetic field.
+But what homodyne detection is, instead
+of now forcing the light to stay aligned, to sort of do
+this, which is very unnatural, we
+allow the light to freely evolve.
+But we have now an observer, our local oscillator,
+which is rotating synchronously with the ellipse.
+So we have a local oscillator, which is cosine omega t.
+It does, so to speak, exactly what the ellipse is doing.
+So in that sense, the local oscillator
+allows us now to observe the ellipse always
+from it's narrow side because the local oscillator is
+co-rotating.
+But the mathematics is pretty much the Fourier transform.
+The mathematics is the Fourier transform.
+The physics is the physics of a [? login ?] detector.
+OK, now the only question that remains is how do we mix?
+How do we get a product of our signal
+and the strong local oscillator?
+In an old radio, it's done by an element, maybe a diode,
+which has a nonlinear circuit.
+If you drive a nonlinear element with two input sources,

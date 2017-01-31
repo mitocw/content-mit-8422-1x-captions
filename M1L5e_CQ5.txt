@@ -1,0 +1,20 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5e_CQ5.txt
+#
+# Captions for 8.422x module
+#
+# This file has 11 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, so now the next question is-- again,
+just to make sure you have the same basis, what
+is now the variance?
+If I measure the fluctuating current-- I
+measure the current, I have a coherent state,
+and I repeatedly measure the current,
+it will show fluctuations.
+And the question is what is not the standard deviation
+of the current, what is the variance, which is

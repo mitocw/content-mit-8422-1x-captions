@@ -1,0 +1,69 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4k.txt
+#
+# Captions for 8.422x module
+#
+# This file has 60 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So what I've just told you has traumatic consequences for any
+form of non-classical or [? squeezed ?] [? slide. ?] And
+that's the following.
+Most of you are experimentalists,
+and you know that when you run a laser at one or two watt,
+you send it through optics, and shudders, and optical fibers.
+How much do you get at the end of your experiment?
+Not even 50%.
+So whenever you create light and then you want to do something,
+you lose some of the light.
+And let's now assume that you have done what was really
+been a breakthrough in scientific headlines
+within your lifetime.
+You have generated squeezed light.
+And now you want to use the squeezed light,
+shine it on atoms, and do a precision measurement, which
+is better than [? understand that ?]
+quantum limit because you have squeezed the ellipse,
+and you want to now exploit the sharpness of the ellipse.
+What happens to your aspect ratio of the ellipse
+when your beam is attenuated?
+So let me just discuss it with you graphically.
+So let's assume we have a squeezed state
+and we send it through an optical fiber.
+The result is you will never send the squeezed state
+through an optical fiber, but I want you to realize it.
+So let's assume we have our squeeze state, symbolized
+by that.
+And now in the time evolution, we
+have some Rayleigh scattering.
+Some fiber absorption.
+But you know already the absorption
+is, in reality, a beam splitter, which [? couples ?]
+in the vacuum.
+So we have now some finite transmission coefficient.
+And that would mean-- which is the bad news--
+that your ellipse gets shrunk.
+It shrinks by the transmission factor, T. That's already bad.
+You lose some of your power.
+But the really big thing is that with [INAUDIBLE]
+and multiply it with the reflection coefficient,
+you couple in the vacuum.
+Oops, I want to change to red.
+And as a result, since the noise in the vacuum
+is equal in both quadrature components,
+you've worked so hard to squeeze it, to make asymmetric.
+But what you get now is-- well, from your ellipse,
+you get something which is much more egg shape now.
+So in other words, you can write it down with operators.
+But once you understand what is going on,
+you immediately realize that losses reduce the squeezing.
+And this is a challenge to all experiments using squeezed
+or non-classical light.
+And you see how the scaling works.
+If you have squeezed your ellipse by a factor of 100,
+even 1% of the vacuum will spoil your squeezing.
+So the more you have squeezed, the more
+non-classical the light is, the more valuable it is,

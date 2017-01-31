@@ -1,0 +1,71 @@
+#
+# File:   content-mit-8422-1x-captions/M1L1h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 62 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+But finally, if you pulse on an optical standing wave
+and your object are not individual atoms,
+noninteracting atoms, your object
+is the Bose-Einstein condensate or atoms which strongly
+interact, then you're not transferring
+recoil to individual atoms.
+You are transferring momentum to a complicated many-body system.
+This means what we are measuring is the dynamic structure
+factor.
+
+If you have atoms, you want to do spectroscopy.
+You want to know what energy levels are there,
+and then you know your atom.
+If you have a strongly interacting system,
+you also want to know what energy levels are there.
+But each energy level in a homogeneous system
+or in a periodic potential is associated with momentum
+and quasimomentum.
+So in other words, if you have a more complicated system,
+you want to figure out what are the possible states in terms
+of momentum and energy.
+And the optical standing wave, the pulsed optical standing
+wave, is the way how we impart momentum and energy
+to a system.
+What I actually just told you is a story
+in my own research career.
+I was a post-doc with Dave Pritchard.
+He had trained at MIT in the '90s
+by a pioneer in laser cooling.
+And then we had Bose-Einstein condensates
+in the late '90s, Professor Pritchard and myself,
+we teamed up.
+I was the expert on Bose-Einstein condensation.
+He was the expert on atom interferometry.
+So just by sort of exploring things,
+we took Bose-Einstein condensates,
+and we pulsed on the standing wave.
+What was on our mind was, hey, let's build an interferometer.
+But I'm more the many-body physics person.
+I suddenly said, yes, but if we now
+change the momentum and the frequency of this standing
+wave, what happens?
+And I suddenly realized that this
+is a way to measure properties of a Bose-Einstein condensate
+in a way which hadn't been done before.
+So I realized, since this is maybe
+the last thing I want to tell you today--
+I realized sort of in my own research and my collaboration
+with Dave Pritchard that we had build an experiment,
+and we just turned one knob at our experiment.
+And the following day, we were no longer
+doing atom interferometry.
+We were doing many-body physics.
+So this is, I think, what makes our field exciting.
+We are using the tools, the precision, and the control
+of a atomic physics, which leads to the most
+accurate atomic clocks in the world--
+atomic clocks, which are the most accurate in the world.
+And we are using those tools to do entanglement and many-body
+physics.

@@ -1,0 +1,250 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 241 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The last thing in this major section
+is the famous Hanbury Brown-Twiss experiment.
+This was a landmark experiment done in the 1950s
+and it was the first experiment which really looked
+at G2 functions, correlations, which one could see
+was the beginning of quantum optics
+and modern experiments with light.
+Probably until then, light was just an electromagnetic wave
+people regarded as boring.
+But by measuring now correlations,
+people realized that it's an interesting object to study.
+I want to just go over the basic scheme.
+You'll look at it a little bit more
+closely in your homework assignment.
+So the idea behind the Hanbury Brown-Twiss experiment
+is that you have a light source and you
+want to characterize it.
+So the light source emits light.
+And now this is important.
+Whenever you want to detect two photons,
+you want to figure out, is one photon
+followed by another photon?
+Technically, you cannot do it with a photon multiplier
+because when a photon multiplier clicks, it needs many,
+many nanoseconds for the photon multiplier to read out
+the signal and recover to recharge up its electrodes
+and be ready to take the next photon.
+So therefore, when you want to find click click, double clicks
+in the stream of light, you have to involve a beam splitter
+and involve two photodetectors.
+Sure, you now need an adequate description.
+But in principle, you can now find two photons
+which are only a few picoseconds apart because the first photon
+is observed by the first detector
+and the second photon is detected
+by the second detector.
+Sure, you would see what happens if in the beam splitter,
+both photons go detector one.
+Well, that's tough luck.
+That's one-- you take one chance in two
+that the photons, the two photons
+go to two different detectors.
+But the beam splitter has to be part of your experiment,
+has to become part of your description.
+And this is what you do in homework number one.
+So, what we are asking here when we measure the G2 function--
+let's assume that tau equals 0.
+We are reading out a signal and what we are using
+is a coincidence detector.
+We are looking there in a very small temporal window,
+two photons are detected simultaneously.
+Well, this is the quantum version.
+The classical version is that the G2 function
+is the product of the intensity at times
+t times the product of the intensity at time t plus tau.
+So what you would do here in this circuit,
+you would take the signal from this detector,
+the signal from that, and multiply the two.
+This is how you determine i of t times i of t plus tau.
+So whether you do it in the classical domain
+or whether you do it in the quantum domain,
+this is the way how you experimentally
+measure the second order correlation function.
+In the classical limit, you don't have to worry about it.
+The classical limit is always the limit of high intensity.
+So at any given time, you have a ton of photons.
+And then at beam splitter, half of the photons go left,
+half of the photons go right.
+You have an equal splitting.
+You have exactly half the intensity
+in the left arm and the height arm after the beam splitter.
+So there is no problem at all with the quantization
+because this is the classical limit.
+So classically, you can say-- actually,
+I shouldn't say photon.
+I should actually say intensity.
+The intensity splits equally.
+
+And if you do the measurement with a coincidence detector,
+you find the difference between the G2 function, which
+I discussed earlier-- the G2 function is
+one for coherent light or laser light and the G2 function
+is two for thermal light.
+That's actually the only way how you can distinguish
+a light bulb from a laser beam.
+If you put a light bulb into a cavity or couple the light
+from a light bulb into a fiber, the light
+becomes spatially a single mode.
+If you put a very narrow spectral filter
+or [INAUDIBLE] cavity, the light becomes single mode
+in frequency domain.
+So when you take a light bulb and spatially and spectrally
+filter you that it is single mode, in terms of the mode,
+it is single mode as a single mode laser.
+But it is a correlation experiment which shows you
+that you started with a thermal source,
+it has a G2 functional of two, and you can never
+get rid of it, whereas the laser beam has a G2 function of one.
+OK, so this is a classical version.
+In the quantum version, especially when
+we have a single photon, the photon
+can go to only one detector.
+And that means for this extreme case of a single photon,
+the G2 function is 0.
+Anyway, you will look at the whole situations in more detail
+in your homework assignment.
+Yes.
+So, if you looked at different [INAUDIBLE]
+in the single mode [INAUDIBLE] final G2 [INAUDIBLE].
+Because [? they're ?] [INAUDIBLE]
+
+A single-- we have to be now a little bit careful.
+If you have a single mode [? flux ?] state,
+there's only one photon.
+And once this photon is detected, we have vacuum.
+We have no photon left.
+So, what may be confusing here on first sight
+is that the way the experiment is done and has
+been historically done, it's not done with [? flux ?] states.
+It's done with a light source and a continuous stream
+of photons.
+So [INAUDIBLE] experiment, he looked at a light bulb
+or he looked at starlight and such
+and determined the intensity correlation.
+He couldn't do the experiment with lasers.
+But now, we do it with a laser beam
+and we find the G2 with one.
+But in those situations, we actually
+do not have the way-- actually, we
+have a beam, which is a stream of photons,
+and this requires a little bit different description.
+In other words, when I have a coherent state,
+a laser beam is always replenishing
+the coherent state.
+The laser beam preserves the electric field
+whereas, strictly speaking, the way how I described it
+for pedagogical reasons is you have a cavity which is filled
+with coherent state alpha.
+And then you start analyzing that.
+But in other words, what we have focused
+in the simple description is that we have a quantum
+state, which is prepared.
+It's a closed system.
+And now we do our detection.
+The experiment, how it is done, is often
+done as an open system where you couple the system
+to a light source which is always
+replenished in your experiment.
+So have to be careful, especially
+with a single photon.
+I think in essence, the experiment
+would be done with a single photon light source,
+but the single photon light source
+has a high repetition rate.
+It's sort of-- I showed you how to generate single photons.
+You have sort of an [? heralded ?] single photon.
+You know the single photon comes now.
+You do the experiment and then you repeat it again.
+And then what you have is you only
+look at one single photon punch at a time.
+And then you find indeed that doing that temporal window,
+you will never find a second photon.
+So this may happen in a few nanoseconds.
+Then, you wait a microsecond and the next photon arrives.
+And it doesn't-- of course, if you would now describe
+your light source, what is the G2 of tau and tau is
+a microsecond and the microsecond is the time between
+the first single photon bursts and the next single photon
+burst, now you will find that your G2 function is not zero.
+But this is unrelated to the repetition rate of a signal
+photon and not to the single photon itself.
+I think you got that taste.
+Your homework is really simple.
+You just deal with a closed system.
+You look at a quantum state at a time.
+But if you map it onto a beam experiment,
+you have to think about it what does it
+mean to have a replenishment of the quantum state?
+Any other question?
+I know I have to stop, but--
+We just [INAUDIBLE] in the beam splitter [INAUDIBLE]
+beam splitter should do some [? stuff, ?] right?
+
+Yes.
+Actually, this will keep us busy for a while,
+[? that ?] even if we do not put in any light,
+we put in the vacuum state.
+And you will find that the description of the beam
+splitter in the quantum picture is incomplete
+unless you specify that your beam
+splitter is coupling in from a different mode-- the vacuum
+state.
+Yes, this will be very important and we'll cover it
+in its full glory. [? Timo? ?]
+I just had a quick question. [INAUDIBLE] the way you can
+distinguish from a thermal state [? and a coherent ?] state is
+[? from ?] the G2 .
+So, from an experimental perspective,
+we do most of our experiments if we just
+had, like, thermal sources that were very single node,
+so to speak?
+Oh, yes.
+[INAUDIBLE]
+All the laser cooling, all the molasses,
+all the absorption imaging-- all of that
+would work if you had a single mode thermal source.
+Lets face it.
+We say we use lasers for everything we are doing,
+but the only property which distinguishes
+a laser from a tehrma.
+Light source, we're not taking advantage of it.
+[INAUDIBLE]
+Of course, practically, if you take a thermal source
+and filter it down to a single mode,
+you will be left with only a few photons.
+You cannot create an intense enough single light source
+unless you use stimulated emission into a single mode,
+and that's a laser.
+[? Colin. ?]
+The correlation function for [INAUDIBLE] LED light,
+that's not really a thermal source as [INAUDIBLE] describe
+[INAUDIBLE] distribution [INAUDIBLE]
+be closer to [INAUDIBLE] like a laser even
+though there is no [INAUDIBLE].
+
+Well, LEDs in some limit are quantum objects.
+So actually, do you know what the G2 function of LED is?
+Does it become laser-like or does
+it become even anti-bunched?
+Because if [? this is ?] a relaxation mechanism-- so
+anyway, what Colin says is there are actually
+more different light sources than just the laser
+and the thermal light source.
+There are LEDs or semiconductor devices
+which provide photons with interesting statistical
+properties.
+I don't know exactly what-- I've heard about it that LED light
+sources have some special properties,
+but I don't remember which is the one.

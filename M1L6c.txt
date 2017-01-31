@@ -1,0 +1,156 @@
+#
+# File:   content-mit-8422-1x-captions/M1L6c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 147 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me illustrate with examples.
+For instance, in the helium atom, you have two electrons.
+And the ground state, if I use spin notation, it's a singlet.
+So does the [INAUDIBLE] of helium
+fulfill our definition of an entangled state?
+
+Well, if you find a way to switch off the Coulomb
+potential and then the electrons separate from each other,
+they still maintain their spin singlet character,
+then you can take them, measure them, take measurements,
+manipulate them.
+But since nobody has come up with a good idea
+how to switch off the Coulomb potential in an atom,
+you can never separate the states.
+And it is physically impossible to address the two electrons,
+see them separately and such.
+So this state is not entangled because the two systems cannot
+be separated.
+
+What is usually a good choice for entanglement,
+and this is why we discuss it here with photons,
+is you have the photon states.
+Photons always fly away.
+Photons are in a certain superposition state.
+You can always separate them and detect them individually.
+So let's assume we have two photons, two modes.
+We have two photons.
+Actually, the two photons can be in one spatial mode.
+But we are now playing with the polarization
+always on the vertical.
+So if we have a state with horizontal/vertical
+polarization, this is a nice entangled state of two photons.
+So what it means is that we have one photon each.
+One is vertical, and one is horizontal.
+But you don't know which one.
+If you would just look at one photon,
+it would be 50% horizontal, 50% vertical.
+It would be completely unpolarized,
+which would be a random state which would require a density
+matrix for its description.
+But if one photon is horizontal, the other one
+is vertical and vice versa.
+So it's a pure state, but all the pureness of the state
+comes from the entanglement and not
+from what one photon does by itself.
+So these are two photons in one mode,
+and they are polarization entangled.
+Or this brings us back to our dual real single photon states.
+We have two photons, two qubits, and each is in two modes.
+So our 0 state-- and just to make sure that you do not
+confuse it with no photon-- our logic 0
+state-- so L means logic here-- is that the photon is
+in the second mode.
+And the 1 state of our logic state
+means that the single photon is in the other mode.
+So we can now have an entangled state, which is now this 01,
+10 state.
+But these are now logic states, which means
+that the 0 has one photon.
+It has a photon in one of the modes,
+and the 1 has the photon in the other mode.
+So each state here has two photons.
+But then the two photons have-- 01 and 10 are switched into two
+parts of the wave function.
+And we actually saw in the last unit
+how a Kerr medium and then interferometer
+can generate this state, so interferometer
+with Kerr medium.
+
+So-- yes?
+[INAUDIBLE]
+
+There are two such states.
+I mean, if you have [INAUDIBLE]--
+I will later tell you what the four famous Bell states are.
+There is one which has a plus sign and one
+which has a minus sign.
+So when we talk about spins in singlet state,
+it's often more natural the minus sign.
+Here what naturally emerged was the plus sign.
+But they are both sort of Bell states.
+And therefore, they have what Einstein, [INAUDIBLE]
+introduced into it.
+So tolerate both signs.
+They are two different states.
+But for the purpose of the common discussion,
+they have the same property.
+They are maximally entangled.
+Other questions?
+OK.
+So let me point out that the properties of entangled state
+always involve two qualities.
+One is the non-local character.
+Because we have correlation between two subsystems, which
+may be together when they interact, but then
+they can be separated.
+So we have correlations which happen between the two systems
+which are a distance apart.
+And we'll later come back when we
+talk about Bell's inequalities that we know that physics
+has non-local aspects.
+And secondly, if you can separate two parts
+and they interact with the environment,
+the environment may interact with them differently
+in those two different parts.
+And therefore, entangled states are always regarded as fragile
+against decoherence.
+And it's a technical challenge.
+How do you find states?
+How do you implement entangled states which are robust?
+Just to give you one example, if have an entangled state which
+is based on electron spin, you may
+be more than a thousand times more sensitive
+to magnetic field fluctuations in your laboratory
+than if you have qubits which contain the states which
+are based on nuclear spin.
+So that's a big research area, to find
+states which are less sensitive or even immune
+against decoherence.
+So I've mentioned to you that entangled states are states
+which you cannot factorize.
+But now we can sort of start playing with that definition.
+And we say, OK, if you have an entangled state which
+is up/down plus down/up, but now the contribution of down/up
+has only a tiny little amplitude.
+So it's almost a pure state which
+can be factorized with a little bit of an extra configuration,
+which prevents us from factorizing that.
+I mean, that doesn't look like good entanglement.
+It looks at the whole entanglement
+of the state depends on a very small admixture to the wave
+function.
+And so what you want to address now
+is, how can we quantify that?
+How can we look at a state and say, hey,
+this is sort of not a strongly entangled state.
+It has only a weak amount of entanglement.
+So let's not forget, entanglement is a resource.
+Entanglement allows you to do teleportation.
+Entanglement allows you to do more precise measurements.
+And what I want to sort of convey you,
+if a state is only weakly entangled,
+it doesn't help you much to achieve precision
+beyond the standard limit-- effective teleportation
+and such things.

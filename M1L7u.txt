@@ -1,0 +1,226 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7u.txt
+#
+# Captions for 8.422x module
+#
+# This file has 217 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK.
+We can get started with a very short chapter, which
+is about g2, the g2 measurement for light and atoms.
+I don't think you're going to find the discussion I'm going
+to present you in any textbook.
+It is about whether g2 is 1 or 2, whether we have fluctuations
+or not.
+And the discussion will be whether g2 of 2 and g2 of 1
+are quantum effect or classical effects.
+So I want to give you, here in this discussion,
+four different derivations of whether g2 is 1 or g2 is 2.
+And they look very, very different.
+Some are based on classical physics.
+Some are based on the concept of interference.
+And some are based on the quantum indistinguishability
+of particles.
+And once you see all those four different explanations,
+I think you see the whole picture,
+and I hope you understand something.
+So again, it's a long story about factors of 2,
+but there are some factors of 2 which are purely calculational,
+and there are other factors of 2 which involve
+a hell of a lot of physics.
+I mean, there are people who say the g2 factor of 2
+is really the difference between ordinary light and laser light.
+For light from a light bulb, g-2 is 2.
+For light from a laser, g2 is 1.
+And this is the only fundamental difference between laser light
+and ordinary light.
+So this factor of 2 is important.
+And I want to, therefore, have this additional discussion
+of the g2 function.
+So let me remind you that g2 of 0
+is the normalized probability to detect two photons, or two
+particles, simultaneously.
+And so far, we have discussed it for light.
+And the results we obtained by using our quantum formulation
+of light with creation-annihilation operator,
+we found that g2 is 2.
+In the situation that we had blackbody radiation, which
+we can call thermal light-- it sometimes
+goes by the name chaotic light.
+Sometimes it's called classic light.
+But that may be a misnomer, because I regard the laser
+beam as a very classical form of light.
+
+This is sometimes called bunching,
+because 2 is larger than 1, so pairs of photons
+appear bunched up.
+You have a higher probability than you would naively
+expect of detecting two photons simultaneously.
+And then we had the situation of laser light and coherent light,
+where the g2 function was 1.
+And I want to shed some light on those two cases.
+We have discussed the extreme case of a single photon, where
+the probability of detecting two photons
+is 0 for trivial reasons.
+So you have a g2 function of 0.
+But this is not what I want to discuss here.
+I want to shed some light on when do we
+get a g2 function of 1, when do we get a g2 function of 2?
+And one question we want to address when we've
+achieved the g2 function of 2, is this
+a classical or quantum effect?
+Do you have an opinion?
+Who thinks-- you have question?
+In the homework problem, where we
+had the linear superposition, like alpha and minus alpha,
+and an alpha and plus alpha, we found
+that one can have a g2 grade and one can have g2 less than 1.
+So maybe g2 isn't a great discriminator of [INAUDIBLE]
+quantum or very classic.
+
+That's all gestalt, ja?
+You may be right.
+It's-- let's come back to that.
+I think that's one opinion.
+The g2 function may not be a discriminator,
+because we can have g2 of 1 and g2 of 2 purely classical.
+But why classical light behaves classically,
+maybe that's what we can understand there.
+And maybe what I want to tell you is that a lot of properties
+of classical light can be traced down
+to the indistinguishability of bosons which are photons.
+So in other words, we shouldn't be surprised
+that something which seems purely classical
+is deeply rooted in quantum physics.
+But I'm ahead of my agenda.
+So let me start now.
+I want to offer you four different views.
+
+And the first one is that we have random intensity
+fluctuations.
+Think of a classical light source.
+And we assume that if things are really random,
+they are described by a Gaussian distribution.
+
+And if you switch on a light bulb, what
+you get if you measure the intensity, when you measure
+what is the probability that the momentary intensity is I,
+well, you have to normalize it with the average intensity.
+But what you get is pretty much an exponential distribution.
+And this exponential distribution
+has a maximum at I equals 0.
+So the most probable intensity of all intensities
+when you switch on a light bulb is
+that you have zero intensity at a given moment.
+But the average intensity is by average.
+So you can easily, for such a distribution,
+for such an exponential distribution,
+figure out what is the average of I to the power n.
+It is related to I average to the power n,
+but it has an n factorial.
+And what is important is the case for our discussion of n
+equals 2, where the square of the intensity
+averaged is 2 times the average intensity squared.
+And classically, g2 is the probability
+of detecting two photons simultaneously,
+which is proportional to I square.
+We have to normalize it, and we normalize it
+by I average square.
+And this gives 2.
+So simply, light with Gaussian fluctuations
+would give rise to a g2 function of 2.
+Since it's random fluctuations, it's also called chaotic light.
+And the physical picture is the following.
+If you detect a photon, the light is fluctuating,
+but whenever you detect the first photon,
+it is more probable that you detect the first photon
+when the intensity happened to be high.
+And then since the intensity is high,
+the probability for the next photon
+is higher than the average probability.
+
+So therefore, you get necessarily a g2 function of 2.
+So this is the physics of it.
+So let me just write that down.
+The first photon is more likely to be
+detected when the intensity fluctuations give
+high intensity.
+And then we get this result.
+Let us discuss a second classical view, which
+I can call wave interference.
+If you have-- and this is really important.
+A lot of people get confused about it.
+If you have light in only one mode, this would be the laser,
+or for atoms, the Bose-Einstein condensate.
+
+One mode means a single wave, so if we have plain waves,
+we can describe all the photons or all the atoms
+by this wave function.
+
+So what is a g2 function for an object like this?
+
+One.
+Trivially one.
+Because if something is a plain wave, a single wave,
+all correlation functions factorize.
+You have a situation that I to the power n average, this I
+average to the power n.
+And that means that gn is 1 for all n.
+OK.
+But let's now assume that we have two.
+We can also use more, but I want to restrict it to two.
+That we have only two modes.
+And two modes can interfere.
+So let me apply it to those two modes
+a simple model-- whether it's simple or not is relative.
+So it goes like as follows.
+If you have two modes, both of unity intensity,
+then the average intensity is 2.
+But if you have interference, then the normalized intensity
+will vary between 0 and 4.
+Constructive interference means you get twice as much
+as average.
+Destructive means you get nothing.
+So therefore, the entity squared will vary between 0 and 16.
+So if I just used the two extremes, it works out well.
+You have an I square, which is 8,
+the average of constructive interference
+and destructive interference.
+And this is 2 times the average intensity, which was 2 squared.
+So therefore, if we simply allow fluctuations
+into the interference of two modes,
+we find that the g2 function is 2.
+
+So this demonstrates that g2 of 2
+has its deep origin in wave interference.
+And indeed, if you take a light bulb which emits photons,
+you have many, many atoms in your tungsten filament
+which can emit.
+They emit waves.
+And since they have different positions,
+the waves arrive at your detector with random phases.
+And if you really write that down in the model--
+this is nicely done in the book by Loudon--
+you realize that random interference
+between waves results in an exponential distribution
+of intensity.
+So most people wouldn't make the connection,
+but there is a deep and fundamental relationship
+between random interference and the most random distribution,
+the exponential distribution intensity which characterizes
+thermal light or chaotic light.
+So let me just write that down.
+So the Gaussian intensity distribution--
+actually it's an exponential intensity distribution,
+but if you write the intensity distribution,
+it's a distribution in the electric field,
+intensity becomes e square, then it becomes a Gaussian, but.
+So Gaussian exponential intensity distribution
+in view number one is indeed the result of interference.
+
+Any questions?
+So these are the two classical views.

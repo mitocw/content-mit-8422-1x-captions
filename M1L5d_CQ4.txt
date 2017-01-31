@@ -1,0 +1,26 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5d_CQ4.txt
+#
+# Captions for 8.422x module
+#
+# This file has 17 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We really need prominently to discuss
+quantum noise and short noise, the coherent state.
+So just to make sure that we relate--
+I will relate later everything to photon number,
+because photon numbers intuitive.
+You can count.
+You can feel the photons, fluctuations of square root.
+They immediately tell you Poisson, if it's less
+than Poisson, all that.
+So I want to make sure we are quickly associating photon
+number with coherent states.
+So therefore, the first question is,
+if you have a coherent state alpha
+and you take all the photons with a photodiode
+of 100% efficiency, is the number

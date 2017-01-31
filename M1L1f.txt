@@ -1,0 +1,46 @@
+#
+# File:   content-mit-8422-1x-captions/M1L1f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 37 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The other limit is now that we have a weak or shallow lattice
+and the news physics, which now comes into play
+is that atoms can move around.
+They can tunnel from side to side.
+So towards the end of the course,
+in the last months, proximately week 10,
+I will give you a short summary of what some of you
+may have already learned in a solid state course,
+namely band structure of atoms in optical lattices,
+block states, effective mass, et cetera.
+This has now become language of atomic physics,
+because there is a very clean and straightforward realization
+of this physics using cold atoms.
+What we are mainly interested in our research
+is when we have atoms, which tunnel in this optical lattice.
+And for bosons, if the interactions get strong enough,
+the Bose-Einstein condensate is destroyed.
+And what forms is an Mott insulator.
+This is a phase transition.
+And for fermions, we have crossover
+from a metal to a fermionic Mott insulator.
+And with that, we are already overlapping, conceptually
+with condensed metaphysics.
+because the Mott insulator later is
+a paradigm, one of these paradigmatic examples
+where you understand some deep physics.
+It's a paradigm of condensed metaphysics, where you have
+only a partially filled band.
+Common sense undergraduate textbooks
+would say partially filled band.
+This means you have a metal.
+You have a conductor.
+But because of the interaction of the atoms,
+the system is an insulator.
+So this is-- well, really, the many body physics

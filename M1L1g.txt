@@ -1,0 +1,64 @@
+#
+# File:   content-mit-8422-1x-captions/M1L1g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 55 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Well, then let me add one last aspect
+to my introductory example of optical lattices.
+In a sort of fly over, I described
+to you what is the physics we encounter when we have
+an optical lattice switched on and the atoms move around
+or they don't move around.
+And both cases they are interesting.
+But if you think you have explored everything, well,
+then you think hard and say, hey, there's
+another angle we can get out of it.
+And this is we can take the optical lattice
+and simply pulse it on, switch it on and off.
+Well, what happens is-- and then it becomes a time
+dependent problem.
+It becomes something where we can shape and control
+the wave function of atoms in a time dependent way.
+Let me give you one example, if you start with very cold atoms.
+It can be a Bose-Einstein condensate.
+And then for a short time, we switch on the lattice.
+Afterwards, we observe that we have
+still some atoms at 0 momentum.
+But now we have atoms, which have
+a momentum transfer of plus minus 2h [? back here. ?]
+You can understand that-- and this,
+again, it simplifies that we want
+to look at the physics from different angles.
+This can be described that you have a 2 photon
+transition from the ground state with 0 momentum
+to the ground state with 2 photon recoil.
+So you can understand it in the photon picture.
+But you can also understand it by seeing
+you have some meta waves, which are now exposed
+to a periodic potential.
+And you simply ask, what happens to waves
+in a periodic potential?
+Well, that's the same.
+What happens to optical waves when they encounter a grating.
+And that's the physics of deflection.
+So in a nutshell this happens when
+we-- this happens when we use a pulse on an optical potential.
+And let me finish by telling you that, again, in this situation,
+we discover the ambiguity or the two-sidedness
+of a lot of things we do in atomic physics.
+I mentioned to you that the same experiment, the same experiment
+setup, called atoms in optical lattice,
+you turn up the lattice.
+And you have the world's best atomic clock, atoms
+just isolating for each other.
+You turn down the lattice, and you
+have an interesting condensed metaphysics system.
+Let me just show you that the same two-sidedness
+of atomic physics precision and pristine control.
+And interesting many body physics

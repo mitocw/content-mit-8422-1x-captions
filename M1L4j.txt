@@ -1,0 +1,132 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 123 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+When I learned about the beam splitter and its underlying
+physics, there was one thing which really fascinated me.
+And this is the most simple element you can think.
+I mean what is simpler than it being split?
+A beam splitter has two inputs, two outputs.
+The simplest optical element is just an attenuator.
+Putting a window in your laser beam,
+and you lose 4% of your power per surface.
+Or put in just a little bit of dirty optics
+and you lose a few percent.
+So what I want to discuss with you now
+is what is really an attenuator, quantum mechanically?
+Well, if classically, the attenuator
+would do the following.
+An attenuator is a device which has a transmission, which
+is a transmission coefficient square, which
+is smaller than unity.
+And in a classical system if you have a coherent state,
+you would simply assume that the coherent state
+gets multiplied by the transmission coefficient.
+In other words, that you have your original state,
+described by this phase, or alpha.
+And then the action of the attenuator
+would simply be to scale everything down
+by a transmission factor of alpha.
+So the picture you should have is a photo.
+You have a coherent state, it gets
+attenuated by the transmission coefficient.
+But if there are fluctuations about the coherent state,
+also the fluctuations get attenuated because everything
+gets attenuated by this attenuator.
+So if you look at that, you should immediately say, no.
+This is quantum mechanically forbidden.
+Because a coherent state, with the minimum uncertainty state,
+the shaded area cannot be smaller than one half.
+But here it has become smaller.
+So what I've shown to you here is
+it's a violation of quantum mechanics.
+It would actually mean-- I mean, let
+me just give you the example, it would mean that if you-- yeah,
+if you had the cohesion the state is quantum limited.
+And if you calculate what is the fluctuations in the photon
+number, it's just shot noise.
+So just to give you a sort of simple intuitive example,
+if you have 10,000 photons plus minus 100,
+this is shot noise square root n.
+If you could know attenuate it by a factor of 100,
+and you would go from 10,000, plus/minus
+100, to 100 plus/minus 1.
+That's much better than the shot noise.
+I mean this is what I'm just telling you,
+what a simple minded attenuator will do,
+and you would immediately say, that's too good to be true.
+I cannot get sub shot noise light.
+
+So what is the wrong?
+
+Impossible, not allowed.
+Well, we have just tried to formulate something intuitively
+and we have to be careful.
+Well, we know all ready, one way how
+we can attenuate an input beam-- and maybe we
+should go back to the situation and analyze it.
+We know that we can attenuate it with a beam splitter,
+and this beam splitter has a transmission coefficient of t.
+And then we get our transmitted coherent light,
+there is something getting reflected,
+but now you realize that this beam splitter is not
+just a device which has one input, it has another input.
+And you may say, well, I don't care about the other input.
+I don't want to use it.
+Well, if you don't want to use the input
+it has the vacuum state.
+So therefore, if you would realize the attenuator
+with a beam splitter, it would mean that in addition--
+and this is what the math really shows-- in addition
+to the attenuated coherent state, which mathematically
+is also attenuating the fluctuations,
+you have to add something which is the reflection
+coefficient times the vacuum state, which is this.
+And if you now correctly do the math,
+if you add the two together, you find
+you get a coherent state, which has an amplitude of t alpha.
+But has the correct Poisson fluctuation,
+is again in minimum uncertainty state.
+So the disk of your attenuated state
+has exactly the same area as the unattenuated state.
+
+So I've shown you the physical part.
+I have shown you the graphical solution.
+The math is very simple.
+But I really want you to do the math yourself.
+This is a new homework problem we designed
+to elucidate the physics.
+But what it tells you is the following.
+If you take a neutral density filter out of the lab pool
+and say, this is not a beam splitter,
+this is an attenuator.
+Sorry, you cannot simply attenuate a quantum mechanical
+mold.
+This is not a unitary time evolution.
+What your attenuator does is, without you knowing it,
+it couples the electromagnetic wave to whatever,
+to the heat path of the [? black ?] [? pane, ?] which
+is in your attenuator.
+I don't even want to describe it.
+But you're not circumventing the limitations of a beam splitter.
+Whenever you attenuate, whenever you have a laser beam,
+and it undergoes losses, when you
+send a laser beam for the atmosphere
+and it undergoes some losses by knows,
+Rayleigh scattering through the air or something like this.
+That means you get an attenuated coherent state,
+but you couple in the fluctuations
+of the vacuum and this establishes shot noise
+now, at a lower level of intensity.
+So your attenuator is not a single state device.
+Dissipation, attenuation, really means
+you connect with other parts of Hilbert space.
+You cannot attenuate in a small part of Hilbert space.
+This is impossible.

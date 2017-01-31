@@ -1,0 +1,228 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5x.txt
+#
+# Captions for 8.422x module
+#
+# This file has 219 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, so our next chapter is on entangled photons.
+And what we can accomplish in the next 10 or 15 minutes
+is mainly the definition and some of the properties.
+What we will do on next week is we
+will talk about how we measure entanglement--
+you had already one homework assignment where you discussed
+one way to measure entanglement but there
+are others which we want to discuss next week--
+and I also want to show you next week how entanglement leads
+to the Einstein-Podolsky-Rosen paradox and Bell's
+inequalities.
+And eventually I want to show you
+how you can entangle not only photons
+but how you can entangle atoms.
+But that's an outlook.
+I think, first of all, we want to understand
+what is entanglement.
+So entanglement is-- let me first [? motivate ?] it.
+Many people regard entanglement as the most quantum
+essence you can find.
+
+Well, there's always a discussion,
+what is clearly quantum?
+Some people would say, waves are quantum.
+But, well, often we find quantum systems-- really famously,
+Bose-Einstein condensates-- which really behave
+like electromagnetic waves.
+They can be split, they can interfere,
+but Bose-Einstein condensates are so big, have so many atoms,
+that you hardly ever encounter quantum fluctuations.
+You are really in the classical limit of metawaves,
+and I would actually say this is maybe not
+at the heart of quantum mechanics.
+Well, it's nice, it's powerful, it's important,
+but this is not really the new features
+which quantum mechanics has shown us in nature.
+You would say, well, what else is quantum?
+Maybe certain quantum fluctuations,
+going down to single photons, and I would agree.
+That's the quantization of the electromagnetic field.
+That's much more quantum than having millions
+of condensate, millions of condensed atoms
+in one single wave.
+But what I would say is even more quantum
+than the single photon is the entanglement.
+Entanglement is sort of pure quantum mechanics.
+With single photons, you can steel your intuition.
+But with entanglement, that is really bizarre.
+This is really what other-- I hate the word
+but let me use it-- this is sort of pure quantum weirdness.
+And there are people who have spent most of their career
+until now to just show the weirdness of quantum mechanics
+in showing to what peculiar phenomena entanglement leads.
+So entanglement has really led to a lot
+of-- I should be careful with the word "surprising."
+Surprising always means you didn't have enough imagination
+to think about it.
+But, yes, I would say, really truly unanticipated,
+and in that sense, surprising developments.
+So entanglement is therefore, for me,
+the most quantum aspects of quantum mechanics.
+It was through the Einstein-Podolsky-Rosen
+argument-- it was actually Einstein-Podolsky-Rosen
+in the '30s-- who argued-- Einstein-Podolsky-Rosen
+were really the first.
+This was almost five or 10 years after the development
+of quantum mechanics.
+But it was Einstein-Podolsky-Rosen
+who looked at the properties of entangled states,
+this famous experiment where you have
+something entangled in position and momentum space
+and then Einstein-Podolsky-Rosen found a paradox.
+And their conclusion was that the properties
+of entangled states implies that quantum mechanic is not
+complete, it's not a complete description of the word.
+Well, we don't any longer share this opinion.
+It was John Bell and others who said that entanglement really
+exemplifies that quantum mechanical correlations go
+beyond classical mechanics, go beyond the classical picture.
+So therefore you can say, if you have a quantum
+system like a Bose-Einstein condensate where
+you have n particles doing kind of in unison
+what one particle does.
+This is sort of like the laser where many photons do
+what one photon does.
+But it fits very, very well into the concept
+of classical probabilities and an intuitive understanding
+of, well, many particles do what one particle does.
+But if the particles are entangled,
+that's almost like you turbocharge your system.
+Your system has now more oomph, more power in it.
+And this has shown that it has extra correlation.
+There is something extra in it which you would never
+get from any classical limit.
+And this extra oomph, this extra power,
+turns out to be a real resource.
+So entanglement, these extra correlations, is a resource.
+And resource means it's good for something.
+It enables teleportation.
+
+Remember when we had the-- when we talked
+about the teleportation scheme, Alice and Bob could only
+teleport a quantum state because they shared entangled photons.
+It was this entangled state which
+Alice manipulated with a measurement
+and Bob used this half of the entangled state
+to recreate the original state.
+So it's the engine behind teleportation.
+In the world of quantum computation,
+the exponential speedup of quantum computers
+versus classical computers.
+In quantum algorithms, it's due to the entanglement which we
+can put into a quantum system.
+And eventually, next week, we will see that,
+if we have an atom interferometer
+with entangled states, we can operate it
+at a precision which is better than shot noise.
+So in other words, you use light-- laser light--
+to measure something and you're limited
+by the fundamental noise limit of classical physics.
+Now you entangle your laser beam and you get higher precision
+out of it.
+So this shows that entanglement is a very special resource.
+It's very precious, very powerful,
+and can extend what physics can do.
+So let's define it.
+I'm not describing to you entanglement
+in the most general situation.
+If you talk about many modes, if you
+talk about not just pure states but statistical operators,
+it can become quite involved.
+I rather start with the simple situation,
+which for conceptual discussions is also the most important one.
+I restrict our focus now on two modes.
+So I want to ask, if you have two modes--
+actually, two modes means two subsystems here--
+if you have two subsystems, A and B-- maybe
+let me tell you what entanglement is not
+and then I make it the definition.
+There wouldn't be anything special
+if you have a system consisting--
+you have a system which has two parts, A and B.
+The global system is psi AB.
+But if your system would simply factorize
+into a wave function of subsystem
+A direct product with subsystem B,
+and this here is a tensor product,
+then there would be nothing special
+going on between subsystem A and subsystem B.
+And this is non-entangled.
+Everything else is entangled.
+So this is our definition.
+When we have two separate systems, A and B,
+we call the situation-- the total system-- bi-partite.
+So a bi-partite state, which has half of it
+in system A, half of it in system B.
+We also need-- we need those two different systems.
+It's a composite system, A plus B. And this state is entangled,
+if with two F's-- if and only if-- you cannot find two
+states, psi A and psi B, such that the state can be
+factorized.
+We need a few examples to fully comprehend this discussion,
+what systems A and B qualify.
+What does it mean if there not exist any combination?
+So let me give you some examples now and then I think we stop.
+If we have the 0 0 state-- photons in two mode--
+we can factorize it.
+And this is not entangled.
+If we have a state which is 0 0 plus 1 1, well,
+you cannot write it as a product of one state times another
+state.
+This is entangled.
+Well, if you take the following state,
+is that entangled or not?
+I've written it as the sum of four states.
+But if you just stare at it for a split second,
+you realize you can just write it as a product of two states.
+It's just a product of 0 1 with 0 1.
+So a state is not entangled if you
+can write it as a linear super position of those states.
+The definition of entanglement is,
+if you try hard and hard and hard
+and there doesn't exist any product state decomposition,
+then it is entangled.
+So that was easy.
+If you use a state like-- let me just leave the 1 1 out-- what
+about this one?
+Well, you have to-- you can try as hard as you want,
+you will not find a decomposition.
+So eventually, when I say you have
+to try hard to find decomposition,
+maybe what we want is we want to apply
+some operator or some procedure to this state
+and get the answer yes no.
+This naturally asks for question, how in general can
+we measure if a state is entangled or not?
+But this is something to discuss next week.
+So let me just conclude with the following.
+I'm focusing here-- and for pretty much
+all of this course-- when we talk about
+entanglement about pure states.
+
+If you have no decoherence, if you have the transition
+from pure states to density matrices,
+it gets much more involved to talk about entanglement
+and measure entanglement.
+But at least the basic definition
+can still be maintained for statistical operators.
+If you describe this system-- the total system-- by one
+statistical operator, the system is not entangled
+if the statistical operator can be broken up into direct tensor
+product of statistical operator for system A and system B.
+Otherwise, the system is entangled.
+So the basic definition can be generalized
+to density matrices, but a lot of things
+become much, much more messy if you don't have pure states.
+OK.

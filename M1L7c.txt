@@ -1,0 +1,35 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 26 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+There was a question in the last class
+about if you have a density matrix,
+if any arbitrary density matrix can
+be regarded as the partial trace of a pure state.
+I was not immediately clear.
+I thought it was, but I wasn't sure.
+But the proof is so simple that it fits on three lines.
+You can simply take a density matrix.
+You can double up the Hilbert space
+and define our pure state in a Hilbert
+space of twice the dimension.
+And you immediately see that this density matrix
+is the partial trace of a pure state.
+So therefore, if you want, you can always
+say the density matrix is sort of entangled.
+You are entitled to the opinion that the density matrix always
+originated into a pure state, but the entanglement points
+to the other subsystem have been broken.
+And I showed you last class that if you're
+one of the Bell states, the most entangled states in a fully
+entangled state between two particles,
+but you just look at one particle,
+one particle is in just the random state of the density
+matrix, which is the unity matrix.

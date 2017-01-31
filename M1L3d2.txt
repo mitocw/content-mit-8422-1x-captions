@@ -1,0 +1,401 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3d2.txt
+#
+# Captions for 8.422x module
+#
+# This file has 392 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So I want to sort of give you, in a two-dimensional diagram,
+a visual representation of thermal states,
+coherent states, number states.
+And this visual representation will
+make it immediately obvious what the electric field is.
+So this visual representation will represent what
+are called quasi probabilities.
+So I have to define for you now those quasi probabilities.
+So I denote the quasi probability by Q.
+And I want to know what is the quasi probability
+Q for any statistical operator which describes a light.
+It could be the operator for thermal light.
+It could be statistical operator also includes, of course,
+pure state.
+And the pure state could be a coherent state.
+So this is a way to define our quasi probabilities
+for any statistical operator which is describing the light.
+And the quasi probabilities-- well, the probability for what?
+Well, the probabilities for alpha.
+And alpha is related to the coherent state.
+So in other words, we say a statistical operator
+has a quasi probability with a coherent state alpha by simply
+calculating this diagonal matrix element
+of the statistical operator with alpha.
+That's an abstract definition, but it's exact.
+What we should now do is, I want to show you some examples.
+And then you will actually see that it's actually
+a wonderful definition.
+So my first example is, let's look at the quasi probability
+for the vacuum state-- so if the statistical operator is simply
+the ground state of the harmonic oscillator--
+no photon, no nothing, just empty vacuum.
+So the quasi probability for-- the statistical operator
+is now a pure state, so I can say
+what is the quasi probability of the vacuum state
+to be in state alpha.
+Following the definition above, it's
+nothing else than the matrix element, the overlap,
+between the vacuum and the coherent state alpha.
+
+I've given you above the representation
+of the coherent state alpha in terms of number states.
+And all you have to do is look now
+upstairs, what is the amplitude that this representation
+includes a vacuum state.
+So it's just read off the amplitude c0 from the state
+above.
+And this was simply e to the minus alpha squared.
+
+Those quasi probabilities can be plotted
+in a two-dimensional plane, because it's
+a function of alpha.
+So if I use the real part of alpha, the imaginary part
+of alpha, now I can plot the quasi probability Q.
+And since it's hard for me to do a 3D plot on the tablet,
+I just sort of shade the region.
+Black means the amplitude is large.
+And now it's sort of here, it means the amplitude falls off.
+So what I'm plotting here is a Gaussian.
+So here we have a Gaussian.
+Any question?
+So for a pure state, we are simply
+asking, what is the amplitude of the pure state to overlap,
+to be in a coherent state?
+And what we are plotting is nothing
+else than the probability that this state is a coherent state
+with value alpha.
+Further question?
+The next example-- and we have already
+prepared for that-- is the thermal state.
+Example Number 2 is the thermal state.
+So we want to know what is the quasi probability
+for the thermal state as a function of alpha.
+The statistical operator for the thermal states--
+we had derived it above-- was the probability
+to find n photons.
+And in the number representation,
+the statistical operator is diagonal.
+And then the quasi probabilities are nothing else,
+following the definition above, than those probabilities
+times the matrix element-- the overlap between alpha and n.
+And if you look up what we had derived for the probability Pn,
+you find a very simple result. What we obtain
+is, again, a Gaussian.
+It is also centered at the origin.
+So therefore, since I didn't label my axes,
+it looks exactly as the vacuum state.
+It's just that the Gaussian is much, much broader.
+
+And I will come to that.
+But an intuitive reading of this Gaussian
+is, this Gaussian has a peak at the origin.
+At the origin, this is where alpha equals 0.
+And this is directly related to the question I asked you
+before, that the photon number probability is
+peaked at n equals 0.
+But I hope this will become even clearer when
+we move on to the third example, which is now Q
+of alpha of the coherent state.
+
+Maybe just before I even discuss the quasi probability
+of a coherent state, I have to address one thing up front.
+What would you expect the quasi probability of a coherent state
+to be?
+[INAUDIBLE]
+
+Pretty good, but I said before the quasi probability is-- let
+me just show you how it was defined.
+Here was my definition of the quasi probability.
+And you can see the quasi probability
+is the diagonal matrix element of the statistical operator
+with a coherent state.
+But if our statistical operator is a coherent state, what would
+you expect this probability to be, just naively?
+One.
+One or delta function.
+I mean, we ask if we expand this statistical operator
+in coherent states, what do we get?
+But if this operator is a coherent state--
+let's say it's a coherent state beta-- you would expect then
+we only get something on vanishing if alpha equals beta.
+So you would now even expect that what you get
+is a delta function.
+The coherent state beta has a quasi probability
+Q of alpha, which is peaked at beta,
+but it's peaked as a delta function.
+Now, I'm calculating it for you right now,
+and the result is, this is not the case.
+The reason is-- and I will show you
+that [INAUDIBLE] is-- that the coherent states are not
+your ordinary basis function.
+The coherent state forms a basis which is over complete.
+So we have sort of more coherent states than necessary.
+There is some redundancy.
+And therefore, the coherent state alpha
+and the coherent state beta-- if alpha
+and beta is only-- if there's only
+a small difference between alpha and beta,
+they have overlap-- coherent states
+which differ by only a little bit in the eigenvalue.
+They are not orthogonal.
+So this is a complication.
+It's one of the complications we have
+to deal with when we want to describe coherent states
+and when we want to describe laser light.
+But this is one of the properties.
+So therefore, what I'm now discussing
+with you is what are the quasi probabilities
+of a coherent state.
+It will not be a delta function.
+But we should simply follow the definition,
+and everything will fall into place.
+So our statistical operator for a pure coherent state
+is, of course-- this is a statistical operator
+with pure state beta.
+And the quasi probability for the coherent state beta
+to be in alpha is this matrix element squared.
+
+And you can calculate that, for instance,
+by just putting in now for alpha and beta the expansion of alpha
+and beta in number states.
+So you just have to solve the integral and calculate it.
+And what you find is not a delta function,
+but a decaying exponential.
+So you can say as long as alpha and beta do not
+differ by more than 1, there is substantial overlap.
+So in other words, what we get for this quasi probability is
+something which is centered at beta,
+but it is, again, a Gaussian.
+So the important message here is, coherent states are not
+orthogonal to each other.
+
+They form an over complete basis.
+
+This is a side remark.
+It may come as a surprise to you,
+because you have been trained too
+much in basis states of emission operators,
+of energy eigenstates.
+And those energy eigenstates form a complete basis.
+The coherent states are eigenfunctions
+of a very strange operator-- a non-Hermitian [? inoculation ?]
+operator.
+So therefore, the few things you took for granted
+do not apply here.
+So we have our nice diagram for quasi probabilities.
+So now, that was the real part of alpha.
+That was the imaginary part of alpha.
+So if you take that as the complex plane--
+and I'm drawing now as a phasor the complex number beta, which
+is the eigenvalue of the coherent state beta--
+then the quasi probability is centered near beta.
+And it's a decaying Gaussian.
+
+I'm not showing it to you here explicitly,
+but it is simply the vacuum state we discussed before,
+displaced by beta.
+
+My fourth example, just to show you-- so far
+I've shown you that everything is Gaussian.
+Thermal light is a broad Gaussian.
+Coherent state is a narrow Gaussian.
+The vacuum state is a narrow Gaussian.
+Let me just show you something which is non-Gaussian,
+which is the number state.
+If you put into the definition of the quasi probability
+the number state, and you calculate the quasi probability
+as a function of alpha, then you find that what you get
+is actually not a Gaussian.
+What you get is a ring with a certain width.
+So this is the representation of a number state.
+And the radius of this ring is proportional to the square root
+of the number of photons in the number state.
+We'll come back to photon states in much more detail very soon,
+but I just wanted to show you that at this point.
+So quasi probabilities are not always Gaussian.
+They really depict something.
+They show us important differences about the quantum
+states of light.
+Any questions?
+Yes.
+[INAUDIBLE] a delta function in the radius?
+Like you went a little past to 0 [INAUDIBLE]?
+Can you hold the question for three minutes?
+OK, the answer is, it's not.
+But in three minutes, I want to tell you
+that there are three possible definitions
+of quasi probabilities-- the Q function,
+the W function and the P function.
+In one of the functions, it's a delta function.
+In the Q function, it's not.
+But we'll come to that.
+
+But let's, for now, stick to the Q function.
+The next thing we want to put in is the time dependence.
+I want to show you that when we have quantum states of light--
+and right now, we've just shown the quasi probability
+distribution at a snapshot at t equals 0.
+What happens as a function of time?
+What I want to for you is-- and this
+makes those quasi probabilities also nice and intuitive--
+that as a function of time, the quasi probability distribution
+simply rotates with an angle of frequency of omega.
+So let me show that to you.
+We know that we have a coherent state.
+And what we want to understand is
+what happens when we act on the coherent state with the time
+propagation operator, which is the Hamiltonian
+in the exponent.
+Well, in order to evaluate the left-hand side
+we can simply take the expansion of coherent states
+in the number basis.
+
+Because we know that the time evolution of a number state
+is simply the energy of the number state, which
+is given by the energy of the number state, which is n times
+h by omega.
+So now, if you look for a second at this expression,
+you realize that we can absorb the time evolution
+if we redefine alpha to become alpha times e to the i omega t.
+So in other words, the time evolution
+of the coherent state alpha preserves the character
+as a coherent state.
+It just means we get a new coherent state
+whose eigenvalue is now alpha times e to the i omega t.
+So that means the following-- if we
+want to look at the time evolution in terms
+of quasi probabilities, we have our diagram
+with the real part of alpha, with the imaginary part
+of alpha.
+And let's assume we had a coherent state, which
+happened-- this is sort of now my circle.
+It's, you can say, a high contrast
+representation of a Gaussian.
+So this is a quasi probability of the initial state alpha.
+But as time propagates, it just gets multiplied with e
+to the i omega t.
+That means the time evolution is just displacing
+the state over there.
+And as time goes by, the coherent state
+is just moving in a circle.
+And after one full period of omega,
+we are back where we started.
+Let me give you now an intuitive picture
+what the electric field is.
+I will be a little bit more exact in two or three minutes.
+So we have a diagram of the real part of alpha
+and the imaginary part of alpha.
+For an harmonic oscillator, I can also label that as x and p.
+You know, in an harmonic oscillator--
+you can think about it classically-- if you have
+some initial distribution of a mechanical oscillator in x
+and p, what the system actually does is,
+it simply rotates on the circle in phase space.
+The classical phase space is x and p.
+And I haven't really told you that.
+I didn't want to get lost in complex definitions.
+I defined for you the quasi probability,
+but the quasi probability is a generalization
+of the classical phase space function
+as a function of p and x.
+So take my word for a second, and allow
+me to identify the real axis with x and the imaginary axis
+with p.
+
+Then p is the electric field.
+So now what you should visually take from those pictures
+is that if you want to know what the electric field is,
+you just sort of project this fuzzy
+ball on the imaginary axis.
+So in other words, when I ask you
+what is now the electric field as a function of time, at t
+equals 0, I project this onto the p-axis.
+And what I get is something which is centered at 0.
+
+But it has also a certain fuzziness.
+The fuzziness is given by the size of the disc
+or by the width of the Gaussian.
+And if I now use this picture as a function of time,
+as this fuzzy ball rotates around,
+the electric field goes up and down in one cycle.
+
+And the fuzziness moves with it.
+
+So the fuzziness here for the electric field is related,
+and that's what we want to discuss next week--
+is related to shot noise.
+I also want to tell you that the coherent state is,
+to some extent, the best possible way
+to define an electric field.
+It's a minimum uncertainty state.
+I want to show you that the coherent state is
+at the minimum of Heisenberg's uncertainty relation.
+So I think if you take this picture,
+you will immediately realize that you
+draw the quasi probability.
+You project on the vertical axis.
+And you get the electric field.
+That tells you immediately if you have a thermal state, which
+is a Gaussian centered here.
+You project it.
+You get an electric field, 0.
+It has an enormous fuzziness, but it's 0.
+And this picture-- that everything rotates with angular
+frequency omega-- also tells you, as expected,
+that in a thermal state, it's already a circularly symmetric
+distribution.
+When it rotates, nothing changes.
+[INAUDIBLE] operator is [INAUDIBLE]
+couldn't you find eigenstates of that operator
+itself, and then get rid of this fuzziness?
+
+What I've told you here, with the projection
+of the electric field, this is not
+100% rigorous for the quasi probabilities
+Q. Due to the non-commutativity of operators,
+when we generalize phase space function into quantum
+mechanics, we can order operators an a symmetric way,
+in a normal way, in an anti-normal way.
+And therefore, there are three different quasi probabilities.
+The Q probability is the easiest to define.
+It comes in very handy.
+But what I showed you with the projection
+does not rigorously apply to the Q distribution.
+It applies to the P or W distribution.
+But the differences, unless you really go into subtleties,
+are minor.
+So intuitively, what I did is correct.
+And to answer your question, an eigenstate
+of the electric field-- I have a little bit problems with that,
+because if you take this projection, what you need
+is you need something which is very, very narrow.
+But since this area is an Heisenberg uncertainty limited
+area, it means delta x delta p equals h bar over 2,
+the only way you can create this electric field
+is you can completely squeeze it.
+So to the best of my knowledge, an electric field eigenstate
+would be a completely strongly squeezed state.
+We talk about that next week.
+But then you realize, if you've completely squeezed your state,
+after a quarter period, this infinitely squeezed ellipse
+is now standing upside down.
+And after a quarter period, your electric field
+is completely uncertain.
+So I think you can define an operator-- you
+can find a state-- which has a sharp value
+of the electric field at one moment of time.
+But then it rotates around.
+And what was a highly certain electric field
+becomes highly uncertain later.

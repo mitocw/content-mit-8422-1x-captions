@@ -1,0 +1,114 @@
+#
+# File:   content-mit-8422-1x-captions/M1L2e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 105 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So with that, we have our Hamiltonian.
+And a lot of what we discuss in this course,
+understanding this Hamiltonian, understanding its solution,
+understanding what is the physics described by that.
+So this Hamiltonian has, this is the kinetic energy,
+the canonical momentum minus the vector potential
+is the mechanical velocity.
+This is kinetic energy.
+And we have separated the energy of the electromagnetic field
+into the Coulomb energy, which is written against here,
+again here, and the radiation field.
+There is now one more term which we need later on, which
+is this one here.
+And at this point, I would say I'm just heuristically adding
+it by hand.
+This is now-- well, [? classically ?]
+we don't have spin.
+But our particles have spin.
+And now we need [AUDIO OUT] how does this spin compare
+to the rest of the [? world? ?]
+Well, the spin, if we multiplied with the [INAUDIBLE]
+on the [INAUDIBLE] a magnetic moment.
+And what we simply add here is mu.B,
+the interaction of a magnetic moment with the magnetic field.
+So in that since we have been classical all the way.
+Now at the end said, OK, we need the spin.
+Let's put it on by simply taking an interaction which is mu.B.
+If you don't like that because I try
+to be very fundamental today and go from first principles,
+for electrons you can get that by taking
+the nonrelativistic limit of the [? Dirac ?] equation.
+So if you have electrons, you can
+start with the Dirac equation and do the [INAUDIBLE]
+approximation, which is then non-relativistic limit
+of the Dirac equation.
+Any question?
+So these are all the terms in the Hamiltonian.
+I mentioned, but I don't want to dwell on
+that the Coulomb energy has to be separated into a Coulomb
+self energy and an interaction energy
+between the charged particles.
+But all of that becomes just one term in our Hamiltonian.
+This is the atomic structure.
+When we assume that atoms have energy levels,
+all the Coulomb energy is included in that.
+So we will not discuss any further the Coulomb energy.
+We will simply assume we have an atom, which
+has certain energy levels.
+And that includes all the Coulomb terms.
+But we will talk a lot about the Hamiltonian
+for the radiation field.
+The Hamiltonian for the radiation field can be
+conveniently written in a and a [? dega. ?] But I have a few
+equations up there I rigorously defined for you, operators,
+E and B, in terms of a and a [? degas, ?] and those two
+equations are identical.
+So this looks very [? quantum, ?]
+this looks very classical.
+But if you interpret the electric and magnetic field
+as operators, we have identical equations for the Hamiltonian
+of the radiation field.
+
+What you want to study are interactions
+between light and atoms.
+And of course, this comes from the vector potential.
+And in particular when we square it out,
+the canonical momentum of the atoms times the vector
+potential has this [? cost ?] term,
+[? P.A. ?] So let me now just take this Hamiltonian and write
+it in the way how we will need it throughout this course.
+So we want to take the Hamiltonian,
+and I will often refer to that.
+We want to take the Hamiltonian and split it
+into three parts-- the atoms, the radiation field,
+and the interaction between the two.
+The Hamiltonian for the particles, H subscript p,
+has the momentum squared, and it has
+the part of the electromagnetic fields which are longitudinal,
+the energy of which can be described by a Coulomb
+[INAUDIBLE].
+
+We have already discussed the radiation field.
+The radiation field is nothing else than H [? by ?] omega
+[? A ?] dega [? A. ?] But the new part, which we need now,
+is the interaction term.
+And I want to show you now or remind you
+by just summarizing the term that the interaction part has
+actually three different terms.
+
+The first one is the [? cost ?] term between P and A.
+The second one, when we hit P minus A and squared it is
+[? CE ?] square term.
+And the third one is the interaction
+of the spin with the magnetic component of the radiation
+field.
+This is the mu.B interaction.
+
+I don't think it's an exaggeration when I tell you
+that with those three equations, you can understand
+all of atomic physics.
+This term here that's important is second order in A,
+which of course also means it will be very important for very
+strong [? laser ?] [? policies. ?] But there is

@@ -1,0 +1,142 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5r.txt
+#
+# Captions for 8.422x module
+#
+# This file has 133 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So that's what the beam splitter does to the mode operators.
+Now we want to talk about what does
+the beam splitter do to quantum states,
+to single-photon states.
+So now we want to transform the single-photon states.
+It's a little bit like, well, we know
+what to do in the Heisenberg picture to the operator,
+but now we want to see what happens to the wave functions.
+
+And I want to be-- say it very slowly because you
+have to-- it shouldn't lead to any confusion later.
+When we have single photons, we can
+have the single photon in mode b or we can have it in mode a.
+These are the two possibilities.
+And right now, I label it like this,
+where the first number is the occupation number of mode a
+and the second number is the occupation in mode b.
+You have to be little bit careful.
+I'm just saying that keep your alert level high.
+Later, I will use a qubit representation
+where the qubit 1 means the photon is
+in mode a and the qubit 0 means the photon is in mode b.
+So when we talked about logical states
+of our two-level system-- the photon can be here
+or the photon can be there-- 0 means the photon is there.
+It doesn't mean that we have zero photons.
+But sometimes I have to talk about the photons,
+and that's what I'm doing right now.
+And 0 means no photon in this mode.
+But I will remind you of that as we go along.
+So we have the two quantum states 1, 0 and 0, 1.
+And let's just see what the beam splitter is
+doing to one photon in mode a.
+Sorry, that was b.
+So let's use this convention.
+So just to elaborate, what I just said is this convention 1,
+0 is the direct product of the Hilbert space for mode
+b with one photon with the Hilbert space of mode a,
+and we have zero photons there.
+And sometimes you want to denote this state
+by putting a comma in between.
+That's all the same.
+
+How do we transform the quantum state
+with a beam splitter operator?
+Well, we could now apply it to the quantum state.
+But we just learned how to apply to operators.
+So let's just use what we already know because we
+can write the state like this.
+And now we want to insert the unity operator, b dega b,
+and now we can know-- we can use our knowledge of the operator.
+We know how this transforms.
+We had this above-- the transformation of the operators
+b and b dega.
+And when we apply b to nothing, to no photons,
+we get no photons.
+So now by taking from the page above,
+the transformation of the operator b dega,
+it's a linear combination of a dega and b dega.
+We find, well, what we expect.
+The photon can now be in the same mode
+or it can appear in the other mode.
+And the coefficients from the transformation
+are cosine theta minus sine theta.
+
+And if we would send the other state through the beam
+splitter, we find the cosine theta, sine theta component.
+So since the total probability to have a photon
+is cosine square plus sine square is unity,
+we find what we expected.
+But it's nice to see it, namely that b conserves the photon
+number.
+Of course, this should have been obvious from the outset
+because we used a Hermitian operator, a unitary time
+evolution, and that is energy-conserving.
+What happens if we use a state which
+has one photon in each mode and we act on it with the beam
+splitter?
+
+Well, it gives a superposition of-- the two photons
+can now be in either of the two modes
+or they can be distributed to one in each mode.
+And the coefficients are-- because we
+have two transformations-- products of sine and cosine.
+Here is cosine square plus sine square theta--
+here is a plus sign-- Square root 2 plus square root 2.
+So that means if we allow one photon to be in each mode,
+it leads us to actually out of the Hilbert
+space of single-photon states because we
+have a certain probability now that we
+have two photons in each mode.
+So we don't want that.
+So if we want to deal with only one photon,
+we should restrict our attention, our formalism,
+to the states which have no more than one photon.
+And now if we act on those states with beam splitters,
+we don't get out of this subspace of Hilbert space.
+However, we also want to omit this state because for-- well,
+it's more elegant to do it.
+But also, if we have a single-photon state
+and we have a detector which has not 100% efficiency
+and we do a measurement, well, we
+don't know if we're at the state 0, 1
+but we just didn't detect it or if we're at the state 0,
+0, whereas if you deal with two states
+where you always have a photon, exactly one photon,
+and you read out your system and you detect nothing,
+well, you discard the measurement and you perform--
+and you only take the measurements
+which have detected one photon.
+So you have the ability to deal with finite efficiencies
+and losses in a very straightforward way.
+
+Yes?
+The operation of [INAUDIBLE] on 1, 1
+doesn't look so unitary to me.
+Should be a negative sine square root.
+It's close to square root of minus sine [INAUDIBLE]
+Yes, and it is in my lecture notes-- minus.
+Also in the coefficient of 1, 1.
+And co square root of minus--
+Because otherwise that's just 1.
+Yeah.
+Otherwise--
+Yes.
+And it's right in my lecture notes.
+Sorry.
+Sometimes when you're talking, explain it, build it up.
+Yes.
+Thank you.
+

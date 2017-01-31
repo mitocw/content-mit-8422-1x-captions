@@ -1,0 +1,70 @@
+#
+# File:   content-mit-8422-1x-captions/M1L1e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 61 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Well again, we have two limiting cases.
+One case is when this potential or optical lattice
+is really deep.
+Deep means that atoms are sitting deep in the potential,
+and they can oscillate around, but they cannot jump over
+to the next potential.
+So in this situation, you would say, well, that's evolving,
+nothing happens, the atom just stays put.
+But what is boring for some of you
+is exciting for some others, because these atoms
+are exquisitely controlled.
+They cannot collide.
+They cannot know interact with other atoms.
+So these are really the most ideal situations
+you can imagine for atoms.
+Of course, if you have less than one atom per site, and this
+is the way how you want to prepare atoms for the most
+accurate interrogations.
+And you can build atomic clocks, optical atomic clocks,
+based on atoms insulated in such lattice, which approach now
+10 to the minus 17 accuracy.
+Well, if you excite-- if you drive a clock transition,
+if you take the atom from the count with the excited state,
+you may face the situation I mentioned earlier,
+that the periodic potential for the count in excited state
+are different.
+And that would actually interfere with your clock,
+because the clock frequency depends now
+on what the lattice is doing to your atoms.
+However, and we discussed that in week four,
+there are what people call magic wavelenghts,
+where you pick a certain wavelength
+for your optical lattice, where the periodic potential is
+absolutely the same for counting the excited state.
+So that means you have then the perfect decoupling
+between the ticking of the clock--
+the internal structure of the atom--
+and the mechanical motion of the atoms in the potential.
+And in that situation, which has been studied since long, namely
+with trapped ions, If you have a single ion in an ion trap--
+an ion trapping is pursued here at MIT and [INAUDIBLE] group--
+you have just a single object completely isolated.
+And in form of the aluminum ion, this
+has just been demonstrated to be the most accurate atomic clock
+in the world, with 10 to the minus 17 accuracy.
+So anyway, with optical lattices, avoiding
+spontaneous emission using metric wavelengths,
+we can no engineer with neutral atoms what has been available
+with trapped ions, but we can simultaneously
+have 10,000 copies, and look at 10,000 atoms
+which are all identical copies, identical systems
+of each other.
+So you see already from that example
+that there will be intellectual overlap and synergy
+between talking about neutral atoms in optical lattices,
+and talking about trapped ions and how they are cooled
+and how they are manipulated.
+And we talk about trapped ions at the end of the course,
+sideband cooling of trapped ions, which is week 12.

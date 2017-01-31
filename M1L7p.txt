@@ -1,0 +1,150 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7p.txt
+#
+# Captions for 8.422x module
+#
+# This file has 141 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The first example, which we pretty much covered
+in the last class, was an entangled state interferometer.
+So instead of having the Mach-Zehnder interferometer
+as we had before, we have sort of a Bell state creation
+device.
+Then we provide the phase shift.
+And then we have a Bell analysis device.
+And I want to use here the formalism and the symbols
+we had introduced earlier.
+So just as a reminder, what we need is I need two gates,
+one is the Hadamard gate, which in matrix representation
+has this matrix form.
+And that means if you have a qubit which is either up
+or down and you apply the matrix to it,
+you put it in a superposition state of up and down.
+It's a single cubit rotation.
+You can say for the block on the block sphere,
+it's a 90-degree rotation.
+The second gate we need is the controlled NOT.
+And the controlled NOT, we discussed it previously,
+can be implemented by having an interferometer
+and using a nonlinear Kerr medium coupling another photon
+to the interferometer in such a way
+that if you have a photon in mode C,
+it creates a phase shift to the interferometer.
+If there is no photon in mode C, it
+does not create an additional phase shift.
+And as we have discussed, this can
+implement the controlled NOT.
+
+So these are the ingredients.
+And at the end of the last class,
+I just showed you what those quantum gates can do for us.
+If you have two qubits at the input, we apply the--
+and we assume they are both in logical zero--
+the Hadamard gate makes the coherent superposition.
+And then we have a controlled NOT
+where this is the target gate.
+Well, if this is 0, if the control bit is 0,
+the target would stay 0.
+So we get 0 0.
+If the control bit is 1, the target bit is flipped to one,
+so if we 1 1.
+So the result is that we have now
+created a state 0 0 plus 1 1.
+And if we apply a phase shift to all of the photons coming out
+on the right-hand side, we get a phase shift which is 2 phi.
+So where do you get the idea?
+If you take advantage of a state 1 1,
+it has twice the phase sensitivity as a single photon,
+and we may, therefore, get the full benefit
+of the factor of 2, and not just square root 2.
+And this is what this discussion is about.
+
+Questions?
+
+OK.
+So that's where we ended.
+We can now use another controlled NOT
+and bring in the third qubit.
+So what we recreate here, the state which is either all bits
+are 0, all bits are 1.
+And then the phase shift gives us three times the phase shift
+phi.
+And therefore, by bringing in more and more qubits,
+I've shown you n equals 1, n equals 2, n equals 3,
+so now you can go to n, we obtain states which have
+n times the phase sensitivity.
+Let me just dimension in passing that for n equals 3,
+the superposition of 0 0 0 and 1 1 1
+goes by the name, not gigahertz, GHZ,
+Greenberger-Horne-Zeilinger state.
+And those states play an important role
+in test of Bell's inequality.
+Or more generally, states which are microscopically distinct
+are also regarded cat states, or Schrodinger cat states.
+OK.
+If we apply a phase shift and go now
+through the entangler in reverse,
+just the reverse sequence of C NOT gates and Hadamard gates,
+then we have all the other n minus-- have the n minus 1
+qubits, all the qubits except for the first, reset to 0.
+But the first qubit is now in a superposition state
+where we have the phase to the power n.
+And now we can make a measurement,
+and P is now the probability to find a single photon
+in the first qubit.
+So in other words, our measurement
+is exactly the same as we had before,
+where we had the normal Mach-Zehnder interferometer.
+We put in one photon at a time and we
+determined the probability, what is
+the photon at one of the outputs of the interferometer.
+But the only difference is that we
+have now a factor of n in the exponent for the phase shift.
+And I want to show you what is caused by this factor of n.
+Let me first remind you how we analyzed
+the sensitivity of an interferometer
+for single photon input before.
+So for a moment, set n equals 1 now.
+Then you get what we discussed two weeks ago.
+The probability just scales as the interferometer,
+sinusoidal, cosinusoidal fringes with cosine phi.
+If you do measurements with the probability P,
+that's a binomial distribution.
+The standard deviation, or the square root
+of the variance in the binomial distribution is P times 1
+minus P. And by inserting P here, we get sine phi over 2.
+
+Derivative of P, which is our signal, with a phase
+is given by that.
+And then just using error propagation,
+the uncertainty in the phase is the uncertainty
+in P divided by dp dt.
+
+So then we repeat the whole experiment n times.
+And if you have a binomial distribution,
+and we do n tosses of our coin with probability P,
+we get an m under the square root.
+And then we get 1 over square root m.
+And this was what I showed you two weeks ago.
+The standard shot noise limit.
+But now we have this additional factor of n
+here, which means that our probability has
+a cosine which goes with n phi.
+When we take the derivative, we get a factor of n here.
+And then dp d phi has the derivative.
+But then we have to use the chain rule, which
+has another factor of n.
+And therefore, we obtain now that the phase sensitivity
+goes as 1/n.
+And therefore, we reach the Heisenberg limit.
+So if you have now your n photon entangler,
+the entanglement operation with these n qubits
+is special-- being spread or replaced by the entangler,
+we have now a sensitivity which goes 1/n.
+And then, of course, if you want you
+can repeat the experiment n times.
+And whenever you repeat an experiment,

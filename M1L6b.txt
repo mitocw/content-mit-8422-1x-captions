@@ -1,0 +1,63 @@
+#
+# File:   content-mit-8422-1x-captions/M1L6b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 54 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we want to talk about some standard entangled states.
+And the most basic state is a singlet state.
+So if you have a state which is 01 minus 10 normalized,
+this is an Einstein-Podolsky-Rosen state.
+This needs now some explanation.
+We have often encountered in [INAUDIBLE] states which are
+simply a superposition of, if you interpret 01 as-- if you
+interpret 01 as spin up or spin down,
+you can [INAUDIBLE] quite often.
+And I want to explain to you now what
+is not an entangled state for the reasons of using
+entanglement as as resource.
+So first of all, I want to point out
+this state is not a single photon because we
+have entangled here two qubits.
+Let me just contrast it.
+If you have a single photon after beam splitter,
+the single photon after beam splitter is in a superposition
+of mode A, mode B 01 minus 10 divided by square root 2.
+But now, 0 is the vacuum.
+So we have not a system which can
+be decomposed into two partial systems
+A and B. You may even separate the system
+and then manipulate you single qubits individually by putting
+phase shifts on and doing other operations.
+If you have this state, which is a superposition between having
+a photon not having a vacuum and having a vacuum state,
+the vacuum state itself is not a separate system.
+You cannot take the vacuum and perform operations
+on the vacuum.
+So I know it has been confusing for me when I heard
+about it for the first time.
+We have, so to speak, here and entangled mode but not
+an entangled state.
+It's a singlet state.
+It has some aspects of entanglement,
+but it is not the entanglement we have defined as a resource.
+So let me just repeat.
+This may be an entangled mode, but to be in an entangled state
+requires systems where you have two parts which
+you can separate.
+The second comment is we have situations
+where we have two different parts,
+but they can't be physically separated.
+So part of our definition of entanglement as a resource
+is that this state must be of two
+physically distinct systems.
+And we won't have parts which can be separately addressed,
+manipulated, and measured.
+In other words, if you weed out one part of an EPR pair,
+the other part still exists.
+

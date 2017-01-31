@@ -1,0 +1,55 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 46 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+One reason that you saw that here in the title,
+"Bell's Inequality With Two Remote Atomic Qubits,"
+those experiments got a lot of attention
+because Bell's inequality is something
+all physicists talk about.
+And when you do it with photons, there
+is always the detection loophole.
+You don't have perfect photon detectors.
+And some people said, well, maybe the violation
+of Bell's inequality comes only from the photons we detect.
+The undetected photons would make up
+for the violation of Bell's inequality,
+and Bell's inequality is not violated.
+I mean, that almost sounds like that nature wants to fool us.
+All the photons team up and say, the photons which are detected
+behave very differently from the photons which are not detected.
+But these are at least logical loopholes.
+And graduate students spend half of their PhD,
+or maybe several graduate students
+spend their whole PhD, in building such an experiment,
+which is now you get a famous paper out of it,
+and your research has attention.
+So you know, I didn't sleep so much,
+so maybe I'm not too serious now.
+[LAUGHTER]
+But this is great research.
+I mean, this is really pushing the limit of our understanding
+of quantum physics.
+And Chris Monroe is a wonderful physicist,
+and we are in the same [INAUDIBLE].
+And so anyway.
+So if you have a Bell state of atoms--
+and I told you how you get it, also,
+with the lousy efficiency.
+But you get a Bell state.
+If you now measure, do a measurement of those Bell
+states, and you measure violation of Bell's inequality,
+atoms, they don't run away.
+You can detect the atoms with 100% probability.
+You can shine laser light on them, hundreds, thousands,
+millions of photons, until they have scattered enough light
+that you know 100% I've detected the atom in this kind of state.
+So Bell states with atoms, one, well, real-world application
+of them is to test violations of Bell's inequality

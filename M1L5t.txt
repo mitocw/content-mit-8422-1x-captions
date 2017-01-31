@@ -1,0 +1,48 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5t.txt
+#
+# Captions for 8.422x module
+#
+# This file has 39 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+If I rephrase this theorem in modern language,
+I would say we have a qubit, which
+is a two-level system characterized
+by two numbers, alpha, beta.
+And we can do an arbitrary operation in the Hilbert space
+of the qubit, which is called an arbitrary single qubit
+operation.
+So it can be performed by phase shifters and beam splitters.
+Just to make sure that this doesn't lead to any confusion,
+the phase shift, which is relevant for this Hilbert
+space, is a phase shift which is relative between the two
+states, and can be dictated by an interference experiment.
+Those global phase shifts cannot be detected.
+There is no procedure to observe those,
+unless you would have a third mode.
+But then you would expand the Hilbert space to three levels.
+And then, of course, what is the global phase
+shift in the two-dimensional Hilbert space
+becomes a relative phase shift within the three-dimensional
+Hilbert space.
+And in modern language, those similar qubit operations
+are called quantum gates.
+So all gates, which act on a similar qubit,
+can be realized with phase shifters and beam splitters.
+Let me give you one example for that.
+In quantum computation, quantum information science,
+there is a very important gate, the Hadamard gate,
+which is described by a transformation, which
+is 1 minus 1 1 1.
+And I said it can be realized with a beam splitter and phase
+shifter, so let me just show it to you
+in using our symbolic language.
+So if you look at the matrix we had derived for the beam
+splitter, you realize that we get the Hadamard gate by aiding
+the phase shifter by pi.
+OK, so in that sense, single qubit operations
+are checked off.

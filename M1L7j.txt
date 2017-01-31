@@ -1,0 +1,44 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 35 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Before we can improve over the fundamental shot noise limit,
+I have to show you how the fundamental short noise
+limit naturally emerges.
+So I want to introduce to you beam splitter interferometers.
+Interferometers are there to measure phase shifts.
+You split a beam, we combine it, and if there's a phase shift,
+you notice it.
+You get interference fringes.
+And I want to show you that, very naturally,
+the standard quantum limit, the short noise emerges.
+But then we are ready to look at our description
+of the interferometer and say, where can we now change
+the rules to put in more quantumness, more entanglement,
+and eventually get higher precision.
+Since the standard quantum limit is well known,
+I want to rather quickly go over that.
+So the goal is that we want to measure a phase shift.
+And my first simple derivation of the phase shift
+is that in this picture of the quasi probabilities,
+the coherent state is a circle like that.
+The width of the circle in natural units
+is 1, but the radius of that is alpha of the coherent state,
+which is square root n.
+So now, if you ask how well with this uncertainty can
+I observe the phase of the photon which circulates
+in this quasi probability plane, you
+find that the phase is 1 over square root n.
+Or, based on your homework assignment number one,
+you can see we have some Heisenberg
+uncertainty between photon number and the phase.
+And in a coherent state, the standard deviation
+in the photon number is square root n,
+and you again get the standard quantum limit.

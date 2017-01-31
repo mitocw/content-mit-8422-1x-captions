@@ -1,0 +1,22 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5g_CQ7.txt
+#
+# Captions for 8.422x module
+#
+# This file has 13 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, next question is we have a beam splitter.
+We have two photodiodes, i1 and i2.
+And now we measure.
+It's important for balanced homodyne detection.
+We can now take the two currents, and we can add them
+or we can subtract them.
+So the question is, if we add the two
+currents, what is now the variant in the two currents?
+Remember each current had a variance of n over 2.
+So now you are asked, when you sum the currents
+of the two photodetectors, what happens to the two variances?

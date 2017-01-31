@@ -1,0 +1,87 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5o.txt
+#
+# Captions for 8.422x module
+#
+# This file has 78 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So let's get started on the next unit, which
+is fully dedicated to seeing the photons.
+So after learning about different aspects
+of the electromagnetic field, we now
+want to focus on the purest quantum states which
+are single photons.
+And this unit is definitely motivated
+by quantum information processing,
+we want to use control over photons
+to realize interesting devices.
+We talk about beam splitters and phase shifters.
+But then we put beam splitters and phase shifters together
+to Mach-Zehnder interferometers.
+And then eventually, I can show you
+how Mach-Zehnder interferometers with a nonlinearity
+can be used to realize [INAUDIBLE].
+But let me make maybe one general comment here.
+
+This unit here on single photons has actually two purposes.
+It tries to give you some fundamentals which are really
+necessary to follow recent literature in quantum
+information science.
+So we introduce some concepts of gates and tools
+tables and such.
+But for those of you who are maybe
+less interested in quantum of information science,
+I have to say that, as a more traditional atomic physicist,
+I've never worked in quantum information science myself.
+I started with atomic molecular spectroscopy
+advanced from laser cooling to quantum gases.
+I feel that the formalism, using the quantum logic formalism,
+is a very elegant way of organizing your thoughts.
+So I do feel even for the rest of the world who is not
+doing quantum information processing, which
+is a pretty big fraction of AMO science in these days,
+even for the rest of us to use concepts of quantum logic
+and quantum information is a very, very powerful.
+So in other words, I would say right now
+every atomic physicist should have some knowledge in kind
+of what happens to beam splitters, what
+happens to single photons when they are manipulating.
+And the way, the approach, how we formulate
+it using concepts of quantum information processing
+is extremely powerful.
+Like in sort of quantum mechanics,
+you need to know the Schrodinger representation
+and the Heisenberg representation.
+You can't get away with one.
+Similarly, for some aspects of the propagation of quantum
+states, you should just use the language of quantum information
+processing.
+Just sort of to give you already an outlook where I think
+everything comes together.
+I've taught for 15 years, 20 years about decoherence
+in master equation.
+And I know how to derive it from general quantum physics,
+and I will show you that later in this course.
+But then I learned from Professor [INAUDIBLE] one
+when I co-taught the course from him
+that he could actually make a model for decoherence
+by just passing light through many, many beams splitters.
+So there is a beam splitter model for decoherence,
+which is just beautiful.
+You can derive a master equation by just sending light
+through many, many beam splitters.
+So that taught me something, that actually
+those elementary devices for quantum information science
+can really act as conceptual models for more complicated,
+more general things.
+So I've decided now over the last few years
+to make quantum information language
+an essential ingredient of this course.
+But I should say over the last couple of years,
+I've de-emphasized some of the more formal algorithmic things.
+But I'm focusing on the concepts.
+And I think some concepts are really

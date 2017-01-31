@@ -1,0 +1,70 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5p.txt
+#
+# Captions for 8.422x module
+#
+# This file has 61 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We want to now talk about realization
+of quantum logic and quantum gates with single photons.
+But I also said that we are actually
+using the language of quantum communications, a kind
+of information processing, to describe general physics
+in a very nice way.
+So first, when we talk about photons,
+we should talk about our qubits.
+And right now, you may think that having a single photon
+and having no photon in a mode are two possibilities
+and you could use them as qubits.
+However, I will tell you today that it is better, actually,
+to use always one photon, but in two different waveguides,
+in two different modes.
+But we'll get there in a moment.
+So the first task at hand is we want to manipulate photons.
+And for that, I want to introduce phase shifters
+and beam splitters.
+And just to give you the punchline right away, what
+I want to show you is that those two simple devices, beam
+splitter-- a half-silvered mirror-- a phase shifter, which
+is just a piece of glass which you can put into one
+of the laser beams-- that those two elements and those two
+basic operations, if they are now put together, if they are
+now-- you do a beam splitter, a phase shifter, another beam
+splitter, and such-- you can realize
+any single-qubit operation.
+So therefore, if we have our one qubit state
+with single photons, every-- any possible state of those qubit
+can be realized using these optical elements.
+So therefore, when I say we start--
+we're going to realize how we can manipulate photons
+with optical elements and such-- I'm
+not going through a zoo of optical elements.
+Those two will do it all.
+With the phase shifter-- that's what we discussed
+at the end of last class-- if you have two modes
+and we shift the phase in one of the modes-- just
+simply put a glass, a piece of glass into it-- then
+there is a phase shift.
+And why do we need two modes?
+Well, phases are usually, at least in experiments,
+not absolutely defined.
+You need a phase reference.
+And here, the mode a acts as a phase reference.
+Let me address one question which a student asked me
+after class, and this was related to-- with-- phases
+appear in more than one place.
+The student's question was motivated
+that if you have one photon, it's a Fock state.
+A Fock state is a circle in the course of probability,
+and therefore, the electric field has no phase.
+Well, this is the phase of the electric field.
+But here, we are talking about the phase of the wave function.
+And a Fock state within photons is an eigenstate
+of the harmonic oscillator.
+It has a time dependence e to the i omega t.
+And we can change its phase.
+So this is the kind of phase shift I've introduced here.

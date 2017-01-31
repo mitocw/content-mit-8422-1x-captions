@@ -1,0 +1,218 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7m.txt
+#
+# Captions for 8.422x module
+#
+# This file has 209 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now we are really ready to see how can we
+improve on the shot noise.
+It seems it's-- unless we do something special,
+we will always get square root n.
+I've already shown you at the beginning
+that the shot noise limit is not fundamental.
+Just take this thought experiment
+that you take the n photons, through a highly non-linear
+process, you create one photon of frequency n omega
+and then you have more precision of this measurement.
+So there must be a way to have a precision which scales 1 over n
+and not 1 over square root n.
+The mathematical argument related
+to our treatment of the interferometer
+is the following.
+Our signal was a dega a minus b dega b.
+Well, if one of the input mode dominates,
+a dega a is the photon number.
+So this sort of looks like the photon number.
+But if we now find a scheme-- and I will show you
+that this is possible-- that this cos term,
+a dega b plus b dega a, which is some form of quantum noise
+as we will see, is 0.
+
+Well, what do we get now?
+So let's hope that maybe by some squeezing--
+I will show you several versions which
+shows you how quantum-ness can give us more than shot noise.
+One example will be that by squeezing light--
+we've learned already that squeezed light can suppress
+the noise if you've squeezed light-- something which
+comes from the modes where we apply squeezed vacuum has been
+used.
+That's what we discussed already.
+So the best we can do is that the noise term is 0.
+
+So what do we have now?
+If we have a sequel which is finite and the noise is 0,
+what is our precision of measurement?
+Well, it first looks like the signal to noise ratio
+is infinite.
+But it's not quite that.
+Because if the signal is-- our signal is x,
+it's the photon number, and this signal
+x was sensitive to the phase by cosine phi.
+The sensitivity of our measurement of the quantity m
+with phase is n times sine phi.
+And this is small or equal than n,
+where the equal sign is obtained for 90 degrees.
+So therefore, we have a photon number n.
+We may absolutely know what the initial photon number is,
+but now we want to measure whether the phase is
+different from pi over 2.
+And the smallest change in our signal, which we can resolve,
+is that we get one photon less.
+So that's the smallest resolvable change
+due to the photon nature of our detection.
+And that implies that the smallest phase shift
+we can resolve is 1 over n.
+
+So this is more thought experiment
+now looking at the math and seeing what is the best signal.
+a dega a can never be larger than photon numbers
+so that's a resource we put in energy in the terms of photons.
+And then the best we can do is that we don't have any noise,
+and then we are simply limited by the fact
+that, when we deviate from the maximum output signal,
+because, say, it's a phase shifting at the interferometer,
+our sensitivity comes in grains.
+It's grainy by the photon number.
+So this is more-- I'm not telling you
+how we achieve to get y equals 0,
+the question is only that at least the math seems
+to make it possible.
+So now we ask how to achieve sub shot noise precision.
+So here we know this is at least mathematically possible.
+
+So we want to improve this interferometer,
+and the question is-- we have to change something.
+I mean, this interferometer operating with single photons
+or coherent state is not giving us any better result.
+So we have three options now.
+We can do something fancy in the input state--
+use entangled state-- we can use some very fancy beam splitters,
+or we can do something special to the way
+how we read out the interferometer.
+And all of those three possibilities,
+we can put in some extra quantum-ness
+into each of the three steps.
+
+[INAUDIBLE]
+
+The question is, can we do something with the phase shift?
+[INAUDIBLE]
+I think if you go do something to the phase shift
+we would do-- we would change apples with oranges.
+Because we want to compare different interferometers
+by measuring the same thing, and maybe
+as an experimentalist say, what I want to be able to measure,
+I take a very, very thin glass plate
+which just makes a very small phase shift
+and I'm now comparing different interferometers.
+And when I put the glass plate in and pull it out,
+I want the person who reads out the interferometer
+to see a change.
+So that's how I want to compare the interferometers.
+
+Actually, the question you are raising was, in another way,
+also discussed at lunch with three
+of my wonderful colleagues.
+Namely, what we discussed was some recent paper-- one
+of them published in Nature-- which claims precision
+better than Heisenberg.
+What I'm sort of indicating to you is Heisenberg
+should be the best which can be achieved.
+How can we do even better than Heisenberg?
+Well-- and this was actually related,
+Nancy, to your question-- if you want to measure magnetization
+and you use some non-linear physics where
+the photons, the number where the magnetization involved
+effects the photon field by some higher
+power of what you measure, you really change what you measure.
+Maybe I'm not expressing it clearly.
+If you measure magnetization and you have a certain quantum
+limit in measuring the magnetization that's one thing.
+But if you now bring another material close
+to your magnetization and this material goes through a phase
+shift, you sort of amplify by a physical process
+by nonlinear Hamiltonian what you want to measure.
+And then of course you can, depending
+on what kind of nonlinear process you are using,
+you can get a signal which scales tremendously
+with a photon with a number of photons
+you put into your system.
+So in other words, there are loop holes
+like this in some of them led to very fleshy papers.
+And our lunch discussion was that some of it
+is really completely trivial, and some papers
+who claim that they have done-- that they have seen
+a scaling of the precision with photon number which is better
+than Heisenberg-- not 1 over n, maybe 1 over n
+squared-- that some of those papers were purely classical
+and the only quantum character of this paper
+was the name of Heisenberg in the title.
+It's not related to any uncertainty relation.
+But that's not what we want to discuss.
+What I want to use now is I want to replace the beam
+splitter by something which involves Bell states.
+So as a beam splitter we do a massive creation
+of Bell states.
+It's our entangler.
+And our second beam splitter is a Bell analyzer.
+It is a disentangler.
+So what I mean is the following.
+We will actually just put one photon into this input beam
+and we will only read out one channel.
+So all this here are only auxiliary modes.
+This is how I make a special quantum beam splitter.
+And what we need for this description
+is, essentially, two gates.
+We need a single qubit.
+The single qubit is the Hadamard gate which we have already
+discussed, and in that dual rail representation,
+it's photon can be in one of the two modes.
+The Hadamard gate is simply connecting
+the two modes in this way.
+And we discussed that the Hadamard gate
+can be described by a beam splitter with a phase shift.
+So in other words, we need one element
+which is a beam splitter with a phase shift.
+But this is only acting on one qubit.
+And now we want to connect qubits
+with a controlled NOT gate.
+To remind you, controlled NOT gate
+is something where the photons stay where they are.
+But if the control beat is 1, it flips the target beat.
+If the control beat is 0, nothing
+happens to the target beat.
+And we discussed already that we can realize one qubit with one
+interferometer.
+These are the dual rails.
+We always have one photon in two states, this mode or that mode.
+And now the other qubit, one of the rails
+can go through the nonlinear Kerr medium.
+If the beat is in c, through the phase shift in the nonlinear
+Kerr medium, it exerts, it flips the beats down there,
+and this is the controlled NOT.
+So now we want to use two qubits.
+So I'm talking about, in our fancy entangler,
+I'm just talking about the first two rails here.
+So we have those two rails, the Hadamard gate
+puts us into a superposition of the logic 0 and 1.
+So what we have here is the product state of 0
+plus 1 upstairs and 0 downstairs.
+But if we have a 1, we flip the 0 to 1.
+So therefore, what we have now is this state, 0 0 plus 1 1
+over square root 2.
+And then we apply our phase shifter
+and what we get out of this state
+is 0 0 plus e to the 2 i phi times 1 1 over square root 2.
+By using two of those, I suddenly
+have multiplied the phase by two so something is now
+sensitive to 2 phi.
+And if I use n such more and more entanglement,
+I will show you-- no class next week,
+but in the following week-- that we suddenly
+have a term in our quantum state which is e to the n phi.

@@ -1,0 +1,142 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5u.txt
+#
+# Captions for 8.422x module
+#
+# This file has 133 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We want to now move to what's two-qubit operations.
+And then it's getting really interesting.
+As you may know, you can do any arbitrary operation
+in many qubits by just having single- and two-qubit
+operation.
+So therefore, once we know how two qubits interact,
+how photons in two different qubits interact, we are done.
+We have universal quantum gates.
+
+The element I need for two-qubit operation
+is the Mach-Zehnder interferometer.
+
+Just a side remark-- I introduce a Mach-Zehnder interferometer
+here as a way to manipulate qubits.
+On the other hand, most of you know
+that interferometers for light and interferometers for atoms
+are used for some of the most precise measurements ever done.
+So in that sense, this shows the dual use
+of the formalism I'm introducing here.
+We will use some of the formalism and the language
+we develop here for qubit operation
+and discuss next week the ultimate accuracy,
+the fundamental limits to the accuracy,
+you can get in precision measurements
+based on interferometry.
+So let me just write down the sentence
+because it has a lot of keywords in it.
+So the dual-rail photon representation
+of a qubit-- this is what we have achieved so far.
+So this allows us now to discuss interferometers simply
+as quantum gates.
+
+What is an interferometer?
+An interferometer is you take-- you have in its basic sense,
+you have a beam splitter.
+You have two paths.
+And then you use another bean splitter which
+really combines the two beams.
+So let me draw two beam splitters.
+So these are two beam splitters.
+We have an input [INAUDIBLE] b, an input mode a.
+They are sort of mixed.
+Here are the two arms of the interferometer.
+And now we create output modes b prime and a prime.
+What we have introduced here is the beam splitter b.
+And by putting the dot on the other side,
+this is b [INAUDIBLE].
+Since b [INAUDIBLE] times b equals 1,
+or equals the identity, this interferometer
+is doing nothing.
+If the photon starts in mode b, it
+comes out in the upper mode b.
+If it starts in a, it comes out in the mode a.
+But of course, this is just the beginning
+because we can now introduce here an arbitrary phase shift
+phi.
+And now it has an interferometer.
+Now we can read out with the output
+the phase shift, and ultimately with very high precision.
+I sort of want you-- that you appreciate
+that if we had used single qubits in one mode-- no photon,
+one photon-- I gave you many reasons why
+we shouldn't do that.
+But then we would be dealing with one mode,
+and this would actually be something
+which involves two qubits.
+But since our single-qubit system
+is the two-level system where the photon is here and there,
+we can now send single photons through the interferometer,
+describe the interferometer as a single-qubit operation.
+At least that's nice.
+It allows us to keep things simple
+and discuss things at a very fundamental level.
+So what we want to figure out now
+out-- we want to figure out what is this interferometer doing.
+So we want to know if we have an input state, what
+is the output state?
+And the input state can now be any arbitrary wave function
+in our dual-rail Hilbert space.
+So it's always one photon, but it
+can be in a random superposition,
+in an arbitrary superposition, of states a and b.
+Well, with the formalism we have developed now,
+it becomes very simple.
+All we have to do is we have to act with the first beam
+splitter with a phase shifter and with the second beam
+splitter onto this state.
+And this is nothing else than taking two rotation matrices
+and multiplying them.
+The beam splitter we have chosen--
+I said there was sort of a phase convention
+when I picked the beam splitter.
+It is a rotation by pi over 2.
+This is minus pi over 2.
+And the z rotation is by minus phi.
+I'm not sure if I managed to do that.
+But if this is the y-axis and we start with a qubit,
+the first beam splitter rotates it down.
+Then the rotation by z does that.
+And the second beam splitter rotates by y.
+So therefore, the qubit is like that.
+So therefore, what I-- if you count all the [? axis ?]
+and all the things I did-- is I started with the qubit here,
+it went down like this, like this.
+So what I did is then the end, I simply
+rotated around the x-axis.
+If you want, you can multiply the matrices
+or you can draw a Bloch sphere visualization
+that you say we have an x-axis, y-axis, and z-axis.
+So z is vertical.
+So we started out with the qubit along the z-axis.
+The first one was a rotation around the y-axis.
+So then we were here.
+The second operation was the rotation around the z-axis.
+And then we have to rotate back around the y-axis, which
+eventually gives this as the final state.
+So ultimately, the product of all this
+is a rotation around the x-axis.
+So our interferometer-- not sure if you've ever
+heard the language, but it's really elegant and powerful.
+An interferometer with an arbitrary phase
+in this two-level Hilbert space with geometric interpretation
+we have given is nothing else than a rotation
+around the x-axis.
+So therefore, we know immediately
+the two limiting cases.
+When we rotate by 0, it's sort of balanced.
+Output and input are the same because we're not rotating
+at all, whereas if we have a phase shift of 180 degrees,
+we swap the two modes.
+And swapping modes is an inversion of the qubit.

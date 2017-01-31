@@ -1,0 +1,257 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7k.txt
+#
+# Captions for 8.422x module
+#
+# This file has 248 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK.
+Let's now obtain the standard quantum limit
+from a real measurement device, because this
+is what we want to generalize for entangles,
+[INAUDIBLE] state, and all the special things.
+So an interferometer is the following.
+Consists of two beams splitters, after the second beam splitter
+we have two detectors, and the quantity we will measure
+will be the difference of the two photocarbons.
+And if you don't do any phase shift,
+we know the two beam splitters are just the identity
+transformation, but now we put in a phase shift
+and the question is, what is the smallest phase
+shift we can measure?
+What is the [INAUDIBLE] measure in this phase?
+We have discussed at length all the elements.
+So we have a beam splitter, a phase shift, and a second beam
+splitter.
+You know that the phase shifter is a rotation in z,
+the beam splitter is a rotation-- was it x or y?
+Looks like I think y because of the i's.
+Just a warning here, in this section I use a beam splitter
+which uses a different phase convention but it's-- they are
+all equal apart from some phases.
+So by multiplying the three matrices,
+we get the transfer matrix for the Mach-Zehnder
+interferometer.
+So the output cd is this matrix here
+which is a simple rotation times the input state.
+And our measurement is the difference
+in photon numbers in the two output modes.
+So it's d dega d minus c dega c.
+So what we can do now is we can obtain c and d
+from the inputs-- from the input modes a and b.
+So therefore, we can now express our signal
+in terms of the input modes.
+When we know what we put into the interferometer,
+because we know all its element, we know what we can get out.
+And this is done here.
+And the phase which appeared in the rotation matrix,
+the phase shift in the interferometer,
+appears now as a cosine phi and sine phi contribution.
+And we have-- the cosine and sine phi
+have two operators as a prefactor.
+In one case it's a dega a minus b dega b.
+In the other case, it's a cost term, a dega b plus b dega a.
+Now, we will be more specific what is signal and noise.
+I just want to tell you, in the standard way of operating
+the interferometer, you have only one beam in the mode a.
+You take a beam, you split it, you recombine it.
+b is nothing, or the vacuum.
+It may introduce some noise.
+But if you have a lot of intensity in the beam a,
+it is this term which dominates, and you find fringes
+as a function of the phase shift cosine phi.
+Whereas, what comes here, is sort of more the vacuum mode.
+It gives rise to noise terms.
+So if you ask, what is the expectation value
+for x-- this x operator-- it varies [? cosinusoidally. ?]
+There is a special point for a phase shift of 90 degree when
+we have the steepest slope and the highest sensitivity.
+This is all just setting the stage.
+What we are interested in is, if we now
+have an input state of light, and as you know,
+there's all this noise-- there's the fundamental noise
+of the vacuum, or coherent state,
+of Heisenberg's uncertainty-- this means, when
+we do repeated measurements we will have
+a variance in the phase, and we want
+to know what is the fundamental limit on the standard deviation
+in the measurement of the phase.
+Well, the standard deviation in the phase
+is nothing else than the standard deviation
+of what we measure M divided by how sensitive M
+is to the phase.
+So by taking this expression for M,
+M is an operator x times cosine phi plus
+something times sine phi, we can now evaluate this expression.
+This will actually appear several times today
+and it's also a key question to one of your homework problems.
+So this is what defines-- what defines the [INAUDIBLE]
+of the interferometer.
+And what we have here are expectation values
+of operators.
+And now we can-- that's what we will
+do for the rest of this lecture-- we
+will look at this expression for different input states.
+Coherent state, single photons, [INAUDIBLE], entangled state.
+So that's what you want to do.
+So if you take the derivative of dm d phi,
+the cosine becomes a sine-- a minus sine--
+the sine becomes a cosine.
+And if we specialize to the situation,
+which is where the slope is very steep-- a 90 degree phase shift
+around this point-- our phase sensitivity is given
+by the expectation value of-- the variance of the operator
+y divided by the operator x.
+So now we are ready to plug things in.
+The first thing is, of course, the coherent state.
+For the coherent state, our input to the beam splitter,
+one is a coherent state, the other one
+is a vacuum in mode and b.
+We had expressions-- let me just scroll back-- we
+had expressions for x and y expressed by the operators
+a, b, a dega, b dega.
+So therefore, we can calculate that now.
+And x is nothing else than the number of photons
+in the coherent state.
+And this is our signal, and y is 0.
+This was the noise term.
+And the variance in y, just to [INAUDIBLE] us, is given by n.
+So therefore, if we calculate square root of y square over x
+for the coherent state input, we take the square root
+of y square, which is square root n, we divide by n,
+we obtain the standard shot noise limit.
+Sure.
+What else would we expect?
+So now we know how to use the formalism.
+We can now apply it to-- we can go
+from the most classical state of light, the coherent state,
+to what I regard, at least for single mode, the most quantum
+state, namely a single photon.
+Remember when we talked about the G2 function.
+G2 function can only be smaller than 1
+for non-classical states, and for the single photon it's 0.
+It's the biggest violation of the classical equation
+that G2 has to be larger or equal than 1.
+So now we're really dealing with a quantum system,
+and the question is, what will we get for the single photon?
+OK.
+So for the single photon, we want to use the dual rail
+representation.
+We want to use the powerful formalism we have used.
+After the beam splitter, the photon
+can be in one mode or the other mode.
+We call this, in the dual rail representation, the logical 0
+or the logical 1.
+
+So in this representation, when we
+start with a photon in one input mode, this is the logical 0.
+
+The beam splitter is directing the photons
+into one mode or the other mode.
+But this is a single qubit rotation.
+
+The phase shifter is another thing single qubit operation,
+the second beam splitter is another operation.
+So by just using the rotation we'll
+find out what is the output state.
+So we start with the logical 0 with the photon in one mode,
+the beam splitter creates a superposition state-- remember,
+we have the interferometer and in the lower arm
+we put in a phase, so therefore the lower arm
+gets multiplied with a phase shift--
+and then it goes again through a beam splitter
+which is just another rotation.
+And with that we obtain the output state.
+And so the output state, in-- the output state
+is now a superposition of the logical 0 and the logical 1
+and we've picked up a phase shift.
+
+So now we ask-- we have the beam splitter, phase shift,
+recombiner-- and now we are asking,
+what is the probability to detect the photon in one
+of the two output modes?
+We just put a counter there.
+And this probability is nothing else than the probability
+to have a logical 1, because a logical 1 in the dual rail
+representation means the photon is in one mode.
+The logical 0 would be the other mode.
+
+I felt if I would spend three or four times as much time on it
+you wouldn't-- it wouldn't increase your understanding.
+You may have to sit down and look through it.
+But it's just really putting matrices together,
+single photons, mapping it.
+Every step is trivial and is what
+we have done in a different context before.
+So the result is that the probability
+of finding the single photon in our detector
+has a cosine phi factor.
+So that's how we measure phase.
+Our counter, the probability that photons arrive,
+if phi is 0, the probability is 1, if phi is 180 degrees,
+all the photons go to the other mode.
+That's what you expect an interferometer to do.
+But now comes the interesting question.
+How precise can be we measure the phase?
+
+Remember, in the coherent state, the coherent state
+had fluctuations in the photon number of square root n.
+And this gave rise to the standard quantum limit.
+A signal photon is a single photon.
+There is no noise.
+We always measure single photon if it would simply
+detect the number of photons in the input state.
+But we're not doing that.
+We have sent the photon through an interferometer in order
+to measure the phase, and now we have--
+and this is the result of this, I would say,
+trivial calculation, that this is now the probability
+to observe a photon.
+Well, there is not a whole lot we can learn from one photon,
+so we run the experiment n times.
+And what we get is it a binomial distribution.
+Just a coin toss with probability p.
+What is the variance in p?
+It's not a [INAUDIBLE] distribution,
+it is an binomial distribution.
+Of course, if the probability is 1, you detect all your photons,
+there is no uncertainty.
+If the probability is 0, you detect 0 with 0 uncertainty.
+So therefore, the expression for the variance
+of the binomial distribution is p times 1 minus p.
+If not, I admit I had to refresh my memory
+about the binomial distribution yesterday evening.
+So therefore, when we repeat the experiment many times
+and we have sent into our interferometer n photons
+and we measure n clicks, and n over m
+is our measurement for the probability,
+this measurement of the probability has noise.
+And the noise is the variance of the standard deviation
+of the binomial distribution.
+This expression for p, put into the variance
+of the binomial distribution and a little bit
+of trigonomic manipulation, gives us that result
+on the right hand side.
+
+Well, we want to know what is the uncertainty in the phase.
+I mean, this is what we want to measure.
+Well, the uncertainty in the phase
+is the uncertainty in our measurement, which is delta p.
+And then we have to divide by how sensitive the probability
+is with respect to the phase.
+So we take this expression of the probability
+as a function of the phase, take a derivative,
+and then by doing the ratio of this over that,
+we find 1 over square root n.
+So it doesn't make any difference
+if you put the n photons into a coherent beam
+and run our interferometer or if we
+go through the great pain of preparing
+each photon in a non-classical flux state
+and just operating the interferometer
+with single photons.
+In both cases do we obtain the standard quantum

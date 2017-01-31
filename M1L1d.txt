@@ -1,0 +1,59 @@
+#
+# File:   content-mit-8422-1x-captions/M1L1d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 50 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+What I've discussed so far is that the standing wave of light
+creates now a periodic potential for the atom,
+and we will understand it from many, many different
+perspectives, from the photon-type quantum optics
+perspective to the most classical description.
+So what immediately comes to my mind
+is that we now want to look at this periodic potential in two
+different situations.
+
+Well, whenever you have light, spontaneous emission
+is a possibility.
+And we may ask what happens when spontaneous emission is not
+negligible?
+And we discuss it approximately in week nine of the course.
+Then what happens is an atom has an excited and a ground state.
+And both in the excited and the ground state,
+do the atoms feel the periodic potential?
+Well, eventually, we have to generalize
+the notion of ground and excited state into three states.
+And I will tell you all about it in a few weeks.
+But the situation can now be when
+an atom is in the ground state, it
+has to move up the standing wave potential.
+Then it's getting excited with a laser.
+It has to move up again the standing wave potential,
+and then there may be spontaneous emission.
+So what I'm just describing here is a situation
+where the atom is mechanically moving up the potential.
+It's excited at the top of the potential,
+and it emits when it's on top of the potential.
+So the atom is doing mechanical work,
+and this is called Sisyphus cooling.
+
+This is one method, one mechanism of laser cooling
+which leads to the lowest temperatures in the laboratory
+before evaporative cooling is used.
+So that's some cool aspect we will come along
+by discussing motion in a standing wave,
+but taking into account that photons are emitted
+and really make understanding when and where are
+the photons emitted.
+Well, the second situation is, of course,
+if spontaneous emission is completely negligible,
+then we have a situation where all what matters
+is the potential.
+And we can completely forget that it's photons,
+it's quantum optics which has created this potential.
+We can simply use a classical potential

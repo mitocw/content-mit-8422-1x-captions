@@ -1,0 +1,243 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4m.txt
+#
+# Captions for 8.422x module
+#
+# This file has 234 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The language we have used, the methods we have introduced,
+can now be used to something which
+is really cool, teleportation.
+So I want to show you how balanced homodyne
+detection quadriture measurement and displacement
+operator can be put together to generalize
+a scheme, which is a scheme for teleporting quantum states.
+So this is an application of squeezing, homodyning,
+and all that.
+Teleportation of light.
+Let me just illustrate what the problem is.
+What I want to explain to you here
+is the physical concepts behind teleportation
+and the crucial steps to realize teleportation.
+So first what is teleportation?
+Well teleportation has a sender and a receiver,
+which in quantum information science
+are called Alice and Bob.
+And teleportation means Alice has a quantum state of psi.
+And she wants to send this quantum state psi to Bob.
+In other words, you have maybe some squeezed light.
+You have something, a quantum state psi,
+which is interesting.
+And the question is, how can this--
+how can Bob create an identical copy of this quantum state
+psi that he can sort of walk away with the same quantum
+state?
+
+Before you appreciate teleportation
+you have to realize what the problem is.
+
+And the problem is really in fundamental properties
+of quantum systems, fundamental limitations,
+what you can do with the quantum system.
+First I have to tell you of what is allowed and what
+not in this game.
+Teleportation means, of course, you will not take your atom
+and your photons in the state of psi,
+just propagate them to Bob and [INAUDIBLE] who prepares them.
+That's trivial.
+I can send any quantum state to you
+by transmitting an atom or a laser beam to you,
+and you have the same quantum state I had earlier.
+This is not teleportation.
+This is trivial propagation.
+What is meant is that we don't have a quantum channel.
+I'm not allowed to send my quantum state to you.
+But in teleportation I can do a measurement on the quantum
+state, call you up for a classical communication
+channel, and tell you the result of my measurement
+is such and such.
+And then you would say, well, if I have a spin system and I
+measure spin up, I call you and say,
+my measurement for spin up.
+And you create a spin up system.
+Isn't that teleportation?
+Well the answer is no, because maybe the state I had
+was a superposition of spin up and down.
+And what I measured is only spin up, and by telling you
+it's spin up you would never create a superposition state.
+It would just be a spin up state.
+So the fact is that if I do a measurement on my quantum state
+and report my results to you, you
+have insufficient information because
+a projective measurement on a quantum state
+inevitably leads to loss of information.
+And measurement on a single quantum state
+does not create enough information
+to recreate the quantum state.
+
+Of course, there is an obvious solution.
+When you want to obtain information about a quantum
+state we often-- in quantum mechanics,
+we have to do many measurements.
+And we can take a spin state.
+We can measure, what is its X?
+What is its Y?
+What is it's c component of the spin?
+We can completely characterize the spin state.
+And then we know everything about it.
+But the problem is we have only one quantum state,
+and we can't do repeated measurements.
+Then you would say, well, the next thing is, why don't you
+just take your quantum state and xerox it,
+make many, many copies.
+And then you have an ensemble.
+And you can take as many measurements you want.
+You can do an X measurement, P measurement.
+I mean, you can reconstruct the complete wave function.
+You can measure with an X basis, you
+can measure with a momentum basis.
+You can collect all information.
+But the problem is-- otherwise the whole teleportation
+would not be an issue at all-- there is a no cloning for them.
+You cannot duplicate a quantum state.
+So if you have an atom in a certain quantum
+state and another atom, it is quantum mechanically forbidden.
+There is no unitary transformation,
+no way of creating a situation that you
+have one unknown quantum state, plus another atom
+or another light beam, and after some interaction
+you have two times the same quantum state.
+You cannot clone.
+
+So therefore, based on all that, we cannot clone the quantum
+state.
+We are only left with the one copy of the quantum
+state, which Alice has.
+Alice is not allowed to send it to Bob.
+Maybe Bob is on the other side of the ocean
+or on another planet.
+All what Alice can do is, she can do one measurement
+and tell Bob, this is my measurement.
+So this is the problem of teleportation.
+How is that possible?
+Well, the way how I put it it seems impossible,
+but there is a way out of it.
+What I've just said is, to perform
+a single measurement is not enough information,
+so this is not enough.
+So we need one more resource.
+And the resource which is now used to realize quantum--
+to use a quantum teleportation is
+that you take some entangled system,
+or-- and this is why I talk about it today-- or squeezed
+light, which is also-- that's the same thing.
+It's a form of entanglement.
+I told you that when we generate squeezed
+light with the parametric down conversion
+the parametric down conversion creates-- takes a green photon
+and creates two identical infrared photons.
+Until now we have discussed that those identical infrared
+photons go into the same world, which is squeezed,
+but now a slight extension of this concepts
+would mean-- in parametric down conversion
+you squeeze something, but one photon goes to Alice,
+one photon goes to Bob.
+So now Alice and Bob have an additional resource.
+They sort of own, each of them, half of the two twin brothers,
+which are the photons created in the parametric down conversion
+process.
+
+And that will work.
+So the idea is the following, to create
+those twin beams or photons is simply
+done with an optical parametric oscillator.
+That is one extension, which is described on the [INAUDIBLE]
+here.
+I won't have time to explain it to you,
+but it's a two mode or [INAUDIBLE].
+It puts the two identical photons not in the same beam
+as we did before.
+We had p a dagger squared A square operator.
+They go into different modes.
+And now there's-- you know, magic of beam spinners by now.
+But now two beams come out, one goes to Alice one goes to Bob.
+And now if Alice were to take her input state,
+this unknown state which is handed
+to her by Victor-- somebody else who participates in the game.
+So now we know already that if Alice
+would perform a measurement, the quantum state
+would be destroyed.
+The result of the measurement-- let's talk about spin one half,
+would only be one spin projection.
+It's not enough to-- it's not enough to reproduce a state.
+But what she is doing is she uses again
+the magic of the beam spinner.
+So one of those twin brother photons
+is now mixed with the unknown quantum
+state at the beam splitter.
+And the output of the beam splitter
+is now entering that balanced homodyne
+detection, which was discussed.
+So the output of this beam speed and the two outputs,
+both of them is now becoming part of a balanced homodyne
+measurement, and you see the ingredients.
+So this and this will be measured.
+The other input for the balanced homodyne
+is a strong local oscillator.
+And the face of the local oscillator
+is chosen in one case that you measure
+or the X or A1 quadrature component,
+or the P or the A2 component.
+So now what Alice has done is, by using
+this balanced homodyning she has with his local oscillator,
+has actually now performed two measurements.
+The quantum state is destroyed, but her or she gets an X-value,
+and he or she gets a p-value.
+
+So how the magic works out it's really
+just a few lines of mathematics no is, this
+was sort of twin brothers, but it
+wasn't clear in which quantum state the twin brothers are.
+Of so if you write it down, and I
+can show you the formula in a moment,
+these were twin brothers, but those twin brothers-- this
+is brother one, this is a brother
+two-- are in a linear-- are in sort of a continuum of states.
+And when Alice would measure that this twin brother is
+in state peak X, that would be a projective measurement.
+And Bob's twin brother would know be certainty
+also be in the state X. So therefore,
+what happens is the measurement of X and P is now producing--
+is now through the measurement process--
+putting the other photon, or the other beam,
+the other twin brother, into a specific quantum state.
+
+And if you look for a few lines of math
+the magic is that the quantum state which, is now here
+with Bob, turns out to be a displaced copy--
+a displaced copy of the original state.
+And the displacement depends on X and P.
+So if Alice now tells Bob, hey, I measured X and P.
+And Bob is now broken in his displacement operator--
+remember displacement operator is nothing else
+than a beam splitter-- an unbalanced beam
+splitter with a huge local oscillator as an input.
+So if Bob is now setting up his displacement operator
+based on-- makes a displacement which depends on X and P.
+He can takes this other twin brother, shift it back,
+and he will essentially regenerate the quantum
+state which Alice had.
+So this is now how a quantum state can be transmitted
+without having any quantum channel for transmission,
+you're not propagating the quantum state.
+Use classical communication, but the resource you use
+is some EPR pairs, or squeezed light.
+
+It's a few lines of equations, but I don't have time
+to go through it.
+They're really annotated, innovated.
+I think it will be an enjoyful reading for you.

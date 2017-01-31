@@ -1,0 +1,242 @@
+#
+# File:   content-mit-8422-1x-captions/M1L2b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 233 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+When, we start out with Maxwell's equations,
+we have actually six components of the electromagnetic field.
+And we will see in a moment that this is redundant.
+What will turn out to be very important to separate
+the local fields from the radiation field
+is a Fourier transformation.
+And so we introduce an expansion into plane waves.
+And what then happens, of course,
+is that the derivative operator becomes the k vector.
+So therefore, when you had Maxwell's equations
+with the curl del cos b, it turns into k cos b.
+And this is now important because we
+have now separate equations for the component
+of the electric and magnetic field
+which is parallel onto k projected onto k.
+And of course, the cross product takes out the component
+which is perpendicular to k.
+
+So that's something which is sort of nice that the Fourier
+transform allows us to separate the fields
+into longitudinal fields where the vector of the Fourier
+component is parallel to the k vector
+and into transpose component.
+The difference between curly and non-curly vectors
+is one is a Fourier, the other one
+is other spatial components.
+I have to actually say the [INAUDIBLE] API
+sort of very-- tries to be super accurate in choosing symbols.
+They don't want to-- [INAUDIBLE] is really
+a master of elegance and perfection,
+so they don't want to use the same [INAUDIBLE]
+for a spatial component and for the Fourier component.
+On the other hand, I have to tell you one thing.
+For the next hour, use a little bit your intuition.
+If you see e, it means electric field.
+Whether it is curly whether it's italic, whether it's boldface,
+just don't let those differences clutter your view.
+So I would say don't ask me too often
+what exactly does it mean now because you have
+gone from curly to non-curly.
+It is explained in the appendix.
+I will tell you everything which is necessary,
+but these are of some-- I mean, subtleties
+which are more for rigorous [INAUDIBLE]
+the mathematics in a more rigorous way.
+So we have the spatial Fourier components.
+And as I mentioned, what you can do only because of the Fourier
+transform, you have now the distinction,
+a rigorous separation, between the parallel
+and the longitudinal fields.
+
+So of course, you can also now get back
+what is the longitudinal field not in Fourier space,
+but in position space by just taking
+the longitudinal or transverse components of the Fourier
+transform and transforming them back.
+Why I'm elaborating on that is we
+will see in the next few minutes that the transverse field
+is the field which propagates.
+The longitudinal field is the Coulomb field.
+It belongs to the atoms and will not
+become a new degree of freedom.
+And we see that immediately in the next equations.
+When we look now at Maxwell's equations,
+we find that the transverse and longitudinal fields decouple.
+We have two kinds of equations which are completely decoupled.
+The longitudinal electric field is the Coulomb field
+associated with a charge entity whereas the transverse fields
+are sort of creating themselves.
+And this is radiation, how the electric and magnetic fields
+create themselves as they propagate.
+Now, the fact that the parallel electric field can be expressed
+by the charge density or it's expressed
+by the momentary position of charges-- and this
+means immediately that the longitudinal field is not
+an independent variable or an extra degree of freedom.
+Canonical, of course, we describe particles
+by their position.
+And here, you see explicitly that the parallel field, which
+we, the longitudinal field, which we defined the way we
+did it, that this part of the field
+is a momentary electric field, the Coulomb field
+associated with the charges.
+The next thing, of course, is to define the vector potential
+and the scalar potential.
+So we can, by using the standard substitution,
+we can now express electric and magnetic field
+by scalar potential and by a vector potential.
+And we continue to have the separation
+between longitudinal and transverse fields.
+Namely, the transfers electromagnetic fields
+depend only on the transverse component
+of the vector potential.
+And the transpose component is gauge invariant.
+In other words, you know there are
+different gauges we can consider when we introduce
+electromagnetic potentials.
+But the choice of gauge does not affect the transverse vector
+potential.
+Well, now we want to pick our gauge
+and we pick the gauge which is most convenient.
+This is typically for low energy quantum physics
+for describing atoms and radiation-- the Coulomb gauge.
+So we have the freedom of speech.
+And the Coulomb gauge is written by-- that the divergence
+of the vector potential is zero.
+If you now kind of thing about Fourier transform,
+this means k dot the Fourier components is zero
+and that means the vector potential does not have
+any longitudinal component.
+So with that, we have now reduced
+equations for six variables-- three electric field,
+three magnetic field components.
+By introducing vector and scalar potential, you go to four.
+We've eliminated one more with the Coulomb gauge.
+So we have three.
+This scalar potential is the Coulomb potential.
+It's not an extra degree of freedom.
+And what is left are the two components, the two field
+components, of the transverse vector potential.
+And these are now, as we will see, the independent variables
+of the radiation field.
+So in other words, when we talk about the electromagnetic field
+in the remainder of the course, the part
+of the electromagnetic field we are interested in
+are the fields generated by the transverse vector potential.
+Now, what is next is to go into normal modes.
+The reason is that we want to identify
+each normal mode of the electromagnetic field
+as an independent harmonic oscillator.
+Now, I'm showing you those equations,
+but you sort of have to sit back because now, there will be
+alphas, As, lower As, upper As.
+They all mean pretty much the same.
+In one case, you're normalized.
+
+Maybe something has to be factored out or not.
+So the derivation in the appendix of API
+is exactly [INAUDIBLE] distinction.
+But let me just give you a flyover here,
+and that is we are now taking the transverse components
+from the electorate magnetic field
+and we define new parameters which are the normal modes.
+And what we actually want to see in a moment
+is that those normal mode variables
+are harmonic oscillators.
+Those normal modes can be defined by the original field
+which are transverse.
+But since we have expressed the transverse field
+by the transverse vector potential,
+they also simply can be explained
+by the transverse vector potential.
+So to the mind you, we have done a Fourier transform
+in the spatial coordinate but not
+yet in the temporal coordinate.
+
+OK, so what we obtain now is an equation
+of motion for the normal mode variables.
+
+And here, I have reminded you that the transverse vector
+potential, how it can be expressed by the normal mode
+variables.
+So in other words, we do-- yes, it
+looks complicated and a little bit messy,
+but it's classical physics.
+And all we have done is introduced normal modes
+in a just more complicated notation
+as you may have seen it in 803 or some other course
+and for the first time we talked about normal modes
+of a pendulum or a chain of sprigs.
+
+So we have identified normally modes by the equation above
+and then it's a mathematical identity
+that our radiation field, our transverse vector potential,
+can simply be expanded into normal modes.
+So the equation of motion for the transverse fields
+involve, of course, the transverse vector potential.
+Here, we have our equations for the transverse fields.
+So this is what people want to describe.
+And if we express everything in terms of the vector potential,
+then we have an equation which involves the transverse vector
+potential, but in addition, because it's
+a differential equation, the first and second derivative.
+So that means that, well, if you have a second order
+differential equation, which is the full description
+of the electromagnetic field, then
+you know that the solution of the second order equation
+needs as an initial condition the field itself
+in the first derivative.
+So therefore, our classical fields
+are determined by a perpendicular
+and its derivative at the initial time.
+So we need A and we need A dot, and they are coupled.
+But what we are doing right now is--
+and this is the idea behind the normal modes.
+The normal modes' coordinates combine A and A dot.
+It's the same when you have a harmonic oscillator
+and you want to introduce coordinates
+for the normal mode.
+They are a combination of position and momentum.
+And then, they are decoupled.
+But position and momentum always couple
+or oscillate back and forth.
+And the same happens here between A
+and A dot and the normal mode coordinates
+are the linear combination.
+So in other words, the equation of motion, coupled source,
+and normal mode means that we have introduced
+decoupled normal modes.
+And whenever in classical physics we have normal modes,
+normal modes means that time dependence
+is e to the i omega t.
+Then, we have distilled the problem of coupled components
+to decoupled harmonic oscillators.
+So at this point, each mode acts is an independent harmonic
+oscillator.
+So what I wanted to show you here
+is clearly as a fly over and as an appetizer
+to read more in the book, that we
+can start with electromagnetic field components.
+We have rigorously-- we haven't just
+assumed we have now empty space and only [INAUDIBLE] radiation.
+We have rigorously separated the electromagnetic field
+in what belongs to the atoms and what
+belongs to radiation and the trick versus spatial Fourier
+component.
+At that moment, we had a description
+in terms of the transverse vector potential,
+and by using purely classical physics,
+by combining the vector potential and its derivative,
+we found normal modes and they are now completely independent

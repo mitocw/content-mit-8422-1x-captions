@@ -1,0 +1,135 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 126 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So this is now drawing our attention to the single photon.
+And this is our next subsection.
+I mean, this shouldn't come unexpected.
+If we want to emphasize-- if you want
+to emphasize the difference between quantum
+light and classical light, where does it comes from?
+Well, it comes from the quantization of light.
+It comes from the photon character.
+It comes from the fact that light is not
+a continuous stream of energy.
+It becomes quantized in photons.
+So the granularity of light due to the photon character
+is, of course, most pronounced for a single photon.
+For instance, when we defined the G2 function
+as the correlation of detecting a photon
+and detecting another photon, well,
+if you've only one photon, you find one photon.
+And the next photon-- there is no photon to be detected.
+So the probability of detecting two photons
+is zero, and that only happens when
+you go down to single photons.
+So this is when certain fluctuations
+are most pronounced, because the energy sort of is
+dependent on a single photon.
+Let me first address one misconception.
+You can say, well, let's just use a coherent state.
+And we talk about the attenuator--
+the quantum attenuator, with all its operator beauty-- probably
+not today, but in the next lecture.
+But let me already sort of prepare you for that.
+When you have a coherent state-- when you have a laser beam--
+you can put in attenuator, and your laser beam
+gets weaker and weaker and weaker.
+But it stays a coherent state, and I will prove that to you
+very soon.
+So you can now say that you take your coherent state,
+and you attenuate it down that there is only one photon left.
+Is that a single photon state?
+The answer is no, it is an attenuated coherent state.
+Coherent states, as I've just shown you, are very classical.
+They've always Poisson distribution.
+They've always a G2 function of 1,
+and attenuation is not changing it.
+Attenuation is preserving that.
+So now, I want to show you explicitly
+why an attenuated coherent state may have an average photon
+number of 1, but it shares nothing else
+with a quantum state of one photon of any [INAUDIBLE]
+in Fock state.
+
+So a coherent state with an expectation value of one photon
+is not a single photon.
+And this can be, for instance, expressed
+by looking-- what is, actually, the probability
+if you have such a cohesion state, to find one, two,
+or three photons?
+Well the probability to find zero photons-- no photon
+at all-- is actually 1/3.
+So the probability to find one photon,
+or to find zero photons, is the same.
+The probability to find two photons is 0.18.
+So here, you have a probability of finding a photon
+and correlating it with the photon click.
+And you have even, on first sight,
+a surprisingly large probability to find three and four photons.
+So in 2% of the cases, you will find four photons.
+Whereas, in contrast, the Fock state with quantum number n=1
+is an eigenstate of the number operator,
+with eigenvalue m equals 1.
+
+So that tells you that, if you want to get an n equals 1,
+if you want to get a single photon state,
+you cannot just use a strong laser beam,
+or a strong light source, and attenuate it.
+You have to work with something which genuinely creates
+only one photon, without any ambiguity,
+without any fluctuations, without any possibility
+of creating two photons.
+And I would actually say, over the last 10 or 15 years,
+the creation of single photons has
+been sort of a small cottage industry,
+because single photons are often needed for protocols in quantum
+computations, for experiments which really require accurate
+quantum state preparation of light
+and, in particular, non-classical light.
+But of course, there are ways how you can get single photons,
+and this is where you start with single atoms.
+If you have a single atom in the excited state,
+it can emit only one photon.
+
+So, in other words, we cannot-- we often don't, or usually we
+don't have the tools to prepare a single photon,
+to take a single photon out of many,
+many photons and store it separately.
+But what we can control is single atoms.
+We can prepare single atoms, and then we
+can make sure that single atoms create single photons.
+It's a little bit a way that-- we cannot control the bullets
+which are fired, but we can control the guns.
+And we make sure that each gun can emit exactly one bullet.
+So that's a way how we can create
+non-classical states of light.
+
+Yes, so let's now look for those single photons
+at the quasi-probability distribution.
+
+So we obtain the quasi-probability distribution
+by taking the single photon state,
+and projecting it on a coherent state.
+
+You'll remember-- it's higher up in the notes-- what
+the coherent state alpha is in the Fock state basis,
+in a number basis.
+And so we are just picking out n=1.
+And this was nothing else than alpha
+squared times e to the minus alpha squared.
+So therefore, in these diagrams, with real part
+and imaginary part-- imaginary part,
+if I plot the quasi-probability distribution, we get a ring.
+The ring immediately tells us that there is no phase defined.
+All phases are equally probable.
+
+And that also means, if you don't have a phrase,
+the average value of the electric field is 0.

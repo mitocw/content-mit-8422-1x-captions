@@ -1,0 +1,77 @@
+#
+# File:   content-mit-8422-1x-captions/M1L2d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 68 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Enough of classical physics.
+All we have done so far-- and sorry for repeating it,
+but I think I can't repeat it too often with so many
+complicated equations on the screen-- all
+we have done so far is we have rewritten Maxwell's equations.
+We've rewritten Maxwell's equations
+in Fourier space with the vector potential,
+eventually with normal modes.
+That's all we have done.
+But now what we are doing is we do
+this step in quantum mechanics, which you have already
+seen a few times.
+And this is you have written equations in such a way
+that they look harmonic oscillators.
+And then you postulate that the classical quantities
+become operators.
+The transverse vector potential and
+the conjugate canonical momentum fulfill now commutators.
+And we use those commutators to define them as operators.
+
+Now, it looks particularly easy when we use normal mode
+operators because the normal mode operators
+after quantization become our a's and a daggers.
+So I just want to sort of-- that was one of the things I wanted
+to show you, that you can go through everything introducing
+classical normal modes, and then the normal modes
+turns into operators.
+And now you have all your creation
+and annihilation operators.
+So in other words, quantization cannot be rigorously proven.
+I mean, you cannot prove quantum theory from first principles.
+You can have a mathematical framework
+and then check it against nature.
+And what we have done here is to formulate the quantum theory.
+At this point, we've made a postulate.
+To We've made a postulate that we have operators which
+fulfill a commutation relation.
+And it is now your choice if you want
+to formulate, postulate the commutator
+for the transverse vector potential
+and its conjugate momentum.
+
+Or if you immediately want to jump at the normal modes,
+and that would mean you have the commutator for a and a dagger.
+OK.
+So we started with the electromagnetic fields.
+We went through transverse fields,
+vector potential, normal modes.
+Now we quantize.
+But now all the equations, all the substitutions we have made,
+we can go backward.
+So therefore we can now express the converse vector potential,
+the electric and the magnetic field, by the normal modes.
+Or that would mean in quantum mechanics after quantization
+we can express them by the a's and a daggers.
+And this is how we define the operator
+of the electric and magnetic field in the vector potential.
+
+So now our fully quantized theory
+has operators, a or a dagger, or if you want,
+now the first defined operators of vector
+potential electric and magnetic field.
+And just to remind you, since atomic physics is
+between fields and particles, we have exactly-- we
+have the standard definition of the particle operators.
+Each particle is described by its momentum and its position.

@@ -1,0 +1,73 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7o.txt
+#
+# Captions for 8.422x module
+#
+# This file has 64 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+This section is called Quantum Metrology.
+It is a section where we want to apply
+the concepts we have learned to precision measurements.
+It's actually a chapter which I find nice.
+We're not really introducing new concepts.
+We're using concepts previously introduced.
+And now you see how powerful those concepts
+are What can be used for.
+So we want to discuss the precision we can
+obtain in quantum measurement.
+We apply it here to an interferometer,
+to an optical interferometer.
+You could also discuss the precisional spectroscopic
+measurements.
+A lot of precision measurements have many things in common.
+So what we discuss here is a generic example
+for precision measurement, that we send light
+through Mach-Zehnder interferometer.
+Here is a phase shift.
+And the question is, how accurately
+can be measured the phase shift when
+we use n photons as a resource?
+And of course, you are familiar with the fundamental limit
+of standard measurements, which is the shot noise.
+And as a warm up, I showed you that when
+we use coherent states of light at the input
+of the interferometer, you obtained the shot noise.
+Well that may not be surprising, because coherent light is
+as close as possible, it is similar to classic light.
+But then we discussed single photon input.
+And by using the formalism of the Mach-Zehnder
+interferometer, we found that the phase uncertainty
+is, again, 1 over the square root n.
+So then the question , is how can we go to the Heisenberg
+limit, where we have an uncertainty in the phase of one
+over n?
+And, just as a reminder, I find it very helpful,
+I told you that you can always envision, if you have n photons
+and you multiply, put the n photons together
+by multiplying the frequency by n,
+then you have one photon with n times the frequency.
+And it's clear, if you do a measurement,
+that n times the frequency, your precision in phase
+is n times beta.
+So what we have to do is, we have
+to put the n photons together, and then
+we can get n precision of the measurement, which
+is not square root n, but n times beta.
+So this is what we want to continue today.
+This is the outline I gave you in the last class.
+If you have this optical interferometer,
+this Mach-Zehnder interferometer,
+and if you use coherent states or singular
+photons as the input state, you obtain the shot noise.
+Now we have to change something.
+And we can change the input state,
+we can change the beam splitter, or we can change the readout.
+So we have to change something where
+we entangle the n photons.
+Make sure, in some sense, they act as one giant photons,
+with either n time the frequency,
+but definitely with n times the sensitivity to phase shift.

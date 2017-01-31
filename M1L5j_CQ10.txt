@@ -1,0 +1,22 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5j_CQ10.txt
+#
+# Captions for 8.422x module
+#
+# This file has 13 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The next question is now we do exactly the same thing,
+but now we have the two currents.
+And the question is, what is the variance in iPlus?
+I add the two currents.
+What do I get?
+
+And I give you the same choices as before.
+Just as a reminder, when we did not squeeze,
+the variance was in.
+So the question is now has the squeezing done nothing,
+or has it reduced the variance?

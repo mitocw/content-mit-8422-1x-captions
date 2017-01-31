@@ -1,0 +1,127 @@
+#
+# File:   content-mit-8422-1x-captions/M1L8c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 118 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The third view is classical versus quantum statistics,
+and I think this really shows that we
+need at least some quantumness to find correlations.
+Let's assume we have n particles and we have n possible states.
+And if it's a classical system, let's
+assume we want to find one particle in a certain state.
+We have a big box, have a small subvolume,
+and say, what is the probability of finding one particle here.
+So this probability to find one particle is P1,
+is small n over big N. The probability
+to find two particles, if we have
+non-interacting classical particles, well,
+is simply P1 squared.
+Independent classical particles-- they
+don't care what they are doing.
+You grab into a subvolume, which is maybe a phase space
+cell and therefore your quantum state,
+your probability P of finding one.
+But since each particle moves around independently,
+the probability to find two particles is just P squared.
+It's a little bit like if you toss
+two coins, one with your left and one with your right hand.
+What is the probability to find head or tail,
+and you simply multiply the probabilities.
+But now, following reasonings which Bose and Einstein
+introduced, you want to use counting statistics, which
+takes into account the indistinguishability
+of particles.
+So if we go from the classical distribution
+to the distribution of indistinguishable particles,
+then the classical probability, P1, is reduced by n factorial.
+The probability to find one particle
+is represented by a microconfiguration classically.
+And each configuration, when you permute particles,
+counts as independent.
+But if you have quantum indistinguishability,
+you're not counting permutations as an independent
+configuration, and therefore you have a reduction
+by n factorial.
+If you look at the probability of finding two particles,
+the reduction is-- this is just the counting statistics--
+n factorial by two.
+So therefore, you will find that classically, that quantum
+mechanically, for bosons is two times-- the probability
+to find two bosons in one quantum state
+is two times the probability squared to find one boson.
+So this is just counting statistics.
+This can be applied to collisions in a Bose gas.
+When you have inelastic collision, spin relaxation,
+dipolar collisions, two-body collisions,
+two-body collisions have a rate, gamma two,
+which is proportional to the probability of finding
+two particles at the same time at the same location.
+And that brings in the g2 function.
+Whereas three-body collisions, gamma three,
+reflects the third autocorrelation function, g3,
+which is defined in an analogous way.
+So if you now compare at the same density
+the two-body rate coefficient-- the same density means
+we are looking at the rate of two-body collisions--
+and we compare between two-body collisions
+in a thermal cloud, which has a g2 factor of two
+at thermal cloud of bosons.
+Well, the Bose-Einstein condensate
+is a constant occupation of particles in one mode
+and has therefore a g2 factor of one-- exactly as the laser.
+The Bose-Einstein condensate is for particles, for metawaves,
+but the laser is for light.
+Whereas if you look at three-body collisions,
+those who do experiments with Bose-Einstein condensates
+will know that usually the lifetime
+of Bose-Einstein condensates is limited
+by three-body collisions.
+Well, I didn't derive it, but actually, yes, we
+have the Gaussian statistics.
+For randomness for Gaussian statistics,
+the n-body correlation function has a factor
+of n factorial, so therefore three-body collisions
+scale with three factorial and two-body collisions with two
+factorial.
+So in other words, you have a thermal cloud,
+you have a Bose-Einstein condensate at the same density.
+But what matters for two-body collision
+is not the average density.
+It is the average of n squared.
+And the fluctuations in the thermal cloud,
+because of the g2 function, are two times enhanced
+compared to Bose-Einstein condensate,
+and therefore you find that at the same density
+you have more loss, you have a higher rate
+of two- and three-body collisions.
+
+Some of this became better understood soon
+after Bose-Einstein condensates were realized.
+The Boulder group studies three-body collisions.
+And for two-body collisions, myself
+and the post-doc clarified the situation
+that even the mean field energy, which everybody had measured
+before, requires two particles to interact
+with short-range interaction, is therefore proportional to g2.
+And therefore, when people had determined the mean field
+energy of a condensate without really knowing,
+they had already determined the g2 function
+of Bose-Einstein condensates.
+
+So this is pretty much the counting statistic,
+which you do in an undergraduate class
+when you derive the three different statistics--
+Boltzmann statistics Bose-Einstein statistics, Fermi
+statistics.
+And the result of that is also for Bosons,
+you have the factor of two.
+For fermions, of course, you get zero.
+The average between bosons, two, and fermions, zero, is one,
+and this is the classical statistics.
+Any questions?

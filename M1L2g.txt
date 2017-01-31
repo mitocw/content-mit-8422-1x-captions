@@ -1,0 +1,214 @@
+#
+# File:   content-mit-8422-1x-captions/M1L2g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 205 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me now spent the next 10 or 15 minutes
+on what is called the dipole approximation
+and the dipole Hamiltonian.
+So we are talking now about one further expansion
+of our expressions and this is the multipole expansion.
+Let me first sort of give you this simple derivation
+which you may have seen, but then you can appreciate
+the rigorous derivation.
+Either directly or through the vector potential,
+we have formulated our theory in terms
+of the electric and magnetic field
+as a function of position.
+But what we now want to exploit is that atoms are tiny
+and, usually, the electric or magnetic field is not
+changing over the extent of an atom or molecule.
+In other words, what I'm telling you
+is the relevant frequencies, the relevant components
+of the electric and magnetic fields,
+will, of course, be the components
+which are in resonance with the atoms and molecules.
+And what I'm telling you is that in many, many situations,
+the wave lengths of the relevant modes
+of the electromagnetic field are much, much longer
+than the size of an atom.
+So therefore, if we pin point our atom at the origin,
+we may be able to neglect the spatial dependence
+of the electromagnetic fields and replace it
+by electric and magnetic fields at the origin
+or if you want to go higher in a Taylor expansion,
+we use gradients of it.
+We've talked more about that, actually,
+in 8, 4, 21 when we talk about multiple transitions,
+but here I want to only focus on the lowest order which
+is called the electric dipole approximation
+because this is the most important case which
+is used in atomic physics.
+So for the electric dipole approximation,
+we make actually several assumptions.
+One is we neglect the quadratic term, the a square term.
+And now if you look at the a dot p term,
+and we are looking for matrix elements between two
+atomic levels, we expand the vector potential
+into plane waves.
+Well, it's called the electric dipole approximation.
+So maybe you want to express things
+by the electric field, which is the derivative of the vector
+potential.
+So with that, we have now described things
+by the electric field.
+And what is needed now is if we assume that k r equal 0 or r
+over lambda is very, very small, the exponential the plane wave
+factor is approximated by 1.
+And we are simply left in the electric dipole approximation
+with a matrix element of the momentum operator.
+We can simplify it further by writing the momentum operator
+as the commutator between the position
+operator and the Hamiltonian.
+If you take the commutator between r or x and p square,
+you simply get p and b vectors so that's what we are using.
+And now, the matrix element becomes--
+so what we have here now is r h minus h r, but h acting on 1
+is because 1 is an eigenstate, gives the energy e 1.
+And for the flipped part, we have
+h r and now h acting on state 2 give us the energy e 2.
+So therefore, by taking care of the Hamiltonian which gives us,
+depending on which side h appears, e1 or e2.
+We have used it to now the position matrix element.
+And what we have here is, of course,
+the transition frequency between the levels 1 and 2.
+And all you've seen it, but if I can derive it in two minutes,
+it's maybe [INAUDIBLE] exercise.
+What I've shown you is that the momentum matrix element
+can be replaced by the position matrix element, multiplied
+by the resonance frequency.
+But now we want to put things together
+and I want to point out for you is that we have an omega here,
+which is the frequency of the electromagnetic field,
+and we have an omega 1, 2 here, which is the transition energy.
+So therefore, if I put it together,
+I started with a p dot a Hamiltonian,
+but the p matrix element became an r matrix element.
+The a was expressed by the electric field,
+so therefore, we have now the electric field
+times the position matrix element
+or the dipole matrix element if you
+multiply the position of the electron with a charge, too.
+But in addition, we have this prefecter
+so this becomes the dipole Hamiltonian e dot d.
+When we replace that by 1, assuming
+that we are interested in any way,
+only in interactions with atoms where the radiation
+field is near resonance.
+So it seems that we have actually
+made three assumptions to derive the electric dipole
+approximation.
+One was the long wave lengths approximation.
+The second one was that we are near resonance.
+And the third one was that we neglected the quadratic term
+in the light atom interaction.
+Well, there are often people who are wondering about it
+when I said, OK, we're only interested
+when the atoms in the electric magnetic radiation
+near resonance.
+That's OK, but atomic physics is the area of physics
+with the highest precision.
+We can make measurements with 10 to the minus 16
+and time to the minus 17 position.
+So therefore, if you have an electromagnetic field which
+resonates with atoms, the typical frequency
+of visible light is 10 to the 14 Hertz.
+And you're just 1 megahertz away from the resonance.
+It's 10 to the minus 8.
+So question is would we observe correction
+to the dipole approximation if omega 1, 2 is not
+exactly omega.
+
+Well the answer is no because, as I want to show you now
+in the next few minutes and this is also
+the end of our flight over the appendix of atom photon
+interaction, the last two assumptions
+are not really necessary.
+So in other words, we go back to atom photon interaction
+to this long appendix on the derivation of the QED
+Hamiltonian.
+And we go back to our fundamental Hamiltonian
+and we want to do one approximation
+and this is the only approximation which is needed.
+It is the dipole approximation and that
+means that the vector potential-- of course, we
+only need the transverse part of it-- is replaced by its value
+at the origin.
+That's the only approximation.
+So here is our Hamiltonian in its full beauty
+and the only thing we have done is we've put in the origin
+here.
+For later convenience, we introduce the dipole operator
+which is the position operator of particle
+alpha times the charge of particle alpha.
+And then we do simply a transformation.
+So this is a unitary transformation
+and we transform from the original Hamiltonian, which
+includes the p dot a term and the a square term,
+to a transformed Hamiltonian h prime.
+And this transformed Hamiltonian has now
+the electric dipole approximation
+sort of getting in polarization Fourier space,
+but this is the electric field and a
+a dagger gives position times-- sorry,
+these are normal modes-- it's a dipole operator
+times the electric field.
+And the a square term has disappeared.
+So after the transformation, we have no quadratic term
+and all we are left is this is nothing else than d dot
+e, the dipole interaction.
+And there is no prefecter omega 1, 2 over omega.
+This is a rigorous transformation,
+unitary transformation, to another basis.
+In full disclosure, it involves a dipolar self energy which
+is sort of a constant energy.
+And if you look at the transformed velocities,
+the transform velocities v prime are now
+identical to the original canonical momentum.
+So after that, the original what was the canonical momentum
+in the original Hamiltonian h, becomes now velocity times mass
+so p becomes now the mechanical momentum
+and, therefore, p square is the kinetic energy.
+Anyway, I think this is important
+that we have this much more rigorous derivation
+of the dipole approximation.
+I don't want to go through that, I just
+want to make sure you have seen it.
+That if you want to do it really rigorously,
+then you have to distinguish between the electric field d
+and e.
+So you have an electric field here and here
+you have the polarization.
+It's pretty much the same as in classical e and m.
+And at the end of the day, we have
+now for the primed operator for the Hamiltonian
+after the canonical transformation,
+after the unitary transformation,
+we have now the only interaction term which
+remains is the electric dipole interaction between the dipole
+and this field, d.
+But the field d prime corresponds
+to the original transverse electric field.
+I'm not going to explain the difference between e,
+e prime, d, and d prime.
+It can be done rigorously, but the take home message
+is-- and with that I want to conclude--
+that for most of this course, the interaction
+of the electromagnetic field with our atoms
+is described by this term.
+We take the transverse electric field,
+this is our radiation field, and it
+couples to the operator of the atomic dipole moment.
+
+I hope you got a take home message
+that whenever you have any doubts about any part
+of this derivation, or if you have any doubts whether it's
+rigorous or not, you know now we are to look it up and learn
+everything about it.
+Any questions?

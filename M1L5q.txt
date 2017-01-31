@@ -1,0 +1,44 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5q.txt
+#
+# Captions for 8.422x module
+#
+# This file has 35 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The second element we need to realize arbitrary single-qubit
+operation is the beam splitter.
+And I introduce the beam splitter by just saying,
+hey, look, I think that's a good Hamiltonian.
+Let's see what this Hamiltonian does to the two modes.
+And then we realize, yes, it takes those two modes
+and it mixes the modes with cosine theta sine theta
+weighting factors.
+And that's exactly what you expect the beam splitter to do.
+I'm not showing it here now because it's part
+of your homework assignment.
+You will show that if you have a coherent state,
+the coherent state is split by a ratio, which
+is cosine square theta sine square theta.
+So it's exactly what you expect from a beam splitter.
+So from that, you realize now what
+this angle theta is which I just put into the Hamiltonian.
+The cosine square and the sine square of it
+are the reflection and transmission.
+It's the reflection and the transmission
+of the beam splitter.
+Let me now introduce a matrix representation
+which will come in handy.
+You remember that if you transform an operator, the mode
+operator, the annihilation operator a and b,
+we multiply with the beam splitter operator on the left
+and on the right-- [INAUDIBLE] B a B [INAUDIBLE].
+But there is often a simpler way how the right-hand side can
+be written, and this is by using a matrix representation which
+goes as follows.
+We can say that the two operators are transformed
+by the following matrix, and this matrix
+represents the beam splitter.

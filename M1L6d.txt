@@ -1,0 +1,301 @@
+#
+# File:   content-mit-8422-1x-captions/M1L6d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 292 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Before I introduce several measures for entanglement,
+let me talk about entanglement purification.
+It's a very nice subject which tells you
+that if you have weakly entangled state
+you can make them more entangled.
+And actually, the effort you have
+to spend to make a weakly entangled state more entangled,
+can actually act as a measurement how entangled
+was your state in first place.
+So the purification is introducing us
+with one measurement for entanglement,
+as I just said, but it also gives you an idea how quantum
+state can be manipulated.
+The purification is also the first example
+we encounter in this course for new insight
+into quantum physics.
+A lot of people thought quantum physics, at least
+nonrelativistic quantum physics, that
+was invented in the '20s in the last century
+and by now we've understood it all.
+But there is-- there was an aspect of quantum physics
+which I think nobody understood.
+And this is, when you have a quantum state,
+which may decohere a quantum state which may no longer be
+pure, that you have ways to-- to [INAUDIBLE]--
+you have ways to get the pure quantum state back.
+And, ultimately, in the early days
+when I learned quantum physics, I
+thought if you have a quantum state that's nice
+but if the quantumness has decayed away
+you can't get it back.
+But this is something we learn now from the new methods
+and new approach from quantum information science
+that you can do quantum [? overcorrection, ?] you
+can have a state which is decohered
+and you can get back to it.
+And there is something which-- it's not yet
+that what we are discussing today,
+but in purification you have states which
+have inferior entanglement but you are not--
+you don't need to get stuck with it.
+You can take several of the purely entangled state
+and create the maximally entangled states out of it.
+So that's what I want to show you.
+So you should look at it as one example
+that, wow, it's really cool how we can have states-- quantum
+states-- with inferior quality, and by doing quantum operation
+on those states we get something which is more entangled
+and therefore, if that's our purpose, has a higher quality.
+So to introduce purification, I'm
+simply mentioning what are, for two qubits,
+the standard maximally entangled states.
+In 10 minutes or so, we talk about how do we
+measure entanglement and indeed those states
+will come out as being maximally entangled.
+But you already get the idea.
+Maximally entangled means they are not factorizable and not
+just by a small margin.
+There may be two equal parts of the-- you always need
+two equal parts of 0 1 and 1 0, and this state
+has maximally entangled.
+It's maximally non-factorizable.
+So the four states, which are actually the Bell
+states-- the famous Bell bases-- are 0 1 plus minus 1 0
+and 0 0 plus minus 1 1.
+Just to remind you, if you have two-- if you have two systems,
+each of them has two states.
+You can think of spin up, down for particle one,
+spin up, down for particles two.
+That Hilbert space is four dimensional.
+So you need a four dimensional basis.
+And the trivial basis is up, up, down, down, up, down, down, up.
+But what is relevant for entangled states,
+we often use the basis of Bell states.
+And this is a new basis which spans the four dimensional
+Hilbert space, but each of those spaces function
+is maximally entangled.
+We should correctly normalize them,
+and that state is often called psi plus minus
+and this here is phi plus minus.
+So now let's get the purely entangled state and let's state
+0 0 plus 1 1.
+But we will have an example where
+B may be very, very small.
+So those states-- these states is
+entangled for all choices of A and B. So the question is now,
+how can we take such an arbitrary state
+where A and B-- one of them-- may be small and create
+a standard Bell state?
+
+So what we have to assume for that
+is that we have a large supply of such states.
+So let's assume we have large supply, identical copies.
+And now we want to take two such copies.
+
+And what I want to outline you is the following.
+You take two of your copies and you do a measurement.
+
+I will tell you what kind of qubit operation we need,
+what kind of measurement we perform,
+and then when the outcome of the measurement is such and such,
+you'll say-- let me be specific.
+So if you take two copies, we have
+a total-- we have two states with two photons each.
+And now we perform a quantum operation on two of the photons
+and the other two photons we leave untouched.
+So now it depends when the measurement of the two photons
+has a good outcome we know those other two photons are maximally
+entangled in a Bell state.
+If the outcome of the measurement is bad,
+it tells us the two photons are not entangled
+and we throw them away.
+So therefore, we have a finite probability
+by performing measurements that a pair of our sample
+state with the coefficient A and B
+will result into a maximally entangled state in a Bell
+state.
+And I want to describe you now what
+is the protocol, what is the procedure to implement that.
+And what we will find-- and this is
+what I think you should expect here-- if the initial state has
+very bad entanglement in the sense that B is very small,
+we will need many, many attempts and many measurements
+on our pair of states before we produce a Bell state.
+It's probabilistic, but the proper probability
+to succeed in preparing a Bell state will depend on-- we
+will see-- the product of A and B. And question?
+Yes?
+Does the assumption of [? large supply ?] the state
+violate no cloning in any sense?
+
+The question is, does it violate the no cloning theorem?
+No, it doesn't.
+Otherwise I would not say we have a large supply
+because the no cloning theorem is absolute.
+But it simply means we cannot have one state and then clone
+and clone more and more copies.
+Maybe let me be specific.
+If you have an experiment which produces
+a certain superposition state, you
+can just push the button on your experiment many times
+and produce in the identical way as many states you want.
+If you have spin up state-- well,
+this is now for two photons-- but if you have a spin
+up state, you can make as many copies
+you want off a state which has been
+located by a certain angle.
+
+So therefore, in state preparation,
+by going through the exact procedure,
+we can just create as many copies of a state we want.
+The no cloning theorem meant the following.
+I'll give you one state which may
+be a spin which has been rotated at a certain angle-- you know
+nothing about the state-- and now you
+should try to make a copy out of it.
+And the answer is, you can't because any measurement you do
+is if the particle were spin up and you would measure spin
+up and spin down, you could say, hey, I could spin up,
+now I produce 10 spin up particles.
+But if-- but you don't know along which axis
+the spin has been prepared.
+So unless you know which axis the spin has been oriented,
+if you choose another axis, you have irreversibly
+retrieved-- you have irreversibly lost information
+which can not be retrieved.
+
+I don't know if it helps you, but if you
+have a certain eigen, if you have a certain state
+and you want to measure it without destroying it,
+you need a quantum non demolition measurement.
+If you're in energy eigenstate you can measure energy.
+If you're in a spin eigenstate which points along Z,
+you can measure the direction of the spin--
+the direction of the spin in the Z direction
+without destroying it.
+So if you can do a quantum non demolition measurement
+on a state, you could clone it.
+But that violates the assumption that if I give you an arbitrary
+state you do not know, by definition,
+what kind of measurement is a quantum non demolition
+measurement.
+You just take your chance, take a [INAUDIBLE] experiment,
+separate the spins in the Z component,
+and then it turns out I gave you a state which
+was polarized along X.
+So that's a subtle but important difference.
+Other questions?
+So we take two copies, and let's bring in Alice and Bob.
+So the first photon we associate with Alice
+and the second photon is associated with Bob.
+So if you take two copies, we have
+now, as in Hilbert space, four dimensional Hilbert
+space, a direct product.
+And if you just take the state and calculate
+the direct product, you get four terms, 0 0 1 1, 0 0 1 1, 1 1
+0 0, and 1 1 1 1.
+And the coefficients are given here.
+Let me just underline that if you
+think we have an entangled-- we have
+some state with some entanglement
+and we separate the system, one goes to Alice
+and one goes to Bob.
+So the one which Alice has is the first part of those states
+and Bob has the other part.
+So the protocol is now that Alice and Bob first-- they're
+not doing a measurement, they're not
+reading out the system-- they perform a unitary operation.
+And what Alice and Bob perform is the controlled NOT operation
+on the two qubits.
+Let me just write it down and then explain it.
+Perform what is called the controlled NOT, or CNOT, gate.
+And I have explained you before in the last section how
+the controlled NOT can be performed using a nonlinear
+[INAUDIBLE].
+So Bob and Alice both run their two photons
+with a nonlinear [INAUDIBLE].
+So what is a controlled NOT?
+Let me remind you.
+
+If you have two qubits, the first one is the control.
+If the control is 1, you flip the second one.
+If the control is 0, you do nothing to the second one.
+So they control it-- the controlled, the CNOT,
+transforms.
+So since the first qubit is the control qubit, out
+of those four combinations, the controlled NOT
+only does something if Alice's controls
+and Bob's controls, Alice's controls and Bob controls is 1.
+And then the second beat is flipped.
+If Alice's and Bob's controls are 0,
+they do nothing to the second beat.
+So therefore, the 1 1 0 is transformed into 1 1 1,
+and the 1 1 1 1 is transformed into 1 1 0 0.
+So that's the first operation.
+Let Was just indicate it so we have trans-- let me just
+use the color here.
+So what has happened here, the 0 0 has been flipped into 1 1
+and the 1 1 has been flipped into 0 0.
+That's the first step.
+The second step is that now Alice and Bob
+measure their target qubit.
+
+What does it mean?
+We have a controlled NOT operation,
+and the controlled NOT operation we have the first one
+is the control qubit, the second one
+is the target of the operation.
+So in our-- the way how we write it,
+Alice's target is the third in line
+and Bob is the fourth in line.
+So now Alice and Bob measure the target qubits.
+Let me just be specific.
+So Alice has number one and number three,
+Bob has number two and four, and the target qubits
+are the third and the fourth.
+So what is the probability that Alice and Bob measure both 1 1?
+That they both find a target qubit of 1?
+Well, it is this one and it is this one
+where the controlled NOT has flipped it.
+So one has probability a square b square,
+the other one has probability a square b square.
+So with probability, 2a square b square-- well, let's
+allow a and b to be complex.
+They obtain 1 and 1.
+So in this case, what is left is here, 0 0.
+What is left is here, 1 1.
+You may just need an intermediate line
+to write down what the state is after the measurement,
+but if you read it off here, you find
+that when they obtain 1 1 1, that that implies
+the post-measurement state is then 0 0 plus 1 1
+divided by square of 2.
+And this is one of our Bell states.
+So what we had is we had a system of four photons.
+After a qubit operation, the controlled NOT,
+Alice and Bob do a measurement together on two of the photons.
+And if the outcome of this measurement is 1 1,
+the rest of the system is in the Bell state.
+So we assume that Alice and Bob have
+a large supply of those copies.
+So let's assume that they start with n copies of psi
+and then, because their probability is m over n,
+they successfully obtain m copies of the Bell state.
+And the question is, what is the probability in the limit
+of a large ensemble?
+And we will see in a few moments that this is actually
+a measurement of how entangled the original state is.
+
+Any questions about purification?

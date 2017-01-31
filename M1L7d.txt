@@ -1,0 +1,253 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 244 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I introduced to you, and I just want
+to remind you of that because we need that, I introduced
+to you this famous phenomenon of Hong-Ou-Mandel interference,
+which of the following situation.
+If you a 50/50 beam split and you have two identical photons,
+you will never get single photons out.
+The photons are bozons.
+They want to be together and so you will always get two photons
+but you don't know on which side of the beam splitter.
+Now, this is important because we can now
+use the Hong-Ou-Mandel interferences
+effect to entangle atoms.
+So the element we will take from this beam splitter
+is the following.
+We will have atoms emit photons, but then we create entanglement
+probabilistically.
+When these photons have passed through beam splitters and they
+tell you everything about it, and both detectors
+make a click.
+If both detectors make a click, you know for sure
+that the two photons at the input of the beam splitter
+were not identical.
+Because if they were identical, only one detector
+receives light.
+So we will actually use this HOM interference to project out
+photon states where the two photons are not identical
+because they have different polarization.
+Any questions?
+Yes?
+[INAUDIBLE]
+
+The phase factors out.
+[INAUDIBLE]
+Frequency, very important.
+Polarization, important.
+Timing is important.
+A single photon has no phase.
+
+It's a global phase, and if you have many single photons,
+your many photon state is a product state
+of those single photon states, and all the individual phases,
+if you want to hold onto this concept for a second,
+just become one big multiplicative phase.
+[INAUDIBLE]
+Yes, Nancy?
+[INAUDIBLE]
+
+Oh, everything matters experimentally.
+This is not easy experiment but I
+think the beam splitter is probably not-- I mean,
+beam splitter is a piece of wonderfully polished optics
+and in Germany and elsewhere people
+have really learned how to do exquisite optics.
+I don't think you're limited by optics right now.
+What I would think is difficult, if you
+have two photons on a beam splitter,
+they have to be in the same spatial mode.
+So if you have two fibers and the fibers are not
+fully aligned, or you have another mode which
+is an admixture, or if you have a lens which
+is distorting your Gaussian mode you mix other modes in.
+So all this creates non-distinguishability.
+But I think optics, the quality of optics,
+is probably the least of your concerns.
+
+Actually for today, because I'm out of town next week,
+I want you to have something to think about it,
+I prepared, I already pre-wrote some of the slides
+so I can go a little bit faster.
+Give me feedback.
+If you think I'm going too fast I will not do it again.
+But I felt I can probably have a reasonable speed
+by making notations to what I already prepared.
+So the situation is the following.
+We want to entangle two atoms.
+We have two atoms which are both in the excited
+state in this scatter light.
+
+And they can go to two different ground states.
+Think about two different type of [INAUDIBLE] states.
+I call them U and D, up and down.
+And when, because of selection rules,
+one state can be reached by one polarization,
+the other state can be reached with the other polarization.
+And I call this polarization H and V, horizontal and vertical.
+In reality, this may be circular polarization,
+so you may want to transform from linear to circular
+after the fact.
+But for just the discussion right now,
+I assume that horizontal polarization leads
+to one state, vertical polarization
+leads to the other state.
+So therefore, if you have two atoms-- and Chris Monroe
+in Michigan did the experiment where he really
+had two different vacuum chambers with two
+different ions, they both emitted photons,
+and then the photons came together on a beam splitter.
+So that you should sort of have in mind.
+Two ions here and there, they both emit a photon.
+And after they have force emitted a photon,
+each ion is in a superposition before you
+make any measurements.
+It can be in up with a horizontal photon
+or it can be in down with a vertical photon.
+So that is the state of the ion.
+
+So we have two of those.
+
+And then you want to detect photons.
+And the goal now is, by using beam splitters and all
+those tricks, that the detection of photons
+and the outcome of a measurement will project this product
+state of two atoms with a photon into a Bell state
+for the atoms.
+So a measurement on photons can take
+two atoms which were completely remote,
+had nothing to do with each other,
+and suddenly they're in a Bell state.
+And this is done by the probabilistic measurement.
+So let's develop it.
+Our initial state is UH plus DV.
+This is system one.
+And we have the direct product with our second ion trap
+apparatus which has done the same.
+The ion has emitted a photon and we don't know anything about it
+at this point.
+And now it is important if you want to have entanglement,
+we can not go and measure the polarization
+because this would project an individual ion into a state
+and would not have entangled it.
+So what we are doing is, we are allowing the two photons--
+one photon here, another photon here--
+they come together at a beam splitter.
+Actually, before I do it, let me just perform the product here.
+So what we get is, well, it's just multiplying it out.
+UU for the atoms, HH for the photons.
+UDHV plus DUVH plus DDVV.
+
+So what you want to do is, we want
+to send this beam-- the photons, of course,
+the atoms stay put-- onto a beam splitter.
+Now, I can do it more rigorously by keeping all the terms
+until the end of the calculation,
+but I hope it's rather obvious that we want to have it--
+if you want to send it on a beam splitter
+and then we want to detect that both detectors make click.
+That requires the photons to be distinguishable,
+so therefore those two terms will not
+contribute because the photons have the same polarization.
+So we are now using a projective measurement.
+We want to find out what is the wave function of the atoms.
+Measurement of one photon in the modes a
+and b, which are the output modes of our beam splitter.
+So it needs one more line.
+The output of the beam splitter is--
+so I'm only focusing now on the two terms which can give rise
+to two clicks at the two different detectors--
+so I will factor out UD.
+And now we have the two photons hitting the beam splitter,
+and each photon goes into a 50-50 superposition.
+So I take now this horizontal photon,
+and since we don't mess around with the polarization
+it's still a horizontal photon, but the photon
+can be now in mode b or in mode a, in one of the output
+modes of the beam splitter, and I label that as 0 1 plus 1 0.
+Now, for the second photon, it had a vertical polarization
+so it's a vertical photon.
+The second photon is coming onto the beam splitter
+in the other input part because we have taken the two
+photons from two different experiments,
+from two different experimental set ups
+and now we combine them.
+So that will also be now in a superposition of 0 1 and 1 0.
+But you know that one mode transforms with a plus sign
+and the other mode transforms at the beam splitter with a minus
+sign.
+So that's how you should look at those terms.
+And of course, from this here, from this term,
+we get something very analogous, 0 1 plus 1 0.
+And for the other spatial mode, the minus sign
+from the beam splitter, 1 0.
+Now we are done.
+Now now we are detecting photons.
+So we want to look at this wave function and ask, what happens,
+if in part a-- the output part-- we find one horizontal photon,
+and in b-- it must be vertical because the photons have
+to be distinguishable-- so where do we have one photon in mode
+a in horizontal?
+This is here.
+And here it is this product where
+we have, with a minus sign, where we have-- no, sorry,
+with the plus sign.
+Here we have one photon in the vertical
+so this is with a plus sign.
+But we have a second possibility.
+One photon in mode a horizontal happens here with a minus sign.
+And one photon in mode b vertical happens here.
+So in other words, from the term which gives rise
+to these measurement process, we have
+a plus UD here, and because of the minus sign, a minus DU.
+So therefore, if it would detect the photon
+with the polarization at this point, which we don't do,
+this polarization gives rise to UD minus DU.
+We have a second possibility to have a click at each detector,
+and this is when we reverse the two polarizations.
+But in this case, you can just stare at the wave function.
+You get the same atomic state.
+The sign doesn't matter.
+So you have two measurement, two possibilities, in polarization
+but they have the same outcome.
+They generate this state.
+So the result of all that is I've
+shown you that the two atoms are left now in--
+and now I put it back in the correct normalization-- in one
+of the Bell states.
+So whenever you detect the two single photons in coincidence
+on both counters, at that moment you
+know what you have is an entangled state,
+a Bell state of atoms.
+
+Now, the big issue here is efficiency.
+Your photon detector are not highly efficient.
+And I was only looking at combinations where
+we have this double detection.
+Most components of the wave function
+will give the Hong-Ou-Mandel effect
+the two photons going one way.
+So therefore, you have to prepare your system,
+have photons emitted, and in most of the cases
+you will not get the state you want
+so you have to keep on trying.
+And usually those experiments are
+heavily limited by the very, very dismal success probability
+of creating the state you want.
+And when you want to extend it, not just to two atoms
+entangled, to three atoms and four atoms entangled,
+then you get a small number to the power n
+for your efficiency.
+So this probabilistic preparation
+doesn't scale up but it is a very simple scale,
+it's a very powerful scale, and it
+has been used to create teleportation of atomic states

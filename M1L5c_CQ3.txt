@@ -1,0 +1,28 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5c_CQ3.txt
+#
+# Captions for 8.422x module
+#
+# This file has 19 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK.
+Next question.
+What features are unique to non-classical light?
+And non-classical light means, well, we
+have discussed non-classical lights,
+but there are different aspects.
+One is the width of the two quadrature components,
+the uncertainty of the two quadrature components,
+the cosine and sine quadrature component are unequal.
+Negative quasi-probabilities.
+The correlation function, which is smaller than 1.
+And sub-Poissonian statistics.
+
+So I've given you four criteria.
+How many of those four are features
+which we will not associate with classical light,
+only with non-classical light?

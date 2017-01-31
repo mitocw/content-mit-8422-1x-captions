@@ -1,0 +1,140 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 131 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Just to give you the bigger picture, what
+we want to achieve with those quasi probabilities,
+we want to do what phase space densities in classical physics.
+We have a coordinate which is x, a coordinate which is p.
+And you can often describe a classical system
+if you know the phase space distribution,
+if you know the probability that a particle has
+position x, and momentum p.
+So all of this is about phase space densities.
+In a way, let me just kind of-- probability of x and p.
+Of course, writing it down you immediately see the problem.
+In quantum mechanics, you cannot measure x and p simultaneously.
+These are non-commuting variables.
+So therefore, what happens is if you now define a phase space
+function, which is done in quantum mechanics textbooks,
+you can actually do it in three different ways.
+And the three different ways are can q, p, and w.
+The definition-- I don't want to go
+through the mathematical subtleties.
+The definition of those functions
+involves the operator definition, a and a dega,
+or which is equivalent, the x and p operator.
+If you define something in units of x and p, or a and a dega,
+you can have a product which is fully
+symmetric in the ordering of x p, which
+is anti-normal or normal.
+So in other words, the order matters,
+and you have three choices.
+In an operator product you can have symmetric ordering, which
+means not xp, but xp plus px.
+Then it's over two that's symmetric.
+You can have an ordering which is called normal,
+and one which is called anti-normal.
+Ordering of operators in the operator-based definition.
+
+Of course, if we have three choices,
+you would say which one is the best?
+Which one is the winner?
+But the fact is, all three have their advantages
+and disadvantages.
+So they all have pluses and minuses.
+The reason why I picked for the course, q of alpha,
+is that it's a real possibility, it's always positive.
+It is a diagonal matrix element of a statistical operator,
+and this has to be positive.
+So it's a probability.
+The other guys, p of alpha, can be positive or negative,
+and also w of alpha can be positive and negative.
+So if you use the p-alpha distribution,
+statistical operator can be written like this.
+And as a result, the coherent state is now not this Gaussian.
+It doesn't have this Gaussian distribution
+as a quasi probability, it's what you want.
+Well, maybe some of you wanted to see it right away,
+it's a delta function.
+The probability of the coherent state alpha
+has delta function peak at alpha, which is sort of nice.
+And the number state is not sort of a ring of a finite radius.
+I just mentioned to you the number state.
+You would not easily expect, the energy is sharp,
+the square of the energies electric field
+shouldn't it be charged sharp.
+And indeed, it is sharp.
+It's actually worse than a delta function,
+it's a derivative of a delta function.
+
+But at least here, in the probability p,
+which is also called the Klauber pseudo shon p representation,
+you get sort of that delta function,
+which may be very natural for certain purposes.
+Is this the [INAUDIBLE] and you can express one
+in front of the other?
+Is that unique?
+It is unique by some symmetry choice here.
+So that's the advantage of it, that by-- I'm not
+[INAUDIBLE] the mathematics, I'm not giving you the definition,
+but the way how it's defined, it is unique.
+It can be written in such a way, and the way
+how the quasi probabilities, p-- the p presentation is defined.
+You get a delta function at the coherent state.
+And finally, w stands for Wigner distribution.
+
+And the Wigner distribution is something
+you actually find in most quantum mechanics textbooks.
+The q and p distribution are more common in quantum optics,
+but the Wigner distribution has the advantage
+that the projection on the x and y-axis
+are indeed c of x square, c of p square.
+So you get actually the x-wave function
+and the p-wave function.
+So now as a full disclaimer, if you
+want the electric field, which is the momentum of the harmonic
+oscillator, which is the electromagnetic field, what you
+really want to project is the w function, because for the w
+function, the Wigner function, the protection
+is exactly the momentum distribution
+in the electric field.
+So the Wigner distribution is closest to the classic phase
+space distribution.
+As close as you come without violating commutators.
+
+But of course, it has the disadvantage
+that it has negative values, and try
+to explain to the next neighbor what is a negative probability.
+Some people actually see negative probabilities
+playing out the non-classical character.
+And I know in our field, in AM or physics,
+a few years ago during my lifetime,
+there were really attempts to use quantum state tomography
+and measure for the first time in negative Wigner
+distribution, and show that to the world.
+So that meant something to a lot of people.
+Anyway, you can read about it in quantum physics textbooks.
+All I want to know is to know about it,
+but then also just relax.
+In the bigger picture, all this three distributions
+are the same.
+It's more sort of on the level of whether something
+is a delta function, or it has unity.
+So on that small scale it matters,
+but if you map out something on a bigger scale,
+they are all related to each other.
+And for the rest of today and the next class,
+when I show you those phase space distribution, when
+I see I project onto the vertical axis
+to get the electric field, I'm not
+completely rigorous which of the three functions
+I've really chosen.
+

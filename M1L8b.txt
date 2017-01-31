@@ -1,0 +1,114 @@
+#
+# File:   content-mit-8422-1x-captions/M1L8b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 105 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to go through four different views
+of the same physics, but you will recognize
+that they are interrelated.
+The first one, just to repeat that,
+is if you have light which has Gaussian intensity
+fluctuations-- light from random sources.
+I think if you would look at the twinkle of starlight,
+if you look at the light from a light bulb,
+because of the central limit theorem,
+you will find that the electric field has
+a Gaussian distribution and the intensity
+an exponential distribution.
+And if you then ask what is g2 of zero,
+you find it's two, because for an exponential distribution
+average of this squared intensity
+is two times the average of the intensity squared.
+
+Before I forget it, one student asked me after class,
+I'm discussing g2 of zero, but what about g2 of tau.
+Well, my understanding is that almost all of the physics
+is in g2 of zero, and there is a simple number, one or two,
+in those special cases.
+What happens is if you have completely independent sources,
+if you have completely independent statistics,
+then the probability of finding a second particle
+or second photon is independent of the first.
+So that means g2 of tau would be unity.
+This is the case for an uncorrelated system.
+But if you have g2 of zero which is higher,
+this means correlation.
+This means some form of coherence,
+and usually the correlated value simply
+decays to the uncorrelated value with the characteristic
+coherence time.
+And this characteristic coherence time
+can be inhomogeneous, technical.
+It can be limited by the Fourier transform of a light pulse,
+the monochromaticity, the bend which
+delta omega is one over tau.
+So it has all the usual suspects for what
+limits the coherence time.
+So therefore, in general, we're not
+learning something fundamental in looking in g2 of tau.
+We are just learning the usual spiel about correlation times
+and coherence times.
+The second angle I gave you with wave interference
+is something that is deeply insightful.
+It shows you the following.
+If you have the plane wave, the intensity is constant.
+If you have two plane waves which interfere,
+you create density fluctuations, because the interference
+pattern can be constructive and can be destructive.
+So therefore, if the intensity fluctuates,
+then i square average is no longer i average square.
+And what happens is because of the nature of interference,
+because the average of cosine square kx is-- well,
+the factors of one half and two, which does come out
+of cosine and sine square function,
+you get exactly g2 of two.
+But that should already tell you something,
+which will be important for Bose quantum particles
+and light and the classical limit.
+The moment you have light or particles in one single mode,
+you can't have any form of interference.
+Only two modes can interfere, and you will always
+get a g2 function of one.
+But we'll come to that in a second.
+Any questions at that point?
+Yes?
+I thought that when we talked about g2 functions
+several weeks ago, you said that if we
+had a single-mode thermal light it
+would have a g2 function of two and that all
+we were using for lasers, when we use them in experiments,
+is the fact that it's single-mode,
+not the coherence in the g2 function.
+
+That's a good point, Cody.
+I'll just try to connect the two pictures.
+I have to think about it.
+That's a really good question.
+Right now I would quickly say in thermal equilibrium--
+I'll give you a partial answer, and I'll think about it.
+I'll give you a full answer on Friday
+at the beginning of the next class.
+I think it would be calculated where the thermal fluctuations
+in the intensity and the intensity
+fluctuations, and those intensity fluctuations
+result in a g2 function of two.
+That's correct.
+
+Maybe what I want to say here is if we have two modes which
+have all maybe single occupation or constant occupation
+and they interfere, then they create a spatial interference
+pattern if the phase between the two modes is random,
+which gives rise to additional fluctuation.
+So most likely, the two fluctuations are independent.
+One is the fluctuations because of the interference
+of two modes.
+But when I say it is single-mode and has a g2 function of one,
+I meant actually a single-mode with constant amplitude.
+I'll double-check and give you a more complete answer on Friday.
+Other questions?

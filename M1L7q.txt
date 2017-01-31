@@ -1,0 +1,150 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7q.txt
+#
+# Captions for 8.422x module
+#
+# This file has 141 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The next one goes by the name super-beamsplitter method.
+It's actually a very fancy beamsplitter,
+where you have two parts of your beamsplitter.
+One has zero and one has n photons.
+And behind the beamsplitter, you have two options,
+either all the n photons are in one state
+or the n photons are in the other state.
+You'll never have any other mixture.
+Of course, you know your standard half-silvered mirror
+will not do that for you, because it will split the n
+photon state with some Poissonian statistics
+or whatnot into the two arms and such,
+and you can calculate exactly what a normal beamsplitter does
+to that.
+It's very, very different.
+This here is a very, very special beamsplitter.
+Just to demystify this beamsplitter a little bit,
+I want to show you that, at least conceptually, there
+is an easy implementation with atoms.
+I really liken this section to grab an example from atoms
+and to grab an example for photons,
+because it really brings out that the language we
+develop equally applies to atoms and photons.
+So if I take now an easy example,
+if I take an example from the Bose-Einstein condensate with n
+atoms, let's assume we have a double well.
+But now we have attractive interactions.
+This is not your standard BEC.
+Your standard Bose-Einstein condensate
+has repulsive interaction.
+With attractive interaction, if you
+go beyond a certain size, a certain atom number,
+the condensate will collapse.
+So let's assume we have a Bose-Einstein condensate with n
+atoms, there are some attractive interactions,
+but we stay within the stability diagram
+that those atoms do not collapse.
+
+So now, if the atoms are attractive,
+they all want to be together, because then they
+lower the energy of each other.
+So if you have something with attractive interaction,
+you want to have n atoms together.
+But if your double-well potential
+is absolutely symmetric, there is no symmetry breaking,
+and you have an equal amplitude for all the atoms
+to be in the other well.
+
+So therefore, under the very idealized situation
+I described here, you will actually
+create a superposition state of n atoms
+in one well with n atoms in the other well.
+And this is exactly what we try to accomplish
+with this beamsplitter.
+OK.
+So if we have this special beamsplitter which
+creates that state, then when we add a phase shift to one arm
+off the interferometer, we obtain,
+which looks very promising, the phase shift
+phi multiplied by n.
+And if we read it out, we have now,
+if you pass it through the other super-beamsplitter,
+we create, again, a superposition of n, 0 and 0, n.
+But now, because of the phase shift
+with cosine and sine factors, which involve n times
+the phase shift.
+For obvious reasons, those states also
+go by the name NOON states.
+That's the name which everybody uses for those states,
+because if you just put N zero zero N, it gives NOON.
+So this is the famous NOON state.
+So it smells already right, because it
+has a phase shift of n phi.
+Let me just convince you that this is indeed the case.
+So the probability of reading out
+zero photons in one arm of the interferometer scales
+now with the cosine square, if you do one single measurement,
+the binomial distribution has-- it's the same as before,
+but with a factor of n, the deliberative
+has those factors of n.
+And that means that the variance in the phase measurement
+is now 1/n.
+If you want a reference, I put it down here.
+As far as I know, the experiment has
+been done with three photons, but not
+with larger photon number.
+Questions?
+Colin.
+The picture with the double well, isn't there
+going to be-- some people would say
+there's some-- you spontaneously break the symmetry,
+and the BEC either ends up in one side or the other?
+Well, Bose-Einstein condensation with attractive interactions
+was observed in 1995.
+And now, 18 years later, nobody has done this seemingly simple
+experiment.
+And what happens is really that you
+have to be very, very careful against
+any experimental imperfection.
+If the two double-well potentials are not
+exactly identical, the bosons always
+want to go to the lowest quantum state.
+Well, that's their job, so to speak.
+That's their job description.
+And if you have a minuscule difference between the two--
+the depths of the two wells, you will not
+get a superposition state.
+You will simply populate one state.
+And how to make it experimentally robust,
+this is a really big challenge.
+Tim?
+[INAUDIBLE] I have question.
+Say you were somehow able to make the double-well potential
+perfect, but if we didn't have attractive interactions, then
+would we just get a big product state of
+like each atom being in either well?
+OK.
+If you're a non-interacting system,
+the ground state of a double-well potential
+is a symmetric state, 1 plus 2 over square root 2.
+And for non-interactive BEC, you figure out
+what is the ground state for one particle,
+and then take it to the power n.
+This is the non-interacting BEC.
+So then entanglement is because of the interaction, right?
+If you have strong repulsive interaction,
+you have something that should remind you
+of [INAUDIBLE] insulator.
+You have n atoms, and n/2 atoms go to one well,
+n/2 go to the other well.
+Because any form of number fluctuations would be costly.
+It will cause the additional repulsive interaction.
+So therefore, the condensate wants to break up
+into two equal parts.
+So that's actually a way how you would
+create another non-classical state, the dual flux
+state of n/2 n/2 particle.
+And for attractive interactions, well, you
+should create the NOON state.

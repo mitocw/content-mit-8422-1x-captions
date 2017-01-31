@@ -1,0 +1,190 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5v.txt
+#
+# Captions for 8.422x module
+#
+# This file has 181 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK.
+So that's almost trivial, but we need this definition.
+We need this knowledge to take it to the next step.
+Remember, we want to do something more interesting
+than rotating two-level systems.
+We want to get two qubits, combine them, entangle them
+and all that.
+So what we need for that is we have
+to go-- we have to allow-- we have
+to expand the Hilbert space.
+I introduced the Mach-Zehnder interferometer as the device
+to do it.
+But now we need a way how a second photon
+from another qubit can interact with the photon
+of our first qubit.
+And we want to do that by introducing
+first the nonlinear Mach-Zehnder interferometer.
+I want to throw in a nonlinear element.
+And then we are ready to allow the second qubit,
+through the nonlinear element, to manipulate the first qubit.
+And then we have interactions between qubits.
+We have [? two-qubit ?] gates.
+Let me maybe just deviate from my notes.
+I think I really want to show you what I'm doing
+and that you have it clearly in mind where I'm aiming at.
+So what we want to accomplish is,
+instead of having a phase shift with an externally controlled
+phase, I want to put in some nonlinear crystal which
+has an index of refraction which has a phase shift.
+But now the phase with the nonlinear crystal
+has the property that its index of refraction
+changes when I take another laser beam and send it through.
+So the laser beam through-- because the index of refraction
+is intensity-dependent, the green laser beam
+changes the index of refraction of the nonlinear crystal,
+also called Kerr medium.
+And that means now, because the blue beam
+goes through the same crystal, that the green beam controls
+now the phase shift of the blue beam.
+And now we have interacting photons.
+One photon interacts with the second photon.
+OK.
+Let's work it out.
+So our goal is to develop a description
+for nonlinear Mach-Zehnder interferometer.
+What we need is a nonlinear medium.
+So let me just introduce, for two or three minutes, nonlinear
+medium, how we describe it, and then we
+put it into our interferometer.
+So in linear optics, just to remind you,
+we have a polarization, or an electric dipole moment,
+which is proportional to the electric field of light.
+And xi is the polarizability.
+In the most complicated case, it can be polarizability tensor.
+Now, this is linear.
+If we want to go nonlinear, then we have the linear relationship
+simply, as you can see, the first term in a Taylor
+expansion.
+So we expand the response of the medium in powers
+of the electric field.
+And we have the susceptibilities chi 1, chi 2, chi 3, and so on.
+We have already encountered a nonlinear element which
+had a chi 2 susceptibility.
+And these were the crystals we put into our OPOs,
+into our Optical Parametric Oscillators.
+Remember, the optical parametric oscillator involved, how many
+modes?
+Three.
+We had one photon, which was broken down into two photons.
+But that also means that the reverse process
+is you drive the beam-- you drive the OPO with omega.
+But the E squared term creates an electric polarization
+as 2 omega.
+And if you have an oscillating polarization as 2 omega,
+you create [INAUDIBLE] omega.
+So I just want to remind you that the chi squared
+term is what we have already encountered.
+That's not what we need for the nonlinear Mach-Zehnder
+interferometer.
+What we need now is a chi 3 interaction,
+which is the Kerr medium, because we want to realize
+the following Hamiltonian.
+So the Hamiltonian, the Kerr medium,
+is also called cross, that's the x, cross-phase modulation.
+One beam can affect the phase of another beam,
+and this is called cross-phase modulation.
+There's also self-phase modulation,
+that one laser beam changes the index of refraction for itself.
+But here we want the cross-phase modulation.
+So we know that if we have a mode and we shift its phase,
+we're not [? exchanging ?] any photons.
+So if you're in an eigenstate state of mode a with one or two
+or three photons and we simply shift its phase,
+we are diagonal in a dagger a, and the phase shift
+is proportional to pre-factor here.
+So this Hamiltonian is simply a phase shift
+of photons in mode a.
+But if we now multiply that with b dagger b,
+the phase shift is now proportional to the number
+of photons in mode b.
+So now we have a situation that the phase shift from mode a
+is proportional to the intensity in b and b and vice versa.
+So I think it's self-evident that this Hamiltonian is
+the quantum description of the process we
+want to introduce now.
+
+So this is the cross-phase modulation Hamiltonian.
+Isn't it much more elegant to describe nonlinear optics
+with Hamiltonians than with parameterized susceptibilities
+and all that?
+I mean, it's just amazing.
+You write in a few letters, and it
+has all the power of the classical description
+plus extra because it includes quantum
+fluctuations and everything.
+I mean, I hope you appreciate the power of the language
+we are developing.
+So this is the cross-phase modulation Hamiltonian.
+And now we want to use this Hamiltonian
+in a crystal of length L. Well, you
+know if you have a time propagation operator,
+you put the Hamiltonian in the exponent and multiply with T.
+But for propagating laser beam, T and L are related.
+So this is now the unitary transformation
+if you propagate through that crystal.
+So we are now defining that by saying we have this nonlinear
+susceptibility.
+Things will be proportional to the length
+L. And then we have the operator a dagger a, b dagger b.
+And let me choose for the following discussion
+that the length is chosen such that when multiplied
+with the nonlinear susceptibility,
+we get a phase shift of pi.
+OK.
+So now we are ready to describe what
+happens when we have a Kerr medium
+and we have two input modes.
+So let's write down the table of possible combinations
+and operations.
+Well, when we act on the vacuum, we get nothing.
+What happens when we have one photon in one mode?
+What happens to that photon?
+Well, the extra phase shift coming
+from cross-phase modulation is 0 because we have
+no photon in one of the modes.
+And a dagger a or b dagger b acting on this mode gives 0.
+
+So therefore, as long as we have only one photon,
+we have no phase shift.
+The exponential factor is 1, and we simply
+reproduce the original state.
+So the only non-trivial situation, by construction,
+is when we have one photon in each mode.
+And then we get the matrix element e to the ikL.
+And we adjusted the lengths of the crystal
+that this is just minus 1.
+So in other words, in this Hilbert space,
+we get a phase shift of pi.
+We get a minus sign when we have one photon in each mode.
+That's all what this medium does.
+And if you ever thought about it,
+how to deal with the situation that when
+I said there is one photon which provides a phase
+shift with the other photon, but the other photon
+is also providing a phase shift to the first photon.
+So you may wonder when you have a combined state of the two,
+how do you deal that one photon shifts the other photon
+and vice versa?
+But when you apply the operator, you don't even
+have to think about it.
+You see that the operator for the combined Hilbert
+space of the two photon gives you a phase shift of pi.
+It's not pi for one photon times pi for the other one.
+It's pi for the whole quantum state.
+
+Questions?
+
+OK.
+We have a Kerr medium, which means

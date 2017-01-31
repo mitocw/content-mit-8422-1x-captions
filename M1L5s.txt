@@ -1,0 +1,88 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5s.txt
+#
+# Captions for 8.422x module
+#
+# This file has 79 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Good.
+So what I just said, that we want to restrict the Hilbert
+space to exactly one photon-- this
+is so important for implementations and discussions
+of quantum information protocols that it has its own name.
+It's called the dual-rail photon state, the dual-rail photon
+state space-- exactly one photon,
+but the photon can either be in mode a or in mode b.
+So this part, this dual-rail photon state space,
+is a Hilbert space which has a basis which is 0, 1 and 1, 0.
+And this is, of course, a two-level system.
+In this so defined Hilbert space,
+we can have an arbitrary state psi
+which is, well, as in any two-dimensional Hilbert space,
+it's a linear superposition of your two basis
+states with coefficients alpha and beta.
+
+And the theorem for which we have prepared right now
+is that any possible state of this Hilbert space
+can be created from any of the basis state--
+let's say from 0, 1-- simply by beam splitters and phase
+shifters.
+When I taught this unit the last time, I went through the proof.
+But I want to make room for more in-class discussion
+like we had on Wednesday with the clicker question.
+So what I decided is I give you the idea behind the proof,
+and the formal parts you can simply
+fill in by reading about it on the wiki page.
+So let me just focus on the idea.
+So the proof is that if I use some column vector for alpha,
+beta, that we can identify, with the beam splitter and the phase
+shifter, we can identify them as rotation operators.
+This is immediate obvious if I use the transformation on psi
+by a beam splitter, it is by just-- we learned further--
+we learned just few minutes ago how the beam splitter operator
+acts on the basis state.
+So now we know how it acts on an arbitrary linear combination.
+And the matrix here is nothing else
+than the rotation matrix with the minus
+sign around the y-axis.
+
+So that's a beam splitter.
+The phase shifter is not changing any state.
+It shifts one of the states by e to the minus i phi.
+But I can sort of [? summarize ?] it
+by taking half of it out as a prefactor
+and then adding here e to the i phi over 2.
+And this here is immediately recognized as the rotation
+matrix around the z-axis.
+Now, you may ask, what about this?
+Well, this is an irrelevant global phase factor.
+If you have any state in Hilbert space
+and you change the global phase, it doesn't matter.
+So therefore, we are realizing that the beam splitter is
+a rotation around the y-axis.
+It's now a definitional thing, but we put a factor of 2
+here by an angle 2 theta.
+And the phase shifter is a rotation
+around the z-axis by an angle phi.
+Now, with that, we can formulate what
+is called Bloch's theorem that any unitary operation
+of a two-dimensional Hilbert space
+can be written as a product of rotations.
+Now, let's first count an arbitrary unitary operation,
+valid two-by-two matrix, in complex space
+has eight numbers for real parts, for imaginary parts.
+But if the matrix is unitary, there
+are only four independent element-- alpha, beta, gamma,
+delta.
+And if you parametrize the unitary matrix
+with alpha, beta, gamma, delta, which
+is shown in the wiki notes, then we
+can write an arbitrary, this arbitrary, unitary matrix
+by a combination of a phase factor, an overall phase
+factor, which is irrelevant because it's a global phase
+factor, and then a rotation around z, a rotation around y,
+and a rotation around the z-axis.

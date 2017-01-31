@@ -1,0 +1,99 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3g2.txt
+#
+# Captions for 8.422x module
+#
+# This file has 90 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to now-- I want to in a minute draw you
+a table, what are the fluctuations in the photon
+number for the states we have encountered,
+the number state, the Fock state,
+the coherent state, and the Thurman's state.
+And we want to characterize those quantum states of light
+by the g2 function.
+And actually, I can drop the time argument,
+or set it to zero.
+But then we first make a reference
+that g2 can now be smaller than 1.
+So g2 for a single mode light is nothing else than a function.
+When you know what is an average, an n-square average,
+you know your g2 function.
+There is another quantity which we often
+use to characterize the fluctuations in the photon
+number, and this is called the Fano factor.
+The Fano factor wants to compare the fluctuations n-square
+average, minus n-average squared.
+These are the fluctuations.
+
+The classical fluctuation, well not
+say classical, classical in the simplest case
+are Poissonian fluctuations.
+So maybe we want to normalize the fluctuations
+by Poissonian fluctuation.
+So for Poissonian statistics, what I just wrote down
+would be one.
+
+And well, if we now subtract one,
+we have the situation that the Fano factor, which is positive,
+is super Poissonian, more fluctuation than Poissonian,
+and the negative Fano factor is sub-Poissonian.
+So with those definitions we can now
+compare the different states of light we have introduced.
+We started out with black body radiation, thermal radiation.
+We defined coherent states, and the harmonic oscillator
+description naturally gave us harmonic oscillator
+eigenstates, the number states, or Fock states.
+So there are three ways to characterize it.
+They are all useful.
+One is we can look at n-squared.
+We can calculate the Fano factor,
+or we can calculate g2 of zero.
+
+For the coherent state, remember that the coherent state
+is as close as we can come quantum-mechanically
+to the ideal of a pure electromagnetic wave.
+It has a Fano factor of zero.
+This means it's Poissonian.
+The g2 function is simply one, which
+is the lowest classical limit.
+So those two tell you that a coherent state is sometimes
+what you think would come out of a laser,
+is an ideal electromagnetic wave,
+which has no temporal fluctuations in the intensity.
+Therefore, g2 is one, and the photon number
+is Poissonian distributed.
+And that means that n-squared is an average times 1
+plus an average.
+We actually discussed it earlier.
+
+The thermal state is quite different.
+If you use-- kind of pluck together
+the results we have obtained, it has a Fano factor of n-bar.
+
+So this is super Poissonian.
+If the occupation number n is large,
+you have fluctuations which are much,
+much larger than Poissonian fluctuation.
+The g2 function is 2.
+It's sometimes called thermal light.
+Chaotic light has a g2 function of 2.
+Laser light or coherent state has a g2 function of one.
+And n-square average is n-bar 1 plus 2 n-bar.
+
+OK but now finally, maybe the most interesting state
+from the perspective of non-classical light of quantum
+light, is the photon number state.
+Well, for photon number state, the number of photons
+is an eigenvalue.
+Therefore, n-square average is an average squared.
+The Fano factor is minus 1, sub-Poissonian distribution.
+And the g2 function, which classically cannot go below 1,
+is now n minus 1 over n.
+It is smaller than 1.
+And you see it immediately that is the biggest violation for g2
+is zero for the case of a single photon state.

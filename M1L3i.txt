@@ -1,0 +1,175 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 166 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Since the creation of single photos
+is essential for starting on classical light,
+but also since it's a very active frontier of our field,
+actually one of the leaders of this field
+is Professor Vladan Vuletic here at MIT,
+let me at least give you a taste how to create single photons.
+I already gave you the major ingredient.
+Namely, it involves single atoms.
+But it's a little bit more demanding like that.
+So you want to take one atom or one ion,
+but the problem is if the atom or ion emits a light,
+it can emit the light into all directions.
+And therefore, you have a single photon afterwards,
+but you have many, many different spatial modes.
+And in any given mode, it will not have a single photon.
+So therefore, what you have to add to this single atom
+or single ion is you have to put it in a cavity.
+And in the limit of a very, very high-finesse cavity,
+the probability will be very, very high
+that your photon is emitted into the mode of the cavity
+and it is not emitted perpendicular into other modes.
+But that itself is not yet sufficient,
+because you have a single photon,
+but you also want to know when does the single photo arrive?
+You want to do experiments.
+You want single photons on demand.
+So one option is that you prepare your atoms
+in the ground state.
+You take the pi pulse, which with 100% probability
+excites the atom to the excited state.
+And then within a natural lifetime, or maybe even
+in resonator-enhanced inverse nature line
+in which the single photon is emitted.
+So therefore, you pump the system,
+and then you know within the next few nanoseconds
+your cavity mode will have a single photon.
+
+The problem here is that you have to prepare single atoms,
+which is difficult. You have to couple them
+to a high-finesse cavity.
+There is technically another approach
+where you use many atoms.
+Since you have many atoms, you no longer have a single gun.
+So therefore, you can get several photos.
+But the singleness in photons comes
+because the photons are now heralded, they are announced.
+And the idea is the following.
+If you start with a state 1, and you have an excited state,
+and you have a pump pulse, you are now--
+if you have many atoms, you have much higher efficiency
+of pumping atoms to the excited state,
+because if you have n atoms, it's n times more efficient.
+But now you take the following situation.
+You wait until there is a Raman transition
+until you detect a photon for Raman transition,
+where the excited state decays to the state 2.
+At this moment, you know I have now one atom in state 2.
+
+So in other words, you're not starting
+with single atoms, which is sometimes more demanding--
+how can you prepare the system-- because other disadvantages
+that n atoms have.
+
+I'm not sure if I should mention, but with n atoms,
+they have a super-radiant factor n with n atoms,
+you can get an n times enhancement of emission
+into a single mode.
+So there are all real massive advantages
+in working with many atoms.
+But now you know that one atom is in state 2
+when you detect the first photon.
+And then you have the same situation which we had above.
+You can now take your system-- we'll just
+redraw the level diagram-- excited
+state, state 1, state 2.
+You know now that you have one single atom here.
+And by using a laser pulse, you can excite it
+to the excited state, and then you
+observe the single photon 2.
+So in other words, the observation of the first photon
+tells you that your system is prepared
+with one atom in state 2.
+And then you can get a single photon out
+of it, which is the photon for the inverse Raman
+transition when you pump the system back to state 1.
+If I have prepared a single atom [INAUDIBLE],
+won't there always be some uncertainty
+as to how many atoms [INAUDIBLE]?
+
+There are some uncertainties.
+And what you are saying is correct.
+We don't have perfect single photon sources.
+And people characterize the fidelity of the single photon
+source.
+For instance, if you detect this single photon, you would say,
+now my system is ready to emit a single photon triggered
+by this pump pulse.
+And if you can get now a single photon in 90% of the cases,
+you publish a wonderful paper because you've
+set a new record for the fidelity of a single photon
+source.
+So people are really struggling with some
+of those uncertainties.
+But to involve, for instance, three levels
+is sort of an advantage because you're not
+limited by the preparation of a single atom, for instance.
+You can have many atoms.
+The atoms are always there.
+And the moment one atom is prepared in state 2,
+this atom announces itself with a photon.
+So it takes a lot of uncertainty out that the system says
+with the first photon, I'm ready now.
+I can emit a single photon.
+And then you get your single photon.
+Then you can gate your whole experiment
+to a time following the detection of the first photon.
+And for your gated time afterwards, you
+have very, very high probability of finding this photon.
+Or if you want, you can now do experiments with two photons.
+If you keep this laser on and pump the atom immediately back,
+you have actually a single photon here
+followed by a single photon here.
+It's sort of click-clack.
+And now you can do correlations between two
+different single photon states and such.
+It's a very rich frontier of our field.
+You had another question?
+This is also within a cavity now?
+Like the single photon detection?
+Yes.
+Actually, all that-- when these photons, the wavy lines,
+are emitted spontaneously, spontaneous emission,
+pretty much by definition, goes into
+all possible spatial modes.
+And the only way to control the spatial mode is with a cavity.
+
+What I don't want to go into details,
+but those who have an understanding of that
+is the following.
+If you have n atoms, and you prepare one atom here
+in stage 2, you do not know which of your n atoms
+is prepared.
+So you have n indistinguishable possibilities.
+And if you have n indistinguishable probabilities
+which atom you have prepared, the emission of the photon bank
+is n times enhanced.
+So therefore, you have actually a system
+which has an n times stronger coupling to the cavity.
+So having n atoms makes it much, much easier
+to construct a high-finesse cavity.
+You get sort of this super-radiance increase
+of the strong coupling for free.
+And this is why there are many reasons why
+you do not want to work with a single ion or a single atom.
+It's possible for very fundamental experiments.
+People have shown that it can be done.
+But technologically, it's much easier and much
+more robust to work with many atoms.
+But then you need sort of the many atoms
+have to tell you when one atom is prepared to emit now
+a single photon.
+If you are interested in this subject,
+talk to the students in Vuletic's group.
+They're really the world experts in that.

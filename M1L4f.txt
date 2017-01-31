@@ -1,0 +1,95 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 86 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to discuss now the electric field
+of squeezed states.
+So just a reminder, we can discuss the electric field
+by using the causal probability representation.
+And the electric field is the protection
+of the causal probabilities on the vertical axis.
+
+And then the time evolution is that everything
+rotates with omega in this complex plane.
+
+So we discussed it already for coherent state.
+We have a circle which rotates, therefore
+the project the fuzziness of the electric field
+is always the same.
+And as time goes by, we have a sinusoidal varying
+electric field.
+Let me just make one comment, if you read the literature,
+look into the literature.
+Some people actually say the electric field is a projection
+on the horizontal axis.
+So there are people who say the electric field is
+given by the x coordinate of the harmonic oscillator.
+Whereas I'm telling you it's a p coordinate.
+Well, if you think one person is wrong,
+I would suggest you just wait a quarter period of the harmonic
+period of the harmonic oscillator,
+then the other person is right.
+It's really just a phase convention.
+What do you assume to be t = 0.
+It's really arbitrary.
+But here in this course, I will use the projection
+on the vertical axis.
+OK, if you project the number state,
+we get always zero electric field with a large uncertainty.
+So that's just a reminder.
+But now we have a squeezed state.
+It's a displaced squeezed state.
+And if you project it onto the y axis,
+we have first some large uncertainty.
+I think this plot assumes that you rotate with negative times.
+I apologize for that.
+But you can just invert time if you want.
+So after the quarter period, the ellipse is now horizontal,
+and that means the electric field is very sharp.
+So as time goes by, you see that the uncertainty
+of the electric field is large, small, large, small.
+It modulates.
+And it can become very extreme.
+It can become very extreme when you do extreme squeezing.
+So you have an extremely precise value of the electric field
+here, but you have a large uncertainty there.
+Now sometimes you want to accurately measure the zero
+crossing of the electric field.
+This may be something which interests
+you for an experiment.
+In that case, you actually want to squeeze, have an ellipse
+which is horizontally squeezed.
+Now whenever the electric field is 0,
+there is very little noise.
+But after quarter period when the electric field reaches
+its maximum, you have a lot of noise.
+So it's sort of your choice which way
+you squeeze, whether you want the electric field
+to be precise, have little fluctuations when it goes 0
+or when it goes to the maximum.
+So what we've done here is we have first
+created the squeezed vacuum.
+And then we have acted on it with a displacement operator.
+Let me just say what I wanted to take from this picture.
+The fact that the electric field is precise only
+at certain moments means that we can only take advantage of it
+when we do a phase sensitive detection.
+We only one to sort of measure the electric field when
+it's sharp.
+Or-- this is equivalent-- we should
+regard light is always composed of two quadrature components.
+We can see the cosine, the sign oscillation, the x and the p.
+And this squeezing is squeezed in one quadrature
+but it is elongated in the quadrature.
+So therefore, we want to be phase sensitive.
+We want to pick out either the cosine omega
+t or the sine omega t oscillation.
+This is homodyne detection.
+We discuss it on Monday.

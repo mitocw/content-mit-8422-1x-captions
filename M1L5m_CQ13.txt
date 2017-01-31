@@ -1,0 +1,19 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5m_CQ13.txt
+#
+# Captions for 8.422x module
+#
+# This file has 10 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I'm wondering by going through these examples
+if I would ask you that the shoot noise, which
+is square root n in the fields and n in the variance.
+After looking at the beam splitter and the modes which
+are involved, how would you now answer this question?
+Is the short noise related to quantum measurement?
+Is it related to quantum fields?
+Both or none?

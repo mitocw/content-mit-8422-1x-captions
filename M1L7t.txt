@@ -1,0 +1,260 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7t.txt
+#
+# Captions for 8.422x module
+#
+# This file has 251 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Why is squeezing important?
+Well, squeezing caught the attention of the physics
+community when it was suggested in connection
+with the detection of gravitation waves.
+As you know, the laser interferometer,
+the most advanced one is LIGO, has a monumental task
+in detecting a very small signal.
+And pretty much everything which position metrology can provide
+is being implemented for that purpose.
+So you can say, this is like in position measurement
+like maybe the trip to the moon was for aviation
+several decades ago.
+So everything is really-- a lot of things pushing
+the frontier of position measurement
+is motivated by the precision needed for gravitation wave
+detection.
+And what I want to show you here is
+a diagram for what is called Advanced LIGO.
+LIGO is currently operating, but there is an upgrade to LIGO
+called Advanced LIGO.
+And what you recognize here is we
+have a laser which goes into a Michelson interferometer.
+And this is how you want to detect gravitation waves.
+But now you realize that the addition here
+is a squeeze source.
+And what you are squeezing is not--
+but it should be clear to you now.
+We're not squeezing the laser beam.
+This would be much, much harder, because many, many photons are
+involved.
+But it is sufficient to squeeze the vacuum
+and couple in squeezed vacuum into your gravitation wave
+detector.
+If you wonder, it's a little bit more
+complicated, because people want to recycle light and have put
+in other bells and whistles.
+But in essence, a squeezed vacuum source
+is a major addition to Advanced LIGO.
+Yes.
+Where is the squeeze vacuum coming into the system?
+I see where it's drawn, but where is it actually
+entering the interferometer?
+At that first beamsplitter?
+OK.
+We have to now-- there are more things added here.
+Ideally, you would think you have a beamsplitter here,
+the laser comes in here.
+And you're simply going to enter at the squeezed vacuum here.
+And this is how we have explained it.
+We have one beamsplitter in our interferometer.
+There is an input part and an open part.
+But what is important here is also the measurement.
+Here you have a detector for reading out the interferometer.
+And what is important is that the phase is balanced close
+to the point where no light is coming out,
+so you are measuring the zero crossing of a fringe.
+But that would mean most of the light
+would then exit the interferometer
+at the other part.
+But high power lasers are very important for keeping
+the classical shot noise down.
+So you want to work with the highest power possible.
+And therefore, you can't allow the light to exit.
+You want to recycle it.
+You want to use enhancement cavities.
+And what I can tell you is that this setup here integrates,
+I think, the signal recycling, the measurement
+at the zero fringe, and you see that it's kind
+of those different parts are covered in a way which I didn't
+prepare to explain it to you.
+All I wanted to you to do is pretty much
+recognize that a squeeze light generator is important.
+And this enters the interferometer
+as a squeezed vacuum.
+What I find very interesting, and this
+is what I want to discuss now, is
+that when you have an interferometer like LIGO,
+gravitational wave interferometer, and now you
+want to squeeze.
+Does it really help to squeeze?
+Does it always help to squeeze?
+Or what is the situation?
+And this is what I want to discuss with you.
+Let's forget about signal recycling, and enhancement
+cavities, and things like this.
+Let's just discuss the basic gravitation wave detector where
+we have an input, we have the two arms of the Michelson
+interferometer.
+And to have more sensitivity the light bounces back and forth
+in enhancement cavity.
+You can say if the light bounces back and forth 100 times,
+it is as if you had an arm length which
+is 100 times larger.
+And now we put in squeezed vacuum
+at the open part of the interferometer.
+And here we have our photodiodes to perform the measurement.
+So the goal is to measure a small length scale.
+If a gravitation wave comes by, gravitation waves
+have quadrupolar character.
+So the metric will be such that there
+is a quadrupolar perturbation in the metric of space.
+And that means that, in essence, one of the mirrors
+is slightly moving out.
+The other mirror is slightly moving in.
+So therefore, the interferometer needs a very, very high
+sensitivity to displacement of one of the mirrors
+by an amount delta z.
+And if you normalize delta z to the arm
+lengths, or the arm length times the number of bounces,
+the task is to measure the sensitivity in the length
+displacement of 10 to the minus 21.
+That's one of the smallest numbers
+which have ever been measured.
+And therefore, it is clear that this interferometer
+should operate as close as possible to the quantum
+limit of measurement.
+So what you want to measure here is, with the highest accuracy
+possible, the displacement of an object delta z.
+However, your object fulfills an uncertainty relationship
+that if you want to measure the position very accurately,
+you also have to consider that it has a momentum uncertainty.
+And this fulfills Heisenberg's uncertainty relation.
+You would say, well, why should I
+care about the momentum uncertainty
+if all I want to measure is the position?
+Well, you should care, because momentum uncertainty,
+after a time tau, turns into position uncertainty.
+Because position uncertainty is uncertainty in velocity.
+And if I multiply it by the time tau
+it takes you to perform the measurement,
+you have now an uncertainty in position
+which comes from the original uncertainty in momentum.
+So if I use the expression for Heisenberg's uncertainty
+relation, I find this.
+
+And now what we have to minimize to get the highest precision
+is a total uncertainty in position,
+which is the original uncertainty
+plus the uncertainty due to the motion of the mirror
+during the measurement process.
+So what we have here is we have delta z.
+We have a contribution which goes as 1 over delta z.
+And by just finding out what is the optimum choice of delta z,
+you find the result above.
+Or if you want to say you want that this delta z tau is
+comparable to delta z, just set this equal to delta z,
+solve for delta z, and you find the quantum limit
+for the interferometer which is given up there.
+So this has nothing to do with squeezing.
+And you cannot improve on this quantum limit by squeezing.
+This is what you've got.
+It only depends on the duration of the measurement,
+and it depends on the mass of the mirror.
+There is a very influential and seminal paper
+by Caves-- the reference is given here--
+which was really laying out the concepts
+and the theory for quantum limited measurements with such
+an interferometer and the use of squeezed light.
+Let me just summarize the most important findings.
+So this paper explains that you have two contributions
+to the noise, which depend on the laser power you
+use for your measurement.
+The first one is the photon counting noise.
+If you use more and more laser power,
+you have a better and better signal,
+and your shot noise is reduced.
+So therefore, you have a better read out of the interferometer.
+And this is given here.
+Alpha is the eigenvalue of the coherent state.
+But there is a second aspect, which you may not
+have thought about it.
+And this is the following.
+If you split a laser beam into two parts,
+you have fluctuations.
+The number of photons left and right are not identical.
+And you have a coherent beam and you split it
+into two coherent beams, and then
+you have Poissonian fluctuations on either side.
+But if you have no Poissonian fluctuations in the photon
+number, if those photons are reflected off a mirror,
+they transfer photon recoil to the mirror.
+And the mirror is pushed by the radiation pressure.
+And it's pushed, and there is a differential motion of the two
+mirrors relative to each other due to the fluctuations
+in the photon number in the two arms of the interferometer.
+So therefore, what happens is you
+have a delta z, and a deviation or variance
+in the measurement of the mirror which
+comes from radiation pressure.
+It's a differential radiation pressure between the two arms.
+And what Caves showed in this paper
+is that the two effects which contribute
+to the precision of the measurement
+come from two different quadrature components.
+For the photon counting, we always
+want to squeeze the light in such a way
+that we have the narrow part of the ellipse
+in the quadrature component of our coherent beam.
+We've discussed it several times.
+So therefore, you want to squeeze it by e to the minus r.
+However, when what has a good effect for the photon counting
+has a bad effect for the fluctuations
+due to radiation pressure.
+
+So therefore, what happens is-- let's
+forget squeezing for a moment.
+If you have two contributions, one
+goes with-- to the noise-- one goes with alpha, square root
+of the number of photons.
+One goes inverse with the square root of the number of photons.
+You will find out that even in your interferometer
+without squeezing, there is an optimum laser
+power which you want to use.
+Because if you use to low a power,
+you lose in photon counting.
+If you use too high a power, you lose in the fluctuations
+of the radiation pressure.
+So even without squeezing, there is an optimum laser power.
+And what was shown in this paper is
+whenever you choose the optimum power which
+keeps a balance between photon counting and radiation
+pressure, then you reach the standard quantum
+limit of your interferometer.
+But it turns out that for typical parameters,
+this optimum power is 8,000 watt.
+So that's why people at LIGO work
+harder and harder to develop more and more powerful
+lasers, because more laser power brings them closer and closer
+to the optimum power.
+But once they had the optimum power,
+additional squeezing will not help them,
+because they're already at the fundamental quantum limit.
+So the one thing which squeezing does for you, it
+changes the optimum power in your input beam
+by a squeezing factor.
+So therefore, if you have lasers which
+have maybe 100 watt and not 8,000 watt,
+then squeezing helps you to reach the fundamental quantum
+limit of your interferometer.
+So that's pretty much all I wanted
+to say about precision measurements.
+I hope the last example-- it's too complex
+to go through the whole analysis,
+but it gives you at least a feel that you
+have to keep your eye on both quadrature components.
+You can squeeze, you can get an improvement in one
+physical effect, but you have to be
+careful to consider what happens in the other quadrature
+component.

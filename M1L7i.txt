@@ -1,0 +1,72 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 63 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Our next unit is partially motivated
+to show you what all this entanglement can do for us.
+So I mentioned that entanglement is a resource.
+It's something useful, like energy is a resource.
+And so maybe ultimately there should be a stock market
+and you can buy so and so many bits of entanglement.
+And you have to pay for it, because there's
+something you can do.
+And let me sort of introduce what can be done with it.
+If you have one photon at frequency omega,
+and you have an observation time,
+you do a measurement over time T,
+then the precision at which you measure the frequency
+is fundamentally limited by, you can see time energy uncertainty
+by the Fourier theorem that the uncertainty in the frequency
+of a single measurement is 1 over the time T
+you had to detect or to measure the frequency of the photon.
+But now we have n photons, and that
+means that the uncertainty in the measurement, which
+is now small delta omega is delta omega
+for a single photon.
+But you know when you do n measurements and average n
+measurements, you gain by the square root of n.
+And this is regarded as the fundamental short noise
+limit of measurements.
+But now, assume we can do something fancy.
+We can make a super photon.
+We take our n photons of frequency omega
+and make one big photon of frequency n omega.
+Now we have only one photon, the frequency uncertainty
+of the measurement is delta omega.
+But this is now the uncertainty of the n times more energetic
+photon.
+So therefore, if we're interested in the quantity
+omega, which is the frequency of the single photon,
+we have now made an improvement over the standard shot noise
+limit by square root n.
+So that's just the Gedankenexperiment.
+If you can take n photons, I've told you
+how we've talked about the optical limit
+parametric oscillator how we can pump a crystal.
+And in your homework assignment, you do a nice calculation
+for the Hamiltonian, one big photon in,
+it breaks into two photons.
+The reverse process is frequency dot doubling.
+So if you would not measure n photons individually,
+but first [? ate ?] up their frequency
+by making a photons of n times the frequency
+and then look at a single photon, you have now--
+you measure all the photons together,
+and therefore your accuracy improves
+by a factor of n and not just by a factor of square root n.
+So that tells us something if we do something with the photons.
+If we entangle them, there is a possibility
+to vastly improve the standard limit of measurements.
+And so people who are really interested in it
+are people who push the limits of precision, people
+who build atomic clocks, and want
+to get the last little bit of accuracy which is possible.
+So they've already exhausted all technical possibilities,
+and the next thing is now, well, maybe entanglement.

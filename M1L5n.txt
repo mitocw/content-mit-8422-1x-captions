@@ -1,0 +1,89 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5n.txt
+#
+# Captions for 8.422x module
+#
+# This file has 80 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Other questions?
+Nicky?
+[INAUDIBLE]
+
+Well, a lot of classical counting statistics
+leads to shot noise.
+If you have independent particles
+with a certain probability, then you get shot noise.
+But I would sort of press you hard to make
+a classical explanation for the last example I gave you,
+where we had a strong local oscillator, we reflected it,
+and superimposed with squeezed vacuum.
+At that point, all the shot noise has disappeared.
+So therefore, I would be hard pressed
+to connect it with a classical probability of detecting
+a photon.
+Of course, classically speaking, the empty part
+of a beam splitter is empty, and squeezed vacuum
+doesn't exist classically.
+Yes, Timo?
+This might be kind of a silly question,
+but so we have a minimal uncertainty
+state is when delta x, delta p is zero.
+But a lot of times we mostly talk
+about the number of phase uncertainty.
+So I'm just curious, because a coherent state
+has the same circle of-- the area of the circle is
+the same, right?
+I know this is wrong, but can't you always make the delta n,
+delta phi uncertainty very small by having a very large end,
+where delta n stays the same but the angle are spread-- always
+goes down as you make the circle further away from the origin.
+So you're talking about an uncertainty
+relation we have not discussed.
+Well, it kind of showed up in the last--
+In the last homework, then, you looked at it.
+So what happens is if you have a coherent state
+you would say the face angle phi has this uncertainty.
+And then there's an uncertainty relation.
+
+Actually, we talked about this problem yesterday.
+I think the uncertainty and the size of the disk is constant.
+The size of the disk is uncertain in alpha, but alpha
+is proportional not to n but to the square root of n.
+We can make the error propagation,
+[INAUDIBLE] square root of n.
+So if we move the circle further away, the uncertainty of alpha
+stays the same, but the uncertainty of m
+goes actually up.
+But we don't see this [INAUDIBLE].
+
+Yes, you have to be careful.
+That's another comment I wanted to make,
+but thanks for reminding me of that.
+When you have coherent states, it
+looks that the uncertainty is always
+the same because it's a disk.
+But we learned today and in the last classes
+that uncertainty of the coherent state when
+you measure the photocurrent is square root n.
+What happens is the following.
+The uncertainty-- and this is what
+I was referring to-- the uncertainty, let's say,
+of delta a in one [INAUDIBLE] component is constant
+for the coherent state, independent of n.
+But that would mean what you really
+calculate is when you calculate the photocurrent,
+it is alpha plus delta a, which is constant,
+but then you square it.
+In the limit of a strong coherent state,
+you get alpha squared, which is the number of photons,
+plus 2 alpha times delta a.
+So the delta a, which is constant,
+gets multiplied with square root n here.
+
+So therefore, when you go to a larger coherent state,
+you increase a number uncertainty,
+but by the same factor you reduce the phase uncertainty.

@@ -1,0 +1,168 @@
+#
+# File:   content-mit-8422-1x-captions/M1L8e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 159 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me sort of wrap it up.
+I've given you different angles at the g2 function.
+Some are simply classical intensity distribution.
+Some is simply interference.
+Another aspect was only counting statistics.
+My understanding and my interpretation
+is they look as different as they can possibly look,
+but they reflect the same physics.
+Because interference of light only happens because light
+consists of photons and photons or bosons.
+So the classical interference and
+the quantum mechanical counting of bosons lead--
+and not for random reasons, but lead for profound reasons--
+to the same result. And chaotic light,
+which seems to be determined by just random fluctuation-- well,
+the random fluctuations, if you have single-mode light,
+a thermal distribution of single-mode photons
+comes from random phases.
+And these random phases lead to random interference,
+and so we are back to interference.
+Finally, let me give you my view on the measurements of g2.
+When you look through the literature,
+you'll find the famous [INAUDIBLE] experiment.
+In one of your homework assignments,
+you look at a seminal experiment where people dropped atoms out
+of cold atom clouds and measured the g2 function for cold atoms.
+Sometimes it's confusing when you directly compare the two
+experiments, but let me try to give you
+a common description, or the common denominator,
+between all these experiments.
+You can say that all experiments to measure
+the two-particle correlation function
+is about comparing the probability of finding
+two particles with a probability of finding one particle.
+
+And you restrict your measurement, your detection
+of particles, to either one quantum state,
+one mode of the electromagnetic field, one coherence length
+or coherence volume of light.
+Or if you use a semi-classical argument
+for the description of particles,
+you take one phase space cell.
+This is one phase space cell, one mode, one coherence,
+one quantum state is the different definitions of what
+the quantum state is, or what a wave
+packet is with Heisenberg's limited uncertainty.
+You cannot define a particle in phase space to be, then,
+better than the phase space volume of a quantum state,
+which is h squared.
+Or is it h bar?
+I don't think there's a bar.
+H squared.
+And so this is how you can relate wave packets to quantum
+states, to phase space volume.
+Mathematically I could say in different basis sets,
+in different basis sets, it is one quantum state.
+But you can use wave packets, you
+can use time-dependent description.
+But what I said here-- one quantum state, one mode,
+one coherence volume--
+this is as well as you can define a particle or photon
+to be, by fundamental reasons by Heisenberg's uncertainty
+relation.
+What do we mean by one coherence volume?
+Pardon?
+What do we mean by one coherence volume?
+Well, if you have a laser beam which propagates
+and it is [? Te ?] and zero, zero,
+you would say the transverse coherence volume
+is the size of the laser beam.
+But then the longitudinal coherence volume
+is given by the coherence length.
+So just envision you have a laser beam here.
+And the coherence volume, where all the photons are coherent,
+is the area of the laser beam times the coherence length.
+And whenever you find a photon in this kind of volume,
+then it is in a Heisenberg uncertainty,
+limited or Fourier-limited state.
+If it's a wave packet in pulse laser,
+it's in a time-dependent quantum state, but it is as coherent.
+It is fully coherent.
+
+So you have to figure out for your system what
+is the coherence volume, what defines the fundamental phase
+space cell of your system.
+And now you do the following.
+You are asking, what is the probability
+to find two particles and what is the probability
+to find one particle.
+So if P is the probability to find one particle,
+then you have three options--
+p squared, 2p squared, or zero to find two particles.
+One is the classical case of distinguishable particles.
+This is the case of bosons, bosonic atoms or photons.
+Therefore it includes the [INAUDIBLE] experiment,
+and zero is fermions.
+And the question is now, different experiments,
+how do you define with spatial resolution
+or temporal resolution the coherence volume?
+And that can involve transverse collimation,
+temporal resolution, and whatever
+you can use to define the phase space
+cell or the coherence length, the coherence volume of a laser
+beam.
+Let me give you one example, which I think illustrates it.
+And this is the example of an atom cloud.
+If you have an atom cloud, all the particles,
+which are in a volume of a thermal de Broglie wavelengths,
+are coherent.
+The momentum uncertainty of particles in a thermal cloud
+is the thermal momentum.
+And according to Heisenberg, the position uncertainty
+related with this momentum spread
+is just the thermal de Broglie wavelengths.
+So you can say that all the atoms in a cubic de Broglie
+wavelengths are coherent.
+All the atoms are in one semi-classical quantum state.
+So therefore, this is sort of atoms in one single mode.
+So the [INAUDIBLE] experiment with atoms,
+or the measurement of the g2 function,
+could be defined as follows.
+You have an atom cloud and if you had an electron microscope
+or some high resolution device, you grab into your cloud
+and ask what is the probability for one particle, what
+is the probability for two particles.
+And you will find that p2 is two times p1 squared.
+If your volume is too big, you lose the factor of two,
+because you average over uncorrelated volumes.
+
+Now, in your homework, you were looking
+at the question, how can I really grab into a cloud
+and just pick out atoms out of one phase space
+cell of effective size, lambda de Broglie cubed.
+And how it was done is that you take an atom cloud
+and you drop it and expand it.
+When the cloud expands, there is a mapping from momentum space
+into position space.
+Then you use some form of pinhole, which provides
+transverse collimation.
+You use a detection laser, which gives you temporal resolution.
+And, well, this was part of your homework,
+but I just wanted to give you sort of the bird's eye view
+on it.
+By controlling the transverse collimation
+and the temporal resolution of the detection,
+you create a situation that what you count
+are only atoms which originated from one phase space
+cell in your cloud.
+So in other words, that's an experiment
+where without electron microscope,
+without sub-micron spatial resolution,
+you can literally grab into a cloud,
+capture a volume of the thermal de Broglie wavelength,
+open your hand, and figure out how
+is the probability for two particles related
+to the probability of finding one particle.
+Any questions?

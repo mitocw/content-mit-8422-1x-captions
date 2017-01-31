@@ -1,0 +1,84 @@
+#
+# File:   content-mit-8422-1x-captions/M1L6g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 75 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+As I was preparing for today's class,
+I actually saw a paper which just came out in science.
+And they discussed the whole [INAUDIBLE] interference
+experiment with fermions.
+So let me just explain what happens.
+So if you have two identical photons,
+if you have two particles which impinge on the beam splitter,
+they are the two input beams for the beam splitter,
+you would see you have four different outcomes.
+One is both come out here, both come out here.
+Or they are both reflected.
+Or they are both transmitted through.
+And what happens is bosons, as I just pointed out,
+bosons characterized by photons can only do that.
+Identical photons want to bunch up.
+They appear in pairs, 50% left output, 50% right output.
+Well, for fermions they just do the opposite.
+For fermions, you will always get one particle each.
+You may immediately, of course, explain it
+with the Pauli exclusion principle, which does not
+allow two particles to be in the same state
+after the beam splitter.
+And you should contrast it with classical particle.
+When you have two classical particles,
+you will actually find that all those four possibilities, each
+of them has a 25% probability.
+So it was a major experiment, which
+was featured in science when people realized
+that with electrons they created electrons in a semiconductor
+structure and showed, through some statistical measurement,
+that this was the physics which happened.
+The measurement they did is I forgot now details.
+If you have bosons and you get either two here or two there,
+you have more fluctuations in your system than for fermions.
+And they conclusively showed that they
+had realized the Hong-Ou-Mandel interference for fermions.
+So this Hong-Ou-Mandel interference
+is at the heart how we perform the measurement, which
+is ultimately entangling the atoms.
+But we need one more element.
+We need sort of to scramble the photons in one more way.
+And this is by adding circular polarizers at the input.
+So we assume for now that we start out
+with linear polarization in those states.
+And here's our beam splitter.
+Here is mode A and mode B which we detect.
+And before we measure this home interference,
+we put in quarter wave plates, which
+provide circular polarization.
+So if you start with linearly polarized light,
+but we put in a polarizer, we-- after the circular polarizer,
+we have a linear superposition of horizontal and vertical
+at mode one.
+And we have a linear polarization
+and a superposition of linear polarization in mode two.
+So this is a situation at the input of the beam splitter.
+And if we expand it, we have probabilities
+where the polarization is different
+and where the polarization is the same.
+So we have two detectors here.
+And if both detectors click, then we
+know that the input to the interferometer
+was not HH or VV, because in that case
+the whole Ou-Mandel interference would have directed
+both photons to one output, and we would not
+have obtained clicks for both.
+So therefore, when both detectors click,
+we know that the quantum state before the interferometer,
+before the beam splitter, was HV or VH.
+Or, of course, in another basis, one of those.
+And this is sort of the ingredient,
+is I will show you on Wednesday, which
+can lead to probabilistic entanglement of atoms.

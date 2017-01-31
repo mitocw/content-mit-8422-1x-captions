@@ -1,0 +1,19 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5a_CQ1.txt
+#
+# Captions for 8.422x module
+#
+# This file has 9 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Fine, let's now go through the question.
+We first have to make sure that we
+use the same definition and measure
+things in the same unit.
+We want to talk about coherent states,
+so the first are just little, quick checks.
+Coherent states are eigenstates of the Hamiltonians,
+of a, or of a dagger

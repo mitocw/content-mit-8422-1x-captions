@@ -1,0 +1,225 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5o2.txt
+#
+# Captions for 8.422x module
+#
+# This file has 216 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So with that introduction, we want
+to talk about single photons.
+And I want to introduce for you the singular photon qubit.
+Now if you talk about singular photons,
+you automatically have one qubit.
+0 is no photon.
+1 is the single photon state.
+We make an addition later on.
+This is not the most robust qubit
+because, due to unavoidable losses are limited quantum
+efficiency, you have one photon and you lose it,
+you think the [? bit ?] has been flipped.
+So you don't want to really use that,
+but we will use, in a moment, a similar photon
+in two different quantum states.
+And then if you detect 0, you know you've lost it.
+We will talk about one photon, which is either here or there.
+And this is 0 of our qubit, and this will be 1 of our qubit.
+But we'll come to that later.
+I first need the Hilbert space of 01 to introduce a few
+things.
+And then we use what we have learned
+to define the [? dual rails ?] in a photon state.
+OK, but for now, we don't have to make this distinction.
+The question that you want to answer
+is, what happens when those states pass
+through optical components?
+And I want to show you how beam splitters and phase
+shifters can be used as very simple optical components.
+They can be realized, they can be
+used to realize an arbitrary single qubit operation.
+And then we introduce non-linear interferometers,
+and we get two qubit operations.
+So let's start out really simple and talk about phase shifters
+and beam splitters.
+And this is pretty much how far we
+will get today in this chapter.
+Well, if we have a single photon and time passes on,
+the single photon gets phase shifted.
+If you pass it through a dispersive medium,
+it will have another phase shift.
+So this is how phase shift can be realized.
+But there is one caveat, and that immediately tells us
+we can't get away with just a single photon in one fiber
+and phase shifting it, because everything phase
+shifts a photon.
+On Time, everything which is in the beam pass.
+So whenever we talk about a phase, we need a reference.
+So therefore, we're immediately [? drawn ?] that one mode
+and one photon is not enough, even if you are interested
+in [? one ?] photon gates, we need two modes.
+So that means now we just think about two waveguides or two
+optical fibers.
+
+We call them mode a and b.
+If we put one photon on in, and this is now
+the symbol for a phase shifter, a little box with the letter
+phi, that we get a phase shift of the state 1.
+And the second mode a acts as a reference mode
+to detect the shifter phase, let's
+say by interfering with the two photons.
+So in general, we have an input state
+and we obtain an output state, which has a phase shift.
+We'll come back to phase shifters later.
+So we have two modes.
+The next thing we can do is we can combine modes.
+And this is done with a beam splitter.
+So we've talked about beam splitters
+in the context of [? homodyne ?] detection.
+We've talked about beam splitters
+most of the first hour with a clicker question.
+And I was mainly referring to the beam splitter to you
+before, in a rather non-formal way, if you have a 50/50 beam
+splitter and you have two inputs,
+you get a symmetric and antisymmetric combination
+of the two.
+If it's a 50/50 beam splitter, what else can you get?
+Or, I used the concept of just reflection and transmission
+coefficients.
+I think that's all important to get an intuitive
+feel for the beam splitter.
+But now I use a more vigorous approach.
+I have a beam splitter, which is characterized
+by an angle theta.
+We will later find out what theta is.
+And we have an input mode a and a second input mode b.
+And those modes get mixed now.
+We have output modes b prime, and output modes a prime.
+And we can use a Schrodinger picture
+and talk about the photon states in those modes,
+but I prefer to use the Heisenberg picture.
+So when I put a, a prime, and b and b prime in,
+just think about annihilation operators, which annihilate
+photons in those modes.
+So what I postulate is that this system is described
+by the following Hamiltonian.
+
+And I'm sort of telling you this Hamiltonian describes this beam
+splitter.
+You say why and [? how. ?]
+Well, I will tell you what this Hamiltonian does to the modes.
+And then we have the quantum description
+of the beam splitter.
+And you will then see in your homework
+that this quantum description of the beam splitter, that's
+exactly what it is expected to do to cohere in states.
+It just splits a laser beam into two
+with a reflection and transmission
+coefficient, which are cosine square theta
+and sine square theta.
+And I will also show you that this beam splitter is doing
+the same, splitting with cosine square
+and sine square theta probabilities a single photon.
+So in essence, I give you the Hamiltonian
+and I discuss that the transfer matrix, which
+is built upon this Hamiltonian, that's
+everything [? that you ?] ever want a beam splitter to do.
+And therefore you can say this defines the beams splitter.
+OK.
+If [? you're in ?] Hamiltonian that means,
+after propagating for the Hamiltonian,
+we have the following transfer.
+You may be familiar by putting here the unitary time evolution
+and the time which has elapsed.
+But we are always using a fixed time
+after the light has transformed the beam splitter.
+So you can say the time t is absorbed
+in the definition of 8, or absorbed
+in the definition of [? hc ?] Hamiltonian,
+and b is really the unitary time evolution
+from beam before and beam after the beam spit up.
+So the transformation, which transforms the modes
+at this beam splitter, has now the following unitary operator.
+And we have modes a, b, mode 1 and 2 before the beam splitter.
+After the beam splitter, they have been transformed
+to a prime and b prime.
+And we obtain that by taking the input modes
+and doing, well, unitary time evolution.
+You do simply the operator transformation
+for unitary transformation.
+So we can now transform the operators a and b.
+I'm not going with you, through the exercise,
+how you transform an operator.
+They are, I think in undergraduate quantum mechanics
+classes, you do the Baker-Campbell-Hausdorff
+formula, how to deal with operators in the exponent.
+And if you do that, you find, not surprising,
+a beam splitter is a linear element, that what you get
+is a linear combination of a and b.
+
+So if you don't like me postulating an operator,
+I'm saying, believe me, this is a beam splitter
+you can reverse engineer.
+You can say this really looks like the modes,
+the operators a, b, get linearly superposed
+with cosine and sine.
+This is what a beam splitter does, is it mixes two modes.
+And then you can reverse engineer and figure out
+that it's exactly the Hamiltonian above which
+does it.
+So your homework will show that this happens exactly
+for coherent states.
+So if you have a coherent state with alpha,
+you get a coherent state with alpha cosine theta in one arm
+and alpha sine theta in the other arm.
+And you will see that everything works out beautifully.
+I have to use [? one ?] convention now for a 50/50 beam
+splitter.
+And I use the convention that I chose theta to be pi over,
+to be 90 degrees.
+And we want to use symbolic language
+because we want to draw diagrams of multiple beam
+splitters and such.
+So this tilted square, this [INAUDIBLE]
+is the symbol for beam splitter.
+We have input ports a and b on the left side.
+We have output ports, which are now b prime and a prime.
+And for the 50-50 beam splitter, the modes
+are symmetric and antisymmetric superpositions.
+So this is the symbol for the unitary transformation B.
+And since one output port has a minus sign,
+[? it is ?] antisymmetric and one is positive,
+we usually put a dot there, which distinguishes the two
+different ports.
+So this is the operator B. We have already
+used for the unitary transformation the operator B
+dega.
+So for the operator B dega, using the equations
+above, we have input modes a, b.
+But what happens now is, for the operator B dega,
+the output modes are interchanged.
+So we have a plus b over square root
+a, a minus b over square root of 2,
+and therefore the symbol for B dega has the dot here.
+I just want to warn you that there
+are other phase conventions in the literature which
+are equivalent.
+But sometimes if you read a paper and all the minus signs
+appear somewhere else, well, people
+have a different phase convention.
+You can postulate that you have a beam splitter
+without having the i here.
+And everything works similarly.
+It's just that, for instance, in this equation,
+you get an i here.
+So imaginary units and plus-minus signs
+[? in that business ?] are phase conventions.
+If you would say, hey, but if you have another definition,
+don't you have another beam splitter?
+Yes, it is another beam splitter.
+But I can always get it out of my beam splitter, which
+now is our beam splitter, by putting a phase
+shifter afterwards.
+So it doesn't limit the generality of the discussion

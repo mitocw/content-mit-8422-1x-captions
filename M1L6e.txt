@@ -1,0 +1,251 @@
+#
+# File:   content-mit-8422-1x-captions/M1L6e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 242 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's measure entanglement.
+The basic idea here is that if have a state up down
+plus down up, it's a pure state.
+But this pure state has a correlation, a correlation
+between the two subsystems.
+And the idea is now, entanglement
+is that there is a correlation between the two subsystems.
+And you can now say, well, it would be a good way
+to characterize entanglement if I only look at one subsystem.
+In this case, you look at one subsystem
+and you would just randomly see spin up, spin down.
+Spin up, spin down is described by the unity density
+matrix, which is therefore the most random state on earth.
+So if you have a pure state and you only look at one subsystem,
+the more random the subsystem is the more
+the pureness of the initial state comes from correlations,
+comes from what is entanglement.
+So therefore, what I want to introduce now
+is a measure of entanglement is that we take the total system
+and then we perform the partial trace.
+We only look at one subsystem.
+And the purer the subsystem is the less entangled it is.
+Because in the ultimate limit that our system factorizes
+into two pure states, when you look at the subsystem,
+we still have a pure state.
+So the purity of the subsystem in terms of pure state
+is now imagine of entanglement.
+The purer the subsystem is, the less entangled it was.
+
+So the basic idea here is entanglement is
+related to correlations.
+And if you take half of a Bell state--
+so we have two particles which are an EPR pair
+and we take half of it-- then half of it
+is completely random.
+So let me illustrate that.
+So if you take 1/2 of-- let's just
+take one of the Bell states-- phi plus,
+which was the superposition of 0 0 plus 1 1.
+
+So let me be specific because we need that for the definition.
+We describe this ensemble of this system in a pure EPR state
+by a density matrix.
+The density matrix is nothing else
+than you take your total system-- so this is now
+the density matrix-- so in our case, psi AB is just the state.
+And now we describe the subsystem
+by performing a partial trace on [INAUDIBLE].
+The partial trace is over the system B,
+and that means we take all eigenfunctions,
+kB of state B sum over all case and this is our partial trace.
+So therefore, we would take our statistical operator
+from the line above and perform the partial trace
+where those states are the state 0 and 1 of B.
+So these are the states of B.
+So when you do that you just insert that.
+You'll find that what you get is 1/2, a has been traced out,
+so b has been traced out, and what
+we obtain for a is just from the two terms above.
+This gives that and this gives that.
+And you immediately realize that this is 1/2 times the identity
+matrix.
+So therefore, we have shown that this
+is a completely random state.
+So now we can characterize the randomness of the partial trace
+by-- of the entity operator obtained
+by performing the partial trace with the standard for Neumann
+entropy.
+
+As a reminder, the von Neumann entropy
+for statistical operator rho is defined as the expectation
+value of rho log rho where we take the logarithm with respect
+to the base 2.
+So this is the trace of rho log rho.
+Or if we use the eigenvalues of rho,
+we multiply eigenvalues with a logarithm of the eigenvalues.
+
+So for pure state, the entropy is 0
+because the pure state has one eigenvalue, which is 1,
+and the log of 1 is 0.
+So we get 0 for pure state.
+For completely mixed state, we're
+talking about a state which has two dimensions
+or it can be up and down.
+A completely mixed state has probabilities of 1/2 each.
+And then we say the entropy of this state is 1
+or we call it one beat.
+Yes?
+I'm confused about the [INAUDIBLE].
+
+Isn't just the [INAUDIBLE] of an operator [INAUDIBLE] trace
+of the operator [INAUDIBLE]?
+Thank you.
+Yes.
+So this is just a reminder how we
+measure entropy of density matrix
+and now we apply it to entanglement.
+We define now that entanglement for the entanglement E
+over state psi AB to be the entropy of the density
+matrix for system A after tracing out system B.
+And for pure state, this is-- it doesn't matter whether we trace
+out A or B. If you start with a pure state,
+the entanglement, the entropy of the statistical operator rho
+A and rho B, are the same.
+Tried for a moment to prove it.
+I saw it quoted somewhere.
+I didn't succeed in a split second
+so either I overlooked something or it's a little bit more
+involved to show that.
+So therefore, to use it inverse, our definition
+says that the entropy-- so the entanglement--
+is nothing else than the entropy of the reduced density matrix.
+And we immediately see, if we have any of the four Bell
+states, by performing the partial trace over one qubit,
+we obtain the identity matrix, so therefore the entropy
+of all the Bell states is 1.
+Let me state without proof when we come back
+to the purification scheme, the result
+is that the probability or the optimum probability-- if you
+do stupid measurements on your states,
+of course you get nothing-- but the optimum strategy
+to create pure Bell states out of your reservoir of poorly
+entangled states-- so for an optimum strategy, the success
+probability m over n actually turns out
+not to be a different measure of entanglement.
+It is the entanglement which we have just
+defined through the entropy of the partial trace.
+So therefore, and I think this is nicely
+illustrated with a purification scheme,
+entanglement is a real resource.
+When you have better entanglement to start with,
+then you have-- you can get more copies,
+you can get more pure Bell states, out of your supply
+of poorly entangled states.
+So therefore you lose one-- if your states are not
+fully entangled, you lose more of them,
+and therefore the success of the purification scheme
+makes it clear how entanglement is a resource.
+If you have entanglement it's precious.
+You had to do something to get it.
+But I didn't point out that entanglement is not
+something which one number characterize it it's all.
+We introduced to you already another measurements
+of entanglement called the Schmidt number which was
+done in homework number two.
+And usually when you have different measures
+for entanglement, they're not one to one related.
+It seems that, similarly when we measured non-classic light,
+we had a G2 function, we had bunching, anti-bunching,
+we have negative course of probabilities.
+And it's often clear that one system, which
+is totally non-classical, fills all the criteria,
+but how the quantitative measurements are related
+to each other is really subtle.
+In the case of entanglement, for a long time
+it hasn't even been a question in research,
+if you have an arbitrary density matrix
+with a complicated many body system how can
+you even characterize the entanglement.
+We are focusing on pure states where things are fairly simple.
+But in the general situation of a many body system,
+it can be quite challenging just to define and measure
+entanglement.
+Any questions?
+Yes.
+Do you know a general density matrix that's not necessarily
+a pure state?
+Can you show that it's always the reduced
+trace of the [INAUDIBLE]?
+
+Say again.
+If I have a general state which is--
+[INAUDIBLE]
+If you have a subsystem-- let's say you have two [INAUDIBLE]
+and then you have a density matrix for the first.
+Actually, let's just say that you have one [INAUDIBLE]
+and you have a density matrix for that single spin.
+It's any matrix not necessarily a pure state.
+Let say it's a mixed state.
+Then can you introduce a fake second spin
+and show that this matrix is the [INAUDIBLE] matrix [INAUDIBLE],
+maybe because you can just put that one in a pure state
+and do some stuff [INAUDIBLE] calculations [INAUDIBLE].
+Yes.
+
+If you have a density matrix, you
+can always regard it is a partial trace over bigger
+system.
+That means you always represent your state as a pure state
+but it is entangled with a bigger system.
+However, what the system is, is by no means unique.
+There are-- I'm using the technical word.
+There isn't-- it's called unraveling the density matrix.
+You can always represent the density matrix written down
+in forms of pure state.
+But this unravelling of the density matr-- no,
+actually that's-- it's related.
+
+When I said yes I thought about the unravelling
+of the density matrix.
+You can always write down a density matrix
+as a mixture of pure states, but which are the pure states
+is not unique.
+So when you say, my density matrix
+is half of the atoms are spin up and half of the atoms
+are spin down, somebody else would say, no, that's not true.
+Half of the atoms are spin-- in spin
+x and are in spin minus x and there-- [INAUDIBLE]
+representation equivalent.
+So I was just thinking of that.
+It's sort of to write down the density matrix in a pure state
+basis.
+But you are asking about--
+[INAUDIBLE] what he's asking about and it's possibility?
+Somehow.
+I was thinking of that but I think
+the answer to your question is yes.
+So you said-- you confirmed that?
+Yes.
+But I forgetting the name of the theorem.
+Yeah.
+Isn't it just purification?
+Yeah.
+It's related to purification.
+You can prove that they're using purification.
+[INAUDIBLE]
+Using purification, yes.
+But I'm completely forgetting the technical names
+of the [INAUDIBLE].
+But, wait, we have talked here about-- just to be clear,
+we have talked here about purification of a pure state.
+We started with the state and we purified it to be a Bell state
+by doing certain measurements.
+[INAUDIBLE]
+So we have not talked here about density matrices,
+but it sounds very plausible that you can always
+construct a bigger system but-- I should look it up and see
+if there's an exact proof.
+Intuitively it sounds correct.
+Other questions?

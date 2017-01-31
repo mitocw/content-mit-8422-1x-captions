@@ -1,0 +1,27 @@
+#
+# File:   content-mit-8422-1x-captions/M1L8a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 18 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+If you think I'm focusing a lot on one quantity, g2 of zero,
+that's correct.
+But I have to tell you, I have been
+involved in so many discussions with people
+who looked at g2 of zero with Bose-Einstein condensates.
+When Bose-Einstein condensates in hydrogen
+were rediscovered here at MIT by Dan Kleppner and Tom Greytak
+and collaborators, there was some mystery about, in essence,
+the g2 of zero function.
+So a lot of physics actually goes into it,
+and I've learned a lot from my own research
+and for discussions.
+And in this unit I want to summarize it.
+So the confusion sometimes comes because people
+use classical pictures, quantum pictures,
+and they may not see the relation.

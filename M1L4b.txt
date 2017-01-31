@@ -1,0 +1,234 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 225 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's start with classical squeezing.
+For squeezing, we need a harmonic oscillator.
+Means we have parabolic potential,
+we have potential v of x.
+And then we study the motion of-- that
+should be x square-- the motion of a particle in that.
+But maybe before I even get started with any equation,
+let me explain what the effect of squeezing will be about.
+If you have a harmonic oscillator,
+you have actually the motion of a pendulum
+has two quadrature components-- the cosine motion
+and the sine motion, and they are 90 degrees out of phase.
+And what happens now is if you parametrically
+drive the harmonic oscillator, you
+modulate the harmonic oscillator potential at 2 omega.
+I showed you mathematically-- it's very, very easy to show--
+that depending on the phase of the drive,
+you will actually exponentially amplify the sine motion
+and exponentially damp the cosine motion
+or, if you change, vice versa.
+So by driving this system, you can amplify one quadrature
+component and exponentially die out
+the other quadrature component.
+And that is called classical squeezing.
+So let's do the math.
+It's very simple.
+Our equation of motion has the two solutions
+I've just mentioned.
+It has a solution with cosine omega 0
+and one with sine omega 0 t.
+And we have two coefficients.
+The cosine is called c.
+The sine coefficient is called s.
+So-- I have to call it c0 because I want to call that c
+and s.
+And so what we have here is we have
+the two quadrature components of the motion
+in a harmonic oscillator.
+And graphically, we need that for the electromagnetic field
+as well.
+When we have our two axes, like, you know,
+the complex plane for the cosine probabilities,
+I call one the s plane.
+The s axis one is the c axis.
+If you have only cosine motion, the s component is 0
+and the harmonic oscillator will just oscillate here.
+If you have only a sine component,
+you stay on the x-axis.
+
+And now if you have an equal amount of a cosine and sine,
+then you can describe the trajectory to go in a circle.
+OK, this is just the undriven harmonic oscillator,
+which is-- I don't want to dwell on it any longer.
+But what we are doing now is we are adding
+a small parametric drive.
+Parametric drive means we modulate the spring constant
+or we replace the original harmonic potential,
+which was this, by an extra modulation term.
+So we have a small parameter epsilon.
+And as I pointed out, the moderation
+is at twice the resonance frequency.
+So now, we want to solve the equation of motion
+for the harmonic oscillator using this eddy potential.
+And the way how we want to solve it
+is, well, we assume epsilon is very small.
+So if the pendulum is swinging with cosine omega t,
+it will take a while for the epsilon term,
+for a smaller term, to change the motion.
+So therefore, we assume that we can actually
+go back and use our original solution
+and assume that over short term, the epsilon term is not
+doing anything.
+So for a short time, it looks like a harmonic oscillator
+with a sine omega 0 and cosine omega 0 t oscillation.
+But over any longer period of time,
+the small term will have an effect.
+And therefore, the coefficients c of t, c and s,
+are no longer constant, but change as a function of time.
+OK, so we want to solve now the equation of motion.
+That means we use now this here as our ansatz,
+and we calculate the second derivative.
+We assume that the coefficients c and s are changing slowly.
+So therefore, the second derivative of c and s
+can be neglected.
+By taking the derivative of the second derivative
+of the cosine term and the sine term,
+of course we simply get minus omega 0 square x of t.
+And now, we have the second order derivatives.
+Since we neglect the second order derivative of c and s,
+the other terms we get when we take the second derivative
+is first derivative of c times first derivative
+of cosine, first derivatives of s times first
+derivative of sine.
+So we get two more terms, which are minus omega 0
+c dot times sine omega 0 t plus omega 0
+s dot times cosine omega 0 t.
+So this is the second derivative of our ansatz for x.
+And this has to be equal to the force provided
+by the potential.
+So, taking the potential, we need know the derivative
+of the potential.
+For the potential, we use, of course, this line.
+The first part is the unperturbed harmonic
+oscillator, which gives us simply omega 0 square times x.
+And the second term, due to the parametric drive, is 2
+sine omega 0 t.
+And now for x, we use our ansatz for x, which
+is the slowly changing amplitude c time cosine omega 0 t
+plus s times sine omega 0 t.
+Those two terms cancel out.
+So now, we have portraits of trig function, sine 2 omega
+times cosine omega.
+Well, you know, if you take the product of two trig functions,
+it becomes a trig function of the sum or the difference
+of the argument.
+So if you take sine 2 omega 0 times cosine 2 omega 0
+and we use trigonometric identities,
+we get an oscillation at 3 omega 0, which is 2 plus 1,
+and one at a difference, which is omega 0.
+So let me right down the terms which are of interest to us,
+namely the ones at omega 0.
+So let me factor out epsilon omega 0 squared over 2.
+Then, we have the terms c times sine omega 0 t
+plus s times cosine.
+And then we have terms at 3 omega 0,
+which we are going to neglect.
+So now, we look at-- we compare the two sides of the creations.
+We have sine omega 0 term.
+We have cosine omega 0 term and the two sides of the equations
+are only consistent if the two coefficients of the sine
+and the sine term are the same.
+So therefore, we obtain our two equations-- one for c dot, one
+for s dot.
+And these are first order differential equations.
+The solution is clear in exponential,
+but one has a plus sign, one has a minus sign.
+So the c component, the c quadrature component,
+is exponentially amplified with this time constant
+whereas the sine component is exponentially deamplified.
+And this finishes the mathematical discussion
+of classical squeezing.
+We find that s of t and c of t are exponential functions.
+In one case, it's exponentially increasing.
+In the other case, it is exponentially decreasing.
+And that means that, well, if we go to our diagram
+here-- and let's assume we had an arbitrary superposition
+of cosine and sine amplitude.
+So we have an-- this is cosine, this is sine.
+We had sort of cosine oscillation and sine
+oscillation, which means that as a phaser,
+the system was moving on an ellipse.
+If the sine component is exponentially deamplified
+and the cosine component is exponentially amplified,
+that means whatever we start with is squashed horizontally,
+is squashed vertically, and is amplified horizontally
+that in the end, it will become a narrow strip.
+So this is classical squeezing.
+
+You may want to ask, why did I neglect the three omega 0 term?
+Well, I have to.
+Otherwise, I don't have a solution
+because I have to be consistent with my approximations.
+So, what I did here is I had an equation
+where I have a clear vision that the solution has slowly varying
+c and s coefficient.
+And then I simply use that.
+I take the second order derivative
+and I have only Fourier components
+with omega 0, the sine and cosine.
+Now, I've made an approximation here.
+For the derivative of the potential,
+the first line is exact.
+But in order to match the approximation
+I've done on the other side, I can only
+focus on the two Fourier components resonant with omega
+0, which I have here.
+So in other words, the 3 omega 0 term
+would lead to additional accelerations, which I have not
+included in the treatment.
+So it's consistent with the-- that's
+consistent with the assumption that we
+have resonant oscillations with the slowly changing amplitude.
+But there will be a small admixture at 3 omega 0.
+But it will be small.
+Any questions about that?
+Let me then show you an animation of that.
+The basic period.
+Then, we will parametrically amplify one quadrature
+component and we will unamplify the other one.
+So now, I'm gonna start doing that.
+And then you notice that its motion turns into an ellipse.
+We've amplified this quadrature component
+but we've unamplified that one.
+And that's squeezing.
+
+Feel free to try it at home.
+Actually, you may start to think about this demonstration.
+What he has shown was when you have a circular pendulum which
+goes in a circle or an ellipse and you
+start pulling on the rope with a certain phase
+that one quadrature component will be deamplified,
+the other one will be amplified.
+And as a result of that, no matter what
+the circular or the elliptical motion was,
+after driving it for a while, it will only
+swing in one direction.
+And this is the direction we've amplified.
+
+There's one thing which should give you pause.
+I have discussed, actually, a single harmonic oscillator.
+What Dave Bridger demonstrated was actually
+two harmonic oscillators.
+The harmonic oscillator has an x motion and a y motion.
+However, you can say this was just
+sort of a trick for the demonstration
+because when you have a circular motion
+initially, you have the sine omega 0 and the cosine omega 0
+component present simultaneously.
+And you can see what happens to the sine
+and the cosine component in one experiment.
+So in that sense, he did two experiments at once.
+He showed what happens when you have initially a sine component
+and what happens when you initially

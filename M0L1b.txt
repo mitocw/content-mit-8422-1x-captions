@@ -1,0 +1,168 @@
+#
+# File:   content-mit-8422-1x-captions/M0L1b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 159 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+In this course, I want to present to you
+the concepts behind many of the major advances in the field.
+So over the years, quite often a topic was added to the course
+because I felt, hey, it's getting really exciting.
+That's what people want to do in research.
+That's what graduate students want to do here.
+And then this subject was added, and other subjects
+were dropped.
+I know in the '90s, I was teaching aspects of laser
+cooling, subrecoil laser cooling, which
+was the latest excitement.
+This year, I may mention it for 30 seconds.
+So the course has evolved.
+It wants to stay connected to what is exciting, what is hot,
+and what prepares you for research at the frontier.
+8.422, the second part of the two-course cycle
+in the graded course in E&M physics
+is somewhat different, not radically different.
+But it's somewhat different from part one, from 8.421.
+First of all, 8.421, 8.422 can be taken out of sequence.
+We alternate between EM-01 and EM-02.
+And whenever you enter MIT, you're probably
+in your second semester, take ever be offer.
+So let me ask you, who of you has taken EM-01?
+Yes, statistically, it should be about half of the class.
+
+It can be taken out of sequence, because that's the way how
+we've structured it.
+But sort of to give you one example
+is, in 8.421, you really have to learn
+about hyperfine structure.
+You have to learn about atoms.
+You have to learn about Lamb shift and all that.
+So you have to learn what all these atomic levels are.
+And here in that course, in 8.422, I will say,
+here's a two-level system.
+And then I run with it, and we do
+all sort of entanglement, manipulation of two level
+system.
+So it helps you if you know where
+those two levels come from.
+But you don't really need the detailed knowledge
+of atomic structure to understand that.
+So this is why the different parts of the course
+are connected but, in terms of learning the material, somewhat
+decoupled.
+I've spoken to many students who said
+there was no problem in starting with 8.422.
+The only sort of critical comment I've heard
+is that taking 8.422 first and then 8.421 is anti-climactic.
+You see all this excitement in the modern physics.
+And then eventually, you have to work on the foundation.
+
+Yes.
+Prerequisites for this course-- the course announcements
+said 805.
+It is actually 805 and 806.
+The main part of 806, which we really need here
+is perturbation theory-- time-independent,
+time-dependent perturbation theory.
+And this is usually covered in 806.
+However, I've had students who took the course without 806.
+If you're really determined and want
+to acquire certain things by self-study,
+you can follow this course.
+The topics we will cover include QED.
+I really want to talk about light-atom interactions
+from first principles.
+Sure, 95% of what we are doing is just
+done by using we have a matrix element, which may
+be the dipole matrix element.
+But you really have to know what are the approximations, what
+are the conditions which lead to the dipole approximation.
+And I want to do that from first principles,
+and we do that starting on Monday.
+The discussion of light-atom interaction has two parts.
+One is the simple part, excitation and stimulated
+emission, because this can be simply described
+by unitary time evolution.
+And you can do a lot, if not everything,
+by using Schrodinger recreation.
+Things get much more complicated and richer
+if you include spontaneous emission or, more generally,
+if you include dissipation.
+Then we talk about open systems.
+And for fundamental reasons, we need a formulation
+using the density matrix, a statistical operator,
+and a master equation.
+One major part of the course is discussion and index derivation
+of the mechanical forces of light.
+
+This will include a discussion of
+important experimental techniques using
+those mechanical forces.
+So various simple and sophisticated methods
+of trapping and cooling.
+We will spend some time in not talking about atoms at all.
+We just want to talk about photons, about similar photons.
+We want to understand where the photon nature of light
+makes light very, very different and form
+a classic electromagnetic wave.
+Also, it's not the focus.
+Cause We will come across basic building blocks
+of quantum information science.
+Pretty much when atom and photons interacts.
+This is fundamental [INAUDIBLE].
+And we'll talk about the many-body physics
+of quantum gases.
+So maybe it becomes clearer what we
+are covering by seeing what we are not covering.
+And this tells you that there is at least
+some selection of topics.
+It's not that we talk about everything.
+We will not talk about the physics above 10 electron volt.
+We will not talk about collisions.
+Or maybe I should say high-energy collisions.
+
+We will, of course, talk about [INAUDIBLE] collisions, which
+is the physics of the scattering lengths
+and some s-wave collisions, which are really
+relevant to understand quantum gases.
+We are not talking about any advanced topic
+in atomic structure.
+All we do about atom structure is done in 8.421.
+And if you want to graduate in atomic physics at MIT,
+yes, you have to understand atomic structure
+at the level of the hydrogen atom
+and maybe know a little bit what a new phenomena,
+when another electron enters, when two electrons interact.
+And that's the helium atom, but we are not going beyond it.
+Let me just mention here that there
+is, of course, more interesting things in atomic structure.
+For instance, if you go to highly charged ions,
+you have QED effects.
+You can discuss very interesting correlations between two
+electrons in an atom.
+And you can have very relativistic effects
+if you have highly ionized atoms.
+
+If you have bare uranium, then the electron in the lowest
+orbit becomes relativistic.
+You can even see bare if you scale
+the fine-structure constant, which
+is an e-square in it with a charge of uranium, 92.
+Well, 1 over 137 times 92 gives about 1.
+So you really get into a new regime
+of coupling for atomic physics.
+And this may be an omission, because there's
+really interesting work going on.
+We're not talking about high-intensity lasers
+and short laser pulses.
+This choice may be mainly determined by that.
+The experimental program in the physics department
+is not overlapping with that.
+But of course, we have world-class researchers
+on short-pulse lasers in the electrical engineering
+department.

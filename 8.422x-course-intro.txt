@@ -1,0 +1,40 @@
+#
+# File:   content-mit-8422-1x-captions/8.422x-course-intro.txt
+#
+# Captions for 8.422x module
+#
+# This file has 31 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Welcome to 8.422X, the MIT course on Atomic and Optical
+Physics.
+This course is the second part of a two-semester course.
+It can be taken independently, or it can be taken before
+or after part one, which is 8.421X.
+This course, reveals the quantum world of photons and atoms.
+We start with photons and address their quantum nature,
+which comes in the form of single photons,
+and in the form of squeezed light.
+Photons can only be in such states
+when they interact with atoms.
+It is only through atoms that photons are interacting
+and become correlated.
+At the next step, we discuss the interactions
+between photons and atoms, starting from basic concepts.
+Virtual photons lead to van der Waals forces and Casimir
+forces.
+Real photons can be scattered into empty space
+and therefore, constitute an open quantum
+system, which will be described by a master equation.
+The momentum of photons leads to mechanical forces of light,
+and have created a new sub-field of physics,
+laser cooling, and trapping of atoms.
+Such ultracooled atoms are now used
+to explore novel many-body physics
+with bosons and fermions, and to realize quantum gates.
+So as you will see, this course takes you
+from fundamental principles right to the frontiers
+of current research.

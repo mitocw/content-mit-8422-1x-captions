@@ -1,0 +1,157 @@
+#
+# File:   content-mit-8422-1x-captions/M1L2a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 148 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Today we start from first principles.
+So I want to give you a rigorous derivation of what
+this course is based-- namely, the Hamiltonian
+to describe the interaction between atoms and light.
+I mentioned to you on last week that atomic physics
+can be defined about everything what
+is interesting about the building blocks of nature atoms
+interacting with light electromagnetic fields, Coulomb
+fields.
+And today we talk about the first principle Hamiltonian.
+
+The reference for that, and I'm closely
+following that derivation, is the book
+Atom-Photon Interaction, the green book by Cohen-Tannoudji,
+Grynberg and others.
+And it's taken from the appendix.
+And if you flip through the appendix,
+you will find out that there are about 100 equations.
+And today we discuss every single of them.
+[LAUGHTER]
+However, the good news is the result
+in the end is simple and intuitive.
+In the end, we have what we want,
+that the electromagnetic field couples different energy
+levels.
+And then we can play around with quantum gaze,
+with laser cooling.
+All we need is a coupling matrix element.
+And for most of the course, I will not even
+elaborate what this matrix element is about.
+But here we derive it from first principles.
+The result we will use most often
+is actually the electric dipole approximation,
+which I'm sure you have already seen many, many times.
+So in that sense, I am-- I have sometimes second thoughts.
+Should I dedicate a whole lecture
+to derive something already?
+On the other hand, this is sort of the meat of atomic physics.
+And I want to go as deep as possible
+into it that whenever you wonder what form of other interactions
+exist, you have a reference to look it up.
+And so to some extent I want to also encourage
+you to read more about the fundamental nature of how light
+and atom interacts.
+I will give you another reference a little bit
+later on.
+But as a motivation, I want to tell you
+what I learned when I prepared this lecture.
+And I hope that there is something for you
+to learn from this treatment.
+Well, one is a rigorous separation
+of local fields from radiation fields.
+This is-- let me just write it down-- rigorous separation
+of local Coulomb fields from the radiation field,
+so to [? scalely ?] separate the terms in the Hamiltonian.
+Let me explain that.
+
+When we introduce electromagnetic fields
+into our world, we would say we introduce them
+by saying particles have charge.
+But some parts of the charged particle physics
+is something we want to sort of include
+in the description of atoms.
+And that's the Coulomb field of photons.
+The structure of atoms is electromagnetic.
+But when we now introduce the electromagnetic field
+as a new degree of freedom, photons
+can be emitted, absorbed and such,
+we only want to talk about the electric field which
+belongs to the photons and not the electric field which
+belongs to the atoms.
+And you may wonder, since electric fields,
+can you distinguish between two kinds of electric fields?
+The answer is yes.
+And I want to show you how mathematically you distinguish
+when you introduce electromagnetic fields
+between the fields which stay with the atom, which don't have
+an extra degree of freedom, and if you
+do canonical quantization, they don't enter
+as an extra variable, and the fields
+which are the photons and these are the extra objects
+we have to consider.
+
+What is also related is when you do second quantization.
+If you wanted, I could quantize the electronic field for you
+in five minutes.
+Just say it's a harmonic oscillator,
+you're familiar with harmonic oscillator,
+and it's just a word.
+But yes, and this is correct, and I will remind
+you of that little bit later.
+But there is one non-trivial aspect
+if you want to do quantization of a field theory.
+You have to make sure that before you quantize it,
+you know which degrees of freedom are really independent.
+So the question is, how many independent fields does
+the electromagnetic field have?
+The naive answer is three electric field components,
+three magnetic field components, that makes six.
+But of course they are not independent,
+and we will discuss that.
+So we'll spend some time in the identification
+of truly independent field components
+or degrees of freedom of the electromagnetic field.
+So all that is an excursion into classical physics,
+because it is just reformulating classical electrodynamics
+to be ready for quantization.
+So actually, all the work is done
+to discuss and derive the appropriate classical
+description.
+That means to eliminate all redundant variables
+and then at the end have variables
+which yes, will look like an harmonic oscillator.
+And once we have reduced it to degrees of freedom which
+look like a harmonic oscillator, it is very straightforward
+to do the field quantization following the recipe
+of the harmonic oscillator.
+There's one more highlight, if I want to say so.
+And this is a truly rigorous derivation
+of the electric dipole approximation.
+In most quantum mechanics textbooks,
+you do in dipole approximation, and you wind up
+with the electric dipole Hamiltonian, which
+I have already put up there.
+But you do actually unnecessary approximations
+in terms of neglecting an A squared term.
+And they are often confusing discussions,
+what happens with the A squared term?
+I want to show you a more rigorous derivation
+of the electric dipole approximation, which
+is including the quadratic term that actually means,
+that's the take home message, the electric dipole
+approximation is actually better than many of you
+have thought so far.
+Since I don't want to write down 100 equations,
+I copied them and summarized them out of the book.
+You'll find them all, as I mentioned before,
+in the appendix of Atom-Photon Interaction.
+But I sort of want to walk you through.
+So what I'm aiming at is that you
+have sort of a complete overview,
+how is everything coming together?
+And if it's just mathematical, well, mathematics
+is always exact.
+I can go faster.
+But I really want to highlight here

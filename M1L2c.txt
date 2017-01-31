@@ -1,0 +1,175 @@
+#
+# File:   content-mit-8422-1x-captions/M1L2c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 166 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+This approach-- and I wanted to show you
+that to you-- involved a lot of notation, you know,
+a's, little alphas, normal modes, and such.
+Let me just simply show you another much, much shorter path
+way how you see that everything looks and smells
+like an harmonic oscillator.
+And then we do the last step, which is rather straight
+forward, we quantize the electromagnetic field.
+I could quantize it right now, but we
+should take a short break from the appendix in atom photon
+interaction and sort of do a more intuitive shortcut
+to the same physics.
+Any questions at this point?
+
+If you feel it's confusing, remind yourself.
+This is just classical physics.
+We are just rewriting Maxwell's equations in new variables.
+
+So what we do now is, as I said, let's repeat
+some of this derivation by focusing on energy.
+
+So if you write down energy for our systems of atoms, photons,
+and coulomb fields, we have particles alpha
+with mass m alpha and velocity v alpha.
+This is our kinetic energy.
+And then we use the well known expression
+for the electromagnetic field, which
+is the spatial integral over e square plus b square.
+
+And this integral over the electromagnetic field energy
+density can actually be nicely separated
+into an integral over the longitudinal field, which
+we have introduced, and a second integral which
+involves the transverse field.
+Of course, the magnetic field is only transverse
+because the divergence of the magnetic field is 0
+and that means the magnetic field does not have
+any longitudinal component.
+So this part here, as we actually have shown,
+is given by simply the coulomb energy.
+Well, we have charged density at position a
+and a prime interacting with a coulomb interaction.
+And eventually, if you want to treat that further,
+this coulomb energy should be split into some divergent self
+energy, which is the energy of the electron interacting
+with itself and people know how to deal
+with it, and the interaction energy,
+for example, between the proton and the electron,
+which is responsible for the atomic structure.
+So in other words, we know how to deal with it,
+this actually becomes atomic structure.
+This is in contrast to this part here
+which is the classical energy of the radiation field
+which is sort of the transverse part of the energy.
+So to describe now radiation, we have
+to focus on this transverse part.
+We are now expressing the transverse part
+by the vector potential and its derivatives.
+So we introduce the vector potential as before,
+and I don't want to go through the re-derivation,
+I just want to show you how the total energy now
+appears in terms of the vector potential.
+And what we need for that is, of course, the vector
+potential and its derivative.
+The vector potential depends on polarization,
+depends on the Fourier component,
+and we call this derivative of the vector potential
+the conjugate momentum.
+So now focusing on energy, we, of course,
+reduce everything, as before, to the vector potential
+and its derivative.
+So we sum over polarization.
+We integrate over all Fourier components.
+And the integral involves now the vector potential-- well,
+the square of it or in complex notation,
+the complex conjugate depends on polarization.
+We have c square k square.
+This part, of course, comes from the magnetic field,
+which depends on the vector potential.
+It's a spatial derivative, the curl,
+and this gives the k square.
+Whereas the part of electromagnetic energy which
+is related to the electric field, the electric field
+is a temporal derivative of the vector potential,
+and therefore, it involves the temporal derivatives which
+are now the canonical momentum.
+So this equation should really remind you now.
+It's an energy equation of the energy
+of an harmonic oscillator because the energy is now
+a sum over all oscillators, but this
+is sort of x square, the amplitude
+of the oscillator squared, this is the potential energy.
+And here we have the derivative of x, the velocity or momentum
+and this should remind you of the kinetic energy
+of an harmonic oscillator.
+
+So in other words, this should tell you
+that by focusing on the transverse component
+of the vector potential doing sort of separating out--
+I mean, yeah, it's about lots of summation,
+k summation, polarization summation.
+We, in the end, find that each such mode
+is an harmonic oscillator.
+Any questions?
+Let me just show you now-- and it
+may help you to go through the previous derivation--
+let me now introduce what I did before the normal modes
+and then show you how the energy looks
+like defined in normal modes.
+So we have this normal mode variables
+which are defined as a superposition of a and a dot.
+And I'm not telling you here with all the indices
+whether it's a polarization component, the k components.
+I just want to tell you the structure the normal mode is
+superposition of a dot and a.
+And with that, the energy of the electromagnetic field
+can be written-- well, we always have
+to sum over Fourier components.
+We always have to sum over the polarization.
+But then, we have something which
+is really very, very simple and intuitive.
+It's just the square of alpha, with the covert polarization,
+and the prefecter is h bar omega over 2.
+I mean it looks like quantum mechanics, h bar
+omega times a dagger a plus one half,
+but this is purely classical.
+The alpha, there is no quantization.
+There is no operator.
+We've simply defined something new, namely alpha,
+in terms of the vector potential.
+So in that sense, if you now go back to the derivation,
+the alphas are nothing else than some elaborate combination
+of the transverse electric and magnetic field.
+H bar only enters for the constant in the definition
+of the normal mode parameter.
+So actually, I have introduced h bar
+by choosing this parameter wisely in such a way
+that it connects with quantum mechanics.
+But h bar has been completely-- it's a completely arbitrary
+introduction here.
+I could have said h bar 2 1.
+OK.
+So I hope you enjoyed or, at least,
+did not dislike this excursion into classical physics.
+So we have now two equations for describing the energy
+of an harmonic oscillator.
+So both of these equations will look
+like an harmonic oscillator, but if something
+looks like an harmonic oscillator,
+it is an harmonic oscillator.
+And I think I should always remind you
+that, so far, everything has been purely classical.
+And also let me write down that h bar enters solely
+through the constant in the definition of the normal mode
+parameter alpha.
+
+If you want to know more about it,
+there is a second reference.
+I will actually show you the cover page in a few moments,
+but there is a second book by Claude Cohen-Tannoudji
+and collaborators.
+Not atom photon interaction, but called Photons and Atoms.
+It's a whole book on rigorously defining QED.
+So a whole book has been written about the subject

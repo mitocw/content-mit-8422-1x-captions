@@ -1,0 +1,258 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 249 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+You can really appreciate the properties of coherent states.
+Coherent states were introduced by Roy Glauber in 1963.
+It's actually something you should wonder about.
+Coherent states seems so natural.
+I mean, we teach it in all courses.
+And when we think about harmonic oscillator,
+we often think in terms of coherent states.
+But they were not immediately used
+and invented when quantum mechanics
+was invented in the '30s.
+It really took somebody like Roy Glauber
+to invent coherent states.
+And that happened in the '60s.
+
+Maybe the reason why people didn't immediately
+jump at coherent states is because coherent states are not
+eigenstates of Hamiltonian.
+The definition of a coherent state
+is actually an eigenstate, not of an Hamiltonian.
+It's an eigenstate of the annihilation operator.
+And of course the annihilation operator is non-Hermitian
+and so it's a strange operator to look for eigenstates.
+But this is what defines the coherent state.
+Namely that A, acting on a coherent state alpha
+equals alpha times alpha.
+
+I'm using here the standard notation
+that alpha is both the labor for the coherent state, written
+down here.
+And is also the eigenvalue of the coherent state,
+when acted upon with the annihilation operator.
+We normalize those states.
+And since we are talking about eigenvalues
+of a non-Hermitian operator, alpha
+can be any complex number.
+
+OK so now we have introduced a second set of basis functions
+for light.
+Remember, we had the basis functions N, the eigenfunctions
+of the harmonic oscillator.
+And now we have defined a new set of eigenfunctions,
+that coherent state alphas.
+Of course, the next obvious question
+is how are the two representations connected?
+So what we want to do now is we want
+to figure out how do we write a coherent state alpha
+in the N-basis in the basis of eigenfunctions
+of the harmonic oscillator.
+So we want to write-- this is just
+going to expand the coherent state into eigenfunctions N.
+So the coefficients we want to calculate
+are those matrix elements, which I define as Cn.
+So what we have to use is in order
+to find this representation we have
+to use the fact that alpha is an eigenstate of the annihilation
+operator.
+So we know that this is alpha times alpha.
+But we can also let the annihilation operator A act
+on the state N in the sum.
+And the annihilation operator, of course,
+does what it is supposed to do.
+It lowers the Fortran number by 1.
+And we get the matrix elements square-root N.
+And then by just changing the summation index by 1,
+we can write it is as N times Cn plus 1 times the square-root
+of N plus 1.
+So this is when the annihilation operator acts on the sum.
+And now I continue with a lower line,
+which is alpha Cn times N. So what I've found now
+is I have found two ways to hide the same state.
+Namely A acting on alpha.
+And therefore those coefficients have to be the same.
+
+And what I just indicated in blue
+is a recursion relation, which expresses Cn plus 1 by Cn.
+
+So every time you both from Cn to Cn plus 1,
+you multiply with the square-root of N plus 1.
+So if you stare at it for a moment,
+you find that Cn is related to C0.
+
+By alpha N over N factorial.
+So of course you get only the relation
+between the coefficients.
+But if you throw in that you want to normalize the state,
+this determines C0.
+And then we get as a final result
+the normalized representation of the coherent state
+in terms of numbers states.
+
+Excuse me, I think a square-root is missing here.
+Because it appears here times N.
+OK so what we have found here is now
+how coherent states are written down in number-state basis.
+
+So now we know coherent states.
+And we can ask a number of questions.
+So what is this?
+So what did we define, and what have we now derived?
+Let's look at some of the properties.
+
+The first one is that if you look at this expression,
+this is the amplitude that we have
+N photons in a coherent state.
+The square of the amplitude is the probability.
+So the probability to find N photons
+is the square of the amplitude above.
+So this is that.
+And this is now Poissonian distribution.
+So it's immediately clear that those coherent states
+have much, much smaller fluctuations in the photon
+number than the thermal state we discussed before.
+Because this is Poissonian whereas the thermal stated
+a variance that was was much, much larger than Poissonian.
+
+OK, that's number one.
+Number two is we would like to know what is the photon number.
+So we want to know what is the expectation value for N. That's
+actually very easy to find.
+You could, of course, get the average number of Fortran's N
+by evaluating the expansion of the coherent state in terms
+of number states.
+But sometimes you should also try to maybe directly evaluate
+the coherent state.
+And the photo number operator is A dagger A.
+And now you see, hey, we are lucky because A acting on alpha
+is just getting alpha.
+But A dagger acting on alpha on the left-hand side
+gives us alpha star, the complex conjugate.
+So what we obtain here is simply the absolute value
+of alpha square.
+And this is our expression for the average photo number.
+
+I have already mentioned that the variance must be --
+the variance must be N because it's a Poissonian distribution.
+But since it is so nice to have creation annihilation operators
+acting on coherent states, let's just calculate --
+let's verify that you know the distribution is Poissonian
+but let's verify directly that the variance of the photo
+number in the coherent state is N is Poissonian.
+If you need the variance, we need an average,
+and we need N square average.
+Let's just calculate N-square average.
+
+So we need now the operator for N square, which
+is A dagger A, A dagger A. We know already if those two
+operators act on the [INAUDIBLE] that this just gives us
+alpha star alpha.
+
+And then we are left with A A dagger.
+
+Now A dagger acts on alpha.
+We don't know what A dagger is acting on alpha.
+We know that alpha is an eigenstate of A,
+but not of A dagger.
+So therefore, we want to change the order of dagger
+use the commutator.
+
+And then of course A dagger can act here, can act here,
+and we just get another effect of alpha.
+So therefore, in a very straightforward way,
+we find now that N-square is alpha-square times alpha-square
+plus 1.
+
+And using the result for the new photo number,
+this is nothing else than N bar 1 plus N bar.
+
+So if you now put it together, we want to know the variance.
+The variance is N square average,
+which we've just calculated, minus N average squared.
+And, hooray, find N bar and we verify again
+that the fluctuations are Poissonian.
+
+What else can we ask?
+We've asked about the statistics of fluctuation.
+We've asked about the probability to find photons.
+Well, what else do we want to know about light?
+
+Electric field.
+
+Oh, that's something I forgot to ask.
+I will come back to that later, but it's just sort of
+too connected.
+What is the average electric field for thermal light?
+
+Zero.
+What else can it be, because any value of the electric field,
+whether the electric field is positive or negative,
+requires that it -- I say it loosely --
+that the photon has a phase.
+The phase will define whether it's positive or negative.
+But all different phases of the photon field are different --
+what I mean now is coherent states which is different
+phases.
+They are all degenerate.
+So in the thermal ensemble, there is no thermal ensemble.
+The states are only populated due to their energy.
+They are populated by Boltzmann factors.
+And therefore there is no distinction what
+the phase of the state are.
+So therefore we haven't defined yet what the phase of a photon
+is, therefore I'm a little bit guarded with my language.
+But in other words, whatever the state with a phase
+is in the thermal ensemble, you have all phases simultaneously.
+And therefore you never have an expectation value of E.
+But of course we had an average number of photons,
+and that means we have an expectation value of E square.
+Because the expectation value of E
+square is the expectation value of the energy.
+The state has energy, but it doesn't have an expectation
+value for the electric field.
+OK so maybe with that motivation we want to figure out now
+does this coherent state which we have constructed,
+does that have now an expectation value
+for the electric field?
+So there is one thing we of course
+know about this electric field.
+Whenever we have an electric field
+it needs an amplitude and a phase.
+
+And what I just mentioned to you is that in thermal ensemble,
+we were just looking at the partition function and such.
+We didn't even mention a phase.
+There was not any complex number in any of the equations
+we wrote down about thermal light.
+No complex number, no phase, means no electric field.
+But this is different now for the coherent state.
+Because I mentioned that alpha in general can be complex.
+The annihilation operator can have complex eigenvalues.
+So therefore in the coherent state,
+because it is characterized by a complex number,
+we have now the possibility to include the phase.
+
+And what I want to show you is, in the next few minutes,
+is that yes indeed, the coherent state has an expectation
+value of the electric field.
+
+Instead of simply using the equation for the electric field
+operator, remember electric field operator
+was A minus A dagger.
+
+I want to introduce something else, which will turn out
+to be very, very useful.
+And one of the application of this concept
+is to show you what the electric field is.
+This is sort of a visual representation.
+A visual representation of the states

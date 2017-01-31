@@ -1,0 +1,99 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 90 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I've used the word "Bell" or "Bell state" so often,
+I think it's time to talk about what Mr. Bell is famous for,
+namely the Bell's inequality.
+I said already in the introduction
+for the quantumness of light and entanglement
+that it is the EPR paradox and the Bell's inequalities which
+a lot of people, including myself, think is the deeper
+essence of quantum physics.
+It really shows that quantum physics is not just
+classical physics with wave character.
+It goes way beyond it.
+So I want to demonstrate that with Bell's inequality.
+And the formulation, which is very simple
+and I want to present it here, is an inequality, which
+is-- I mean, there are many Bell's inequalities now.
+You have different states, different detectors.
+And you can derive Bell's inequalities, which are then
+violated by quantum physics.
+And what I want to present here is the CHSH inequality.
+That's Clauser, Horne, Shimony, and-- yes, thank you.
+So the situation is the following.
+We have something which decays, something
+which emits two photons, maybe an atom in an excited state.
+And it does a click-clock, a two-photon cascade.
+One photon goes to Bob.
+One goes to Alice.
+Or I always try to sort of stress similarities
+between light and atoms.
+We discussed the experiment where
+you take a mercury molecule.
+You dissociate it, and then Bob and Alice each get an atom.
+And you can say these photons has a polarization,
+or the atom has a spin.
+But Bob and Alice can now use different Stern-Gerlach filters
+in x and y at obscure angle circular bases.
+I mean, you name it.
+But what happens is, because it's a spin up,
+spin down, horizontal-vertical polarization,
+it's a two-level system which is emitted.
+And after Stern-Gerlach filter, you have only two combinations.
+We call it plus and minus.
+So in its most general form, what we assume
+is that Bob does measurements in a basis.
+If you think about spatial orientation
+of a Stern-Gerlach filter called S,
+where the outcome is plus/minus 1, T, where
+the outcome is plus/minus 1.
+And Alice has her own choices.
+
+And we want to assume, now, that everything
+is classical probability, that if you just
+write down this expression-- don't ask me
+where it comes from.
+This is probably something which people wrote up
+after they found something interesting
+and tried to prove it or simplify it.
+You just write down QS, RS, RT minus QT.
+You can then rewrite it by factoring out S and T.
+And now the next step is, because Q and R are there
+in each measurement 1 or minus 1, either this is 0
+or that is 0.
+
+No, sorry-- one is 0, one is 2.
+And therefore, this kind of funny combination
+of letters for every measurement is either plus or minus 2.
+OK.
+Now we do many measurements.
+And the probability for a certain outcome,
+that the variable Q, there's a certain probability
+that the outcome is q.
+So you sort of use this pretty much probabilistic thing
+that the system has a certain probability to be.
+And this is, of course, the assumption.
+The probability is that the particle
+comes with a certain probability in the state q, r, s, t.
+Of course, you should scream q, r, s, t commute.
+But this is classical now-- don't
+compute with each other quantum mechanically.
+But we come to that in a moment.
+So then you simply put, by multiplying
+each event with its probability, you put now brackets around it.
+These are expectation values.
+And what you have is an inequality,
+that this expression, which is the correlation
+between certain measurements, between the quantity QS,
+RS, and so on, is smaller or equal than 2.
+I mean, it's very, very basic, and that's why I wrote it down.
+I don't want to spend a lot of time on it.

@@ -1,0 +1,35 @@
+#
+# File:   content-mit-8422-1x-captions/8.422x-M1-intro.txt
+#
+# Captions for 8.422x module
+#
+# This file has 25 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Welcome to the first model of 8.422x.
+We start this model by formulating
+a quantum description of light.
+We then use this description to describe skree states
+of light and teleportation.
+As a next step, we go to the quantum of light, the photon.
+It is one discrete photon, the single photon state,
+which is the most non-classical form of light,
+in stark contrast to electromagnetic waves.
+As a next step, we are talking about how light can
+be used for quantum etiology.
+We discuss the standard quantum limit,
+and how they standard quantum limit
+can be improved to the Heisenberg limit
+by using correlated non-classical states of light.
+Eventually, we discuss correlation function,
+g2 functions for photons, and discuss the famous Hanbury
+Brown-Twiss experiment.
+Actually, although with this model is about photons,
+atoms have played a major role throughout this model.
+It is only through atoms that photons can interact,
+that photons can become correlated,
+and that photons can be transformed
+into non-classical states of light

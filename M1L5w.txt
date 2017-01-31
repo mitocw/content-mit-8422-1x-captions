@@ -1,0 +1,197 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5w.txt
+#
+# Captions for 8.422x module
+#
+# This file has 188 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We have now three modes of light.
+We would say, hey, a qubit.
+Each qubit is two.
+What is it?
+Is it one and a half qubit?
+Yes, it is, but we extend it to two qubits in a moment.
+So what we simply have right now is
+we have the mode c which controls the non-linear medium.
+And we have what we have already discussed,
+our interferometer with a phase shifter,
+which is now the Kerr medium.
+So I think even without doing any math,
+we know that, by construction, when we have no photons in c,
+that the modes a prime, b prime transform, become a and b,
+because we have a balanced interferometer, which
+is the identity transformation, unless we have a phase shift.
+But when we have one photon in state c, then we actually swap.
+
+So that's pretty cool.
+A single photon in mode c will redirect the photon from a, b
+to b, a.
+So that's how one photon in state c, in mode c,
+controls what happens to the photon in a, b.
+OK.
+So if we want a general description of that,
+we obtain the output state from the input state
+by using the matrix B. This was our interferometer based
+on two beam splitters.
+It involved mode a and b.
+But now we throw in the phase shifter, which
+is our Kerr operator, our non-linear phase shifter,
+with b and c.
+And this new addition to the interferometer
+is described by e to the i non-linear susceptibility
+L b dagger b c dagger c.
+So let me give you one intermediate result.
+We have now beam splitters on either side,
+and that leads us to an expression.
+Well, the beam splitters do nothing to the mode c,
+but the beam splitters transform the modes
+in linear combinations.
+
+And if you do some tedious rearrangement of terms--
+more details are given in the wiki--
+you find that the essential result is now
+the operator which we get is a dagger b minus b dagger
+a over 2.
+I'm not giving you the nonessential terms,
+which are just phase shifts, global phase shifts.
+And so this is just the result of the operator manipulation.
+So if I would cover that, what is that?
+Do you remember a dagger b minus b dagger a in the exponent?
+Beam splitter.
+It's a beam splitter.
+And the beam splitter-- the beam splitter matrix
+was sine theta cosine theta.
+So we had a theta here.
+So now you realize that this non-linear Mach-Zehnder
+interferometer, the three optical elements
+can be replaced by simply a single beam
+splitter for mode a and b.
+But the angle theta of the beam splitter
+is now controlled by the photon field in state c.
+
+So in other words, we have now a beam splitter.
+
+I told you that a beam splitter is
+nothing else than the rotation around the y-axis.
+So now this non-linear Mach-Zehnder interferometer
+is simply a beam splitter with the rotation
+angle given by this term.
+OK.
+So this is the situation we just had.
+And we can now get to two qubits by simply adding one more rail.
+Remember, two rails with exactly one photon in it is a qubit.
+So now we have a qubit here, and we have a qubit there.
+And you see immediately one way how the upper qubit
+acts on the lower qubit.
+If the lower qubit has the photon in state c,
+it flips the qubit in the other--
+it flips the other qubit.
+But if the upper qubit has the photon in d,
+it doesn't do anything to the lower qubit.
+So now we have a two-qubit operation.
+So this is shown here.
+But what I want to discuss now is
+the situation when we throw in one more beam splitter.
+And this beam splitter acts on the upper qubit.
+Well, isn't it great how quickly we go from simple elements
+to something which looks quite sophisticated?
+
+So this device now is a simple optical device
+which can entangle qubits, which leads to entanglement.
+And actually, entanglement is our next big topic.
+We want to talk about entanglement between particles,
+entanglement between photons.
+And by input using the Mach-Zehnder interferometer,
+I was actually building up the situation,
+which is extremely simple elements which
+lead to entanglement.
+
+We have everything for the description.
+Each of those elements is described by a matrix,
+which we have developed.
+So therefore, by just multiplying those matrices,
+you find immediately how this whole device is now
+manipulating two qubits.
+So if you want, you can just take the crank,
+use what we have already done, and crank out
+the result for it.
+OK.
+What I want to discuss with you now is what happens when we
+take this device and we use exactly the states 01,
+01 at the input, as I indicated.
+So in terms of qubit language, I say
+that the first qubit is in spin up,
+and the lower qubit is also in spin up.
+
+Spin down would mean that the single photon
+is in the other state.
+Our two-level system, our dual-rail, single-qubit
+two-level system, is the photon can be either
+in one of those states.
+This one we call spin up.
+This one we call spin down.
+So what I want to discuss with you now what happens when we
+start with this symmetric input up, up, which means 01, 01.
+And since I don't want to scroll up and down so often,
+everything is trivial beam splitters,
+except for the situation when we have one photon each here.
+And then the Kerr medium gives us a minus sign.
+So that's what I want to put in.
+So I want to develop the physics in 1, 2, 3 temporal steps.
+The first temporal step is simply two beam splitters,
+and this is shown here.
+
+We start out, and now we have beam splitter
+for the upper qubit, beam splitter for the lower qubit.
+And well, by just multiplying it out,
+we are now obtaining this summation state
+for the four different modes.
+And I'm dropping here factors of square root 2.
+You can collect them at the end if you want.
+And I said the only interesting situation
+is where we have two photons, one each
+in the two middle modes, because now the Kerr medium kicks
+in and gives us a minus sign.
+And now you can show by inspection that if you now
+apply the beam splitter to modes a and b,
+so you take 10 into a linear combination of 1 and 1,
+but the beam splitter's only acting on the last two numbers
+here, then you obtain a state which looks very simple.
+So this is the output state of the device.
+
+Any question?
+
+And this output state is, if I use the spin language,
+is an entangled state.
+So now you have one simple example
+how just using linear optics, very simple elements, you
+can start with one photon here, one photon
+here, a simple product state, and what comes out
+is an entangled state.
+
+Questions?
+
+OK.
+Let me tell you what I'm not telling you,
+namely the wiki developed by Professor Ike Chuang
+has now a wonderful section on a famous quantum algorithm,
+the Deutsch-Jozsa algorithm.
+Pretty much using the elements we discuss,
+you can now realize the Deutsch-Jozsa algorithm,
+which is one of the famous algorithms where
+quantum logic, quantum computation,
+is faster and more efficient than classical computation.
+I decided not to present it to you
+because it just leads to an even more complicated diagram
+and more formulae.
+You should just sit back and slowly read by it yourself.
+There is no new idea introduced.
+It's just the concepts we have discussed
+can lead to very powerful algorithms.
+What I want to rather do is I want to continue our discussion
+and now talk about the object we have encountered here,
+namely entangled states.

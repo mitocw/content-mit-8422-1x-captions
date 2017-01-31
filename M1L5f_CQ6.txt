@@ -1,0 +1,24 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5f_CQ6.txt
+#
+# Captions for 8.422x module
+#
+# This file has 15 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, now finally, now we can have fun with beam splitters.
+So so far we have really just repeated
+a little bit the definitions of classical or non-classic,
+like what are coherent states.
+We measure current in-- we know now
+in what units we measure the current.
+And we characterize the fluctuations
+in variance, not in standard deviation
+for the rest of this unit.
+But now we learn the coherent state for beam splitter.
+And we have two photodiodes, one, i1 and one, i2.
+And we measure the current i1.
+What is the variance now in the current you measure?

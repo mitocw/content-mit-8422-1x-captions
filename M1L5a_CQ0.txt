@@ -1,0 +1,56 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5a_CQ0.txt
+#
+# Captions for 8.422x module
+#
+# This file has 47 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+What is the nature of shot noise?
+The whole kind of set of questions
+will build up to teach you something
+about what is shot noise.
+In other words, when you measure in photons
+and you start with coherent beams,
+you always have sort of square root n.
+And the question I want you to ask
+is, when we measure square root n fluctuations,
+where will you the n photons?
+Is this caused by the nature of the measurement process, sort
+of how will would you take photons that--
+or is it an intrinsic quantity of the quantum fields?
+
+So I just want to sort of to get your intuition,
+your gut feeling, whether shot noise is rather-- it's maybe
+not black and white, but if you think
+it's more related to the measurement-- let me write it
+down.
+Shot noise-- oops.
+
+OK, so the question is-- so the question is shot noise,
+is it caused by the quantum measurement process, projection
+of whatever you know about it?
+Second question, second part, is it property
+of the quantum fields?
+For instance, if you don't make a measurement,
+if you're on the quantum fields or beam splitter,
+we can split it.
+We can split the shaft noise even before we measure it.
+That would mean quantum fields.
+And maybe then third is both.
+And the fourth is none of the above.
+So let's just take an opinion.
+And maybe [INAUDIBLE]-- I'm not discussing the answer at this
+point.
+I will come back to that at the end of those 10 or 15 minutes
+and ask you the question again.
+So I just want to see how-- sort what
+your intuitive understanding is when you measure
+the number of photons in a laser beam in an optical field
+and you see fluctuations, quantum
+measurement versus properties of a quantum field.
+Quantum measurement means mainly cause the moment you detect it.
+And quantum fields means it's there already before

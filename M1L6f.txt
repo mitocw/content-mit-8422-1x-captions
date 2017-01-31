@@ -1,0 +1,283 @@
+#
+# File:   content-mit-8422-1x-captions/M1L6f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 274 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to talk now about how we can create
+entangled states for atoms.
+Maybe let me say the following.
+By now we are convinced, entangled states are great
+and we want to create them.
+And for photons, I showed you that some simple element-- beam
+splitters, [INAUDIBLE] medium-- can create entanglement.
+It's much harder to do that for atoms.
+Now, we want to do it with atoms because atoms, in contrast
+to light, they pretty much stand still whereas photons always
+move at the speed of light.
+And the only way to make photons stand still
+is you put them in a cavity and then they
+bounce back and forth.
+But even in super cavities with the highest reflectivity
+mirror, you get-- what are the longest [INAUDIBLE]
+downtimes you get?
+Fraction of a second, milliseconds,
+depending in which domain you work,
+microwave domain, optical domain.
+Whereas atoms, you can hold on to your qubits for long time.
+So therefore, if you want to use entanglement
+as a resource for certain protocols,
+you want to have entangled atoms where the entanglement would
+live for a long time.
+So the question is now, for atoms
+we do not have perfect beam splitters and perfect care
+mediums.
+Also, we can control interactions
+between atoms for [INAUDIBLE] atoms using [INAUDIBLE] lenses.
+But that's another story.
+But let me now address the question,
+how do we entangle atoms?
+And I want to first show you that, if you
+had the right system, things can be fairly simple.
+This is a suggestion which was made almost 20 years ago
+and it goes like follows.
+If you have a diatomic molecule of two identical atoms,
+in this case mercury, and mercury doesn't have any--
+this molecule doesn't have any electron spin
+but it has-- but mercury has a nuclear spin.
+And if you now photodissociate mercury and the two mercury
+atoms fly away, then you have separated a spin singlet
+into two parts and now you have created the Bell state up down
+minus down up.
+
+So you could say this is sort of the example-- this realizes
+very closely the example I gave you with the helium atom
+where I said you have an electron in spin up
+and spin down.
+But there was no way to separate the electrons.
+Therefore, you can say it is a state which
+has entanglement but it's not entanglement as a resource.
+But right now here it becomes a resource.
+Once you have found a method to separate the two
+parts of the wave function that you can now give one to Alice,
+give one to Bob, and they can perform the operations on it.
+Well, if it looks so simple why don't we
+have entangled atoms everywhere?
+This experiment has been suggested 20 years ago
+but nobody has done it.
+Also-- several groups have worked on it.
+You need a very-- you need a molecule with suitable states,
+you don't want any electron spin which interferes with it.
+All you want to have is two nuclear spins.
+You want a singlet state here.
+So those requirements are not easily fulfilled
+with real atoms.
+Of course we liked-- and also, who wants to work with mercury?
+Mercury has transitions in the ultraviolet.
+They are-- I think there's only one
+group in the world who has operated a magneto [INAUDIBLE]
+with mercury.
+So it's not your tabletop atom.
+So therefore let's now talk about a method
+how we can entangle atoms by using light.
+So if you take atoms, maybe we can
+use the light which has been emitted from the atoms,
+perform a measurement on the light,
+and then depending on the outcome of the measurement,
+we know the atoms have been-- are entangled.
+So Professor Schwan calls this the poor man's entangler.
+I don't know why poor man's.
+You still need quite a bit of equipment to do it,
+but at least it seems the poor man's solution
+if you can't make the above experiment work.
+So this addresses the question that for-- just
+for technical reasons-- matter is more difficult to entangle
+whereas photons are easy.
+
+So you can say, the idea is related
+to the purification scheme.
+We won't have a system which is--
+we can't take a system of two atoms, atom 1 and atom 2,
+which are unentangled, we shine some laser
+light on them, excite them, then they emit photons.
+So all we can do is we can only talk
+to the atoms with the photons.
+So the only thing we can do now is
+we can measure the two photons.
+And then the situation will be similar, as in the purification
+scheme, where Alice and Bob did a measurement.
+If Alice and Bob said, both of our target qubits are 1,
+then what was left behind was in a purely-- was
+in a pure entangled Bell state.
+And similarly, what you want to do here
+is we have two atoms-- there was nothing special about them
+but they scatter light-- and if you now perform a measurement
+on the photons and the outcome of the measurement is positive,
+then we know for sure what has been left behind is entangled.
+That's the idea.
+So it shares with the purification scheme
+that it is a probabilistic entanglement.
+You run your experiment many times, you do a measurement,
+if the measurement is positive, you say,
+now I have an entangled state, and maybe then you
+can move on to measure the entanglement,
+you can move on to be teleportation,
+to do teleportation, other things you want to do
+within entanglement states.
+But if your measurement says, no, bad luck.
+The probability it hasn't worked out this time,
+you're just press the button again, scatter light again
+of your two atoms and-- or your two ions
+and hope that the next outcome is positive.
+So the idea is we want to introduce now
+a probabilistic method.
+It's based on two atoms emitting light
+and the result is with a certain probability
+that we get entangled atoms.
+You know, I prepare the notes and everything is clear to me
+but then I want to explain it to you and say, hey,
+I have to motivate you.
+If I just go for a few lines, you
+wonder what it leads to, so let me maybe first
+give you the explanation I would have given you a little bit
+later.
+What is an entangled state is if the atoms are maybe
+in one of two states.
+One atom is in one ground state, the other one
+is in the other one, or it is flipped.
+So we know one atom is in the ground state one,
+one atom is in the ground state two,
+but we don't know which one is in which.
+It is in the superposition state.
+So what we need now in this scheme is the following.
+If the atoms scatter light, they have--
+they can go to two different ground states.
+And we know to which ground state
+they have gone because due to selection rules,
+they reach one ground state was polarization one,
+they reach one ground state with polarization two.
+So therefore, when we had two atoms they emit light
+and we would measure the polarization of the light,
+we would know in which state they are.
+But if you know atom 1 is in state one
+and atom 2 is in state two, this is not entangled.
+So what we have to do is, when the two atoms have
+emitted photons, we have to mix the photon at the beam
+splitter.
+And after the beam splitter, when
+we measure that the photon is polarized,
+we know that one of the atoms is in one of the ground states
+but we don't know which.
+So therefore we can now use-- the photon carries
+through the polarization the information in which ground
+state the atom is.
+But now we have to perform operations to the photons
+that we, for fundamental reasons, fundamental quantum
+measurement, we know there is one photon in one state
+but we have no way to ever figure out which photon-- which
+atom has emitted the photon.
+So that's the idea.
+And the protocol I want to show you now
+is, what we have to do to the two photons to make sure
+that we never know that we can't find out which
+atom has emitted the photon?
+And we have to do a little bit more tricks also
+to make sure that when we do a measurement on the photon
+we know the atoms are in a Bell state.
+Questions about that?
+
+So therefore I need-- we need beam splitter.
+So we can come back what we have already
+introduced in the last section.
+So each atom will emit a photon and we'll-- I will actually
+show you at the end of the class that people have entangled with
+that scheme to ions which were in two different ion traps.
+So you have two distance atoms, they emit light,
+and after the measurement process
+you know they are entangled.
+That's pretty cool.
+So the situation how we do it, that we have two photons which
+come, but the first thing we have to make sure is we
+have to scramble the photons.
+We have to make sure that we can't find out from which
+atom the photon has come.
+And this is done with a beam splitter.
+So there is one aspect of beam splitters
+into photons which I have to explain to you now,
+this is the famous HOM-- Hong-Ou-Mandel--
+this is the Hong-Ou-Mandel interference.
+It's a very famous effect and it's actually
+very, very special.
+So let me explain what happens when
+we have two photons in the same state, two identical photons--
+same frequency, same polarization--
+coming to beam splitter.
+So we know-- we have already all the tools.
+So we have a beam splitter characterized
+by this angle theta, which through cosing theta sine theta
+determines what the beam splitter is doing.
+And all we want to do it, we apply it now to the state 1 1.
+So what we will find is that there is a probability
+to get one photon each.
+Then there is the probability to get two photons in one output.
+And it will actually be the same probability with a minus sign
+in the amplitude to get 0 2.
+The matrix which acts on each of the photon
+has cosines and sines.
+So what we get is products of trigonometric functions.
+And here for the-- for getting two photons in one arm,
+it's square root 2 cosine theta sine theta.
+And the spectacular thing here is,
+what happens when we have a balanced beam splitter.
+
+If you have a 50-50 beam splitter--
+and this is called the Hong-Ou-Mandel interference--
+you have the situation that you have a beam splitter,
+you have one photon, you have two photons,
+and it is absolutely impossible that afterwards you
+have one photon in each arm.
+So you send two photons on a beam splitter,
+and after the beam splitter, have
+either two photons coming out here
+or two photons coming out there.
+
+You can say it's Poissonic stimulation,
+photons and bosons, that all plays a role.
+If one photon goes one pass, the other photons follow suit.
+This is now very powerful because it only
+happens, of course, when the two photons are identical.
+We had to use, in this formalism,
+the photon is in the same mode on each part.
+But it means now the following.
+If you set up photo-detectors here,
+and each photo-detector makes click,
+you know you had one photon each.
+And that tells you that the two photons were not identical.
+For instance, because they have different polarizations.
+So if you want to know where the atoms get at Bell state
+where atoms decay-- one atom decays to state 1,
+one atom decays to state 2-- the signature of that
+would be that we have one atom each.
+And if you're-- if you do it right,
+one atom each is an ingredient for 1 2 plus 2 1 for Bell
+state.
+We can detect that we have one photon each because it's
+such a beam splitter.
+It's only in this situation that we
+can get one photon after each beam splitter
+if we start with two non-identical photons.
+Of course, by the way, experimentally there
+are quite some challenges.
+Even if you have identical photons
+of the same polarization, if they arrive
+as a nanosecond parlance and they don't arrive exactly
+at the same time at the beam splitter,
+then, well, you first split one photon and then the next photon
+and the two photons can not influence each other.
+So there are a lot of experimental requirements
+to realize this ideal experiment.

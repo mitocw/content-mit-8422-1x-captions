@@ -1,0 +1,31 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5h_CQ8.txt
+#
+# Captions for 8.422x module
+#
+# This file has 22 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The next thing is now you can't have the solution that we take
+sort of a big photodiode and combine the two
+beams, because I'm asking you now is, what
+is the variance in i1 minus i2?
+So you subtract the two carbons.
+So the question is, if you're a technical noise
+the two beams would be fluctuating,
+and you would form i1 minus i2.
+All the technical noise would cancel away.
+But what is shot noise?
+Is shot noise technical noise?
+Is shot noise that every time you
+prepare an ensemble there is a hiccup,
+and you can split it and subtract it?
+So now it's getting really interesting.
+To what extent does a beam splitter
+that's a split coherent state, which has shot noise, and you
+now perform the difference of the measurement--
+can you get rid of some of the shot noise or not?
+

@@ -1,0 +1,185 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 176 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The definition of the displacement operator
+is given here.
+The displacement by a complex number alpha,
+is done by putting alpha and alpha-star
+into an exponential function.
+And in many quantum mechanic courses
+you show very easily, the elementary properties
+that if the displacement operator is
+used to transform the annihilation operator,
+it just does that.
+And if you take the complex conjugate of it--
+so in other words, what that means is it's
+called the displacement operator.
+Just take that as a definition, but you immediately
+see why it's called the displacement operator.
+When we do the unitary transformation
+of the annihilation operator, we get the annihilation operator
+displaced by a complex number.
+So the action, the transformation
+of the annihilation operator, is the annihilation operator
+itself minus a c number.
+So therefore, we say that the annihilation operator
+has been displaced.
+So this is the action of the displacement operator
+on an operator, on the annihilation operator.
+The question is now, how does a displacement operator
+act on quantum states?
+And the simplest quantum state we want to test out
+is the vacuum state.
+And well, not surprisingly, the displacement operator
+displacing the vacuum state by alpha,
+is creating the coherent state alpha.
+This can be proven in one line.
+We take our displaced vacuum, and we act on it
+with the annihilation operator.
+If we act with the annihilation operate on something,
+and we get the same thing back times an eigenvalue
+we know it's a coherent state because this was a definition
+of coherent states.
+So therefore, in order to show that this is a coherent state,
+we want to show that it's an eigenstate of the annihilation
+operator.
+So this is what we want to do.
+Well, the proof is very easy.
+By multiplying this expression with unity, which is DD dega,
+we have this.
+And now we can use the result for the transformation
+of operators, namely that this is simply the annihilation
+operator plus alpha.
+And if the annihilation operator acts on the vacuum state,
+we get zero.
+If alpha acts on the vacuum state, we get alpha times zero.
+So therefore, what we obtain is that.
+So therefore, when that annihilation operator
+acts on the state, we get alpha times the state,
+and therefore, the state is a coherent state
+with eigenvalue alpha.
+So therefore, in a graphical way,
+if you have a vacuum state, the displacement operator D-alpha
+takes a vacuum state and creates a coherent state alpha.
+So if we want to have three states with a finite value,
+well, we just discussed the electric field.
+When we relate it to the harmonic oscillator,
+we want squeezed states which are not
+centered at the origin, which have a finite value of x or p.
+We can now create them by first squeezing the vacuum,
+and then displacing the state.
+[INAUDIBLE]
+What is a physical realization of the displacement operator?
+The physical representation of the displacement operator,
+we do that on Monday, is the following.
+If you pass an arbitrary state through a beam splitter,
+but it's a beam splitter which has very, very
+high transmission, and then from the-- Let me just tha
+show that.
+If you have a state, this is trans beam splitter, which
+has a very high transmission.
+T is approximately one, then the state passes through.
+But then from the other side of the beam splitter,
+you come with a very strong coherent state.
+You have a coherent state which is
+characterized by a large complex number, beta.
+And then there is a deflection coefficient,
+r, which is very small.
+It sort of reflects the coherent state with an amplitude r-beta.
+And if you mix together the transmitted state and r-beta--
+I will show that you explicitly, by doing a quantum
+treatment of the beam splitter, what
+you get is the initial state is pretty much transmitted
+without attenuation, but the reflected part
+of the strong coherent state-- you compensate for the small r
+by a large beta.
+That's actually an exact displacement of r-beta.
+So you think it's--
+I mean, it's actually great.
+The beam splitter is a wonderful device.
+You think you have a displacement operator
+formulated with a's and a-degas.
+It looks like something abstract,
+but you can go to the lab, simply get one beam splitter,
+take a laser beam, and whatever you send through the beam
+splitter gets displaced-- gets acted upon
+by the displacement operator.
+Yes?
+So we showed that the displacement operator-- when
+you acted on the vacuum state will displace the vacuum state
+to a state alpha.
+Does it still hold if you acted on another coherent state,
+or in this case a squeeze state like that?
+Yes.
+I haven't shown it, but it's really--
+it displaces-- when we use this representation
+with quasiprobabilities, it's simply
+does a displacement in the plane.
+But now to be honest, when I say it
+does a displacement on the plane,
+it reminds me that we have different ways
+of defining quasiprobabilities, the w, the p, and the q
+representation.
+I know we use it all the time, that we displace things
+in the plane, but I'm wondering if the displacement operator
+does an exact displacement of all the representations,
+or only of the q representation.
+That's something I don't know for sure.
+Yeah.
+I was thinking of it also like [INAUDIBLE] displaced
+all types of light like thermal light,
+or any sort of representation of light
+that you put in is the same displacement
+operator [INAUDIBLE] or is it still
+needs just like the vacuum in coherent states?
+See, the fact is the coherent states,
+I've shown you that it's a vacuum state.
+
+I know that's the next thing to show,
+the displacement operator.
+If you have a displacement by alpha,
+followed by a displacement by beta,
+it is equal to displacement by alpha plus beta.
+So displacement operator forms a group,
+and if you do two displacements, they
+equal into one displacement, which is
+the sum of two complex numbers.
+So what I'm just saying-- but if you do the first displacement,
+you can get an arbitrary coherent state.
+So therefore, the displacement operator
+is exactly displacing a coherent state
+by the argument of displacement operator.
+And now, if you take an arbitrarily quantum state
+and expand it into coherent states,
+coherent states are not only complete,
+they're even over complete.
+All you've done is you've done a displacement.
+
+Now, the over completeness of course,
+means you have to think about it because you
+can represent states in more than one way
+by coherent states.
+But if you have your representation,
+you just displace it, and this is the result
+of the displacement operator.
+
+So since q representation is simply
+you take the statistical operator
+and look for the diagonal elements in alpha,
+and if you displace alpha, the q representation
+has been moved around.
+So I'm sure that for the q representation, for the q
+quasiprobabilities, the displacement-- whatever
+we have, the displacement operator shifts it around
+in this plane.
+For the w and p representation, not sure.
+Maybe there's an expert in the audience who
+knows more about it than I do.

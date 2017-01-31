@@ -1,0 +1,97 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 88 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Here is the abstract of a paper.
+So well, this was just 2008, so just a few years ago.
+And what you see here is that here are,
+1 meter apart, two ytterbium ions.
+They emit light.
+The light goes through an optical fiber.
+And now after the beam splitter, when you detect one photon
+you don't know which ion has emitted the photon.
+So this is exactly this set-up, which I described.
+Of course, in an optical fiber, you
+have the two good polarizations are horizontal and vertical
+in the polarization-maintaining fiber.
+So therefore, the light, which originally
+was emitted in a circular basis, angular momentum selection
+rules, is transformed into linearly polarized light
+using a qualitative plate.
+Any questions?
+Yes, Dickie.
+To create the initial state, the [INAUDIBLE]
+decays to one state or the other.
+How do you make sure that the [INAUDIBLE] state is a pure
+state and not a mixed state, that the coherence--
+
+Good question.
+So first of all, if you think about it,
+you will discover more and more experimental challenges.
+What people must have used there is sort of a strong laser
+pulse, that you have more than overkill
+to make sure that with a very, very short time window
+both ions are excited.
+The ions are in a pure state, and then they emit a photon.
+And if you have one system prepared
+which can emit a photon but it has a branching ratio of 50-50,
+if it's an isolated system it will have a superposition
+state of photon in one polarization,
+let's say a sigma plus photon going
+to a magnetic random number state m equals plus 1,
+and the sigma minus photon going to m equals minus 1.
+And this is a pure state.
+
+The mixture only comes if, well, you're not careful.
+If you have a magnetic field and you
+don't shield your magnetic field well,
+or you have some magnetized materials
+and you were not aware of it, then that
+means that you get different phase shifts, which
+you can't calculate for.
+So now you have a random phase.
+You don't know it.
+And if you have [INAUDIBLE], you have to trace out
+or you have to average over the phase.
+And then your pure state becomes a density matrix.
+But the quantum mechanical process itself
+of a particle having different branching ratios
+is a pure system.
+It undergoes unitary time evolution,
+and it stays in a pure state.
+And the state which is populated by two ions, both
+emitting a photon simultaneously,
+is exactly the state I've written down for you.
+But you're absolutely right, that decoherence is an issue.
+You have to be very careful with magnetic fields.
+You probably want to work with atoms which are non-magnetic
+or where the spin is only a nuclear spin, which
+is much less sensitive to the magnetic field and so on.
+Other questions?
+So as far as soon as those detectors [INAUDIBLE],
+then Bell's [INAUDIBLE] as derived
+so that you can no longer make use of the [INAUDIBLE]?
+No, no, wait.
+Look here.
+We have a state, which has atoms in a state and two photons.
+So this state has four particles.
+We detect two particles, which are the photons,
+and the atoms are untouched.
+The atoms are then afterwards in an entangled state.
+
+So we have a [INAUDIBLE] system.
+We do a measurement of part of the system.
+And we have arranged things in a skillful way
+that the moment we know the outcome of the measurement
+is such and such, we know in which quantum state
+the rest of the system is.
+And this protocol means that the atoms
+are left-- after the outcome of the measurement
+is such and such, the atoms are left in a pure Bell state.

@@ -1,0 +1,307 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 298 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So after being familiar with this operator,
+we want to know what is this operator doing.
+I can describe now what this operator
+does in a Schrodinger picture or in a Heisenberg picture.
+I pick whatever is more convenient
+and, for now, this is the Heisenberg picture.
+So in the Heisenberg picture, what is changing
+are the operators.
+So therefore, in the Heisenberg picture,
+this unitary transformation transforms
+the operators and we can study what happens when
+we transform the operator x.
+The operator x is transformed by multiplying
+from the left side with s from the right hand side,
+with s dega.
+And you are familiar with expressions like this
+and how to disentangle them.
+If you have e to the i alpha, e to the minus
+i alpha, if you could move the alpha past x-- so
+if a and x commute, i a minus i a would just give unity,
+so therefore, this expression is just
+x unless you have non- vanishing commutators between a and x.
+And I think you have solved in your basic quantum mechanics
+course many such problems which involve
+identities of that form.
+Then the higher order commutator,
+the commutator of a with the commutator of a x,
+and unless one of those commutator
+vanishes, you can get an infinite series.
+Now our operator a is nothing else than the annihilation
+operator, a square, minus the creation operator, a dega
+square.
+So we can express everything in terms of a and a dega.
+And the position operator in our harmonic oscillator
+can also be expressed by a and a dega.
+So by doing elementary manipulations on the right hand
+side and recouping terms, we find immediately
+that the transformation, the unitary transformation,
+of the Heisenberg operator x gives you an x operator back,
+but multiply it with an exponential e to the a.
+And if we would do the same to the momentum operator, which
+is a minus a dega over square root 2,
+we will find that the unitary transformation of the momentum
+operator is de-amplifying the momentum operator
+by an exponential factor.
+
+So if we would assume that we have a vacuum
+state in the harmonic oscillator, and the vacuum
+state, well, classically, it would
+be at x equal 0 p equals 0.
+Quantum mechanically, you have zero point noise
+in x and zero point noise in p.
+Then you would find that the squeezing operator is
+amplifying the quantum noise in x,
+but it squeezes or reduces the noise in p.
+So if we apply this squeezing operator to the vacuum state,
+we obtain what is usually called squeezed vacuum.
+And it means that in this quasi probability diagram,
+the action of the squeezing operator
+is turning the vacuum state into an ellipse.
+
+What happens to energy here?
+The vacuum state is the lowest energy state.
+
+If you now act with a squeezing operator to it,
+we obtain a state which has the same energy--
+is it energy conserving?
+Or very high energy?
+
+Yes.
+Why?
+It's no longer [INAUDIBLE].
+Pardon?
+It's no longer [INAUDIBLE].
+Yeah, don't let you fool-- it's a vacuum state.
+We act on the vacuum state, but we
+get a state which is no longer the vacuum state.
+Now can you maybe-- the reason why we have extra energy,
+the squeezed vacuum is very, very energetic
+because the squeezing operator had a dega squared--
+a dega square e square.
+Well, e square, the annihilation operator acting on the vacuum,
+gives 0.
+But what we are creating now, we are acting on the vacuum
+and we are creating passive photons.
+So we are adding, really, energy to the system and the energy,
+of course, comes from the drive laser,
+from the laser to omega naught, which
+delivers the energy in forms of photons
+which are split into half and they go into our quantum field.
+
+Now in the limit of infinite squeezing,
+I will show it to you mathematically,
+but it's nice to discuss already here.
+In the limit of infinity squeezing,
+what is the state we are getting?
+
+Eigenstate--
+Eigenstate of momentum.
+So we get the p equals 0 eigenstate.
+
+So what is the energy of the p equals 0 eigenstate?
+
+It has to contain all number sets.
+Contains all number sets?
+OK, you just think quantum mechanic--
+you think immediately into number sets, which is great,
+but in a more pedestrian way, the p
+equals 0 state has no kinetic energy.
+But if a state is localized in momentum p equals 0,
+it has to be infinitely smeared out on the x-axis.
+And don't forget, we have an harmonic oscillator potential.
+If you have a particle which is completely localized in x,
+it has infinite potential energy at the wings.
+So therefore, in the limit of extreme squeezing,
+we involve an extreme number of number states-- actually,
+I want to be more specific of photon pass,
+we have states with 2 n and n can be arbitrarily large,
+but you also see in the classical picture,
+that photon seen in the classical picture, what
+we get here when we squeeze it is we
+get the p equals 0 eigenstate which has infinite energy
+due to the harmonic oscillator potential.
+
+If we would allow this system now
+after we have squeezed it to evolve for a quarter
+period in the harmonic oscillator,
+then the ellipse would turn into an vertical ellipse.
+So this is now an eigenstate of x.
+It's the x equals 0 eigenstate, but the x
+equals 0 eigenstate has also infinite energy
+because, due to Heisenberg's uncertainty relation,
+it involves momentum states of infinite momentum.
+
+Questions?
+So this is a photon field, right?
+So p is roughly the electrical field, right?
+Yes.
+So, it's kind of the electric field has 0
+and x is kind of the a.
+[INAUDIBLE] So the electrical field is the squeezed?
+Yes.
+It means we have no electrical field?
+We come to that in a moment.
+I will actually-- I wanted to do a little bit more math to show
+you what is-- I wanted to derive for you an expression
+of this squeeze state in terms of the number basis and such,
+but your question is absolutely correct.
+Your question, let me mention, something
+which is absolutely correct.
+By squeezing that, we have now-- the p
+x is this electric field axis.
+So now we have actually in the limit of infinite squeezing,
+we have an electric field which is no uncertainty anymore.
+By squeezing the coherent state into momentum eigenstate,
+we have created a sharp value for the electric field.
+We have created an electric field eigenstate.
+Value would say it's pretty boring because the only
+electric fields that we've created
+is electric field e equals 0, but in the next half hour,
+we want to discuss the displacement operator
+and I will tell you what it is that we can now
+move the ellipsis and move the circles anywhere where we want.
+So once we have an electric field
+state which has a sharp value of the electric field of e
+equals 0, we can just translate it.
+But before you get too excited about having
+an eigenstate of the electric field,
+I want you to think about it what
+happened after one quarter period of the harmonic
+oscillator frequency.
+It turns upside down and your electric field
+has an infinite variance.
+
+So that's what quantum mechanics tells us.
+We can create electric fields which are very precise,
+but only for a short moment.
+So in other words, this electric field state
+which we have created would have a sharp value,
+a moment later, it would be very smeared out,
+and it has a sharp value again, and then
+it's smeared out again.
+I mean that's what squeeze states are.
+Other questions?
+Is that why we need [INAUDIBLE]?
+That's why we need homodyne detection, yes, exactly.
+If we have squeezed something which is sort of narrow,
+that's great for measurement.
+Now we can do a measurement of maybe a [INAUDIBLE]
+measurement for cavitational raised with higher precision
+because we have a more precise value in our quantum state.
+But we have to look at it at the right time.
+We have to look at it synchronized
+with the harmonic motion.
+And homodyne detection means we look only at the sine component
+or at the cosine component.
+Or if I want to simplify it, what
+you want to do is if you have a state like this,
+you want to measure the electric field, so to speak,
+stroboscopically You want to look at your system
+always when the ellipse is like this.
+And the stroboscopic measurement is, as I will show you,
+in essence a [INAUDIBLE] measurement,
+which is phase sensitive and this
+will be homodyne detection.
+So we can only take advantage of the squeezing
+of having less uncertainty in quadrature component
+if we do phase sensitive detection, which
+is homodyne detection.
+
+OK.
+Back to basics.
+
+We want to explicitly calculate now
+how does squeezed vacuum look like.
+So we are now-- I actually want to do it twice
+because it's useful.
+We have to see it in two different basis set.
+One is I want to write down the squeezed vacuum for you
+in a number representation and then in the coherent state
+representation.
+So this squeezing operator is an exponential function involving
+a square and a dega square.
+And of course, we are now using the Taylor expansion of that.
+We are acting on the vacuum state
+and I will not do the calculation.
+It's, again, elementary.
+You have n factorial, you have terms with if a dega acts on 0,
+you pay two photons in it.
+If acts again, it adds two more photons
+in the matrix element of a dega acting on n
+is square root n plus 1.
+You're just sort of rearrange the terms and what you find
+is what I will write you down in the next line.
+But the important thing you should immediately realize
+is that the squeeze state has something very special.
+It is a superposition of number states,
+but all number states are even because our squeezing operator
+creates passive photons.
+This is what the parametric down conversion does.
+We inject photons into the vacuum,
+but always exactly in pass.
+And therefore, it's not sort of a random state,
+it's a highly correlated state with a very special properties.
+OK.
+If you do the calculation and regroup the terms,
+you get factorials, you get 2 to the n,
+you get another factorial, you get hyperbolic tangent.
+Solve it with a power n.
+And the normalization is done by the square root
+of the core's function.
+
+And the more we squeeze, the larger
+the amplitudes at higher and higher in.
+But this is also obvious from the graphic representation
+I've shown you.
+Let me add the coherent state representation.
+
+So the coherent states are related to the number states
+in that way.
+So if you transform now from number states
+to coherent states, the straightforward calculation
+gives now superposition over coherent states.
+Coherent states require an integral e to the minus--
+e to the a over 2 divided by-- Anyway,
+all these expressions they may not
+be in its general form too illuminating,
+but those things can be done analytically.
+I just want to mention the interesting limiting case
+of infinite squeezing.
+The limiting case, of course, is quite interesting.
+If r goes to infinity, you can show
+that this is simply the integral d alpha over coherent states.
+So we have discussed graphically the situation
+where we had-- so these are quasi probabilities.
+So in that case of infinite squeezing,
+we have the momentum eigenstate p equals 0.
+This is the limit of the infinitely squeezed vacuum.
+And in a coherent state representation,
+it is the integral over coherent state alpha--
+I'm pretty sure that alpha is real here, so seeing that now.
+There is a second limit which happens simply and say
+by rotation or by time evolution which is the x
+equals 0 eigenstate.
+And this is proportional to the integral over alpha
+when we take the coherent state i alpha
+and we integrate from minus to plus infinity.
+OK, so we have connected our squeeze states,
+the squeezed vacuum with number states, with coherent states.
+
+Now we need one more thing.
+So far, we've only squeezed the vacuum.
+And we have defined the squeezing operator
+that it takes a vacuum state and elongates it.
+In order to generate more general states,
+we want to get away from the origin

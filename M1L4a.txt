@@ -1,0 +1,70 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 61 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We want to talk about non-classical states of light,
+which we can engineer in the laboratory
+by sending laser light through nonlinear crystals.
+And those go by the name squeezed states.
+So just to give you the cartoon picture, in our two
+dimensional diagram with [INAUDIBLE] probabilities,
+we have coherent states, where the area of this x state of p
+is over [INAUDIBLE].
+But what we can do now is we cannot go beyond this.
+This is the fundamental limit of quantum physics.
+However, we can take this circle and we can squeeze it.
+We can squeeze it horizontally.
+We can squeeze it into an elongated vertical shape.
+Or we can squeeze it at any angle.
+That's what we call squeezed states.
+
+And those states have non-classical properties.
+They are important for meteorology.
+They are important for teleportation.
+So there are lots and lots of reasons why
+you want to know about them.
+But again, as so often I feel, I cannot convey to you
+the excitement of doing squeezing in the quantum
+domain.
+And many, many physicists, now they
+hear about squeezing just in the quantum domain.
+But I wanted to start with classical squeezing.
+Classical squeezing-- I will actually
+show you a video of an experiment
+of classical squeezing.
+You can see squeezing with your own eyes.
+But this is just sort of to set the stage to also get
+a feel of what squeezing is.
+And then we do quantum mechanical squeezing.
+
+But maybe tongue in cheek, I would
+say since classical harmonic oscillator and quantum harmonic
+oscillators have a lot in common,
+the step from classical squeezing
+to quantum mechanical squeezing is actually rather smaller.
+Well, it's nice to squeeze light.
+It's nice to have those non-classical states.
+But the question is, how can you detect it?
+If you can't detect it, you can't take advantage of it.
+And the detection has to be phase coherent.
+I will tell you what that is.
+And it goes by the name homodyne detection.
+And finally, we can take everything
+we have learned together and discuss how in the laboratory,
+teleportation of a quantum state is done.
+OK, so nice teleportation scheme.
+And I want to use that as an example
+that the language and the concepts I've introduced
+are useful.
+So concepts like squeezing operator,
+a displacement operator-- those methods
+allow us then to, in a very clear way,
+discuss schemes which lead to teleportation.
+So that's the menu for today.

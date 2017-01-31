@@ -1,0 +1,107 @@
+#
+# File:   content-mit-8422-1x-captions/M1L1c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 98 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I always like to start the course
+by talking to you in a lighthearted but hopefully
+profound way about a system which
+helps you to showcase, what are we doing in this course?
+And until a few years ago, I would
+have started with the simplest example of laser cooling,
+simply beam slowing or optical molasses in the simplest
+possible picture, just to give you
+a taste of what we will be doing together in doing the semester.
+But as I said, [INAUDIBLE] physics is moving along.
+And what I now want to use as an example, which really
+synthesizes many aspects of this course,
+are atoms in an optical lattice.
+So let me make some connections to different topics
+of this course by using as a starting point a very
+simple system but very, very rich and profound.
+And these are atoms in optical lattice.
+So the situation I want to use here
+is that you have two laser beams which interfere.
+And those laser beams form an optical standing wave.
+So next week we will learn how this electromagnetic wave
+interacts with atoms.
+So we have to put a few atoms into the system.
+And we will derive from first principles
+the QD Hamiltonian, which after a lot of manipulation
+and eliminating complicated terms,
+will be the dipole interaction.
+But of course, each symbol here's an operator,
+and there's a long story behind that.
+In about two months, we will describe light atom interaction
+with the formalism which uses the block
+vector and the optical block equations.
+There is vector with three components which describes what
+is the state the atom is in.
+One component will tell us if the atom
+is in the upper or the lower state,
+whereas the other components tell us
+whether the dipole moment of the atom
+is in phase or out of phase with a driving
+electromagnetic field.
+Well, if there is part of the dipole moment,
+which is in phase with a driving electric field,
+then the suitable expectation value, defiance
+and mechanical potential.
+And if the electric field is a standing wave,
+then we generate, through light atom indirection,
+a periodic potential for the atoms.
+We will learn everything which we
+have to know about this potential in a simple case.
+It is simply the Rabi frequency divided by the detuning
+of the electromagnetic wave.
+But we will be able to find it very interesting
+to look at it from a very different point of view.
+And maybe let me use this example
+to point out that I am really a big friend of explaining
+the same physics from very, very different perspectives.
+And when we talk about optical standing waves,
+we will use a picture of a classical potential
+like a mechanical potential when the atom is just moving around.
+We will use the photon picture that every time the atom
+feels the force, photons are involved.
+You don't see them in the classical potential,
+but photons are behind it and ultimately
+the forces of the classical potential
+come from stimulated absorption emission of photons.
+
+I may go down to the microscopic level, and I may ask you.
+But in the end, it's an atom.
+But the atom consists of electrons.
+And the electrons are simply oscillating
+because it's driven by the electromagnetic field.
+It's actually something that most people are not aware of.
+But you can ask the question now,
+is the force in the optical lattice on the atom,
+it's ultimately a force on the electron.
+Well, if you have a charged particle,
+you can have two kinds of forces-- an electric force
+or the Lorentz force.
+And I don't know if you would know the answer,
+but an atom is in an optical lattice.
+Thus, is the force just the roller
+coaster potential, which the atom experiences,
+is that fundamentally due to the Coulomb force exerted
+by the electric field of the light?
+Or is it due to the Lorentz force
+exerted by the magnetic part of the light?
+
+Who knows the answer?
+Who doesn't know the answer?
+OK, great.
+I was actually surprised when I derived it
+a few times for the first time.
+And it's not in the standard textbooks.
+So anyway, I hope even for many of you who know already
+a lot about the subject.
+I hope I can sort of add other perspectives for you.

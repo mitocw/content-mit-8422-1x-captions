@@ -1,0 +1,435 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 426 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Before I continue with the material,
+I want to address a question, which
+actually came up in discussions with several of the students.
+And this is I realize that some people said OK, everything
+makes sense.
+But what are we plotting?
+What is really squeezed?
+Are we squeezing in the spatial domain?
+Are we squeezing in the temporal domain?
+So the plots look wonderful with these ellipses in the circles,
+but what is it really we're doing here?
+So let me address that.
+First of all, we are talking about a single harmonic
+oscillator.
+We showed that the Maxwell's equations
+can be reduced to a bunch of harmonic oscillator
+equation, one for each mode.
+And now we are talking today and in the previous few classes,
+about one single mode, about one harmonic oscillator.
+And the harmonic oscillator has canonically variables
+of momentum and position, but this is just
+to make a connection for you with something
+you have learned.
+What we're talking about is a single harmonic oscillator,
+which is one single mode of the electromagnetic field.
+So maybe let me draw a cartoon for that.
+So let's assume we have a cavity.
+We have an electromagnetic wave.
+That is propagation.
+There is e to the ikz.
+There is transverse confinement.
+Maybe there is a gauche in e to the minus
+x square plus y square over some beam [INAUDIBLE] parameter.
+All that is simply the spatial mode.
+And we just take that for given, because we are not
+solving the spatial differential equation.
+All we are doing it, we are looking at this one mode,
+and the two degrees of freedom is
+that this mode can have a certain number of photons,
+it's the amplitude, and the second one
+is you can see the temporal phase.
+It can be a cosine omega t, it can be a sine omega t,
+it can be a superposition.
+But whatever we are talking is in this mode.
+There is nothing happening in the spatial domain.
+They're just asking what is sort of the oscillation
+in this mode.
+The whole mode does what it should.
+It has a prefector, which is the amplitude.
+And it has a temporal effect, which we factor out.
+And this is what we are talking about.
+Let me be a little bit more specific
+and say that we use when we are plotting things,
+we are plotting the Q representation, the phase space
+representation of the statistical operator,
+which is simply describing this single mode
+of the harmonic oscillator.
+And by performing the diagonal matrix elements,
+we obtain the Q distribution.
+In that case, we have the vacuum,
+we have a displaced vacuum, which is in coherent state.
+And our x's are, from the very definition,
+we are in the complex plane with the real part
+and imaginary part of alpha.
+However, we can also define a weaker distribution,
+which is another phase space distribution.
+It's almost the same as s Q distribution,
+it's just this little bit smeared out
+by a H bar because of some computators,
+but nothing you have to worry about.
+In that case, the projection of the W function
+on the vertical axis, on the y-axis,
+is the momentum wave function squared on the x-axis,
+it is the spatial wave function squared
+of the harmonic oscillator.
+So therefore we may sometimes think
+when we have a distribution here, we project it,
+and we see what is the momentum distribution?
+Or what is this spatial distribution
+of the mechanical harmonic oscillator, which is analogous,
+which is equivalent to the one mode
+of the electromagnetic field we are using.
+I know it may help you to some extent
+to think about the P and Q, but it may also be misleading
+because it gives you the impression
+something is moving with the momentum P
+in to the [INAUDIBLE] space.
+Let me therefore emphasize what are the normalized forms of P
+and Q. If I do the symmetric and anti-symmetric combination
+of the annihilation and creation operator, I over square root 2,
+I call those A1 and A2.
+And they are nothing else than Q and P
+normalized by the characteristic momentum or spatial coordinate
+of the harmonic oscillator.
+So what is important here is that A1 and A2-- forget
+about PQ now, they're equivalent--
+but for the electromagnetic field,
+A1 and A2 have a very direct interpretation.
+They are called the two quadrature operators.
+And what I mean by that becomes clear
+when I use the Heisenberg representation
+for the electric field.
+And I'm here using the formula, which is given in the book,
+by Weissbluth in page 175.
+Some pages copied from this book have
+been posted on the website.
+So we have our normalization factor,
+which is of related to the electric field
+that of a single photon.
+We have the polarization factor.
+But now we have an expression, which
+involves the quadrature operators, A1 and A2.
+Just to be specific, we are not in a cavity here.
+Therefore, we have propagating waves cosine kr sine kr.
+But you can also immediately use similar expression.
+For the case of a cavity, let us specify at r equals 0.
+And then we realize what the two quadrature operators are.
+A2 is the operator, which creates and annihilates
+an electromagnetic field, so to speak.
+You have photons, which have an electric field, which
+oscillates at cosine omega t.
+And A1 is the quadrature operator for the sine omega t
+component.
+So therefore, if you simply analyze the electric field,
+what is cosine omega 2 is related to the A2 quadrature
+operator.
+The sine omega 2 oscillation is related to the A1 quadrature
+operator.
+So life would be, well, easier but more boring
+if you could create a pure cosine or pure sine
+oscillation of the electromagnetic field,
+but you can't because A2 and A2 do not compute.
+And there is an uncertainty relation
+that delta A1 times delta A2 is larger or equal than 1/2.
+And we have the equal sign for coherent states of--
+So therefore, if we look at the electric field,
+everything moves around periodically
+in r because it's a traveling wave in t,
+because it's an oscillating wave.
+So let's not confuse things.
+Let's simply pick or equal 0.
+We've already done that.
+But now let's pick t equal 0.
+At t equals 0, the sine omega t is 0.
+And therefore, the distribution for A2, the expectation value,
+and the variance for the quadrature operator A2
+can be simply read off by looking at the electric field.
+So in other words, at t equals 0,
+the electric field, which is obtained
+by projecting our cause and abilities on the y-axis,
+gives the expectation value for A1
+and the variance, delta A1 squared.
+
+Somebody says 2.
+At t equals 0, yes.
+And now if you want to see what the other quadrature
+component is, well, we just wait a quarter period
+until this sine, which was 0 is maximum,
+and the cosine omega t is 0.
+So therefore, at pi over 2 omega,
+using the projection on the y-axis gifts
+us A1 and delta A1 squared.
+Or alternatively, we don't need to wait.
+We can do t equals 0, and we can project onto the x-axis.
+So therefore, and we just a few things into this diagram.
+If we had a classical motion, which would simply
+be cosine omega t, then if you had a motion which
+where only cosine omega t, yes it
+would be a point on the y-axis.
+However, classically, we can never
+have something which is just cosine omega t.
+The point has to be blurred into a circle.
+This is a coherent state.
+So this coherent state has now-- and we just
+called it 1 for the sake of the argument.
+The point would be the classical oscillator.
+It has just cosine omega t.
+Everything is deterministic.
+No uncertainty, no nothing.
+Of course it means the time evolution, it goes in a circle.
+But this is what everything does in an harmonic oscillator
+when time evolves into the e to the i omega t factor.
+So let's not get confused with that.
+Let's just look at t equals 0.
+
+And then for traveling wave r equals 0,
+the classical oscillator is one point.
+But now we have a spread here that
+says that quantum mechanically the amplitude
+of the cosine omega t term is not arbitrarily fast.
+It's not arbitrarily sharp.
+They are fluctuations.
+And in addition, we have [INAUDIBLE]
+in this direction, which we projected to the x-axis.
+And this tells us what the distribution
+in our ensemble, in our quantum mechanical ensemble
+is for the amplitudes of the sine omega t motion.
+So the best we can do is trying to mechanically--
+if you want to have something, which is really just cosine
+omega t, we have to squeeze it.
+That the cosine omega t amplitude
+is now extremely sharp, but the sine omega t amplitude
+in the ensemble is completely smoothed out.
+So this is what we're talking about.
+
+Now, what I think has confused some of you
+is what I thought was a wonderful example,
+the classical squeezing experiment.
+I mean, these are visuals which will be in your head forever.
+When you saw Professor Pritchard with a circular pendulum,
+he's just pulling.
+And then the circle squeezes into an ellipse.
+And it seems that something is here squeezed in real space.
+But this is actually wrong.
+But how you should have looked at the experiment--
+and I made a comment about it, but maybe not
+emphatically enough, you should have really thought
+about a single pendulum.
+And this single pendulum, if it has a an arbitrary phase,
+it's in a superposition of sine omega t and cosine omega t.
+And if you pull on the string, if you
+shorten the lengthen in the pendulum, at sine 2 omega t,
+you will amplify the prefector in front of sine omega t,
+and you will exponentially deamplify the factor
+in front of cosine omega t.
+So therefore what will happen if this pendulum oscillates--
+and let me say with a phase-- well, sine omega t plus delta,
+if delta is 90 degrees cosine, if delta is 0, at sine.
+And let's say this pendulum oscillates at 45 degrees.
+Sine omega t plus 45 degrees.
+If you know parametrically drive it,
+the squeezing action would now mean
+that you-- let's just make it a sine convention-- you deamplify
+the cosine, you amplify the sine.
+And after a while, instead of oscillating with sine omega
+t plus 45 degree, it will oscillate
+with an amplified amplitude at sine omega t.
+This is what you have done.
+
+And this is the mechanical analogy.
+There is of course no squeezing in any way.
+Because in a classical pendulum, we
+start with one definite value-- if you
+prepare the system well-- and then we just change the motion.
+We amplify-- the we pick out a phase.
+And that's what we we're doing.
+Now the true ways how classical squeezing can come in-- one
+is if the motion of the pendulum is-- maybe
+there is an uncertainty.
+Maybe Professor Pritchard did experiments with an ion trap
+and actually 20 years ago he published a [INAUDIBLE]
+on classical squeezing.
+You think how can you publish a [INAUDIBLE]
+on classic squeezing.
+Well, he had the world's most accurate ion trap,
+measuring atomic masses with 10 and 11 digits position.
+And what was actually one limiting factor
+was, for Kelvin, the thermal distribution
+of harmonic oscillator modes.
+And so what he had is, he didn't have just one clean amplitude.
+The amplitudes had the sine omega
+t amplitudes had the spread because
+of the thermal distribution he started from.
+And so what he then did is, by simply classical squeezing,
+by doing classically with the ion trap
+exactly what he did with a pendulum,
+drive it with sine 2 omega t, he could now
+take this classical distribution of-- this
+is a classical distribution in one axis it's
+a distribution of amplitudes of the cosine motion,
+and here it's a classical distribution of the amplitudes
+of the sine motion.
+And he was squeezing it into this direction.
+So he had a narrow definition of the coefficient
+for the cosine omega t motion.
+And as I will tell you today is you can now
+do a homodine measurement, which is reducing the noise.
+So essentially, he prepared quote,
+unquote, "effectively a [? colder ?]
+ensemble by squeezing the uncertainty
+in the cosine prefector at the expense of increasing
+the uncertainty, the variance in the prefect of the sine omega
+t motion."
+Finally, you all saw something visually.
+You saw how a circular motion became a linear motion.
+So what was going on here?
+Well, I mentioned to you that the circular pendulum
+is actually has two modes.
+These are two modes of the harmonic oscillator.
+And I'm not talking about two modes
+of the harmonic oscillator.
+Everything we're discussing here is about one mode
+of the harmonic oscillator.
+The circular motion of the pendulum
+was sort of just a nice visualization
+trick that, if the pendulum moves in a circle,
+you have a degenerate harmonic oscillator.
+One is excited with sine omega t, the other one
+is excited with cosine omega t.
+And instead of doing two experiments,
+if you would start with sine omega t,
+and you parametrically drive it, you amplify it.
+It will start with cosine omega t,
+you could bring the pendulum to a stop.
+But instead of doing two experiments,
+Professor Pritchard just did one and showed that the sine omega
+t motion became larger.
+And the orthogonal cosine omega t motion shrunk.
+And therefore you saw that the circular motion, which
+was a superposition of sine and cosine,
+became pure sine motion.
+But the fact that there was something
+we could see in a spatial domain was simply due to the fact
+that we had kind of two experiments at one.
+Two versions of the same harmonic oscillator,
+one in x and one in y.
+And then when we did the experiment,
+we saw something visually in the spatial domain.
+So that's why we saw squeezing in the spatial domain.
+But you should really think about it.
+What was the whole action is it's
+an interplay of deamplifying prefectors of cosine,
+amplifying prefectors of sine.
+And if the prefector has a distribution,
+by deamplifying it, you also shrink
+the bits of the distribution.
+And this is what we call squeezing.
+Yes, [INAUDIBLE].
+Two quick questions, so the operators A1 and A2 here,
+you use those instead of A and A dagger
+because you used cosine and sine other than either the i omega
+t and the minus i omega t.
+Because they should contain A dagger, right?
+Let me go back to the definition.
+They're actually exactly-- they correspond exactly
+to position and momentum of the mechanical harmonic oscillator.
+So that makes sense.
+So technically speaking, we could
+call the [INAUDIBLE] electric field e cos kr minus omega t
+is maximumly squeezed if it only has a cos component.
+Depends how I define squeezing.
+So you would now give a definition
+of squeezing, which says that the variance in A1
+is now unequal to the variance in A2.
+So the classical oscillator is a point.
+It has 0 variance in A1, 0 variance in A2.
+But as I said, you can actually apply all that
+to a classic oscillator if you add technical noise
+or thermal noise.
+Then your system is prepared not with a sharp value,
+but with a distribution, which is simply
+maybe a [INAUDIBLE] distribution due to the preparation.
+So we call it squeezing when the noise in the amplitude
+of the sine motion is not equal to the noise in the amplitude
+of the cosine motion.
+Some people say it a little bit narrower.
+They reply squeezing to the situation
+that we are uncertainty limited, and then we squeeze.
+But of course you can say you can always
+reduce the noise in your system by just preparing
+the system, by cooling the system,
+by selecting the system for measurements until you
+reach the quantum limit.
+So you can get a smaller delta A1, a smaller delta A2
+without squeezing by just better preparation
+or by selecting your ensemble.
+So squeezing in a narrower sense only makes sense
+when you hit the limit what quantum mechanics allows you.
+And now you want to distribute the variance unequally
+between A 1 and A2 because then you can get something
+in delta A1 or delta A2, which is better than 1
+over square root 2.
+And this is now really quantum mechanically squeezed.
+But they're both definitions.
+Classical squeezing exist.
+It's just not as common as quantum mechanical squeezing.
+Other questions?
+Yes?
+I'm really confused when you said
+that in the classical squeezing you
+were attenuating one amplitude and you were
+amplifying the other amplitude.
+So in this picture then shouldn't we
+have the ellipse come from down from the circle on the y-axis?
+Not just changing the A, but also changing [? e ?] itself.
+Let me just get a sketch pad here.
+So this is A2, this is A1.
+A2 is for the cosine omega t and A1 for the sine omega t.
+So just to be specific.
+So what do you want to prepare?
+You want to prepare an harmonic oscillator, which
+is just sine omega t.
+This is a point here.
+If we are now parametrically-- so
+this has a value at t equal 0.
+Our A1 is not.
+So if you are now squeezing your classical harmonic oscillator,
+you would have a situation where each A1 of t
+is s0 times e to the plus or minus t, depending whether you
+do the parametric drive at sine 2 omega t
+or at cosine 2 omega t.
+So therefore what would happen is,
+this point will be amplified.
+That would mean it would just move out on the x-axis.
+So this would be for the plus sign.
+Or for the other case, you would damp the motion to 0,
+and this is a minus sign here.
+And you are also changing the variance.
+A point does not have variance.
+But for an ensemble.
+So if you want to build up variance,
+you need, let's say three points.
+One is the average value, one is the left outlier,
+one is a right outlier.
+And what happens is now as you amplify the motion,
+you would also amplify, magnify the distance
+between the points.
+And if deamplify it with a minus sign,
+that distance between the points would
+shrink because all the three points converge to 0.
+So pretty much what I just told you for the three point
+ensemble, you can now use it and construct any initial condition
+you want and see what happens you to squeezing.
+

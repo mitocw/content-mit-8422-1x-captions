@@ -1,0 +1,113 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 104 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me start by presenting something
+I learned today during lunch.
+I had lunch with three colleagues,
+and we discussed entanglement.
+And well, I'm telling this story a little bit differently.
+But the question which came up is
+you have two harmonic oscillators.
+
+One harmonic oscillator is in the ground state.
+One is in the excited state.
+And then you have the harmonic oscillators,
+where the excitation is here and there.
+
+Is that an entangled state or not?
+
+It's a real question.
+
+They're just--
+[INAUDIBLE]
+
+I want you to think about it.
+What's the [INAUDIBLE]?
+Can you distinguish it?
+OK.
+OK.
+Who's working with ion traps?
+Yes, a few people, I know.
+We have a few ion traps here at MIT.
+If this is an ion-- what is a good ion, ytterbium plus?
+Strontium [INAUDIBLE].
+Strontium plus, OK.
+So if it's strontium plus, which can be in the quantum state v
+equals 1 or v equals 0, and you have another strontium
+plus-- you have another strontium
+plus ion in a second ion trap, and it
+can be in the ground state or first excited state,
+isn't it wonderfully entangled?
+Two systems far away.
+You can manipulate them.
+You have two particles, and they're in two quantum states.
+It fulfills, with flying colors, all the qualities you want
+to see with entangled state.
+OK.
+But now I can say, if I call this harmonic oscillator,
+I have two optical fibers.
+And you know a single-mode fiber defines an harmonic oscillator,
+namely the electromagnetic field in the single mode.
+And if I put one excitation into this fiber,
+I have a photon here, and here I have zero photon.
+Or here, I have one photon, and I have zero photons.
+So if you look at the fiber, you would
+say the fiber has two states.
+It can have an excitation or not.
+And if you use now that approach, you would say,
+well, I have an entangled state between two fibers.
+
+However, I can realize exactly that state
+by having a beam splitter-- by having one photon coming
+on the beam splitter, and then the photon
+is coupled into one of the fibers.
+So in other words, there is an ambiguity,
+which I want to point out, between whether you have
+a state of one particle, one photon, into two fibers
+or whether you have two fibers, which
+can be in two different states.
+So there is often an ambiguity.
+What do you call the state, and what do you call the particle?
+So at our lunch conversation, it came up in a, well,
+in a somewhat different context.
+But people would actually say that spitting
+a photon-- sending one photon across the beam splitter
+fulfills, if you interpret it in that way,
+fulfills the definition of entanglement.
+I know our wiki page and Professor Chuang
+will probably not agree.
+But well, welcome to the frontier of research,
+where different people have different opinions,
+and certain definitions are still being worked out.
+But there is one thing which is real.
+These two different-- we have here two different harmonic
+oscillators-- ions oscillating in a harmonic oscillator
+potential or photons in a single mode.
+I remember from 15 years ago, there
+were papers which show if you put
+the ion in a cavity or such, you can really transfer the quantum
+state from the single photon, from this harmonic
+oscillator, the harmonic oscillator
+of the electromagnetic field, to the harmonic
+oscillator of the ion.
+So if we want to hold onto the definition,
+which I'm not sure if we should, that this is a single photon,
+a single particle cannot be entangled, well, I know,
+and people reminded me at lunch, that there is a protocol
+to adiabatically map the single photon in the two modes after
+the beam splitter onto an entangled state of ions.
+So if you focus here on the photon and say a single
+particle cannot be entangled, you are facing the problem that
+there is a protocol which would transfer something which you
+call not entangled to something which is entangled.
+I hope you enjoy that.
+It's not clear what is the particle
+and what is the excitation.

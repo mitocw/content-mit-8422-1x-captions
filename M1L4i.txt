@@ -1,0 +1,257 @@
+#
+# File:   content-mit-8422-1x-captions/M1L4i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 248 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the principle of homodyne detection
+is now that we want to mix light at the beam splitter.
+So the device which does all that for us
+is, after using so many words, I would say it's
+disgustingly simple.
+It's really a half [INAUDIBLE].
+We'll talk about beam splitters a lot
+here, because beam splitters perform
+wonderful unitary transformations.
+And we will exploit them for many purposes.
+For the purpose of this lecture, I simply
+assume that we have a 50-50 beam splitter.
+So what I'm telling you now about the beam splitter
+will be generalized either later today,
+or in the lecture on Wednesday.
+So a beam splitter has two input parts, and two output ports.
+We have light impinging on the beam splitter.
+We call those modes a and b.
+And after the beam splitter, we have two output modes,
+and let me call them a0 and b0.
+And what we measure is the output of the beam splitter.
+So we have two photo detectors, and we measure the output.
+OK, the output modes, a0 and b0 are simply
+obtained by taking the input modes and propagating them.
+We have two modes a, b, sort of, you
+can see what goes vertical is a, before it was a, we call it a0.
+Here it's b, it becomes b0.
+And what we have to do is, we have
+to transform the operator a0.
+I'll just make a comment.
+I mean, sometimes in the beam splitter, you want to think,
+you know, a quantum state comes and is transformed.
+But instead of transforming this state of a photon,
+I can also transform the operator
+which creates a photon.
+One is the Heisenberg picture, one is a Schrodinger picture.
+So right now I use the Heisenberg picture.
+I have two operators, a, b.
+They transform into, before they hit the beam splitter,
+you say I have two operators, a0, b0.
+Afterwards, I have two other operators.
+I have operators a, b, afterwards
+I have operators a0, b0.
+And if you do the time evolution,
+it is a unitary transformation.
+And for operators, we have to multiply the operators
+from the left and the right hand side
+with the unitary operator, u and u [? dega. ?]
+And we really talk about the beams splitter
+in its full beauty in a short while.
+It will be a special case of what we discuss later,
+but I think it's pretty obvious that a 50-50 beam splitter is
+simply creating two modes-- one are the symmetric combination,
+and one are the antisymmetric combination.
+OK, so in our homodyne detector we
+are now measuring the number of photons in the mode a0.
+
+We measure with the upper detector the number
+of photons in the mode b0.
+But what we are then doing is we run it for a different circuit.
+You want to cancel certain noise, as you see in a moment.
+This is why we obtain the different signal, which
+we call i minus.
+So let's now calculate what i minus is.
+Well, the number of photons in the mode a0
+is a0 [? dega ?] a0.
+That's the operator for the intensity of,
+for the number of photons.
+We subtract b0 [? dega ?] b0.
+And as you can immediately see is that, because of the beam
+splitter, this is now involving a product of a and b.
+[? ab dega ?] plus a [? dega ?] b.
+So in other words, when you ask yourself, how can we remember?
+I said, we pick out the [? cosine ?] omega t component
+by multiplying our signal with the local oscillator.
+And you would say, how do you multiply two modes
+of the electromagnetic field?
+Well, just send it to a beam splitter.
+In a beam splitter, you create sum of them.
+But then your photodetector is a [? squalar ?] detector.
+You measure the electric field squared,
+or you have to measure the operator a [? dega ?] a.
+And now you get a cross term between a b [? dega ?]
+and [? a dega ?] b.
+
+So this is how we multiply to operators,
+how we get a signal which is proportional to you know,
+a, or [? a dega ?] times b or b [? dega. ?]
+
+By the way, if you wouldn't take the difference,
+we get terms of a, you know a a [? dega, ?] b [? b dega. ?]
+Just the mode a, or the mode b by themselves,
+and we want to get rid of them.
+And by taking the difference between the two photodetectors,
+those parts of the signal are [? common ?] mode
+and are subtracted out.
+So therefore, this is called balanced homodyne,
+because we have a balanced beam splitter.
+We measure two signals, and then we
+take the difference of the two signals.
+There's one more thing we have to add,
+and then we can find we understand
+the balanced homodyne detection.
+We want to exploit that our mode b, remember
+we want to measure mode a, a has squeezed,
+a has quantum properties, a has only single photons.
+And b is just a trick to project out the [? cosine ?] omega t.
+And we do that by choosing, for b, a strong coherent state,
+described by coherent state parameter beta.
+Of course, whenever we have a strong coherent state,
+that means that we can replace b by beta, and b [? dega ?]
+by beta star.
+This is sort of the classical field limit
+of a strong coherent state.
+And now we can ask, what is our different signal, i minus.
+Well, the coherent state depends on the phase angle theta,
+so it will be phase sensitive.
+It will depend on the angle theta.
+But now there is one more thing.
+And that is, if you use this stronger coherent state,
+of course, most of our outputs go up in proportion to beta.
+So therefore, we want to do a normalization
+by dividing by beta.
+So this is now our normalized output.
+So this is now simply-- I'm looking at this.
+So this is our operator for the signal i minus.
+And it is a-- b has been replaced by,
+b [? dega ?] has been replaced b star.
+That gives us a times e to the-- because
+of the complex conjugation-- minus i-theta, plus e
+[? dega ?] times e to the i-theta, divided by 2.
+So therefore, if we choose the phase to be 0,
+we measure the symmetric combination,
+a plus a [? dega ?] over 2.
+And this is simply the a1 quadrature operator
+divided by square root 2.
+And if you put a phase shifter, just
+dispersive element into this long local oscillator,
+and shift the phase by pi over 2 by delaying the light pulse
+by a quarter wavelengths.
+What we are now projecting out is the other quadrature
+component.
+So therefore, using a beam splitter
+on the local oscillator, we can now measure the expectation
+value for a1 and for a2.
+
+I've posted a few papers on the website, which
+shows some of the pioneering experiments where
+people did exactly that.
+So then when they observed, let's
+say they observed the quadrature component, which was squeezed.
+They usually did it for a squeezed vacuum,
+so a1 and a2 had zero expectation value.
+But the interesting part is how much noise was there.
+If you don't squeeze, you find that your normalized noise
+simply corresponds to the classical photon short noise.
+But if you are squeezed, you find
+that one quadrature component has
+smaller noise and short noise.
+So if you take the n photons in your different signal,
+and your noise is less than square root n,
+whereas, in the other quadrature component, it's larger.
+So you can look up on the website papers which,
+where people slowly varied the phase of the local oscillator.
+And you see, this is short noise,
+how the noise is below short noise, exceeds short noise,
+is below short noise, and exceeds short noise.
+And this was the first evidence for the generation
+of squeezed light.
+OK so, we have discussed the detection
+of squeezed light using balanced homodyne detector.
+Take And balanced means that the beam splitter was 50-50.
+So now we are ready to discuss the unbalanced case.
+So let's get our unbalanced beam splitter.
+And just for the sake of the argument,
+let's say it has a really good transmission of,
+OK t is the consumption coefficient.
+T-squared tells you what fraction of the power
+is transmitted.
+And let's just assume, for the sake of the argument,
+99% are transmitted.
+So therefore, if we start with our signal
+a, which may be an interesting squeezed quantum
+state, number state, you name it, a0 is pretty much the same
+as a.
+We haven't lost so much.
+But now we use our local oscillator,
+which is very strong.
+Only a very small fraction of it will be reflected,
+but we can always compensate for this small reflection
+by making b even stronger.
+Let's see what we get.
+So the mode a0, the output the mode,
+is now the transmission coefficient times a.
+a and a0-- the operators are sort of amplitudes,
+so we have to use if we have a 99% beam splitter,
+we have to take the square root off 0.99.
+This is the transmission co-efficient.
+And now we have the transmission coefficient
+for this strong local oscillator, which
+we will, again, approximate by its eigenvalue, coherent state
+eigenvalue.
+And the reflection coefficient is 1 minus t squared.
+So if we make the approximation that t is approximately 1,
+we can take it out of the parentheses.
+And we obtain that, if t is close to 1, we can neglect it.
+And what we see now is, what we have obtained,
+is actually the original quantum state a,
+or I should say the operator, I'm in the Heisenberg picture.
+Is the mode operator for the input
+of the unbalanced homodyne detector.
+And what we have simply done is we have displaced the operator.
+We have displaced the mode operator a.
+And the displacement operator has an argument
+of 1 minus t squared beta, and this
+is the Hermitian conjugate.
+1 minus t squared beta.
+So what I've shown you here is that local oscillator
+and the beam splitter is a realizational implementation
+of the displacement operator.
+So in the limit that t goes to unity,
+we are not losing anything of our quantum state.
+But by reflecting in the amplitude
+of a strong coherent state, we simply take our quantum state,
+and we displace it in this two-dimensional plane.
+So that's what this beam splitter does for us.
+Any questions?
+
+In the next few classes, we really
+take advantage of those elements.
+We know now that the displacement operator is just
+a beam splitter.
+We know when we have squeezed some light
+by using balanced homodyne detection,
+we can just do measurement of one quadrature component
+of the other.
+So what I hope for those of you who
+haven't heard about it, what you take away from that
+is that these are extremely simple elements,
+but by combining them, we can really
+realize very sophisticated schemes of quantum optics.
+To some extent, when I heard about for the first time,
+I think the mathematics looked so fancy.
+I couldn't believe that such simple elements can actually
+realize what those operators describe.
+So I gave you the example, for the displacement operator.

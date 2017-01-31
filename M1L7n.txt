@@ -1,0 +1,93 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7n.txt
+#
+# Captions for 8.422x module
+#
+# This file has 84 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I just want to share something I saw in my visit
+to the Netherlands.
+When I visited the University of Delft and the Kavli Institute,
+they had just accomplished the entanglement of two NV centers.
+And we had just talked in class about the entanglement
+of two of ions.
+So I'm excited to show you that people have just
+taken the next step.
+And what often the next step means
+is that, in atomic physics we use pristine systems.
+Ions, neutral atoms, in [INAUDIBLE] vacuum chamber.
+And we create new forms of entanglement
+with quantum gases, new forms of quantum matter.
+But ultimately, we hope that those concepts, those methods,
+and this knowledge translates to some room temperature materials
+or solid state materials, which can be handled more easily,
+and therefore much closer to applications.
+So NV centers are nature's natural ion trap, or nature's
+natural neutral atom trap.
+Let's not discuss whether this is neutral or ionized.
+It's a vacancy in nitrogen. And it has a spectrum
+which looks like an atom.
+So you can say, once you have such a defect in nitrogen,
+you have an atom, a single atom, in an atomic trap or an ion
+trap.
+And you don't have to create the vacuum.
+It's there.
+Every time you look at it, it's there.
+And you can excite with a laser.
+It has a spectrum similar to atoms.
+It has spin structure.
+So you have these vacancies in diamond.
+And so these are little quantum dots.
+But now you have two problems.
+One is you want to collect the light emitted by them
+and what is best is to mill a lens right into the material.
+So this is the diamond material, lens is milled,
+and that already gives some collimation
+of the light emitted by it.
+But the big problem, until recently, has been,
+when you create those, some people
+call it artificial atoms.
+Every atom is a little bit different
+because it experiences a slightly different environment.
+Crystal is strain, so if you have seemingly two identical
+defects in diamond crystal, the two defects
+will have a resonance line, which
+is a few gigahertz different.
+You would say, well, maybe it's just the part in 10 to the 5.
+But it means the photons are distinguishable.
+So if you want to do entanglement
+by having two such artificial atoms emitting
+a photon onto a beam splitter, and then by performing
+a measurement, we project check the atoms
+into a balanced state.
+I hope you all remember what we discussed for the trapped ions.
+Then you have to make sure that, fundamentally,
+those photons cannot be distinguished.
+And the trick here is that they put on some electrodes
+and, by adding an electric field,
+they can change the relative frequency.
+And therefore, within the frequency uncertainty
+given by Heisenberg's uncertainty relation,
+they can make the two photons identical.
+And then, what's the experiment?
+Well you have two NV centers.
+
+Defects in diamond.
+You can manipulate it with microwaves
+coherently with spin.
+You need lasers for initialization and readout.
+You need, but then closer to what we want to discuss,
+you need laser beams, which excite the NV center,
+and then the two NV centers emit photons.
+And what you see now is exactly what we discussed schematically
+and in context of the ions, that the two NV centers now
+emit photons.
+And by using polarization tricks in the beam splitter,
+you do a measurement after the beam splitter.
+And based on the outcome of the measurement,
+you have successfully projected the two NV centers
+into a balanced state.

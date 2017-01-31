@@ -1,0 +1,454 @@
+#
+# File:   content-mit-8422-1x-captions/M0L1a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 445 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So when you take a course in AMO physics,
+the obvious question is what is AMO physics.
+What defines our field?
+Actually, by far, the best definition
+of what AMO physics is, it is what AMO physicists do.
+It is defined by the community of AMO researchers.
+And this is really characteristic for our field.
+I will tell you in the next 10 minutes
+or so about this enormous dynamics
+of the field, how AMO physics has changed
+in a fraction of my lifetime.
+And what happened is I felt whatever I was doing,
+and it turned out to be very different of what I
+did 10 and 15 and 20 years ago.
+We stayed in the center of AMO physics.
+So myself and the whole community,
+we are moving and took the field along.
+So therefore, AMO physics is what
+gets AMO researchers excited.
+It's not a joke.
+That's really happened.
+Well, a little bit more mechanically
+we can define AMO physics.
+AMO physics is what is made out of the building
+blocks we have in AMO physics.
+So defined by the building blocks.
+And in AMO physics, we build systems
+out of atoms or molecules, and then photons or light.
+And in general, electromagnetic fields.
+Electric magnetic field.
+Microwaves and all this.
+So in other words, everything which is interesting.
+And we can put together with those building blocks.
+This is AMO physics now, and this may redefine AMO physics
+in the future.
+Now, historically this meant that those building
+blocks-- atoms and molecules-- were
+available in the gas phase.
+So you had gases of atoms, gases of molecules.
+And you studied them.
+And almost all of AMO physics was actually
+about individual particles, individual atoms,
+individual molecules.
+Because in the gas phase at high temperature,
+pretty much you learned that in statistical mechanics
+each particle is by itself.
+And the partition function of the whole system
+is just vectorizes into partition functions
+of the individual particles.
+Well, maybe with some exception, occasionally particle collide
+in the field of collisions.
+Collisions between atoms and atoms, atoms and ions, atoms
+and molecules, molecules and photons.
+This was widely studied in AMO physics.
+Well, now the field has really moved away
+from just individual particles and collisions
+between two particles.
+What is in the center of attention is few-body physics.
+And that, of course, takes us to entanglement.
+For instance, people study entanglement of [? eight ?]
+ions in ion traps.
+And of course, this is deeply related
+to [? quantum ?] information science.
+Or if you want to go from few-body to many-body,
+this is now starting to overlap with condensed metaphysics.
+And this is now widely studied in the field of [? ultracold ?]
+atoms and quantum gases.
+When we talk about many-body physics,
+we get, of course, into overlap with condensed metaphysics.
+I would actually say now a larger fracton of AMO physics
+and condensed metaphysics overlap strongly.
+[? That ?] we speak the same language.
+We study the same Hamiltonian.
+A lot of theorists apply the same methods
+to topics coming from either field.
+However, often in technology, how the systems are studied,
+there's a different culture, different tradition, and still
+two different communities.
+The overlap comes about because there
+are systems in nature, which you can see-- well, natural.
+The unnatural two- or few-level systems, of course,
+will help nature a little bit by engineering.
+Those systems are, for instance, quantum dots, or in-recent, as
+in [? diamant. ?]
+
+Or another overlap with condensed metaphysics
+is that [? one frontier of ?] AMO physics
+is the optical control of mechanical oscillators.
+Microcantilevers, membranes, tiny mirrors in cavities.
+They have mechanical motion, and the mechanical motion
+is strongly coupled to the photon field.
+Of course, for fundamental AMO physicists,
+a mechanical oscillator is nothing else
+than a harmonic oscillator.
+So [INAUDIBLE]-- and this is sort of my third attempt
+in defining for you what AMO physics is,
+AMO physics is almost defining itself by low-energy quantum
+physics.
+So all the quantum mechanics which doesn't take place
+at giga and tera electron volt, which
+takes place at low energy, this is AMO physics.
+Of course, maybe not all of it.
+Usually when it is in wet solution, it's biophysics,
+and it's distinctly different from AMO physics.
+Or if the solid state involved, then it's
+more condensed metaphysics.
+But I would say there is one part of solid-state physics
+which is already becoming interdisciplinary
+with AMO physics.
+And this is when the control of the system
+is not done by wires and [INAUDIBLE],
+but it is done by lasers.
+So if you have a solid-state system
+and you use all the methods you apply to atoms,
+you use electromagnetically induced transparency coherence,
+all those concepts, then AMO physicists feel at home.
+And they don't care if the two-level system
+or the harmonic oscillator is an ion oscillating in an ion trap
+or whether it's a small cantilever.
+The methods and concepts are the same.
+
+So therefore, one could say AMO physics
+is sort of the playground where we
+can work on extensions of simple systems
+which we understand and cherish.
+And of course, our exactly solvable problems
+are the hydrogen atom.
+My colleague Dan Kleppner would have said maybe the hydrogen
+atom-- if you understand the hydrogen atom,
+you understand all of atomic physics.
+I'm not so sure.
+I would actually say in addition to the hydrogen atom,
+you have to know the two-level system.
+And of course, you have to understand the harmonic
+oscillator.
+So these are three paradigmatic Hamiltonians.
+And a lot of understanding of much more complicated system
+really comes from taking the best features of those three
+systems and combining them.
+
+If you have questions or comments.
+This is an interactive class.
+Feel free to speak out or interrupt me.
+
+OK.
+So now we know, or we don't know,
+what AMO physics is, let me now address,
+how has AMO physics developed?
+And I mentioned to you that AMO physics
+has done breathtaking evolution in my lifetime,
+or even in the shorter part of my life,
+which is my research career.
+Well, traditionally, almost all fields in science
+started with observing nature.
+
+The pursuit of science was born out of human curiosity
+to understand the world around us.
+And atomic physicists, well, they
+started to observe atoms and molecules, usually in the gas
+phase, and what they were doing.
+And already there was some evolution,
+because original observations at low resolution
+were taken to a completely new level when
+high-resolution methods were developed, when lasers came
+along, when people had light sources which
+had fantastic resolution.
+And eventually, finer and finer details
+of the structure of atoms and interactions between atoms
+were resolved.
+
+But AMO physics is a field which has taken the pursuit
+of science much further.
+So there is not just observation of nature.
+And I want to write that with capital letters--
+there is CONTROL of nature.
+
+And you maybe take it for granted,
+but you should really appreciate it,
+that controlling nature, having control over what you study,
+modify it, advance it, take it to the next level,
+is really something wonderful.
+It is completely absent in certain fields
+like astrophysics.
+In astrophysics, all you can do is you can observe.
+In atomic physics, we create the objects we can observe.
+So the control of nature, the control of our atomic physics
+system, developed in stages.
+The first kind of control was exerted about internal states.
+If you have an atom at thermal energies,
+it would only come in hyperfine states which
+are thermally populated, or molecules
+come in rotational states.
+And well, your limited control was simply
+to raise and lower the temperature.
+But with the advent of optical pumping--
+this actually happened already with classical light sources
+before the invention of the laser.
+So with optical pumping, you can pump the internal population
+of molecules into, let's say, a single rotational state.
+So this is control over the internal Hilbert space,
+and this was actually rewarded with the Nobel Prize
+to Alfred Kastler in 1966.
+Of course, the next step after controlling
+the internal degrees of freedom is
+have control over the external degrees of freedom.
+And this means control motion.
+This was, of course, pursued by understanding
+the mechanical aspect of light.
+How do photons mechanically interact with atoms?
+This eventually led to laser cooling
+and Bose-Einstein condensation.
+And it was also those developments
+were recognized with major prizes.
+Well, there is more to it than controlling
+internal and external degrees of freedom.
+You can then also say, well, how much can we control
+the number of building blocks?
+And eventually, AMO physics advanced
+to exert control on to single quantum
+systems-- single photons, single atoms, a single atom
+in a cavity exchanging a photon with a cavity thousands
+of times.
+So this control of single quantum systems
+was actually just recognized with a Nobel Prize
+a few months ago.
+Well, at this point, I sometimes make the joke.
+We have gone from big ensembles in many, many quantum states
+to single photons, single atoms in a single quantum state.
+A single quantum state for many particles
+is Bose-Einstein condensation.
+So we have really come down to single atoms, single photons,
+single quantum states.
+Well, what comes next?
+To have no atoms and no light in vacuum?
+Well, the vacuum has some very interesting properties.
+And if you talk to Frank Wilczek,
+the nature of the vacuum-- dark energy
+is one of the big mysteries in physics and in science
+in general.
+But the study of that is definitely
+outside the scope of AMO physics.
+So what happens is when we have come down and have now
+control over the building blocks,
+now we can sort of go up again in a controlled way,
+create complexity by assembling a few photons, a few atoms,
+into new, entangled states.
+So we can now take our system into very different regions
+of Hilbert space.
+So what is defining now?
+The control is we want to use this pristine control
+over the building blocks to now put in something which hasn't
+existed naturally before.
+Or when it existed, it was completely obscured, completely
+hidden, by thermal motion or by, you can say,
+in homogeneous broadening our lack of control.
+And the best [? passwords ?] are here now--
+entanglement and many-body physics.
+It's hard to capture that in a diagram, but let me try that.
+I don't know actually what I'm drawing,
+but I think you get the message that this
+is sort of Hilbert space.
+And I have two axes.
+One is sort of entropy-- high temperature,
+and the other one is complexity.
+And for quite a while, people studied hot gases.
+So these are gases.
+There's a lot of entropy in it.
+The complexity is actually not particularly high.
+And everything is described by a statistical operator--
+the density matrix.
+The pursuit of cooling and actually
+control-- gaining information about a system
+is also a way of cooling.
+If you know in which state the atom is,
+the entropy of the system is 0, even if you haven't
+changed the state of the atom.
+So control and cooling, control measurement and cooling,
+has now taken us to the point where we have systems
+which have no entropy anymore.
+They are very, very well-defined.
+And our goal now is to take now these systems
+to much more complexity, where wave functions become
+entangled, and we have strong correlations
+in many-body systems.
+This is now described by wave functions.
+But here is the wave function of a single particle.
+And here we have now highly correlated, highly entangled
+many-body wave functions.
+So at least for me-- but all predictions
+are notoriously incorrect when you look at them
+in a few years from now.
+But for me, this is sort of where the future of our field
+is moving, to get sort of into interesting regions of Hilbert
+space where no person has been before.
+As an experimentalist and with a lot of experimental graduate
+students in this room, I want to emphasize
+that a lot of those rapid developments of the field
+are driven by technology.
+So it's driven by technology advances.
+In the '50s and early '60s, people
+thought AMO physics is pretty much dead.
+It's sort of only a few people with gray hair
+continue what they have done, and the field
+will eventually die.
+But then technological developments
+made it possible to do major [? conceptional ?] advances.
+I've mentioned the [? conceptional ?] advances.
+Let me now say a few words about the technology which
+has driven it.
+There was one phase of developing lasers
+which I experienced when I was a student.
+But those lasers were fantastic.
+They were very narrow already, very stable,
+but they were very expensive and very complicated.
+So if you had one laser, this defined your laboratory.
+And then you studied a lot of things
+with the single laser you could afford.
+Well, you're probably not used to sort of one big [? dye ?]
+laser pumped with a big argon-ion laser.
+It was a $250,000 investment for the lab.
+And of course, you couldn't afford a second laser.
+It required 50 kilowatt of electrical power,
+and all this power had to be cooled away by gushing water
+through thick pipes.
+So it was an expensive undertaking,
+but you could really do wonderful science with it.
+So what I've seen in the last 20 years
+is the proliferation of solid-state lasers,
+starting with diode lasers and continuing
+until the present year.
+So now in a lot of our laboratories here
+at MIT, we have 10 lasers.
+And we've stopped counting them, because adding a laser
+to the system is almost like adding
+an amplifier to a circuit or adding another circuit
+to a data acquisition system.
+But it's not just the simplicity of the lasers
+which we have now.
+The robustness to have 10 lasers in the lab, it's fine.
+Previously, if you had three lasers of the lab,
+you spent 90% of your time just keeping the lasers running.
+Those lasers, not so much continuously
+as [? our ?] continuous wave lasers,
+but pulse lasers have also very, very different properties.
+Laser pulses brought very, very short femtosecond
+or even attosecond.
+Shorter pulses means that the energy is now
+focused to a much shorter temporal window.
+Therefore, laser pulses of very, very high intensity--
+if you focus a short-pulse laser on an atomic system,
+you can easily reach an electric field
+of the laser which is stronger than the electric field
+of the atom.
+So in other words, if you have photons and electrons, or well,
+maybe the outer electrons, not get down to the single protons,
+but you have maybe an ionic core, and you have electrons.
+Now you should first look at the motion of the electrons
+in the strong field of the laser and at the atomic structure
+as a perturbation.
+It really takes the hierarchy of effects upside down.
+So the appearance of higher-intensity lasers
+has given rise to a whole new field of atomic physics.
+Lasers got more precise.
+The invention of the frequency combs,
+recognized for the Nobel Prize in 2005,
+meant now that we can control laser frequencies at a level
+of 10 to the minus 17.
+And this has completely redefined precision metrology
+and has advanced the control over atoms and molecules
+I've mentioned before.
+Finally, another technical development,
+which plays a major role in research being pursued here
+at MIT and elsewhere, are the development
+of high finesse cavities.
+High finesse cavities in the microwave range,
+then they are superconducting, or
+high finesse optical cavities by having supermirrors.
+It is actually those super-cavities
+which have enabled the study of single photon physics,
+because after all, photons move away with the speed of light.
+And if you want to observe a photon in your laboratory,
+it has to bounce around zillions of times
+in order to have enough time for the photon
+to do something interesting.
+So sometimes a field at the frontier of science
+is defined by paradigms by if you
+want to explain to somebody why your field of interest
+is cool and exciting, you usually
+do it by picking a few really exciting examples.
+And I sort of want to show you how over the years
+that has advanced.
+Definitely in the '50s and '60s, you
+would have mentioned that we understand
+now atomic structure, atomic structure
+of multi-electron atoms.
+Optical pumping just started.
+So these were flagship developments of AMO science.
+The cool thing to do in the '60s and '80s was use the new tool,
+the laser, applied to atoms and do laser spectroscopy--
+[? subtoplaspictroscopy, ?] [? subnatural ?] spectroscopy,
+resolving hyperfine structure.
+Wow, I mean, this was really exciting in those days.
+And well, the older people I have met,
+my teachers, my thesis adviser, these
+were people who started their research career
+before the laser was invented, but then
+as a young researcher embraced this new tool
+and helped to redefine the field.
+Definitely in the '80s and '90s, the cool pictures
+were those of magneto-optical trap atoms standing still
+and traveling around.
+So the new aspect were mechanical forces
+of light, which led to laser cooling and trapped atoms.
+In the late '90s, of course, the excitement
+was about Bose-Einstein condensation.
+And it was really Bose-Einstein condensation
+which drove AMO physics from single atoms
+and maybe two atoms colliding to many-body physics.
+It's always easier to analyze those things
+by looking backward.
+So if I'm now getting closer to the past,
+I have to be a little bit vague.
+But in the 2000s, I think hot topics
+were ultracold fermions and the study of entanglement
+and correlations.
+And what is the paradigm now or in the near future?
+Well, I think you have to help to define it.
+If you make an interesting discovery,
+this is what people will be pointing to and would say,
+this is what now defines AMO physics.
+Some candidates are, of course, if there is major breakthrough
+in quantum computation.
+In the field of, quote, "atom science,"
+we may actually do some focus towards topological states,
+which have different symmetries and different properties.
+And another emerging frontier is micromechanical oscillators.
+In the last couple of years, we just
+had the breakthrough for the first time--
+mechanical objects were cooled to the absolute ground state.
+So this, for that community, it was what, for many of us,
+Bose-Einstein condensation was 15 years ago.
+
+Any questions?

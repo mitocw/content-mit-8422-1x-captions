@@ -1,0 +1,207 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7r.txt
+#
+# Captions for 8.422x module
+#
+# This file has 198 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+There is another state which you have
+encountered in your homework.
+And this is a superposition not of and 0 n and n 0.
+It's a superposition of n minus 1 n and n n minus 1.
+This state goes by the person, I think, who invented it,
+the Yurke state.
+And you showed in your homework that with that, you also
+reach Heisenberg limited interferometry
+where the phase case is 1/n.
+
+What I want to add here to it is how one
+can create such a Yurke state.
+And again, I want to use the example
+with an atomic Bose-Einstein condensate.
+And here's the reference where this was very nicely discussed.
+So let's assume we can create two Bose-Einstein condensates,
+and they have exactly n atoms.
+And I would actually refer to [INAUDIBLE] questions,
+how to make them.
+
+Have 2n atoms in a trap, and then make
+a double-well potential.
+Deform the harmonic oscillator potential
+to a double-well potential.
+Then for strong repulsive interactions,
+the condensate will symmetrically
+split into two Fock states, each of which has n atoms.
+So now how can we create the Yurke state from that?
+Well, we simply have--
+we leak out atoms.
+We leak atoms out of the trap.
+My group demonstrated an RF beamsplitter,
+how you can just split--
+in a very controlled way, start rotating
+the cloud on non-trapped state, and then atoms slowly leak out.
+Well, when you can measure, of course,
+you can take an atom detector and measure
+that an atom has been out-coupled, that an atom has
+leaked out of the trap.
+If you don't like RF rotation, you
+can also think that there is a tunneling barrier and atoms
+slowly leak out by whatever mechanism.
+And the moment you detect an atom, you then
+project the state in the trap to n minus 1 atom,
+because you have measured that one atom has come out.
+But now you use a beamsplitter.
+And a beamsplitter could simply be a focused laser beam.
+And the atoms have a 50% probability
+of being reflected and of tunneling through.
+So therefore, if you have now a detector
+which measures the atoms on one side
+and the atoms on the other side, then you
+don't know anymore when the detector makes click from which
+atom trap the atom came.
+Or more formally, a beamsplitter transforms the two input
+modes a b into a plus b and a minus b,
+normalized by square root 2.
+So therefore, if this detector clicks,
+then you project the remaining atoms into the symmetric state.
+Here you detect one atom in the mode a plus b.
+And that means that the remaining atoms have been
+projected into the Yurke state.
+If the lower atom detector would click,
+well, you get a minus sign here.
+So that's one way how, at least in a conceptually simple
+situation, you can prepare this highly non-classical state
+by starting with a dual Fock state of Bose-Einstein
+condensates, and then using--
+and this is an ongoing theme here--
+by using a measurement, and then the post-measurement state
+is the non-classical state you wanted to prepare.
+Question?
+Yes.
+[INAUDIBLE] only one atom leaks through [INAUDIBLE]?
+
+The idea is that we leak atoms out very, very slowly.
+And then we have a detector which we assume
+has 100% quantum efficiency.
+So therefore, we simply wait until the detector tells us
+that one atom has leaked out.
+And in an idealized experiment, we
+know the atoms either have been measured by the detector
+or they are still in the trap.
+
+So is there a property that [INAUDIBLE] you
+detect atoms in one detector [INAUDIBLE]?
+In principle, yes.
+But the idea here is if you have a very slow leakage
+process, the probability that you
+detect two atoms at the same time is really zero.
+You leak them continuously and slowly,
+but then quantum mechanically, that
+would mean for most of the time, you measure nothing.
+That means the leakage hasn't taken place,
+that the quantum mechanical system has not developed yet.
+But the moment you perform a measurement, you project--
+it's really the same if you say you have n radioactive atoms.
+You have a detector.
+And when the detector makes click,
+you know yo have n minus 1 radioactive atoms left.
+It's just applied here to two atom tracks.
+Other questions?
+[INAUDIBLE]
+No.
+And maybe I tell you now why not.
+We have discussed the NOON state,
+and we have discussed here highly
+non-classical superposition state.
+Let's just go back to the NOON state.
+We have n atoms here, zero here.
+Or n atoms-- or the reverse.
+But now assume a single atom is lost, is lost from your trap,
+by some [INAUDIBLE] gas collisions.
+And you have surrounded the trap with a detector.
+So if you have the NOON state, the symmetric superposition
+state, all atoms here and all atoms there,
+but by a background process, by an inelastic collision,
+you lose one atom, and you detect it,
+you could set up your detectors that you know from which--
+that you figure out from which trap was the particle lost.
+So therefore, a single particle loss,
+if you localize form which trap the particle is lost,
+would immediately project the NOON state into a state
+where you know I have n or n minus 1 atoms in one
+well and zero in the other well.
+
+So I've already told you with the attenuator,
+you can never assume an attenuator is just
+attenuating a beam.
+An attenuator can always regard it as a beamsplitter,
+and you can do measurements at both arms of the beamsplitter.
+Or you have to consider the vacuum
+noise which enters through the other part of the beamsplitter.
+And if you now add that those atoms, n atoms in a trap,
+have some natural loss by inelastic collision,
+or [INAUDIBLE] gas scattering, the loss
+is actually like a beamsplitter that particles
+don't stay in the trap, but go out through the other part.
+And then you can measure it.
+So in other words, every loss process
+should be regarded as a possible measurement.
+And it doesn't matter whether you
+perform the measurement or not.
+And I think it's just obvious that the NOON state, the moment
+one particle is lost--
+and you would use this particle to figure out
+if n particles are here or n particles are there--
+the whole superposition state is lost if you just
+lose one single atom out of n.
+
+So the lifetime of a NOON state is then
+not your usual trap lifetime, where
+you lose half of the atoms, or 1/e of the atoms.
+It is n times faster, because it is the first atom lost
+which is already completely removing
+the entanglement of your state.
+To say it more specifically, the limitation is loss.
+When you have a fully entangled state, maximally entangled
+state, usually a loss of one particle
+immediately removes the entanglement.
+We had the situa--
+no, that's not a good example.
+But for the most entangled state, usually--
+and for the NOON state, it's trivial to see--
+a single particle lost allows you
+to measure on which side of the potential barrier
+all the atoms are, and all the beauty
+of the non-classical state is lost.
+
+So if you assume that in a time window
+you have an infinite [INAUDIBLE] loss,
+a loss of epsilon, what usually happens
+is if you have an entanglement of n particles,
+then you lose your entanglement.
+If you expand 1 minus epsilon to n,
+it becomes 1 minus n times epsilon.
+So that's one reason why people have not scaled up
+those schemes to a large number of photons
+or a large number of atoms, because the larger n is,
+the more sensitive you are to even very, very small losses.
+[INAUDIBLE]
+The super-beamsplitter would create the NOON state.
+I've not explained to you what it physically
+would be for photons, but I gave you
+the example for atoms to be [INAUDIBLE]
+in a double-well potential with attractive interaction.
+So to start with the condensate in--
+
+[INAUDIBLE]
+If you start with a double-well potential,
+and you put n atoms initially in,
+but then you switch on tunnel coupling,
+then you would create the NOON state
+if the interactions are attractive
+and if everything is idealized, that you
+have a completely symmetric double-well potential.

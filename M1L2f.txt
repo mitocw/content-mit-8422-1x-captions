@@ -1,0 +1,70 @@
+#
+# File:   content-mit-8422-1x-captions/M1L2f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 61 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+If you're interested in the subject
+and I couldn't do full justice to it,
+you may want to look at this book from Claude
+Cohen-Tannoudji, Jacques Dupont-Roc, and Gilbert
+Grynberg about photons and atoms.
+The whole book is dedicated how to describe
+the interaction of atoms with electromagnetic fields.
+In this book, they go through different ways
+of formulating the electromagnetic field
+classically.
+They use a Lagrange formalism for the electromagnetic fields
+and show that the Euler-Lagrange equation, Maxwell's equation.
+So there are lots of different approaches,
+and also one can say that what we
+did here is-- which is the simplest way of describing
+light atom intersection, has of-- how
+to say-- we work in the Coulomb gauge, which is not
+the gauge you would choose when you want to describe
+relativistic physics.
+There is the other gauge, the Logens gauge.
+It makes the field quantization much more difficult.
+But when you ever wondered why is the quantization done
+in the way I did, and you think something I did was arbitrary.
+Why did they pick the Coulomb gauge?
+Read this book.
+There are hundreds of pages which explain it to you.
+And I'm not joking here, it's a wonderful reading.
+I mean I got the book and just looked up a few things,
+and I almost got hooked on it, and read more and more.
+It's a fascinating story how deeply people have thought
+about how to describe this aspect of the course,
+and how profound their thoughts are.
+
+What this book will emphasize, about this
+is what I want to tell you in closing
+about the quantization of the electromagnetic field
+is the following.
+We were really working hard with classical field equations
+to describe the electromagnetic field, classically,
+by completely eliminating redundant variables.
+We started with six components of the electric and magnetic
+field, and reduced it to two components,
+the two components of the [INAUDIBLE] vector potentials.
+And as those masters say, as a result
+the field can be quantized with the great economy
+and the formalism.
+If you want to have more sumetric formulations where
+you don't eliminate the variables using the Coulomb
+gauge, the problem is you have variables
+which are not independent.
+And now I think if you quantize, you
+have to formulate auxiliary conditions between the not
+independent operators.
+It's aesthetically maybe pleasing
+because the approach is more sumetric,
+but mathematically it's much more involved.
+Anyway, if you're interested, this book
+has a wonderful discussion on the different ways how
+you can approach interactions of atoms

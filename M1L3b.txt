@@ -1,0 +1,221 @@
+#
+# File:   content-mit-8422-1x-captions/M1L3b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 212 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's start with a very, very short review
+of this simple harmonic oscillator.
+It just also connects me with the last lecture.
+So how do we describe light in a single mode?
+And single mode means it is perfectly monochromatic.
+
+Well, we know that-- and that's what
+we did last class-- that we have the Hamiltonian
+for the electromagnetic field, which
+is the quantum version of the electromagnetic energy,
+e square, e square.
+And from that, we derived the quantized Hamiltonian.
+We introduced just as a reminder, vector potentials,
+normal modes, and the normal mode operators
+became the a degas.
+And in second quantization, this is the Hamiltonian
+for light, which is of course the Hamiltonian
+for harmonic oscillator.
+What I need today is, I have to rewrite the harmonic
+oscillator, and we have to look at two variables, the momentum
+and the position.
+Actually, the momentum we later-- I
+will show you that the momentum of this harmonic oscillator
+is actually the operator of the electric field.
+So we need that in a second.
+And of course, I assumed from your knowledge
+of the harmonic oscillator that position and momentum
+are linear combinations, symmetric and antisymmetric
+of a dagger a.
+And the unit is the prefect or square
+root of H [INAUDIBLE] omega over two,
+or here it is h bar over 2 omega.
+And of course in position and momentum operators,
+the Hamiltonian is simply p square.
+Should remind you of kinetic energy.
+Omega square, q square should remind you of potential energy.
+
+When we discuss light, we want to discuss the electric field.
+
+I had shown you in one of those 100 equations, the operator
+for the electric field.
+The operator for the electric field
+was of course related to the vector potential,
+and the vector potential, we did a normal mode expansion
+and then we put everything backward,
+and we found that the electric field operator can actually
+be written.
+I have to fill in a few things, but essentially
+is a minus a dagger.
+And a minus a dagger is nothing else
+than the momentum of the harmonic oscillator.
+So here, the momentum has a special role
+because it is the operator of the electric field of light
+in a single mode.
+It has a harmonic oscillator representation,
+and the operator for the electric field
+is-- I put in a few bells and whistles in a moment--
+but is in essence, the momentum operator
+of the mechanical analogous harmonic oscillator.
+
+OK, but the electric field has a polarization.
+We need that.
+
+It has-- we have the photon energy and the quantization
+volume.
+So, what I'm writing down here is actually the electric field.
+This square root is the electric field strength
+of a single photon in the quantized volume of our cavity.
+So v is the quantization volume.
+
+Then, if you have a single mode of the electromagnetic field,
+well, in contrast to harmonic oscillator,
+we have a propagation kr plus omega t,
+and here we have e to the minus i.
+
+I hope I get the signs wrong here minus omega t.
+So therefore-- but OK, we will mainly
+be looking at an atom at the origin.
+That's what we did in the dipole approximation.
+So when I said that the electric field operator corresponds
+to the momentum, I have to aid now
+that it is at t equals zero, and at r equals zero.
+
+We'll come back to that in a few moments.
+OK, since I've given you the operator,
+let me just put the operator symbol on it.
+The operator of the electric field, I have to say now,
+one word about Heisenberg operators
+versus Schrodinger operators.
+I assume you are all familiar with the two
+different representations of quantum mechanics.
+You often use the Schrodinger representation,
+where the operators are time independent.
+But in the Heisenberg representation,
+the wave function, they state vector, is time independent,
+and the time dependence of the evolution of the quantum system
+leads to time dependence of the operator.
+So what I've written down for you here
+is actually the Heisenberg operator
+because it has a time evolution.
+But for a single mode, monochromatic electromagnetic
+field, the time evolution is just e to the i omega t.
+
+So if you want to obtain the Schrodinger operator
+you have to eliminate the time dependence
+by setting t equals zero.
+At t equals zero, by definition, the Schrodinger operator
+and the Heisenberg operator are the same.
+But then in the Schrodinger picture,
+the quantum state involves and the operator stays put.
+In the Heisenberg picture, the quantum state stays constant
+and you operator involves.
+So, I am usually writing down for you
+expressions for Heisenberg operators,
+but if you simply set t equals zero in this expression,
+you have the Schrodinger operator.
+
+Questions?
+Yes, Collin.
+What happens if there's a factor of two that
+shows up in the electric field of the single proton?
+Like the [INAUDIBLE] I thought it looked like--
+maybe it's just a factor of two--
+Yes, you have to be careful what factors of 2.
+I think I got it right here.
+There is no extra factor of two.
+
+But the question is-- OK, whenever you write down
+equations for the electric field,
+you want to use a and a degas photon number
+or create photon numbers, so they are dimensionless.
+So you always need a prefactor, which
+has a dimension of the electric field.
+And for the quantization of light, you have two choices.
+One is I can take the electric field associated
+with a single photon, that's one option.
+The other option is I take, as a prefactor,
+the electric field in the ground state, which you can say
+is the zero point fluctuations of the electric field.
+And the two differ by a factor of two
+because the energy of the vacuum field
+is one half h bar omega, whereas one quantum is h bar omega.
+So that's one reason why you may sometimes find factors of 2
+in some textbooks, or not in others,
+but I think what-- I checked it.
+I think as far as I know, it is consistent.
+So [INAUDIBLE]
+
+This is the Heisenberg operator for the electric field.
+But it differs.
+I mean at that point don't-- there is nothing to worry about
+or get concerned about.
+The question is for monochromatic light,
+do we put the e to the i omega t into the state
+or in the operator?
+It's really just an e to the i omega
+t factor has to be put either on the state, or on the operator.
+These are the two choices.
+
+Actually, my advice to you is don't even develop an intuitive
+conceptual understanding, and whether you
+are in the Schrodinger-- try to sort of see
+the structure of the operator.
+I sometimes like the omega t because it shows you
+how the electric field evolves, and you see that explicitly.
+But in the end, it's only when you do real calculation
+that you have to think hard.
+OK, which picture am I using now?
+Which representation am I using now?
+I'm probably not 100% rigorous in this course
+when I write down quantum states and operators, whether I'm
+always in the Schrodinger picture
+or in the Heisenberg picture.
+But by simply looking, does it have a time dependence?
+Yes, it's a Heisenberg picture.
+If I write down a quantum state which has a time dependence,
+then I've chosen the Schrodinger representation.
+It's as easy as that.
+There was other?
+There's a sign wrong up there because both a and a dagger
+goes e to the i omega t, as you have written down.
+Actually, I just wanted to say I was careful with my notes,
+but I didn't carefully look at my notes.
+This is what I have in my notes.
+Does that satisfy you?
+Yeah.
+OK, good.
+OK so, we want to talk about quantum states of light.
+This simplest eigenstates are of course, the harmonic oscillator
+eigenstates, but as I've already mentioned,
+and we elaborate on it further, these are actually
+non-classical states.
+So quite often we don't want those states,
+we want coherent states.
+But we need those number of states as one representation.
+So let me just introduce them.
+So we label by n, the states with n photons,
+and the energy of those states is n plus one half h bar omega.
+
+The states are normalized.
+Sometimes out of laziness, because it doesn't matter,
+we can eliminate the one half.
+It just make some equations more compact
+and if I do that, I can write the Hamiltonian like this.
+You are familiar, of course, with commutators
+of a and a dagger and the only non-trivial matrix element
+of a and a dagger is that it raises and lowers
+the photon number by one.
+
+OK, this was a sort review of the simple harmonic oscillator

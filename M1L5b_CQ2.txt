@@ -1,0 +1,17 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5b_CQ2.txt
+#
+# Captions for 8.422x module
+#
+# This file has 8 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The next question, which states realize the minimum quantum
+uncertainty with delta p delta q equals h over 2?
+I give you five different states.
+And in order to use the clicker, you
+should test just answer how many of them
+are minimum uncertainty states.

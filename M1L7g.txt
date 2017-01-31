@@ -1,0 +1,97 @@
+#
+# File:   content-mit-8422-1x-captions/M1L7g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 88 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So now what are we doing quantum mechanically?
+We want to prove that quantum mechanics cannot be reduced
+to this classical reasoning.
+So we want to show that this inequality is violated.
+We have a source of entangled photons.
+We've talked about how we can entangle photons.
+And now we measure the quantities Q, R, S, and T.
+And just to give you an example about the many possible
+choices, Q can be a linear polarizer,
+and R can be a circular polarizer.
+S can be a linear polarizer at 45 degree.
+And T can be a quarter-wave plate
+followed by a linear polarizer at 45 degrees.
+Well, that sounds like many trig functions,
+but we're not going into it.
+You have to choose your polarizations.
+There's a certain scheme, that linear polarization is not
+orthogonal to circular polarization.
+So there's a certain theme behind it.
+And if you would work it out by just looking
+at entangled photons, the entangled photons
+are in a state, let's say, hv plus vh.
+They are correlated in polarization
+or spin up, spin down, [? because ?] the down spin--
+up it's a singlet state.
+And you can just work out what is the polarization when
+you detect it.
+And what happens is that a simple but tedious calculation
+says that all those quantities, QS, RS, and RT, are equal.
+Here we have a minus sign, and they are all 1 over square root
+2.
+And that means that instead of the classical inequality,
+that this quantity is smaller than 2,
+we find that this is 2 times square root 2.
+
+And the fact that this is larger than 2
+has been experimentally confirmed
+with larger and larger precision.
+
+Actually, the person who gave the CUA seminar a week ago,
+Jean Dalibard, was part of the team with Alain Aspect, who
+did one of the very, very first measurements-- violations
+of Bell's inequality in the '80s, some 30 years ago.
+So I mean, this happened rather recently.
+
+So the math is trivial.
+The result seems trivial.
+It just shows that the world is quantum mechanically and not
+classical.
+And a lot of papers have been written
+and discussions have been had about,
+what does it really mean?
+What does it mean about the world?
+What does it tell us about the world?
+So the implication from the established--
+from the violation of Bell's inequality and the CHSH
+inequality is that when we assumed that the state has
+definite values of Q, R, S, T before observation,
+we have to give up that.
+Or we have to give up that a measurement performed by Alice
+does not influence Bob's experiment, Bob's measurement.
+So in other words, what I have formulated here is the locality
+principle, that what happens in one location cannot influence
+what happens in the other location.
+Well, you can say maybe there's some secret channel sending
+signals with speed of light.
+But people have been to great lengths
+to put the detectors so far away that even
+a signal at the speed of light could not have influenced
+the other measurement.
+So after the first Bell's inequality experiment,
+there have been a series of experiments
+to avoid all those loopholes that there
+is some unknown secret communication between the two
+detectors.
+The first one is the principle of--
+and that's sometimes I think a more philosophical world
+than physical world reality, that those quantities are real,
+and they should exist before we measure them.
+
+So the outcome of Bell's inequality is--
+the violation of Bell's inequality is at least one
+of them--
+at least one of these principles, reality--
+at least one of these principles does not hold in nature.
+So either reality or locality are violated.

@@ -1,0 +1,50 @@
+#
+# File:   content-mit-8422-1x-captions/M1L5i_CQ9.txt
+#
+# Captions for 8.422x module
+#
+# This file has 41 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we have exactly the same situation.
+We have our beam splitter.
+We split our coherent beam into two teams exactly as before.
+But now I'm playing with a vacuum.
+I'm playing with the open part of the beams splitter.
+And I put in squeezed vacuum.
+And just to be specific, I've squeezed the vacuum
+in such a way that what is narrow now
+is the quadrature component of the coherent state.
+In other words, the coherent state is cosine omega t.
+In sine omega t, we haven't put in any photons.
+Our coherent state has rarely an classical oscillation
+in cosine omega t.
+And what I've squeezed used here with the vacuum
+is the noise in the cosine omega t quadrature component.
+So in other words, the coherent state and the short exits
+of the ellipse are the same quadrature component,
+which means they can now interfere.
+So the question is now the following.
+We split the beam.
+We have n over 2 photons here.
+We have n over 2 there.
+And what is now the result for the variance?
+
+I formulated a condition up there,
+which is this strong local oscillator condition.
+You should assume if you get confused
+that the local oscillator is very, very strong.
+And if you have any doubts about some smaller terms,
+just crank up the power and make sure
+that it's really the local oscillator, which dominates,
+which is the biggest number in all equations.
+OK, so the reference is without squeezing the noise
+or the variance in i1 was n over 2.
+With n over 2 photons, Poisson statistics, this was n over 2.
+The question is now, when we use squeezed light,
+does the variance stay the same?
+Does it go up?
+Does it go down, or does it go to 0?
