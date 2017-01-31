@@ -17,4 +17,4 @@ measure the current, I have a coherent state,
 and I repeatedly measure the current,
 it will show fluctuations.
 And the question is what is not the standard deviation
-of the current, what is the variance, which is
+of the current, what is the variance, which is the standard deviation squared.
