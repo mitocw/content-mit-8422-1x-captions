@@ -1,0 +1,95 @@
+#
+# File:   content-mit-8422-1x-captions/M2L9d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 86 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Then let me just spend a few minutes
+on connecting what we have done with standard first and
+second-order perturbation theory.
+I want to throw a few definitions at you, S-matrix,
+T-matrix.
+But I'm not really going into any details.
+I just wanted to wrap up the perturbative treatment
+by connecting it with the standard first and second-order
+perturbation theory.
+But after that, in a few minutes,
+I want to have a discussion about the nature
+of intermediate and so-called virtual state,
+and then talk about the interaction [? v ?]
+whether it's a d dot e or the p minus e interaction.
+OK.
+So far I've presented the formalism
+that we start at an initial time and end at a final time.
+But usually these are microscopic times.
+And in the experiment, we observe
+a system for macroscopic time.
+So for that purpose, we usually go to the limit
+that initial and final times are infinitely apart.
+
+And that actually means we have energy conservation.
+The initial and final energy has to be the same.
+And that can be, for instance, if we restrict ourselves
+to second order.
+Remember, we had all those propagators e
+to the i energy over h par times t.
+And when we integrate it over long times,
+it will just average out to zero unless the initial and final
+energy are the same.
+And technically, you have seen that in under [INAUDIBLE]
+derivation second-order perturbation theory,
+you integrate the exponential function.
+And eventually, for a sufficiently long time,
+capital T-- capital T is the difference between initial
+and final times--
+it approaches a delta function.
+So that's how energy conservation comes in.
+So the fact that we have energy conservation
+is then used to define S and T matrix.
+The transition amplitude from the initial to the final state,
+what we have just calculated and discussed,
+is called the S-matrix, just how it is called.
+
+In first order, of course, the time evolution
+is the unitary matrix.
+So therefore we get a conical delta.
+And then we discussed that in the limit of large times
+we have a delta function.
+So therefore, if we take the S-matrix, which
+is the transition amplitudes we have calculated,
+and take out of the S-matrix the unity matrix
+and factor out the delta function, then what is left
+is the so-called T-matrix.
+
+When we talk about transition amplitude, transition
+probabilities, we are asking what
+is the probability that the system has
+gone from an initial state--
+maybe the excited state to the ground state
+for spontaneous emission, where probability is an amplitude
+squared.
+So we take the matrix element of the S-matrix and square it.
+And from the line above, this is now
+involving the matrix element of the T-matrix squared.
+
+There's a delta function which becomes
+a delta function squared.
+But if we integrate over all the final states--
+I mean a delta function is always
+requiring that you do some integration later, otherwise
+the delta function doesn't make sense--
+the delta function squared.
+You can actually explicitly see that from the sin function
+above, the delta function squared just
+turns into the time T.
+So therefore, if we divide the probability by the time,
+we have our transition probability.
+We have our transition rate.
+And what we obtain is the second-order expression
+for the transition rate, which is essentially
+from [INAUDIBLE].

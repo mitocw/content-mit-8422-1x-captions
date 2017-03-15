@@ -1,0 +1,123 @@
+#
+# File:   content-mit-8422-1x-captions/M2L11c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 114 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Yes?
+Why did you choose the spheres to be of side--
+I have the same size as the distance between them.
+Well, that's always a trick.
+[LAUGHTER]
+You know what would happen is--
+let me just go back here.
+If I would choose the sphere smaller,
+I would not have given the atom the whole exposure.
+I have to make it at least larger
+than c to make sure that the curvature of the sphere
+doesn't dominate.
+And what the atom sees is it sees that there is a wall.
+But then you can say when I make the sphere larger than z,
+then I delocalize the dipole moment.
+And the bigger sphere has a big polarizability.
+But the atom which was so close to the sphere
+doesn't care about it.
+So you would say the right choice is just when you think
+either picture gets corrupted.
+But that's so often what it is.
+So if you think about it, it's the only choice.
+Both other choices would lead to an unphysical result.
+And you would immediately realize why.
+In one case, it's the curvature.
+In the other case, it's--
+you're not really sampling the dipole of the sphere
+because you're so--
+you want to do a dipole field.
+And if you have a dipole of size z, the field with a dipole
+starts to be an approximation if you go a distance z away.
+
+Other questions?
+Yes?
+Can you explain where the first term [INAUDIBLE] come from?
+Last class, we had the result that the retarded van der Waals
+potential is 1 over r to the 7.
+But with the physical picture in mind
+that the van der Waals potential at long range, which
+is 1 over r to the 7, comes because a vacuum fluctuation
+drive two dipoles.
+And the two dipoles attract each other.
+Then each dipole is alpha 1 times a vacuum field.
+The other one is alpha 2 times a vacuum field.
+But now for the sphere, alpha is z cube.
+So therefore, three powers in the denominator cancel.
+And I get z to the 4.
+So you can say the alpha 2--
+I absorbed-- I used the result that alpha 2 is z cubed.
+And then the alpha 2 canceled with three powers
+of the distance in the denominator.
+Other questions?
+I have a question for you now.
+If you have two metal plates, what about short range and long
+range?
+We have swept something under the rug.
+If we assume a metal plate, what is the resonant?
+We had the distinction between long range and short range,
+which came from the resonant radiation,
+from the resonant excitation of the atom.
+And when we are closer than the wavelength,
+we are in short range.
+If we are further than the wavelength
+of the resonant transition, we are in long range.
+Between an atom and the plate, well, we still
+have the resonance of the atom.
+But what happens when we have two plates?
+There is clearly no resonance.
+So therefore, there is only one power law, 1 over z cube.
+But I want you to think about it for a moment
+whether this is now--
+whether everything is long range or everything is short range.
+In other words, is the effective resonant radiation--
+it's the effective wavelength of the plate lambda
+equals 0 or lambda equals infinity in your opinion?
+
+Over here.
+Is the dc polarizability so that must be an [INAUDIBLE].
+
+[INAUDIBLE] take two metal plates, the vacuum energy
+between those plates, and compare it
+to the vacuum energy for the same volume of free space.
+Then you subtract the energies.
+Compare the energy difference.
+Then the high-frequency components cancel out.
+So you have the low-frequency--
+We will actually do exactly what you
+suggest to compare vacuum energies
+in the next few minutes.
+It's not quite obvious.
+But I want to tell you now, we have
+made by assuming the metallic boundary condition,
+by assuming that we have idealized metal plates which
+fulfill the boundary condition, that the electric field is
+0 at the surface--
+that the parallel component of the [INAUDIBLE] the surface.
+We've made an assumption here.
+And the assumption is actually that the resonant wavelengths
+goes to 0.
+And the resonance frequency goes to infinity.
+And the power law we obtain is actually the long distance
+power law, so to speak.
+And for two metal plates, there is no short distance.
+I'm not sure if I can give you a simple explanation
+because the boundary condition is so idealized
+that you don't recognize, you don't smell
+any atomic resonance anymore.
+But maybe the one thing I would say
+is that you set a boundary condition, metallic boundary
+condition, for infinitely high frequency.
+And sometimes, that would also mean
+that the plasma frequency of the metal is pushed to infinity.

@@ -1,0 +1,136 @@
+#
+# File:   content-mit-8422-1x-captions/M2L8g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 127 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So just to repeat it, when we draw those diagrams,
+those diagrams show the energy of the atom
+but taking into account the energy of the photon.
+In other words, if you have a ground state
+and we absorb a photon, the photon has disappeared
+and the energy of the atom is now the ground state
+and the photon energy.
+And this is a dashed line.
+Similarly, when an atom emits a photon in the ground state,
+the photon is emitted.
+Therefore, the atomic energy is lower than the ground state
+by the photon energy and we draw the dashed line here.
+This is what we mean when we say that is
+the energy of the virtual state and this is
+what we draw in those diagrams.
+
+By the way, yesterday we had the COA seminar
+and the speaker was actually talking about trapping atoms
+with quantum fluctuations.
+And he considered explicitly Casimir forces,
+forces of the vacuum, and diagrammatically,
+forces of the vacuum come because a ground state
+atom emits a virtual photon and re-absorbs.
+This is actually--
+I will mention it later--
+the same diagram is actually also
+the diagram which leads to the Lamb shift.
+These are all sort of when you have atoms in the lowest state
+and they interact with electromagnetic field,
+well if they interact with a vacuum,
+they cannot accept photon.
+Doing All they can do is emit a photon and this
+leads to this diagram.
+But just to tell you that you have to be careful,
+yesterday's speakers actually used this process
+but he drew this diagram.
+He drew it in the opposite way.
+Which I think confused some people in the audience.
+The correct way is to draw it like this,
+the virtual state for vacuum fluctuations
+for the Lamb shift for the Casimir force
+is below the calm state.
+Let me just redraw those three diagrams.
+I want to now introduce the time evolution.
+So we want to introduce the time axis.
+So we had this diagram, we had this diagram, and we had--
+this is a virtual state.
+So those three diagrams correspond
+to the following situation.
+If time evolves from the bottom to the top,
+we can know draw the first process
+when atom in the ground state first absorbs and then emits
+a photon.
+And let's label the second photon in the purple color.
+So an atom starts out in the ground state.
+Then it reaches the time where it interacts
+with the electromagnetic field.
+There is a photon which propagates from earlier times
+to this time, t equals t prime.
+At the time t prime, the photon disappears
+and the atom which was in the ground state
+goes to the excited state.
+It may propagate in the excited state for a while.
+And then it emits the photon and is back into the ground state.
+So this is the temporal diagram for this process.
+For the next situation, we also start with an atom
+in the ground state.
+But now we have the situation that a photon
+is emitted by the ground state.
+As a result, .
+The atom switches to the excited state
+strong violation of energy, but possible for short times.
+Then there is a real photon which
+is now absorbed, absorbed by an atom in the excited state.
+And that takes us back down to the ground state.
+And finally in the third scenario,
+we have an atom in the excited state.
+There is a real photon which is absorbed that switches the atom
+home into the ground state.
+And then the atom in the ground state emits a photon
+and as a result, it is back in the excited state.
+So, let me just make a note that when a ground state
+atom absorbs a photon, this is the co-rotating term
+in the quantum description, which a lot of you have seen.
+The opposite process of emitting a virtual photon--
+actually when I say virtual photon, it's a photon.
+What makes it virtual, we'll see later
+when we have the more accurate mathematical formulation.
+So, this is the counter-rotating term.
+And we have used the rule that every photon--
+which whether real or virtual--
+every photon which is interchanged with the atom
+absorbs or emitted changes the atomic state from ground
+to excited.
+So an atom goes from the ground to the excited state
+either by photon absorption or by photon emission.
+Both is possible.
+So whenever photon appears or disappears, it changes.
+Let's say we start in the ground state,
+we go to the excited state.
+And this is possible by photon absorption.
+This is a co-rotating term or emission.
+What I've just said reflects that when
+we derived the dipole approximation,
+that the essential term of the dipole operator is [INAUDIBLE].
+The dipole operator is an operator between ground
+and excited state.
+Therefore, it has those two matrix elements
+where as the electric field operator
+is the creation and annihilation operator E and E [INAUDIBLE].
+Or which is very elegant if I use for the two level system,
+I spin one half description and I use sigma plus and sigma
+minus, raising and lowering operator.
+Sigma plus takes the ground state to the excited state.
+Sigma minus takes exciting state to the ground state.
+Then in the fundamental atom light interaction,
+we have those four terms.
+And now you see that sigma plus takes the atom from the ground
+to the excited state.
+But sigma plus appears both with photon absorption
+and with photon emission.
+So therefore, the atom can--
+this is what the quantum mechanical operator
+tells us-- go from the ground to the excited state
+either by photon absorption or by photon emission.

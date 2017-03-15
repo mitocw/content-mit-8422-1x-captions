@@ -10,9 +10,9 @@
 #----------------------------------------
 
 The next question is now we do exactly the same thing,
-but now we have the two currents.
+but now we have the two columns.
 And the question is, what is the variance in iPlus?
-I add the two currents.
+I add the two columns.
 What do I get?
 
 And I give you the same choices as before.

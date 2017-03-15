@@ -1,0 +1,315 @@
+#
+# File:   content-mit-8422-1x-captions/M2L8i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 306 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So what we want to do now is we want to do a calculation.
+It's a perturbative calculation.
+But we can take it to all orders.
+So therefore, it's exact and general.
+We want to do perturbative calculation of transition
+amplitudes.
+And what I'm following here--
+the discussion in atom-photon interaction on those pages.
+And the idea is the following--
+we have the Hamiltonian for the atom.
+And then we have an Hamiltonian which
+describes transverse field and the intersection
+of the transverse field with the atoms.
+What we want to use is we want to use the interaction
+picture, which is often the nicest picture
+to describe the effect of an interaction between two
+systems.
+In the interaction picture, you are transforming
+from your Schrodinger-type wave function
+to wave function psi tilde.
+And those wave function psi tilde include already
+the dynamics of the Hamiltonian H0.
+So that means that all operators in the normal Schrodinger
+picture become now operators in the interaction picture
+by a canonical transformation which
+involves the dynamics due to the unperturbed Hamiltonian.
+So that's just remind of what the interaction picture is.
+And we are now interested what happens in the interaction
+picture to an initial wave function psi of ti.
+This wave function already includes the time evolution
+due to H0.
+So the only change now comes because we have interactions
+with the electromagnetic field.
+So this allows us now to focus only
+on the relevant interactions, the interactions we
+want to understand.
+The formalism which is used in atom-photon interaction
+focuses on the time evolution operator, which
+I'm sure all of you have seen.
+So the time evolution of our system--
+how the wave function involves from the initial
+to the final time is described by the time evolution operator.
+I will come back to the wave function later.
+But in order to derive the time evolution of the wave function,
+it is convenient to focus first on the time evolution operator.
+So in other words, I want to show
+you a formal solution for the time evolution operator.
+And once we know the time evolution operator,
+we apply it to the wave function.
+And then we are talking again about the wave function.
+
+Since the derivation involves many equations
+and they are all printed in the full beauty
+in atom-photon interaction, I decided
+to use pre-written slides here.
+Also, most of it is fairly elementary.
+The equations are complicated.
+But the concepts behind them are very, very simple.
+That's actually the beauty of using the time evolution
+operator.
+It's a little bit mathematically formal.
+But it allows us to express what is really
+going on in the solution in very, very simple terms.
+So the goal is to do a perturbative expansion
+for the time evolution operator.
+If you have no interaction potential V,
+the interaction picture--
+nothing happens in the interaction picture,
+and therefore the time evolution operate as a unity matrix.
+But if you have a coupling term V, there is time evolution.
+And the time evolution can be treated in lowest or in higher
+orders in the perturbation.
+And we want to use now perturbative expansion where
+we have correction terms, which is
+the first-order, second-order, and n-th-order correction
+to the time evolution operator.
+So what we simply want to do is we want
+to do an iterative solution.
+We want to find an iterative solution for the time evolution
+operator.
+
+The next two lines is just a reminder
+what is the differential equation for the time evolution
+operator.
+Well, we are really just talking about Schrodinger's equation.
+Schrodinger's equation for the wave function
+turns into differential equation for the time evolution
+operator.
+Schrodinger's equation in the interaction picture
+says that the time derivation of the wave
+function in the interaction picture
+has nothing to do with H0.
+H0 has already been absorbed in the definition of the wave
+function.
+So the time evolution in the interaction picture
+only comes from the interaction term.
+And now if you write the wave function at time tf
+as the time-evolved wave function from the initial time
+to the final time, then you take the derivation here.
+You actually take the derivation of the time evolution operator,
+and therefore in one step from Schrodinger's equation,
+you find the differential equation for the time evolution
+operator.
+In other words, this is now the operator equation for the time
+evolution operator.
+And it's nothing else than a 100% rewrite of the Schrodinger
+equation.
+
+Interrupt me if you have questions.
+This part should be--
+we go through that for solely pedagogical reasons.
+And that means you should really understand it.
+So this equation can now be formally solved
+in the following way.
+Take this expression for the time evolution operator
+and insert it in this equation.
+And you find an identity.
+Of course, you haven't really solved it
+because you have the time evolution operator expressed
+by the time evolution operator.
+This looks like a circular conclusion,
+which is just nonsense.
+But if you inspect it more closely,
+you observe that the time evolution operator here
+is expressed by the time evolution operator multiplied
+with V. And if you know think in an iterative solution
+that we want to express--
+we want to expand the time evolution operator
+in the different orders in the interaction parameter V,
+then you find, actually, that if you are only
+interested in the first order of the interaction operator,
+you can use the zeroth order here
+because you get one more power of V.
+So that's how you get the first order.
+If you want to know the second order of the time evolution
+operator, you can plug in the first order
+on the right-hand side.
+So therefore, you get an iterative solution.
+The first-order solution is 1.
+The zeroth-order solution is a unity operator.
+The first-order solution is by just putting the unity operator
+here.
+The second-order solution is by taking
+the first-order solution, plugging it in in here,
+and then you get two integrals over the operator V.
+So in that sense, we have formally
+solved the time evolution of the system in all orders.
+So this is what we get out of it.
+Yes, the equations are getting longer.
+But the structure is fairly obvious.
+So you saw that the--
+maybe let me just flash back--
+the first-order term had a temporal integral over V.
+The second-order term has two temporal integrals over V.
+And there's a time order in between tau 1 and tau 2.
+And the n-th-order term now involves n temporal integrals
+where the times are order in such a way.
+
+Now we want to go back to the Schrodinger equation.
+So we want to use this already fairly complicated expression
+for the time evolution operator and apply it
+to the initial wave function.
+And we want to calculate matrix elements
+between the initial wave function and some other phi f--
+some other wave function in a given basis.
+So we are also going back.
+I don't want to go through too many steps here.
+We're also going back to the original Schrodinger picture.
+So I've taken all the tildes off.
+But you know the step from the Schrodinger
+picture to the interaction picture
+was only taking out the Hamiltonian H0.
+And the Hamiltonian H0 for eigenstates phi i and phi f
+is simply a time evolution e to the e [? Ei ?]
+with a certain time.
+So all what this transformation to the intersection picture
+gave us--
+it eliminated, at least for a short while,
+all of those phase factors, which
+is simply the evolution of the eigenfunctions in Schrodinger
+picture.
+
+So let me look at a typical term, which we have right now.
+And you can't expect something simpler than this
+because this is the general solution.
+It's an exact solution to all orders.
+It's a summation over terms to all orders.
+And eventually, the summation of an infinite number of diagrams
+is an exact solution.
+So what we got here is we have an integral over n times.
+And the n times are time-ordered.
+This is the formal solution for the time evolution operator.
+And that means that we integrate over all times.
+But what is under the integral sign
+is the product of the operator V at times
+tau 1, tau 2, tau 3, tau 4.
+
+Since we got back to the Schrodinger picture, what
+happens is between tau-- times tau 1 and tau 2,
+the particle simply evolves with a phase factor
+given by the Hamiltonian H0.
+So the picture is the following--
+the time evolution operator in the interaction picture
+is a product over the operator V tilde at different times.
+If you simply plug it back into the above equation--
+and you have to look at it for a little while to see that
+everything works out correctly--
+but what that means is then that if you go to the Schrodinger
+picture and write down the operator in the Schrodinger--
+in the basis of unperturbed eigenfunction,
+that you have products of the operator V at times t1, tau 2,
+tau 3.
+They are time-ordered.
+
+And because we have left the interaction picture,
+you also get the propagation with the phase factors
+given by the eigenenergies of the unperturbed Hamiltonian H0.
+So therefore, you get just an infinite number
+of terms, which have all the following structure--
+that the particle propagates in its eigenstate.
+It reaches a vertex where the interaction switches
+the particle from one state to the next.
+Then in the next state, which may now be the excited state,
+we have propagation in the excited state.
+Then the excited state is again exchanging a photon,
+has an interaction term, and they switch to--
+well, for the two-level system, it
+has to go back to the ground state.
+In a more general situation, it goes to another quantum state.
+So therefore, we have exactly derived
+is that the propagation or the time evolution of the wave
+function is nothing else than many, many of those factors.
+And each of those factors can be represented
+by a diagram like this.
+So let me just write down what this diagram here
+means mathematically.
+It means that initially, we have a photon of energy epsilon--
+
+of polarization epsilon, wave factor k, and a certain energy.
+And we have particles in state a.
+That means that we get from the initial time to the time tau 1.
+And tau 1 is the time of the first vertex
+of the first photon exchange that the wave function evolves.
+
+And it evolves with an energy of the unperturbed Hamiltonian,
+which is the atomic energy.
+And we have one photon H bar omega.
+
+At the time tau 1, and this is when
+the diagram on the left-hand side has a vertex,
+we are now bringing in the interaction operator,
+which acts on the atom.
+It takes the atom from state a to state b.
+And it changes the state of the photon.
+In this case, a photon with a certain wave
+factor and polarization simply disappears.
+So this is now the time tau 1.
+The next vertex is reached at time tau 2.
+And between the time tau 2 and tau 1,
+the system evolves according to the Hamiltonian H0.
+And the energy is now, because we have no photon,
+is simply the energy of the atom in state b.
+Then we reach the next vertex.
+We start with a state b and no photon.
+The interaction switches us now--
+I assumed we have more than two levels-- to a state c.
+And we have now a photon which may be different k
+prime epsilon prime.
+
+For this given example, I've selected n
+equals 2, something which is second order
+in the perturbation.
+But that means now that between the time tau
+2 and the final time for the time propagation
+that's now everything is done.
+Things propagate.
+And the unperturbed Hamiltonian H0
+give us now a phase factor which reflects
+the energy of the atomic state and the energy
+of the photon in mode k prime epsilon prime with energy
+H bar omega prime.
+So in other words, I hope you see that at the end of this--
+this is why people love Feynman diagrams.
+It's a complicated, involved mathematical formulation
+with multiple integrations.
+But at the end of the day, what we have derived
+is that the most general solutions
+to all orders in the perturbation
+is nothing else than a sum and integral
+over diagrams like this.
+So when I depicted here the second-order diagram,
+of course, this is-- has an exact mathematical meaning.
+And what we have to do is when we solve [INAUDIBLE] equation,
+we have to now allow those interactions which
+happen at time tau 1 and tau 2 to happen at arbitrary times.
+So therefore, we have to sum over amplitudes
+by integrating over times tau 1 and tau 2.
+On Friday, I will show you that with this description,
+we have actually captured everything
+I explained to you earlier--
+those virtual states, the emission
+of virtual or real photons.
+So everything which was maybe qualitative at the beginning
+of this section has now a precise mathematical meaning.

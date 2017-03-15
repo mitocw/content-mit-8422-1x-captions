@@ -1,0 +1,107 @@
+#
+# File:   content-mit-8422-1x-captions/M2L10a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 98 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Our next section is Van der Waals interactions.
+The chapter on Van der Waals interaction
+is quite interesting for the following reason.
+It really tells us something about the vacuum.
+I think modern physics has come to the conclusion
+that the vacuum is one of the most interesting subjects
+to study because the vacuum is alive.
+It's filled by virtual photons, virtual particles,
+and as we know now, by a condensate of Higgs boson.
+So there is a lot of stuff, a lot of structure,
+a lot of phenomena associated in the vacuum.
+And the subject of Van der Waals interactions
+is a nice way to talk about the vacuum
+but it's nice also for the following reason.
+There is a completely I would say semi-classical way.
+Just use the Schrodinger equation
+and calculate what is the Van der Waals
+interaction between two atoms.
+So we can just calculate a perturbation theory
+and in your whole calculation, you never
+use the quantized electromagnetic field.
+Photons never appear.
+You just use perturbation theory and you
+do that in your homework.
+It's quite straightforward and you get a Van der Waals
+interaction.
+On the other hand, I started to derive for you
+the theory of the quantized electromagnetic field
+by saying we really look at everything.
+We have charges and we have the electric and magnetic field
+and we described everything.
+And the way how we separate it is we
+had this Hamiltonian H0, which gives us the atom.
+And the longitudinal Coulomb field became part of it
+so this is the degree of freedom of the atom.
+And we have H0 for the other atom.
+And then we had the radiation field and the coupling
+to the atom described by our operator v, which
+can be the dipole operator or can be written down
+in other gauges.
+But what I'm telling you is the way how we have fundamentally
+divided the world into atoms, atoms,
+neutral objects, and the rest is interactions with a radiation
+field, that should tell you that the Van der Waals
+interaction between two atoms must have a description in QED
+where the Van der Waals interaction between atoms
+comes from the exchange of photons.
+
+So there are two very simple pictures and the same physics.
+One is you don't even know that they are photons.
+You just do perturbation theory.
+But in a more comprehensive description
+where we include the photons, you
+should be able to understand the Van der Waals
+interaction between two atoms due to the exchange
+of virtual photons.
+In other words, one atom is in the ground state--
+emits a photon.
+
+That's going down from the ground state.
+But until now, if we have only one atom,
+it has to re-absorb the photon again and be back
+in the ground state.
+Otherwise, energy would be violated.
+But if we have two atoms, one atom
+can emit a photon and the other atom can absorb it
+and then the other atom can send the photon back.
+And if we consider that process, we
+will actually find the Van der Waals interaction.
+So I hope this is showing interesting physics from two
+angles, that something which looked maybe
+trivial a long time ago now looks much, much richer
+because those forces are really mediated by virtual photon
+pass.
+So that's the discussion I want to go through.
+There is another aspect to it and this
+is when we go from the Van der Waals force
+to the Casimir force.
+The Casimir force has one exact derivation,
+which I want to share with you, which relates the Casimir
+force to the vacuum fluctuations of the electromagnetic field.
+So eventually, for those forces between two metal plates,
+a neutral atom and a plate, two neutral atoms,
+we will have three different pictures.
+One is we use a semi-classical dipole field
+as a perturbation operator.
+You don't think about it.
+It's trivial and you check it off in your homework.
+The second one is you look at the exchange
+of virtual photons.
+And the third one is you only look
+at the zero-point fluctuations of the electromagnetic field.
+What is real here?
+What causes it?
+
+We'll see.

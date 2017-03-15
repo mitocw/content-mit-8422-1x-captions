@@ -1,0 +1,365 @@
+#
+# File:   content-mit-8422-1x-captions/M2L11d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 356 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+It's mainly classical E and M. We sum up
+over all modes with a boundary condition,
+with a metallic boundary condition.
+If you have in general a dielectric or semiconductor
+which is not an ideal metal-- has
+different boundary conditions-- the Casimir force will change.
+And this is actually pretty outstanding, difficult problem
+where people have really chewed on hard.
+I think Lipschitz has some famous solution on it.
+What is the Casimir force for an arbitrary dielectric constant
+of the surface material?
+But absolutely yes.
+If you don't have a metallic boundary condition,
+your Casimir force changes.
+
+I think this is sort of an interesting point.
+And it may trigger immediately discussions.
+What does it really mean?
+But let me go now through the derivation where we have
+metallic boundary condition.
+And this actually leads to a quantitative derivation
+of the Casimir force, quantitative in the way
+that we get--
+we are not just getting the power law.
+We get the prefactor.
+We get everything 100% out of this derivation.
+
+So what is the mechanism for the Casimir force changing,
+because if I think of it in the picture,
+like two metal plates at the lower density [INAUDIBLE]
+outside, even with the arbitrary boundary condition, [INAUDIBLE]
+the same density of modes.
+So what is the physical mechanism
+for changing the [INAUDIBLE]
+To the best of my knowledge, it is the density of modes.
+But it's very subtle.
+I suggest, since not everybody is probably
+familiar with the way how I will count
+all the modes in the metal plate, let me just do that.
+And I hope then it's obvious or we should then
+discuss the boundary conditions being modified.
+So the idea is the following.
+If the Casimir force is only due to zero-point fluctuations
+of the electromagnetic field, let me say upfront,
+this is a valid assumption.
+I get a valid result. But I will tell you in half an hour
+that you can take another perspective
+and say this is just a holistic description.
+There are other derivations of the Casimir force
+which do not use the concept of zero-point energy at all.
+So in other words, I'm presenting
+you one presentation of the problem,
+one solution of the problem.
+But there's a whole different formulation.
+But here, I assume--
+I can easily [INAUDIBLE]
+Well, here we have two metal plates.
+We want to understand if there is
+potential energy and attraction between the two metal plates.
+And let's just calculate what is the total energy of the system.
+And if I have two metal plates which
+are two mathematical boundary conditions,
+all I have to calculate is the ground state
+of the electromagnetic field in between.
+And that means I have to find all the modes.
+And each mode contribute h bar omega over 2.
+So this is our agenda now.
+We say the metal plates are not real objects.
+They are mathematical boundary conditions--
+looks like a good assumption.
+And now based on those boundary conditions,
+we calculate the zero-point energy of the world, at least
+of the electromagnetic world.
+And then we ask if the plates are a little bit closer,
+has the total zero-point energy changed?
+And when it has changed, that means
+there is a force between the atoms
+because the potential changes as a function of distance.
+So this is the agenda I wanted to execute now.
+As you know, when you write down modes in E and M
+and you want to do it exactly, there are many, many indices.
+But this is a result which could actually
+come straight out of Jackson.
+For your convenience, this is also discussed--
+a wonderful discussion-- by [INAUDIBLE]
+in [INAUDIBLE] from the '70s or '80s.
+I've posted those on the web.
+So if there is a mathematical detail you want to look up,
+this is posted on the web.
+So anyway, we have two metal plates with a distance L.
+And we have metallic boundary conditions.
+That means that when we calculate the modes,
+we get TE modes and TM modes.
+TE modes means there is no longer [INAUDIBLE]
+electric field.
+TM modes mean there is no longer [INAUDIBLE] magnetic field.
+And the frequency of each modes is discrete.
+In the z-direction, we have standing waves,
+which are labeled with an integer value of M,
+whereas parallel to the plate, the modes
+can have an arbitrary transverse wave vector k.
+And when we look at the dispersion relation,
+the frequency of those modes is in quadrature.
+You can say the component k square z
+square of the transverse propagation
+plus the component of the standing wave.
+
+So for each M, for each integer value, we have a TE
+and a TM mode with the exception of M equals 0.
+For M equals 0, we don't have a TE mode.
+We only have a TM mode.
+So that's just fresh out of Jackson.
+But it's very important now, and I want to spend a little bit
+more time of it-- also, it's just a purely classical
+result--
+what is the density of states?
+Well, let's assume we have a given M.
+So we have a standing wave perpendicular
+to the capacitor plates.
+And therefore, now the density of modes only
+comes from the transverse k.
+So it is from this k square.
+And you know that the number of modes
+is proportional to the volume in k-space.
+And the important part is that I can write this as dk square.
+But k square is E omega square.
+And this gives me omega d omega.
+So for each M-value, for each discrete mode perpendicular
+to the plates, we have now a density
+of modes which goes as omega d omega.
+Before I show you the mathematical expression,
+let me just plot that, what that means.
+The number of modes was omega d omega.
+That means the density of modes was proportional with omega.
+That means for M equals 0, we started omega equals 0.
+And we get a straight line.
+For M equals 1 or M equals 1, shown in green,
+and M equals 2, shown in purple, omega square
+is the quadrature sum of k square and M square.
+So therefore, if you want to ask what is the density of modes
+for M equals 1 or M equals 2, you
+have to start at the lowest frequency for M equals 1,
+at the lowest frequency for M equals 2.
+But then, as we just derived, the density of modes
+is proportional to omega.
+So what we want to do in the end--
+we want to sum those modes all up.
+And what we will observe is that here, we have
+sort of a line with slope 1.
+Here we have to sum two lines with slope 1.
+Here we have to sum three lines with slope 1.
+So progressively, the slope gets higher and higher.
+But a slope which increases linearly with the coordinate
+axis--
+if it were continuously, would just be a parabola.
+So in other words, if I would [INAUDIBLE]
+the density of states, which comes from the exact mode
+spectrum, if I would [INAUDIBLE] it would be parabola.
+And a parabolic density of state--
+the number of modes is omega square d omega.
+This is three-dimensional space.
+So in other words, what we observe is what exactly
+the effect of the boundary condition is.
+Instead of getting this smooth parabola omega squared,
+we have sort of broken up the parabola
+into piecewise linear pieces.
+
+And the fact that we have a boundary condition,
+that we have plates in free space and not just free space,
+is actually the difference between the two.
+So it is the difference between the two which leads to the fact
+that a boundary condition modifies the vacuum energy.
+With that, the rest is mathematics.
+But I want to show you the steps because it
+is ingenious mathematics.
+It makes a few approximations it creates a few infinities
+and gets rid of it.
+It's actually rather wild but amazing that in the end,
+we have a simple exact result.
+So the most important thing is we have a density of states.
+
+And the density of states for one M is proportional to omega.
+But now we have to multiply.
+When we want to know what is the density of state at a given
+omega, we have to multiply with the integer
+number of discrete modes which are available at this omega.
+So this is because there is only one M equals 0 node.
+We have a 1 here.
+And then for M equals 1 entire, we have a [INAUDIBLE]
+between TE and TM.
+So this is just counting the modes.
+
+And this is now a mathematical trick--
+that instead of counting the modes--
+it's an integer-- we can sum up Heaviside step functions
+and sum over all M. This is just an exact rewrite.
+But this is something which helps us to--
+in the next step to do an integral.
+So far, we haven't made any approximation.
+We have just reminded ourselves what
+is the exact result of classical E and M.
+But now we want to calculate the zero-point energy.
+So now it's getting interesting because we
+take the classical result and take it into quantum physics.
+The first step is very innocent.
+We say each mode contributes h bar omega over 2.
+And then we integrate with the density of states.
+And the next line is also an exact result,
+just using the density of modes from the previous page.
+But of course, now we are asking for trouble.
+We are integrating with omega squared d omega.
+And there is a UV catastrophe.
+Well, now I can say--
+I can put on my mathematical hat and say
+let's add a convergent term, something which exponentially
+decreases with omega, which is just cutting off
+the high-frequency part.
+And I hope that in the end--
+and this will come out, too--
+that I get a result which is independent of the cutoff.
+So by choosing this cutoff parameter lambda to 0,
+I have-- if this is 0, I have no cutoff.
+So maybe I can introduce a cutoff and then at the end
+let lambda go to 0.
+And if this gives me a physical result,
+I've sort of mathematically tricked around.
+But I also like the physical justification for that.
+You know that a metal plate has not metallic boundary
+conditions at infinitely high frequency.
+If you go deep to the X-rays and gamma rays,
+it becomes transparent.
+So therefore, we would argue that once we go to very, very
+high frequencies, the modes do not
+feel that there is a boundary condition.
+And therefore, we may be allowed to do some physical cutoff.
+
+So we do this cutoff by--
+so now we have to find the zero-point energy.
+The zero-point energy has a sum over M.
+And I call each integral I sub M.
+And this integral is the omega square
+from the density of states, but now multiplied
+with the convergence term, whether it's
+mathematical or physical.
+And by introducing this cutoff, I
+can now exactly solve the integral.
+The omega squared can be taken out of the interval
+by taking the second derivative.
+And this is just an exponential function
+which can be integrated.
+And therefore, we have a mathematical exact result.
+So we are now able to do the integral
+because we have avoided the divergence.
+
+Now we come back and say we are really
+interested if the cutoff is pushed
+to higher and higher frequency.
+And this means lambda equals 0.
+So therefore, we want to take this expression
+and expand it around lambda equals 0.
+
+Well, you could say that's physically very well-motivated.
+But if I take this function, which
+is lambda, E to the lambda, or x times E to the x,
+and expand it, I get divergencies 1 over x square.
+So you would say, well, how can you expand it?
+Well, let's see what happens.
+Let's just do it.
+Let's say we are interested around lambda or x equals 0.
+We have some divergencies now.
+But we have to find a way to deal with that.
+So we get rid of some of the divergencies
+in the following way by saying, well,
+if you simply calculate the zero-point energy
+between those two capacitor plates
+and then if the plates come closer
+and there is less zero-point energy,
+we would say the plates attract each other.
+But what happens is the plates are not moving.
+And there is no world behind them.
+The world is sort of as it is.
+And that means we have to now look more carefully
+at the zero-point energy of our capacity plates
+where L is small and the rest of the world.
+So we are now representing the word
+as a big capacitor of size L0.
+And then our plate is just moving within that
+because we are not assuming that when the two capacitor
+plates attract each other and move towards each other
+that the size of the universe is changing.
+So we want to move a boundary condition within the universe.
+So therefore, the correct expression
+for the zero-point energy is not the zero-point energy
+[INAUDIBLE] capacity L. It's the zero-point energy
+of a capacity of size L plus of a capacitor L0 minus L.
+And so we take the result and simply
+add the expressions for L and L0 minus L. And what is now nice
+is that the first highly divergent term with 1
+over lambda to the 4--
+[INAUDIBLE] that we want to let lambda go to 0--
+it becomes independent of L.
+So we would say, well, if there is an infinity,
+it doesn't change with L. It doesn't provide a potential.
+It's just one of those infinities which is constant,
+which is not affecting the physics.
+Also, here, this is independent of L.
+And then the next term gives us the famous Casimir potential 1
+over L cube.
+And it is independent of lambda.
+So we have a result which was independent of the cutoff we
+introduced earlier.
+
+So therefore, we have derived--
+[INAUDIBLE] was a little bit of hand-waving
+to navigate around infinities-- that the potential between two
+metal plates is 1 over L cube.
+A square was the area, the size of the capacitor plates.
+And this is the exactly prefactor.
+Or if you want to figure out what
+is the pressure of the vacuum, pressure is, of course,
+force per unit area.
+So you take the derivative of the potential that the force.
+That's the force per unit area.
+And this is now the vacuum pressure.
+
+Sort of funny-- now you can put it in a unit.
+It's 10 to the minus 5 millibar at a distance of 1 micrometer.
+
+So anyway, this is, I think, the classic derivation
+of the Casimir potential by, I would say,
+exactly summing up the zero-point energy
+within a certain boundary condition.
+Maybe to address Colin's question,
+what would happen if the metal plates were maybe
+semiconductors or had a different dielectric constant?
+The mode spectrum would change.
+How do you have mixed boundary conditions?
+You don't have these nicely spaced--
+I don't know how to calculate.
+That's a hard problem.
+And a lot of people have really worked very hard on it.
+It seems for idealized boundary condition,
+you can do it easily.
+But it has been truly a challenge
+to mathematical physics.
+And I'm not even sure if it has been solved in all generality
+or only in special examples to extend that
+to arbitrary surfaces.
+But we can, for instance, assume if you have a conductor which
+is not conductive, which has not infinite conductance,
+0 resistivity, then the electric field
+can penetrate a little bit into the conductor.
+And if the electric field penetrates into it,
+it changes the frequency of the mode.

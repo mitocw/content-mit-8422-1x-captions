@@ -1,0 +1,125 @@
+#
+# File:   content-mit-8422-1x-captions/M2L8h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 116 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Any questions?
+Yes.
+So if we were to look beyond the dipole approximation,
+would we see transitions that [INAUDIBLE] same state?
+
+Yes or no.
+What we need here is a bilinear interaction,
+which has a raising lowering operation for the atom.
+And here it has a raising and lowering atom
+operator for the photon number.
+And it has the co-rotating term, where you raise here
+and you lower there.
+You lower here and you raise there.
+But there are also terms where you
+raise the atomic excitation, and you raise the photon number
+by 1, which, of course, violates energy.
+But the message I want to give you
+is, this is possible for short times.
+And this is exactly what the quantum mechanical equations
+tell us.
+So the short answer to your question
+is, as long as we describe the system
+by the dipole interaction, all what we have, even beyond--
+I'm not using a perturbative argument.
+I'm writing down the operator.
+And this operator can now affect this system
+to all possible orders.
+So even the non-perturbative strong coupling limit
+will always have products of atomic raising operators,
+lowering operators with photon raising and lowering operators.
+
+The little bit longer answer is, some of what I'm telling you
+may be gauge dependent.
+If you if you use not the dipole description, but you use the p
+dot a Hamiltonian, this Hamiltonian
+has the a squared term.
+The a squared term allows the atoms to exchange
+two photons at the same time.
+So in other words, in the a squared interaction,
+we may have a vertex point in time
+where the atom interacts with the photon field
+where two photons are exchanged.
+And then the rules are different.
+So in that sense--
+but this is quite often, when we give a quantum
+mechanical picture which has terms which nicely show
+the time evolution, and you think, wow, yeah,
+this is what happens.
+One photon at a time, the atom goes ground excited, excited
+ground state.
+And you have your picture.
+And it is fully consistent with the exact quantum
+mechanical result.
+You may be able to get the same result out
+of a different picture.
+
+That point will actually occur again
+when we talk, for instance, about density operators.
+The density operator is an average over quantum states.
+But you can get the same density operator
+by averaging quantum states in different basis set.
+So if you get one picture out of one specific basis set.
+It gives you the correct intuition.
+It's a correct description, but it is not
+the only possible description.
+Colin.
+Maybe the thing-- maybe what you're tyring to get at
+is that picture works as long as you can limit yourself
+to a two-level system.
+That's correct to all orders of strong coupling.
+But as long as you can identify the two-level system, where
+I think the dipole versus quadrupole approximation
+[INAUDIBLE], say, in an atom may have
+transition probabilities to others, like from an s
+to a d state.
+But--
+Actually, I was just wondering if it was possibly
+to have a transition matrix element where
+you could couple, like, the ground state to the ground
+state.
+Yes, the a square operator does that.
+Because in the other gauge, which is pa,
+p is the momentum operator for the atoms.
+And the p operator will switch the atom from ground
+to excited state.
+A, the vector potential, involves a and a dagger.
+So the p dot a term does pretty much the same
+as the d dot e term, because it's
+a bilinear product of an operator which
+has an effect on the atoms, and has an effect on the photons.
+And it means you always switch the quantum state and your atom
+and create or annihilate a photon.
+But the a squared term is just a squared--
+it doesn't have a p in front of it--
+will allow an atom in without changing the state to create
+two photons, emit two photons.
+And then there's probably a cross term,
+which means to absorb and emit a photon.
+You will actually, in one of your next homework assignments,
+you will actually look at the square term.
+And I think it's a very educational problem.
+So you'll really see that you have
+two very different descriptions, but the results fully agree.
+But this is already an expert discussion.
+Why don't we, for now, just hang onto the dipole approximation.
+We have d dot e, and we just learn
+what is inside the dipole approximation
+and what is an exact quantum mechanical description using
+the dipole approximation.
+And then we can come back to the discussion,
+is everything we describe really real?
+And the answer is, what is real in quantum physics
+is the final result. The intermediate results,
+you have to say that this is only one possibility

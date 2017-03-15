@@ -1,0 +1,72 @@
+#
+# File:   content-mit-8422-1x-captions/M2L9e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 63 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now I want to discuss the nature of those intermediate states.
+And maybe what you should have in mind, the intermediate state
+which comes about when we have the system in the ground state,
+it emits a photon and goes down to this intermediate state,
+to this weird state which seems to be lower in energy
+than the current state.
+Well, what happens is those intermediate states when
+they appear after the vertex, they
+propagate with their energy.
+But if their energy is less than the initial energy,
+the energy in the intermediate state k
+has a phase factor in its propagation, which
+is determined by the difference of its energy
+with the initial energy.
+So when we violate energy conservation
+in intermediate state, delta Ek is non-zero,
+and it is larger than what violate in energy conservation.
+And then in the solution of the time evolution,
+we have to integrate over all intermediate times.
+So what we have here is we have an oscillating phase factor.
+And when we integrate it, when we integrate something
+oscillating over longer than an oscillation period,
+it averages out to zero.
+So therefore, those intermediate states
+which are off the energy shell, which seem to violate energy,
+can only noticeably contribute over
+a duration which is 1 over the energy defect delta Ek.
+
+So it is correct to say that the system, in its time
+evolution for short times, can, so to speak,
+violate energy protected by Heisenberg's uncertainty
+relation.
+Or you can say the system can do whatever it wants.
+It can spontaneously create 10 photons.
+But this is pretty much like taking money, taking a deposit
+out of Heisenberg's bank, and after a very, very short time
+you have to pay it back by having
+another process which brings you back to the correct energy.
+I should put it under quotation marks
+when I said we violate energy.
+Because energy is not sort of defined or measurable
+in these intermediate times.
+We start the process with a quantum system,
+we look at what happens afterwards,
+and whenever we assess energy, it
+is assessed when the final time is much, much larger
+than the initial time.
+And I just showed you that eventually the system
+has to be back to a final energy, Ef,
+which is identical to the initial time, Ei.
+So in other words, I just want you to keep it in mind,
+I've proven to you energy conservation in the limit
+that T final minus T initial is large.
+And when I'm now talking about non-conservation of energy,
+I do that in quotation marks.
+Because we know energy is conserved in the end.
+It's just that for very, very short times in the time
+evolution of the system, there appear states, virtual states,
+which seem to violate energy.
+But you can think about it in that way.
+

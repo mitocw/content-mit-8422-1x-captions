@@ -1,0 +1,198 @@
+#
+# File:   content-mit-8422-1x-captions/M2L12c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 189 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+By looking at this formally, exact calculation,
+we see the difficult part are those where we have this energy
+denominator, which vanishes.
+The other parts are simple.
+They don't have any divergences, they
+are not resonant, and such.
+So what we want to do is now, in some way
+we're going to give special treatment--
+factor out the problematic terms and the rest is easy.
+And for the easy part, which has no divergence,
+we can make any kind of approximation
+we want without ordering the physics.
+But the resonant part, this needs
+need special attention because if I take it
+literally in those expressions they
+don't make sense mathematically, because they cause infinities.
+I could continue to do it completely algebraically,
+but because of--
+I think it's just beautiful method.
+I want to look at this equation and divide it
+down in some bits.
+We want to arrive at a diagrammatic representation
+for this matrix element of resolving Gbb,
+and I use symbols where the circle means the interaction.
+The straight line stands for the term which is problematic,
+which has the resonant interaction,
+has the divergent denominator.
+And then I use a dashed line for all other terms,
+all other intermediate states, where i is not b and therefore
+there is not a problem.
+It's not.
+Resonant We don't have a divergence.
+You see the structure of the sum.
+
+We propagate here, we make a transition from l to k,
+and then we propagate here.
+So in this kind of order you start in this state,
+you have a vertex, you go to the other state, you have a vertex,
+you go to the next state, you have a vertex.
+This is how the system works.
+This is what quantum mechanics does for you.
+And what you're going to do is, this is not algebraic equation.
+And now you want to order them in the following way.
+We want to figure out which of those expressions
+can include this problematic term exactly twice,
+or three times, or four times.
+So when you regroup those infinite sums,
+this algebraic terms in such a way that we say OK,
+which one has the occurrence of this once, twice, three times,
+four times.
+So we regroup the terms and then we see what we can do.
+Now I've picked the matrix element Gbb
+so that means over here, and over here, we
+start out in the state b.
+So if I write down all terms which
+contain this lesson in term twice,
+well, we start with the resonant term.
+And we have to end with a resonant term
+because we have the matrix element Gbb,
+which I'm focusing now on.
+And so there can be one vertex.
+We can start with this term and now we
+can do something else in between.
+But we are not allowed to go back to the state
+b because we are only looking at terms with a solid line appears
+twice.
+So therefore, this can only be a dashed line--
+another state.
+We can go through two vertices but it can only include
+dashed lines in between.
+So let me use another symbol for it.
+So we start with that state.
+We end with a state b.
+But in between, we can sort of once, twice, three times,
+go through other intermediate states.
+But we never are allowed to create another divergence.
+And this infinite sum over all other states,
+I don't know how to calculate it yet,
+but I just call it a square box.
+So in other words, what is sort of in lowest
+order of the operator V with these other infinite terms,
+I symbolize that kind of much more complicated vertex,
+which includes an infinite sum by a square
+and not by a circle.
+So diagrammatically-- feel free to write it down
+mathematically.
+It's obvious how to do it.
+The square box is the circle plus all terms like this.
+Let's go back to form two equations.
+We call this the function Rb of z.
+And what I've shown in diagrams above
+is nothing else than the circle Vbb, the matrix element
+of the interaction.
+But now we have sums where we're not
+allowed to go through the resonant state.
+We have to go from b to intermediate state.
+We propagate in the intermediate state.
+And then we have to go back and it's clear
+how to go to higher terms.
+So we've just defined this function R
+by focusing on two occurrences of the straight line.
+Well, let's look at higher order terms.
+What happens when z minus eb, the divergent term,
+comes to the power n?
+Well, we just dealt with any n equals 2.
+let's now look at n equals three.
+Colin.
+I'm trying to find the definition again.
+Is the box a t-matrix or an s-matrix?
+What's definition of the two of them?
+The s is--
+I don't know.
+I don't know the currency.
+The t-matrix is actually the matrix, the relevant matrix
+of the time evolution operator.
+And if you factor out the delta function for the energy shall,
+you get the s-matrix.
+But we're not talking about the kind of evolution operator
+here, we're talking about the full way transform.
+And we are looking at the resolvent, which
+is the function G, and now we've introduced the function R.
+I actually tried to look up--
+I wanted you to use the correct word in class.
+I couldn't find the name.
+In the book it's just called the function R,
+so it's the function R And the function turns out
+with the kernel of the resolvent G. But none of it
+is the s-matrix and t-matrix.
+It is related, because if you do the inverse Fourier transform
+from G, you recall back to U, and then we have,
+I would say, the t-matric.
+Isn't their sum an issue?
+You will find that it has real and imagined,
+or has real and imaginary.
+Part one is itself energy, and the other one
+is a decayed rate.
+It has an imaginary part.
+But the real part will be itself energy.
+yes We connect a lot of passwords
+you may have heard here and there.
+OK.
+The question is, do we have to now define
+pentagons and hexagons?
+Do we have to find more and more symbols
+for more and more complicated sums?
+But the nice thing is, no.
+Because n equals 3, means we really
+have to start in state b.
+We have to stand in state b.
+And one time in the time evolution
+we can go through state b.
+And now between that we can go from here to there
+with any combination of states you want.
+But one thing is not allowed--
+to involve the state b.
+Because we are focusing on three occurrences of the state
+b, and every thing else other than the state b,
+has already a symbol.
+It is just square symbol.
+So this is the exact representation for n equals 3.
+And the contribution to the resolvent, G,
+the Fourier transform of the time evolution operator
+is well, we have factored out three occurrences of the state
+b.
+And then we have three occurrences of this state b.
+We need two square boxes, but the square boxes
+already in name and the algebraic definition.
+So this is nothing else than, I think it's
+called the kernel rb squared.
+
+OK.
+I've shown you n equals 2.
+I've shown you n equals 3.
+I assume it's now absolutely clear how to continue.
+It just involves more and more power.
+So the lowest order is that, and whenever
+we ask what happens when we allow
+more appearances of this state b for each of them,
+we obtain another square box.
+So, by looking at the terms which are bothersome
+and regrouping the infinite terms according
+to one occurrence, two occurrence, three occurrence
+of these divergent denominator.
+We have now found an exact expression for Gb of z.
+And since this is now an algebraic equation
+with n geometric series, we can write it exactly
+as this minus Rb of z.

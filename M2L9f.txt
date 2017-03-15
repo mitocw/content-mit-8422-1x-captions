@@ -1,0 +1,86 @@
+#
+# File:   content-mit-8422-1x-captions/M2L9f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 77 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Finally, let me now address the question,
+is everything I'm explaining to you really happening?
+Is it really happening in a physical system?
+Well, the first answer is I wouldn't tell you
+about it if it had no reality.
+So, yes, you can imagine that this
+is what your atom is doing.
+You can imagine that the hydrogen atoms that the Lamb
+shift is permanently emitting and absorbing
+photons and all sorts of weird photons
+from the ground state, lower, up, and back again and such.
+Yes, this is the way how we derive
+some of the most precise predictions in physics, namely
+QED.
+However, we can represent systems
+in different gauges in different representations.
+And we had discussed earlier that we often
+take the dipole representation for the light atom interaction
+but there's also the p minus a presentation.
+And if you look at the two, both the e
+dot d and the a dot p intersection
+are the product of something which creates and isolates
+similar photons, a plus a dega.
+And then the p operator or the d operator
+connect the ground with the excited state.
+So those matrix element would tell you
+you can only emit and absorb a photon
+when you go from the ground to the excited state.
+However, in p minus a representation,
+we also have the a square term.
+And the a square term allows you,
+because there is no atomic operator in front of it,
+allows you to scatter two photons without changing
+the quantum state of the atom.
+But this does not contradict anything.
+You can take either approach, and in your homework
+you will actually do that when you calculate radius scattering
+Thomson scattering, and you will find out
+that the two approaches give identical results.
+So if you now ask a philosophical question,
+can an atom scatter a photon without changing its quantum
+state, well, the answer to this question
+is actually gauge-dependent.
+But maybe to lift away some of the confusion,
+one can, of course, also see the a square term is
+really important and it's a simple description
+of Thomson scattering.
+Thomson scattering is about photons,
+which have much, much more energy than the energy
+difference between the calm and excited state.
+So therefore, if you want to completely describe the system,
+and you can, it's just more complicated,
+with a dipole approximation, you have to scatter a photon.
+
+But because the photon has so much more energy,
+it's so far away from resonance, this intermediate state
+has a huge energy defect.
+And that means what I just explained to you,
+the system wants to immediately pay back the money
+to Heisenberg's bank, so it will remain in this state
+only for very, very short time.
+And now the other gauge tells you this very, very short time
+can also be 0.
+So see, it's not as dramatically different as you might assume.
+But this is just something which is common
+that if you have different representations,
+the physics taste different, but you always
+have to remind you that when you calculate an observable result,
+the two different gauges must exactly agree.
+So this is all I wanted to say about the dichromatic solution
+for the time evolution of a quantum system.
+But I want to use it now.
+I think this is interesting stuff.
+It's a powerful method.
+And I want to illustrate to you how this method can be

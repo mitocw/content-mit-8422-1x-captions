@@ -23,4 +23,4 @@ number with coherent states.
 So therefore, the first question is,
 if you have a coherent state alpha
 and you take all the photons with a photodiode
-of 100% efficiency, is the number alpha or alpha squared.
+of 100% efficiency, is the number

@@ -1,0 +1,98 @@
+#
+# File:   content-mit-8422-1x-captions/M2L9c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 89 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's get to the main subject we want to discuss now.
+And these are actually Feynman diagrams.
+I wanted to give you an exact definition
+and a deep understanding what does
+it mean when we talk about processes of absorption
+and emission, but also about absorption emission
+processes which violate energy.
+And some people refer to them as virtual photons.
+The reason is that virtual photons cannot really exist
+for a long time.
+When you emit a virtual photon, another photon
+has to be absorbed immediately to reconcile
+energy conservation, as we want to see in a moment.
+So the goal of this presentation is
+I want you that you realize that each of those doodles
+has an exact mathematical meaning.
+
+Each of those diagrams represents one term
+or class of terms in an exact solution for the time
+evolution of the system.
+
+So in other words, if you would ask me--
+we have a ground and excited state--
+is it possible that the ground state emits a photon,
+goes to virtual state, emits another photon
+of another frequency, and then somehow absorbs a photon.
+It goes to here and eventually takes another photon,
+and is back to the current state.
+Is that a possibility?
+Can that happen?
+And I think what the message here is,
+yes, everything happens.
+The system is trying out all of its possibilities.
+And that two-time evolution is the sum
+over those possibilities, over all the amplitudes related
+to those diagrams.
+But what I want to show you is how the weirder the diagrams
+get, the more you go in energy below the ground state,
+the more you go away from real atomic states, the bigger
+in your energy denominator.
+And that means those diagrams have
+a smaller and smaller weight.
+And in all practical calculations we neglect those.
+But I want you to be able to see that and realize
+I exactly know what it means.
+It means this and this term in a summation
+over all the amplitudes, which the quantum
+system is exploding.
+And I think with that we really learn something about physics.
+We learn about what is actually inside the Schrodinger
+equation.
+A lot of people actually, before they take this class,
+think that this is just nonsense.
+That this has no physical reality.
+But I hope after this class, you see
+that pretty much everything you draw has physical reality.
+It's just, it may not contribute a lot.
+So what we have done, and let me just start here
+and invite your questions.
+We have figured out how an initial state evolves
+with a time evolution operator to another basis
+state toward the final state.
+And formally, this is the formal solution, an exact solution
+of the Schrodinger equation.
+We have to sum over all orders, orders in the interaction.
+Well, I will immediately tell you
+what is the first and second order.
+We're not going much higher.
+But if you want, here you can.
+And then what you have to do is in the time evolution,
+you have to sum over intermediate times.
+You have to allow the system to propagate, to change its state,
+propagate again, change its state again.
+And the times where the change of state happens that
+can happen at any time between your initial
+and your final time.
+And we integrate over all possible times.
+And I showed you, and I think this was the very
+last thing we did on Wednesday.
+I showed you how this diagram can be translated
+into a mathematical equation.
+And I think I picked a second-order diagram.
+But I think from the way how I presented,
+it should be clear now how any such diagram can
+be translated into an equation.
+And eventually you have to perform an integral
+over all intermediate times.

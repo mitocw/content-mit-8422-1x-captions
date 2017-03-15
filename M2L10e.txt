@@ -1,0 +1,190 @@
+#
+# File:   content-mit-8422-1x-captions/M2L10e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 181 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So now you have already three different ways
+to look at the Van der Waals potential.
+One is just doing [INAUDIBLE] and not understanding anything.
+The second one is the ground state
+of two coupled oscillators, a la two capacitors.
+And finally, the fact that spontaneous fluctuations create
+stimulated fluctuations and then there is a quadratic term,
+which doesn't vanish.
+
+Let's now consider that there is a electromagnetic field.
+Until now, we have not really used the fact
+that we have an electromagnetic field with photons.
+And the electromagnetic fields-- each mode
+is an harmonic oscillator and each mode
+of the electromagnetic field has 0 point fluctuation of itself.
+So let us now discuss what can the vacuum
+fluctuations of the electromagnetic field
+do for us.
+Well, if we have momentary fluctuations
+of the electric field of the vacuum,
+the fluctuation at position a and position b
+will induce now dipole moments of the atom a and b
+by multiplying with the atomic polarisability.
+And if you assume--
+I'll say a little bit more about it--
+that we're talking about the long wavelengths fluctuation
+of the electric field, then the two dipole moments--
+which are induced by those vacuum fluctuations--
+are actually in phase.
+So the keyword is now that the vacuum fluctuations create
+correlated dipole moments.
+So that dipole moments are no longer independently
+fluctuating by themselves.
+So if you write down now the dipole interaction,
+we will find a result which is proportional to the product
+of the two polarisabilities.
+The dipole interaction has an intrinsic spatial dependence,
+which is 1 over r cubed.
+But now, the important term is that we
+have to calculate the correlation
+function of the electric field at position a and position b.
+And these are the vacuum fluctuations.
+I'm not doing the calculation, because it
+would be somewhat messy.
+I will post on the web a fairly easy to read paper
+by Larry Spruch in Physics Today.
+And he gives you a little bit more details.
+But you have already the physics in this equation.
+What you should use now is you have
+to use the density of modes.
+And for each mode, the 0 point energy.
+1/2 h bar omega.
+
+And then what you get is, you get an interaction,
+which is 1 over r to the 7.
+Yes, [INAUDIBLE].
+When learning [INAUDIBLE] only the dipole moment, which are
+[INAUDIBLE].
+So they're going from the fluctuation
+of long movements, EM.
+And one's the effect of those, but there
+are EMs [INAUDIBLE] fluctuation from vacuum.
+So what are the effect of those [INAUDIBLE] waves?
+[INAUDIBLE]?
+Excellent question.
+Actually, In 10 minutes, I need exactly the answer
+to your question.
+So let me give you the answer right now.
+If you look at this expression, there
+are two things which come into place.
+One is we have now two atoms separated by a distance
+r, which is ra minus rb.
+If you take now high frequency modes, which
+are very short wavelengths, and you integrate and sum over
+all of them, it's pretty clear that you
+will get plus and minus, which will completely average out.
+So it seems very clear that the modes with wavelengths
+lambda definitely much shorter than r average out.
+So therefore, the bulk of the contribution
+will actually come from the modes
+with wavelengths smaller than r.
+But now there is something else.
+The density of states for the electromagnetic field
+dramatically increases with frequency omega.
+So we have many more modes at short wavelengths.
+So therefore, the argument says, well,
+the long wavelengths mode up to wavelengths
+are the dominant ones.
+They don't average out, but because the density
+of modes increases, the shorter the wavelengths is.
+By far, the dominant contribution
+will come from the modes, which are centered
+around lambda equals r.
+So the density of modes implies now
+that those modes will dominate.
+So that's your answer.
+But ultimately, you have to put everything into an equation,
+have an integral, solve the integral,
+so some approximation.
+And you will exactly see from the density of modes
+that the very long wavelength don't contribute.
+And you will also see that, because of rapid averagings
+of e to the ikr phase factors, the high frequency
+modes may not contribute.
+OK, so we have now two different power laws.
+
+One is 1 over r to the 6 and one is 1 over r to the 7.
+And so let's explain that now.
+So we obtain the 1 over r 6 by using the uncertainty principle
+for atoms.
+And here, we have used the uncertainty principle--
+the 0 point fluctuations for electromagnetic waves.
+When we derive the 1 over r 6 potential,
+we actually used simply the electrostatic instantaneous
+Coulomb field dipole field.
+And this is only valued for short range.
+I said, we have a fluctuation and the fluctuation
+created another one, which was in phase.
+But if one fluctuation has to send out
+an electromagnetic wave, the second fluctuation
+may not be in.
+When propagation effects come into play
+and there is a time lag between the two oscillators,
+they may actually be out of phase.
+So we really assumed in the derivation
+without ever saying it explicitly
+that there are no propagation effects.
+And this is called the short range potential,
+whereas, for the second argument, that we
+said we have two distant atoms which get synchronized by being
+driven by fluctuations of the electromagnetic wave
+at wavelengths lambda equals r.
+This is what happens at long range.
+So this is a famous result that we
+have Van der Waal's force, which is the instantaneous force.
+And when propagation effects come into play,
+this goes off by the name Casimir-Polder potential.
+The moment when propagation effects come into play,
+when radiation plays a role, we get a different power law.
+Again, I'm just playing with ideas.
+I'm taking a train of thought--
+atoms fluctuate.
+Another train of thought-- electromagnetic fields
+propagate.
+And just see, what are the ramifications?
+What are the consequences?
+So now I want to eventually give you
+a treatment which has both aspects in one.
+And this is our diagrammatic treatment.
+First, before I do that, do you have
+any idea what distinguishes the short range from the long range
+potential?
+So you have two atoms, you pull them apart.
+At what distance do we have the 1 over r to the 6 physics?
+At what distance do we have the 1 over r to the 7 physics?
+
+[INAUDIBLE]
+When the distance is the wavelengths
+of the atomic concession.
+That's the only thing which matters.
+You don't get it immediately from here.
+
+I mean, I used an instantaneous potential,
+which didn't have any scale.
+And here, I said, we are vacuum fluctuations
+of all wavelengths.
+So here, I had a picture which clearly
+works at long separation.
+And propagation effects are built in,
+because it's a vacuum fluctuation, which
+acts at position a and b.
+And the wavelengths, the propagation
+is part of the formulation.
+But yes, [INAUDIBLE] conjecture that it
+is the wavelengths of the atom.
+The wavelengths of the [INAUDIBLE] radiation
+is correct.
+But I want to show you now how we
+can obtain this result in a really elegant and beautiful

@@ -1,0 +1,218 @@
+#
+# File:   content-mit-8422-1x-captions/M2L11f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 209 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Our next big chapter is on resonant scattering.
+Just as you see the structure of the cause--
+I wanted to introduce some mysteries and subtleties
+of electromagnetic interactions to you, by using diagrams,
+by using an exact formulation of QED.
+And, then I gave you one example where
+we could use source diagrams.
+And these were van der Waal's forces.
+So then we got a little bit sidetracked with the vacuum
+with van der Waal's and Casimir forces.
+But, now we want to go back to the diagrams.
+And there is one aspect of the diagrams
+which is sort of fascinating.
+And, this is where you really need a treatment which
+goes beyond perturbation theory, and this
+is when we have resonant radiation when resonant light--
+when resonant light interacts with atoms because,
+as I want to show you, we have then
+in any perturbative expression Zero in the energy denominator,
+and we have divergence.
+So I want to show you now, partly
+also for the beauty of the physical theory,
+How can we deal?
+How can we fix those divergences?
+How can we fix those infinities we encounter
+in perturbation theory?
+The answer will be we get rid of these infinities
+by summing up an infinite number of diagrams.
+So I want to show you now it's actually
+sounds so much more harder than it is, however,
+with a rather modest mathematical effort
+we can perform an infinite sum over diagrams.
+And, I want to show you what those diagrams are.
+And the result of that is that the divergences disappear
+and we have a valid description of what happens when atoms
+encounter resonant radiation.
+So, I'm following here, almost religiously, the Atom-Photon
+Interaction book.
+So, this introduction it's a summary of those pages.
+So, when we discussed diagrams, we
+wanted to figure out what is the amplitude for a system
+to go from an initial to a final state.
+And those where the matrix elements of the T-matrix,
+a transition matrix.
+And, if we do it in second order,
+well, remember, the structure is in second order.
+We sort of emit a photon virtual or real.
+We have another photon, this gives a second order.
+And in between the system propagates with its ion energy.
+If we-- so, this was the structure of the diagrams
+we had.
+And, this term here, let's expand it
+in wave functions of the unperturbed Hamiltonian.
+And, then we obtain this following structure.
+So this is just rewriting in a very suggestive way
+what we had discussed before.
+And, the case I focus on now is the interaction
+of atoms with the resonant light.
+Because, this is when we have divergences.
+If we have state A state B, we have a laser,
+and we scatter light, if the frequency is
+approximately resonant, then, those perturbative results
+have a divergency.
+So, for resonant light scattering the typical matrix
+element we are interested in, restart and end of course
+in the current state.
+We scatter photon we go up to an excited state
+and go back to the current state.
+But, we start initially with a photon of reflector k
+and polarization epsilon.
+And, this may be difficult for the scattered light.
+The interaction happens by the interaction operator.
+Which, for the purpose of this discussion
+can either be a or p term, or the d dot e term.
+We've discussed about this special whole
+of the a squared term, we've discussed it earlier.
+I don't want to include that in the discussion right now.
+And, then, you would say--
+I just want to make sure they do not confuse the in second order
+perturbation theory you always have an energy denominator.
+But, as I also explained to you the energy denominator
+comes from the free propagator.
+You have it you had a dot propagate and a dot
+and what is the time evolution of this free propagation when
+you integrate it with time this gave rise
+to the energy denominator.
+Just a side remark.
+So, we should be very familiar that we have an energy
+denominator, but now this energy denominator,
+the initial energy is the initial atomic state
+plus the photon.
+And then, if you want to sum over all states,
+I can just put in here the operator h0,
+but you may it immediately you think about it,
+the only state which really matters is a state b
+and there will be--
+And what matters is only when we go for the intermediate state b
+then each node is eb.
+And then we have a divergence because the denominator
+is zero.
+So, let's see how we can fix it.
+But, let me first give you the perturbative result. Which,
+you have seen many, many times.
+It is the product of two matrix elements.
+We have an intermediate state, the excited state
+without photon.
+We started with a photon and we end up with a photon
+until we have our dipole or a.p term.
+And our energy denominator diverges
+when the frequency of the photon approaches the resonance
+frequency.
+Well, how can we fix it.
+You know that in many cases you are just
+adding an imaginary part to it.
+Which reflects that due to the coupling
+with the vacuum of the electromagnetic field
+the excited state is supporting it.
+And it gives its energy an imaginary part.
+This of course is a very phenomenological
+but at least technically, technically,
+it avoids the divergence.
+Now, what I want to show you is in the next 15 minutes
+and we continue on Wednesday, is how
+I can get this result of a very rigorous approach.
+I want to use a diagrammatic approach.
+I want to sum an infinite number of diagrams.
+And I will tell you what are the approximations to get this.
+For instance, as you know when you have an imaginary part when
+you have just imaginary part of the energy the physics of it
+is exponential decay.
+Well, I hope, not today but on Wednesday,
+you will realize what assumptions
+lead to exponential decay.
+And that in principle non-exponentially decay
+is rather the standard than the exception.
+But, the effects are small.
+But, I sort of want to show you.
+So in some sense I want to give when
+we have to go for a half an hour of work to derive this result.
+So I would say what's about it you just get
+the phenomenological result?
+Well, we obtain we have put it on a rigorous basis
+and number two is we do understand
+what assumptions really go into this phenomenological result.
+So, that the way how we will actually obtain this result
+is that the second order diagram is that--
+you start in state a you go in state b
+and you are back in state a and you exchange photons.
+So, the physical picture we want to use now
+is after the photon is absorbed, right here,
+the system is not propagating with the Hamiltonian H0.
+It will propagate with the Hamiltonian h.
+If we do that, then we avoid the divergence
+we get a result which can be applied to the formulas
+can be applied to many situations.
+And in one limiting case we obtain that.
+So the physics behind is following-- the resonance so
+where divergence, which we encounter in resonant physics,
+is only a divergence because we assume the atom in state B
+is naked.
+It's an excited state of an isolated atom.
+But in reality, the state b interacts
+by virtual photon emission interacts
+with all the nodes of the vacuum.
+And once before that in, by saying,
+that between absorbing and emitting a photon the state
+b propagates, not with the free Hamiltonian,
+but with the total Hamiltonian, we avoid the divergence.
+But this is no longer a perturbative result.
+And let me sort of illustrate it to you.
+If you take the energy denominator
+omega minus omega 0.
+And we add the imaginary part to it.
+I can Taylor expand that, assuming the imaginary part
+is small.
+Well, that's sort of a trivial expansion
+but now you should know that gamma,
+the rate of spontaneous emission, the simplest
+expression is obtained in Fermi's golden rule,
+in the second order, in the interaction Hamiltonian.
+Spontaneous emission is proportional
+to the atomic dipole matrix element squared.
+So it's second order in the Hamiltonian.
+But, that means that this harmless addition
+of an imaginary part, means, if you now look at the Taylor
+expansion that we have--
+that, we are using now infinite orders--
+infinite orders in this expansion.
+So the phenomenological addition of bits gamma
+to the excited level b is actually highly non-trivial.
+Because it corresponds technically or physically
+to a non-perturbative result, which
+involves infinite order in the interaction matrix element.
+Question about it?
+So, this is more setting up the agenda.
+I wanted to remind you of the perturbative result.
+I want to sort of show you how we can fix it.
+I want to show you what it means.
+But, with that motivation, I want to go now to, back to,
+our diagrammatic approach, our former solution,
+our exact formal solution of the time evolution of a quantum
+system, and show you how I can implement
+this agenda in particular by not allowing the atom to propagate
+with a naked Hamiltonian H0.
+But sort of staying dressed with photons
+and propagating with the Hamiltonian H. Questions
+about that?

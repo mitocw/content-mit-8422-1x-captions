@@ -1,0 +1,254 @@
+#
+# File:   content-mit-8422-1x-captions/M2L11e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 245 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We had focused before on the force between two atoms.
+And if we use a microscopic model for the metal plates,
+it should be--
+it must be-- possible to obtain the Casimir
+potential by just summing up all the forces between atoms.
+Because ultimately, if you have no metal plates,
+you don't have any force.
+
+Whereas in the last few minutes, we
+focused on a derivation which was simply summing up
+the zero-point energies.
+And there are two papers, which I've posted,
+which argue that both results are equivalent.
+So I would really recommend to you--
+he expresses it much better than I can--
+read the introduction, the conclusion from Jaffe's paper.
+He clearly says in the introduction
+that there are a lot of books and references by famous people
+who have said the Casimir force is the manifestation
+of the zero-point in action.
+The fact that people have observed the Casimir force
+means that h bar omega over 2 is real.
+
+Those authors take the opposite approach.
+They say, this is just heuristic.
+It's convenient.
+You can get the correct result.
+But there is an equivalent derivation
+which gives exactly the same result, which focuses only
+on pairwise interactions between atoms.
+And it does not make any reference
+to the zero-point energy of the electromagnetic field.
+So therefore, I would agree with those authors that
+the conclusion is there is absolutely no observational
+evidence for the zero-point energy--
+that the zero-point energy is not just convenient counting,
+but that it is a real energy.
+And the Casimir force--
+of course also, it has often been
+quoted as an counter example that this
+is a direct observation--
+should not be regarded as such.
+Now people at MIT probably know Bob Jaffe.
+He is a high-energy physicist.
+And why is he interested in atomic physics?
+Why is he interested in the Casimir force?
+Well, the question of zero point energies
+is very, very important in these days for dark energy.
+You know that 80% of the energy of the universe is dark energy.
+Then there is dark matter, and then there is baryonic matter.
+But this dark energy is really mysterious.
+And one candidate for dark energy
+is the dark energy simply comes from the zero point energy.
+So therefore, people are now really
+interested is the dark energy real?
+And if it is real, does it have a gravitational effect?
+Does it change the metric of space?
+And can it accelerate the expansion of the universe?
+So of course, you have a problem.
+If you calculate the zero-point energy,
+you don't introduce a cutoff.
+You have a spectacular UV divergence.
+You can maybe now truncate the divergence
+by saying, OK, eventually, if the wavelengths become
+shorter and shorter and shorter, there is a cutoff.
+And if you have no idea at all, you
+would introduce the cutoff at the Planck length,
+because beyond the Planck length,
+all physical descriptions break down.
+But if you cut it off at the Planck length,
+you'll find that the zero-point energy of all modes
+is larger than the observed dark energy in the universe
+through acceleration of the cosmic expansion
+by 124 orders of magnitude.
+And if you think you want to introduce a cutoff which is
+maybe the classical electron radius--
+the classical electron radius is the radius
+of a charged sphere for which the electrostatic energy would
+just be the rest energy of the electron--
+well, then you're off by 43 orders of magnitude.
+So some people have called those discrepancies,
+which are completely unresolved as of now, the biggest failure
+every of theoretical physics.
+So anyway, that's why there is renewed interest in the Casimir
+force.
+And at least in electromagnetics,
+we have a very, very simple model,
+and we have experiments which measure the Casimir force.
+But as I've said, it cannot be regarded as a direct
+observation of the zero-point energy.
+
+OK, let me now come to the question
+we started discussing earlier, namely, here we have atoms.
+Here we have a metalized boundary condition.
+So maybe let's just talk for one minute about it.
+What kind of assumptions do we make about atoms
+when we replace them by a metallic boundary condition?
+
+From the whole derivation of the Casimir force,
+it's not obvious that there are no atomic properties which
+have entered the calculation of the Casimir potential.
+But Bob Jaffe argues in this paper--
+and again, it's wonderful reading.
+I really recommend, just if you want to enjoy some physics,
+open up the document and read the first and the last page.
+The Casimir force, from an idealized boundary condition,
+is completely independent of atomic properties.
+So therefore, it must be a limit where--
+well, we talked about the resonant wavelengths,
+but we can also talk about the fine structure constant.
+Because the fine structure constant in a hydrogenic model
+provides what the resonant conditions in hydrogen are.
+So you can argue if something is completely
+independent of atomic properties,
+somehow, by sweeping things under the rug,
+we must have set alpha to either 0 or infinite.
+Because if it is set to any value,
+it would correspond to some version of the hydrogen atom,
+which has a resonant radiation.
+So the question is, is alpha set to 0?
+Is alpha set to infinity when you derive the Casimir force?
+And I think this is now easy to discuss,
+because the fine structure constant, alpha,
+is e squared over h plus e.
+If you set alpha to 0, you do it by setting
+the charge of the atoms to 0, and then you
+have no interaction at all.
+So therefore, if you want to have the Casimir
+force in a limit which is independent
+of atomic properties, the alpha equals 0 limit gives no force.
+So therefore, the equivalence between this picture
+summing up over real atoms and obtaining the Casimir force
+for the metallic boundary condition,
+this equivalence happens when you do this derivation
+and set the fine structure constant to infinity.
+
+How big is the fine structure constant?
+1 over 137.
+So it's actually, in some expansions
+of alpha and alpha squared, it's actually a small parameter.
+And now I'm telling you, when you have two metal plates
+and measure the Casimir force, this
+corresponds to the infinite alpha limit.
+Well, this is now getting complicated.
+And I can refer here only to Bob Jaffe's paper.
+But he shows that when you go to distances of 0.5 micron,
+where people have measured the Casimir force,
+you are already in the alpha equals infinity limit
+if alpha is larger than 10 to the minus 5.
+So therefore, alpha equals 1 over 137 is, for that purpose,
+already very, very well in the larger alpha limit.
+But I just take this result here.
+This is rather complicated.
+And Bob Jaffe says that to get the Casimir potential
+by summing up over atoms is actually a quite challenging
+mathematical exercise.
+Questions?
+Yes.
+If this calculations of summing over atoms
+has been worked through, then we can just
+talk about the plates being dielectrics from that atom
+makes [INAUDIBLE], right?
+There are solutions for dielectric plates.
+And sometimes when people do experiments,
+the best surfaces you can get is a silicon surface.
+So because they wanted to do quantitative measurements,
+they are discussing corrections due to the dielectric constant.
+So I know the problem has been worked
+out for dielectric surfaces, I assume
+not by doing the transition from summing up atom by atom,
+but by rather looking at the boundary
+condition for electromagnetic fields
+in the presence of a dielectric.
+But I don't know more details about that.
+Yes, [INAUDIBLE]?
+[INAUDIBLE] not make sense, then,
+[INAUDIBLE] when we consider two plates--
+if we remember from two atoms, we've
+got the two, 1 over r to the 6, 1
+over r to the 7 cases, one of which
+is the retarded Casimir potential, but for two plates,
+it was, again, we conclude that it was more
+like the short range--
+[INTERPOSING VOICES]
+No, long range, we are always retarded.
+OK, but then, I'm a bit confused,
+because then if you say alpha goes to infinity,
+don't you have h bar or c to 0?
+Oh, wait, that makes sense.
+Alpha infinity is-- we know that this is
+the rest mass of the electron.
+The Rydberg constant is alpha squared times smaller.
+And the Rydberg constant, well, a quarter
+of the Rydberg constant is the Lyman-alpha radiation.
+So anyway, the Rydberg constant is the scale factor
+in the transition frequencies of the hydrogen atom.
+And so therefore, it is consistent
+that, if you make alpha large, we actually
+push the frequency of the atomic transition
+to very, very high frequencies.
+And that would mean the resonant wavelength goes to 0.
+And therefore, any finite distance
+between the capacitor plate in the long range,
+is longer than the wavelength of the transition.
+I think equivalently, you could also say if the speed of light
+is really slow, you always will have Rydberg--
+You can do the transition in many ways,
+by tuning the speed of light or tuning the charge.
+But it all has the same implication.
+Other questions?
+Nancy.
+Is there any other observable reason
+why we should constantly be thinking about Casimir
+whose [INAUDIBLE] dark energy?
+
+As far as I know, this question about dark energy
+and whether it is related or not to zero-point energy
+of the field is completely open.
+I think if you had an idea how to do a decisive-- if any
+of you had an idea how to make a decisive experiment measuring
+whether zero-point energies are real or not,
+that would have a big impact.
+As far as I know, it's completely open.
+Nobody has a really good idea.
+
+So some people feel mathematically,
+the zero-point energy has the right,
+correct physical characteristics.
+Zero-point energy could explain the extra term
+in Einstein's field equation, which is often called
+the cosmological constant term.
+But the quantity is so many orders of magnitude
+off that people don't even know if that is correct or not.
+One could also say, well, maybe zero-point energies
+do not give rise at all to any cavitation potential.
+And therefore, maybe if energy doesn't give rise
+to gravitational potential, maybe the energy is not real.
+And what is responsible for the expansion of the universe
+is just the cosmological constant,
+but the cosmological constants reflects something else
+in the universe, and it's not related at all
+to zero-point energy.
+To the best of my knowledge, these are the possibilities.

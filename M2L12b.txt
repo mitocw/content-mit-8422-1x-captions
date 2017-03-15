@@ -1,0 +1,91 @@
+#
+# File:   content-mit-8422-1x-captions/M2L12b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 82 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We want to understand the time evolution of the system.
+Or tool is a time evolution operator.
+And at the end of the class on Monday,
+I told you, well, let's simplify things.
+Let's get rid of those [INAUDIBLE]
+integrations and multiple integrals
+by simply doing a Fourier transform because a Fourier
+transform turns an integral of a convolution into a product.
+And so therefore, we introduced the Fourier transform
+or Laplace transform of the time evolution operator.
+And this iterative equation where we get the n's order
+by plugging the n minus first order
+on the right-hand side, this iterative equation
+turns now into a simpler algebraic iterative equation
+for the Fourier transform.
+So this is now the starting point for our discussion today.
+We are going to calculate the Fourier transform of the time
+evolution operator to infinite orders.
+So OK, we want to take this equation.
+And now, we want to iterate it.
+So the resolvent G in zeroes order is G0.
+Now, plug G0 into the right-hand side of the equation.
+And you get the first order, which is G0 V G0.
+Now, plug that into the end of the iterative equation,
+and you get the second order--
+G0 V G0 V G0.
+I think you've got the idea.
+It's almost like a geometric series--
+well, a geometric series with operators.
+But this is already sort of a hint.
+Geometric series can be summed up to infinity rather easily.
+So we have to introduce now the eigenfunctions
+of the unperturbed operator.
+So these are let's say the ground state, excited state,
+next excited state of your favorite atom.
+And they have eigenenergies Ek.
+If you're now expressing the equation above in the basis
+kl--
+so in other words, this is an operator,
+and we want to know the matrix element
+between eigenfunctions k and l--
+the other thing we need is that G0.
+Remember the Fourier transform--
+and I gave you sort of a mini derivation here--
+is just 1 over energy minus H.
+And if you apply that now to the operator G0,
+so G0 is nothing like--
+it's given by that.
+So therefore, if write now this equation as matrix elements,
+the first part, the G0, gives us 1 minus 1 over z minus Ek.
+Key And since we are diagonal in H0, it's delta kl.
+And well now, you see the structure
+if you sum over intermediate states
+or if introduce immediate states.
+So this is how we have to write it.
+So this is just writing it down in basis function
+of the unperturbed operator H0.
+But now, we can formulate the problem we are encountering
+and we want to solve.
+Namely, we have the problem with one state.
+Our problem is the excited state b.
+And we have a resonant excitation
+from the atom from the current state [INAUDIBLE].
+So this is a discrete eigenstate of the unperturbed Hamiltonian
+with energy Eb.
+And therefore, we have terms, and actually divergent terms,
+which are 1 over z minus Eb.
+And just to make the connection, I mean this
+is sort of the description in the book.
+z is in the complex plane and you can have imaginary values.
+You know sometimes, scattering and evolution equations
+are better formulated when you do it in the complex plane.
+It doesn't really matter for us here.
+Just remember z is the energy.
+And it is the initial energy.
+And the initial energy is, if it's
+a ground state and a resonant photon,
+we have a problem because the denominator is zero.
+So in other words, for resonant excitation,
+we are interested in the case that z is

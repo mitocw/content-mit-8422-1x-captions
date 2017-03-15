@@ -1,0 +1,150 @@
+#
+# File:   content-mit-8422-1x-captions/M2L11g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 141 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The derivation is focusing on two chapters in API.
+I need one result, which I hope you remember.
+We formulated the time evolution of the system using the time
+propagation operator U, and we found an exact expression,
+and dropping all the arguments here,
+T and T prime, and you can look them up either in the book
+or in the previous lecture notes,
+we found that the propagator in the interaction representation
+is the unperturbed operator, U nought.
+And then, now I need actually the terms,
+it was a time integral over some time T 1,
+which involved U nought, V, and U.
+And I introduced that to you as you could plug that
+into whatever is the equivalent of Schrodinger's
+equation for the time evolution operator,
+and you really find this is the solution for U,
+but well, it's not really a solution,
+because it's a solution of U expressed in terms of U.
+But then I showed you that it allows an iterative approach,
+and this is why we did it.
+If you have a first order result,
+the zero order result is U nought.
+When you plug the zero order result in here,
+you get the first order correction.
+When you put the first order result here,
+you get the second order correction,
+so you get a recursive formula, which solves the problem.
+And this is now our starting point.
+This is an exact formulation of QED,
+and this is now our starting point
+to address the problem of divergencies.
+We want to describe what many of you do in the lab,
+namely have resonant laser light interact with atoms.
+And I want to show you how can you
+describe it with QED, with the formulation we've introduced.
+
+For this chapter, we want to have one big simplification.
+Things aren't only getting complicated,
+they're getting simpler.
+If you have a time integral, which is a convolution,
+and you can often simplify it by Fourier transforming it,
+because the Fourier transform of a convolution
+is simply the product of the two Fourier transforms.
+There is one glitch, so the one subtlety I want to feed in,
+in a moment, but let's just assume
+for a moment we go from time, we Fourier transform
+to frequency or energy.
+So G of E is the Fourier transform m
+I have to fill in a few corrections of U.
+That would mean, if that were true,
+that the equation above would now
+be an equation where the integral is sort of constant.
+Instead of the convolution of U nought and U,
+we get simply the product of the two Fourier transforms.
+That's much, much simpler.
+It's an algebraic equation instead
+of an integral equation.
+And remember when we got n's order,
+we n integrals with some time ordering.
+We were able to do it, but it's mathematically
+more complicated.
+The problem is that this is not a convolution.
+It would be a convolution if the time limits were infinite.
+So what we can do instead is we can define G of E,
+not the Fourier transform of U. If we
+say it is the Fourier transform of K, which uses a step
+function, then if you insert now K in the formula above,
+you see that because of the step function
+we can now take the integral limits for minus infinity
+to plus infinity.
+So therefore, when I set G, G is called the resolvent.
+It's really the mathematical quantity
+we have to work on now.
+And I wanted to tell you very simply.
+Hey it's just the Fourier transform of the time evolution
+operator.
+Not quite, it's the Fourier transform of the time evolution
+operator with a theta function, just to make sure
+that formally we can extend the upper and lower integration
+limits to infinity.
+Or this is also a name, what I'm really
+kind of discussing here are Laplace transformations.
+But I want to convey to you the physics.
+It would take many weeks to do the mathematics accurately,
+but you can get the idea, and a really profound feeling
+for how QED works and what we are doing, with not so
+much mathematical rigor.
+So with that grain of salt, we have Fourier transformed
+the equation, we have the Fourier transform
+of the time evolution operator.
+But if you look at it mathematically more exact
+it's a Laplace transform, and we are a little bit
+navigating in a complex place.
+The Fourier transform does not exist for real values,
+we always have to add a small imaginary part
+to make things converge, but we've
+seen that in many other places ISO.
+OK, so the quantity which allows us
+to describe resonant interaction in a very straightforward way
+is called the resolvent.
+I can simply define the resolvent.
+All I gave you was somewhat evasion, but if I had wanted,
+I could just say the resolvent is defined
+by this operator equation.
+Z is the complex number.
+H is the Hamiltonian, including interaction between atoms
+in the electromagnetic field.
+And if you take this and plug it into the equation above,
+you find this expression solves the equation.
+So I just want to say, you can forget about all the subtleties
+with the Laplace transform and such,
+you can just say that we define some interesting object,
+but it is connected to what I said earlier because this
+solves this equation.
+And also I'd like to show you the mathematical structure.
+If you write the time evolution operator,
+it's e to the minus, the Hamiltonian,
+and now you Fourier transform.
+If you Fourier transform it, you multiply it
+with e to the i omega t, and you integrate.
+Let me integrate from zero to infinity.
+There are some issues with zero or infinity,
+but if you simply solve this integral with time,
+you have sort of an exponent e to i, omega minus H.
+So if you Fourier transform it, what you obtain
+is nothing else than the energy minus H.
+And this looks very, very similar
+to the definition of the resolvent.
+The only mathematical thing I'm not fully discussing here
+is, is z real, or has it a small imaginary part?
+The small imaginary part actually,
+you have to add a small imaginary part here
+to make sure the Fourier transform exists.
+But you should clearly see how things are connected.
+So OK, I'm focusing now on the resolvent.
+It is equivalent to the time evolution operator.
+It is a sort of Fourier transform of it.
+And we want to formally write down a diagrammatic solution
+for the resolvent.

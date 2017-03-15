@@ -1,0 +1,111 @@
+#
+# File:   content-mit-8422-1x-captions/M2L10d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 102 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, in quantum mechanics, when we
+ask for the oscillator in the ground state,
+we can find the zero-point energy.
+And so the energy in the ground state
+is 1/2 the zero-point energy in the mode plus,
+in the mode minus.
+The first-order coupling term, the 1 over R cube, cancels out.
+But what remains is a contribution,
+which is 1 over r to the 6.
+So we need quantum physics.
+We need-- because in classical physics,
+the ground state of the LC circuit is--
+nothing happens-- no charge, no current, no nothing.
+This is the classical ground state.
+And you would not get any effect.
+So realize that this van der Waals potential
+requires quantum mechanics.
+And it is due to the zero-point energy
+of the atomic oscillators.
+
+Just hold the thought.
+When we talk about atoms in the electromagnetic field,
+we have two oscillators.
+We have a harmonic oscillator, which
+is a fluctuating dipole moment in each side of the atom.
+But we have many, many harmonic oscillators in between,
+which is electromagnetic field.
+And during the course of this lecture,
+I will refer to both the zero-point energy
+of the atomic oscillator and the zero-point energy
+of the oscillator which is electromagnetic field.
+And to give you the result at the end,
+I will sort of explain different effects
+by the zero-point oscillation of the atoms, other effects
+by the zero-point oscillation of the electromagnetic field.
+But at the end of this section, which is probably
+after spring break on Monday, I will actually tell you
+that you have to be careful.
+If you have quantum physics, you have
+to use a consistent description.
+And you always need that both the field and the atoms
+are quantized and have zero-point fluctuations.
+And when I'm telling you now that--
+the van der Waals potential is due only
+to zero-point fluctuations of the atomic oscillator,
+there may be another way of getting the same result
+by looking at the zero-point fluctuations
+of the electromagnetic field.
+So I just want you to take what I'm saying you.
+I'm not saying you anything wrong.
+But it may not be the only way of expressing it.
+And I want you just to pay attention to it.
+But certain effects can be simpler
+described by simply looking at the atomic oscillators.
+Why do we need the quantized electromagnetic field
+when all we want to do is have a stray field
+coupling two capacitors?
+So we want to always learn about the simplest way
+to understand an effect.
+But then in the end, there are maybe certain subtleties.
+But let's keep it simple.
+So it's a zero-point energy of the two oscillators.
+And maybe let me emphasize this by translating this description
+what we learned from the capacitors.
+Let me give you the equivalent description of the atom.
+So an atom will never have in free space a spontaneous dipole
+moment.
+But because of zero-point oscillation,
+it will have a dipole moment squared.
+So what happens now is let's say at some moment,
+we have a fluctuation.
+One atom happens to have a fluctuation
+of the dipole moment.
+This creates an electric field at the position of the atom b.
+So this is a fluctuating field.
+The fluctuating field, because there's
+a finite polarizability, induces now--
+induces a dipole moment of the atom db.
+I will later introduce polarizabilities,
+but here it's just proportion to Eb.
+So that's proportional to da over R cubed.
+So now we have no longer randomly fluctuating
+dipole moments with Eadb, which are out of phase--
+positive and minus cancels out.
+We have a dipole moment da which creates for polarizability
+an aligned dipole moment db.
+And for those, we have now the dipole-dipole interaction,
+which is db da over R cube.
+And when db changes sign, da changes sign.
+So the product of them will always stay the same.
+And now we find that we have an interaction.
+If you look, db was 1 over R cube.
+And if you factor that--
+multiply that with the R cube of the dipole-dipole interaction,
+we obtain in a very different way the van der Waals
+potential, which is 1 over R to the 6.
+So therefore, what we can take away
+from that is that the 1 over R to the 6 potential
+is caused by the zero-point fluctuations
+of the atomic dipole moments.

@@ -1,0 +1,179 @@
+#
+# File:   content-mit-8422-1x-captions/M2L12e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 170 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+If you use the lowest second-order approach, then
+diagrammatically, the process we have considered
+is that we go to second order.
+We can go through an intermediate state
+by absorbing and emitting a virtual photon--
+that's what two vertices mean.
+At the first vertex, a photon appears.
+At the second vertex, the photon disappears.
+So that means now that we calculate
+with this approximation, we approximate Gb
+of c, the Fourier transform, the resolvents
+in the following way.
+We let b just propagate, which is problematic
+because it has divergences.
+But we are allowing now the state b
+to go through intermediate states a.
+And remember since this appears in the denominator, that
+means for G, just make a Taylor expansion
+in r that it has this process to all orders.
+So the propagation G involves now all possibilities
+that we have to end up in state b again.
+But we can go through intermediate states
+a or a prime as often as we want.
+Or actually, we have summed it up.
+Our result contains those processes to infinite order.
+So the question is, what have we neglected?
+I mean, that looks like a lot.
+We allow the state b to emit a photon, go to another state.
+It's reabsorbed and such.
+So the question is now, what is neglected?
+So what we neglect is actually a lot.
+In this lowest order approximation
+for the function r, we approximated r by second order.
+We have only two vertices.
+So what we neglect are all processes
+where we have not just two vertices
+in one intermediate states, where
+we have several intermediate states between two
+occurrences of the state b0.
+Or diagrammatically, what we have neglected is--
+I'll just give you an example--
+so what we have neglected is we have
+to always start with a state b.
+And we have to end with a state b.
+But now, the idea was that--
+one, two, let me just go through four vertices--
+the approximation we have done--
+you have to sort of look through that maybe after the lecture
+and see that that's what we've really done, but trust me--
+the approximation we have done is that when
+the system goes away from the state
+b into an intermediate state a.
+At the next vertex, it has to go back to the state b.
+So what we have not included is processes
+where we go through states a, a prime, a double prime,
+and then eventually we go back to the state a.
+Or we have not included processes where we scatter,
+absorb--
+this is a state a, but then we don't go back to b.
+We go to a prime.
+Then we scatter again.
+Here we are in state a double prime.
+And then we are back in b.
+So in other words, we have said whenever something happens,
+and we go away from state b, the next vertex
+has to go back to state b.
+This is the nature of the lowest state approximation.
+We have included to infinite order
+all processes where the state b emits a photon,
+reabsorbs it, emits and reabsorbs it.
+But it cannot-- the system cannot go sort of two steps
+away from the state b.
+It's only one step and then go back.
+This is the nature of the approximation.
+OK, so our result for this kernel, which describes
+the state b, is we have--
+just go back that you see it again.
+I'm writing now for you down the equation for the triangle,
+which is an interaction v, an intermediate state,
+and another interaction v, which is nothing else than Fermi's
+golden rule where we--
+well, with a little twist-- but where
+we have the initial state, the dipole interaction or the p
+dot a interaction takes us to an intermediate state
+with a photon with wavevector k and polarization epsilon.
+We propagate in the intermediate state, Ea.
+And now, we have to go back.
+But we have to go back with the same matrix element.
+So therefore, the matrix element is squared.
+And we have a double sum.
+We sum over all possible states of the photon.
+And we can sum over all intermediate atomic states,
+yes.
+So this is what we have done.
+This expression has, in general, a real part and imaginary part.
+It's a function of the initial energy E.
+And it has an imaginary part.
+
+Let me know interpret it in two ways.
+But before I do that, are there any questions?
+Yes.
+Just mathematically, how do you get an imaginary part out
+of this?
+It's all real components.
+We have magnitude squared divided by--
+presumably the energy is real, and so on.
+OK this is now something to do that we have resonant terms.
+And what we often do is we add an infinitesimal eta,
+and then let eta go to 0.
+And it's the same if you have the function 1 over x and look
+at real part and the imaginary part,
+it needs a little bit of correct treatment of functions
+in the complex plane.
+
+Let me actually write it down.
+Then it becomes clear.
+But yes, thanks for the question.
+So I always said we do Fourier transform,
+but it's a Laplace transform.
+We do Fourier transform at real energy.
+But if you do an integration along,
+you do the Fourier transform, you
+have to integrate over omega.
+But the function we integrate, the time evolution operator,
+has poles in omega.
+So we can't just Fourier transform because we go right
+through the poles.
+But what we can do is we can add an imaginary part,
+plus or minus eta, and we can just go around the poles.
+And then it becomes mathematically meaningful.
+And what we are doing here is-- but I'm not really explaining
+it mathematically--
+we have played those tricks here.
+But I hope it becomes clear if I say
+what the real and imaginary part are.
+So the real part is this matrix element
+squared, but double sum.
+But what we use is the principal part of it,
+which is well-defined in the theory of complex functions.
+And for the-- it's divergent, but you
+take a certain symmetric limiting procedure.
+So you have to interpret that as--
+you have to introduce a limiting procedure
+to make sure that the divergence cancels out.
+And the imaginary part value--
+well, you have the imaginary part of something
+which diverges.
+And if you treat, if you treat the eta correctly,
+let the eta go to 0, you will realize that the imaginary part
+turns into a delta function.
+So what we get is 2 pi over h bar matrix element squared
+times the delta function.
+So that's something which you have seen.
+So the imaginary part gets us Fermi's golden rule.
+And the real part has actually-- remember when we
+discussed the AC Stark shift?
+The AC Stark shift has a 1 over detuned independence.
+And you recognize that here.
+So this is actually nothing else than the AC Stark shift,
+not due to a laser beam, but due to one photon per mode.
+Because we started with an atom in an excited state,
+it can emit a photon in any mode.
+And this photon is now creating an AC Stark shift.
+And this is mathematically the expression.
+And such AC Stark shifts, which appear as self energies,
+as energy shifts created by the state,
+this is nothing else than the famous Lamb shift.
+So that's what we get out here.

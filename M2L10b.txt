@@ -1,0 +1,117 @@
+#
+# File:   content-mit-8422-1x-captions/M2L10b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 108 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the subject that we want to understand-- interactions
+between neutral objects.
+
+So let's start in a very basic way by saying we
+have an atom a, we have an atom b,
+they are separated by a distance R, and we want to know
+what is the force between them.
+In a semi-classical picture, we would
+say that the force which is responsible for that
+must be the Coulomb force.
+So the atom a and b consists of charges.
+So we should find the charge density in our system
+a, the charge density of b, we take the Coulomb energy,
+and we integrate over the volume.
+And this is how in E&M in the most general way
+you would write down electrostatic energy
+of a system.
+You take all charges.
+Each charge has a Coulomb potential with the other charge
+and you sum and integrate over everything.
+But for objects which are localized,
+we can do multiple expansion.
+Our objects are neutral atoms so therefore, there
+is no Coulomb term and the next term is the dipole.
+So therefore, starting with classical physics,
+we would find that the interaction of those
+charge density distributions--
+one for atom a, one for atom b-- should actually
+interact with this Hamiltonian h prime.
+
+But now, if we look at it classically,
+we find that classically, the expectation
+value for the dipole operator of each atom is 0.
+But you will also find--
+if you said, well, OK, that's what I expect,
+because an atom is in isotropic space.
+How can it have a dipole moment?
+But maybe what could happen is if there
+is a fluctuation of a dipole moment here
+and a fluctuation there and the fluctuations are correlated,
+then the two systems may repel or attract each other.
+So therefore, when we are talking about fluctuations,
+we are talking about expectation values for d-squared.
+But also in classical physics, this is exactly 0.
+So what classical physics tells us,
+it says in classical physics, it costs more energy
+to create a dipole moment or even
+a fluctuating dipole moment than one
+gets back from the dipole interaction.
+So the system will never spontaneously form
+some form of dipole moment and in classical physics,
+two neutral atoms will have no attraction at all.
+So it costs more energy.
+
+So now we have to do quantum mechanics.
+And as so often, I have to go through a classical argument
+to make you wonder about the quantum mechanical result
+because the quantum mechanical result, you are used to it.
+You've heard about the Van der Waals interaction
+but now you know that there is really
+something quantum at work.
+In quantum mechanics, the expectation value
+of the square of the dipole operator is not 0.
+You can see that the dipole moment for a charged system
+is related between electron and proton
+to the displacement operator R. And even
+if you have an equilibrium position,
+like in an harmonic oscillator where R is equal to 0,
+R-squared, the expectation value,
+is not 0 because whatever your stable equilibrium is,
+you will have zero-point fluctuations around it.
+And so therefore, now in quantum physics,
+it's not that we have to provide energy to create d-squared.
+We have it.
+We have it by necessity because of non-commuting operators
+because of the nature of quantum physics.
+So now the fact that we have fluctuating dipole moments
+already, that means if now the fluctuating dipole moments
+between the two atoms are synchronized,
+this will then lead to a non-vanishing average force
+between the atoms.
+So that's the idea.
+But the good thing is you don't even
+have to know about it, about fluctuations and all that.
+You just take-- and this is your homework.
+You just take the operator h prime
+and look what happens when you have an atom in the ground
+and excited state and what happens when you force
+atoms in the ground state.
+In the first case, you get the leading result
+in first-order operation theory.
+For two ground-state atoms, you have to go to second order.
+In first order, the potential is 1 over R-cubed.
+And you will calculate the c3 coefficient.
+In second order, you get the Van der Waals potential,
+which is 1 over R to the 6.
+And it's fairly straightforward to calculate
+the c6 coefficient.
+Any questions?
+Let me re-emphasize the beauty of this operation result
+is it's so simple but the downside
+is you don't really understand what you are doing.
+You are solving an equation, you find an expectation value,
+but the nature of the effect--
+how it is related to fluctuation,
+what is really behind it--

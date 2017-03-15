@@ -1,0 +1,80 @@
+#
+# File:   content-mit-8422-1x-captions/M2L11a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 71 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+- We have been talking about interactions
+between neutral atoms.
+And, that can be trivial and very profound.
+Trivial because, you've heard about Von der
+Walls forces, polarization forces between neutral atoms.
+And, if you describe them phenomenologically,
+you just have 1 over r to the 6th, or whatever power
+law of an interaction.
+On the other hand, if you take the position
+that everything which happens between neutral objects
+has to be mediated, has to be created by the photon field.
+Then, it becomes a question of the vacuum,
+the vacuum which surrounds the two neutral atoms.
+And I've tried, in this chapter, to show you both sides.
+To show similar, or the same, physics from two
+different perspectives.
+We talked mainly about the Von der Waals interaction
+between two neutral atoms.
+I don't want to--
+we pretty much finished it.
+So, I'll just give you a bird's eye view,
+I won't really repeat a lot of things.
+Because today we want to talk about the forces which
+happen between neutral atoms and metal plates,
+and then two metal plates, which is the Casimir force.
+But, just to remind you that, we showed
+that the forces between neutral objects
+are actually created by quantum fluctuations.
+Classical objects would not create
+fluctuating dipole moments, would therefore not create,
+would not give rise to any force between neutral atoms.
+And I showed you that there are two aspects where
+quantum physics comes in--
+namely, through the fluctuations,
+or the zero-point motion, of the atoms as oscillators.
+And, we even had a circuit model for that.
+But then, I also said, that well,
+assume you have two neutral atoms
+and you have the vacuum fluctuations of the field.
+This vacuum fluctuation is thriving,
+coordinated, synchronized dipole moment between the two atoms,
+and then the two atoms can attract each other.
+So, we have seen the dual role which quantum physics plays
+here in terms of quantum fluctuations
+of the atomic oscillators.
+And, quantum fluctuation of the electromagnetic field
+which is another harmonic oscillator.
+And, at least, when I used very simple pictures
+it seemed that the 1 over r to the 6th potential,
+the standard Van der Waals potential at short range,
+comes from the fluctuations of the oscillator.
+Where as, we, I didn't do the derivation.
+But, the simplest derivation for the long range,
+causing [INAUDIBLE] retarded potential 1 over r to the 7th,
+focused on the fluctuations of the electromagnetic field.
+So, these were some preliminaries.
+Then I thought, I want to show you the power of diagrams
+by showing to you that there are two
+different kinds of diagrams--
+dominant at short range and at long range.
+And, with that, we realized diagrammatically
+that because of the nature of virtual photons, which
+are exchanged by the two neutral atoms,
+there is a change in power law.
+The power, the inverse power, of the distance
+between the two neutral atoms is 1 higher at long range.
+And, long range meant that it also
+became clear diagrammatically.
+Long range means the distance is longer than

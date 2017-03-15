@@ -1,0 +1,130 @@
+#
+# File:   content-mit-8422-1x-captions/M2L12f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 121 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We have this function R in the real and imaginary part, which
+depends on the energy E. But remember
+we work so hard with diagrams to make sure
+that the triangle, first the square and then the triangle,
+and this is what we calculate here,
+has no resonant structure at the E b.
+So therefore, we can neglect the energy dependence of that
+and simply replace the argument E by the energy
+we're interested in, namely energies close to E b.
+So in other words, when we had the function,
+the resolve in G b of Z, all the dependence on energy
+came from this kernel.
+But this kernel is now so well-behaved, there
+are no resonant terms, that we can neglect its energy
+dependence.
+This actually has a name which we will encounter later
+when we discuss master equation and Optical Bloch equations.
+So this, neglect E and replace the dependence by E
+by taking the value at E b, this corresponds
+to the Markov approximation.
+The Markov approximation often means
+that some relaxation time or some response of a system
+is replaced by delta function.
+Well, we've done the same here, because if you
+keep if you replace some temporal response
+function by a delta function, that
+means the Fourier transform becomes constant.
+And by neglecting the energy dependence,
+we are now seeing everything is constant as a function
+of energy, and that means in the temporal mean
+that we have a delta function.
+I don't want to go further here, but when
+we talk about the master equation
+we will also make a Markov approximation
+later on, but then in the temporal domain.
+And the two are equivalent here.
+So what we've got now is we found
+a solution for the Fourier transform of the time evolution
+operator, which initially had a divergence at Energy b,
+and this was the problem we are facing,
+but by now calculating the function R,
+we have a correction, which is a radiative shift, which
+comes from the real part, and we obtained,
+as promised, the imaginary part, which
+we can approximate by Fermi's Golden Rule.
+If we now Fourier transform back and obtain the time
+evolution of this state, it no longer
+evolves with the energy E b, it has shifted energy
+by the self energy, and this is called the radiative shift.
+But in addition, because of the imaginary part,
+it has now an exponential decay.
+You should know, and this is what you may have expected,
+but there are two things you should learn:
+the first thing is that the exponential decay
+would be different if we had not made the Markov approximation.
+If we had kept a dependence of this imaginary part on energy,
+the Fourier transform would not have simply
+given us an exponential.
+So therefore the exponential decay
+involves an approximation that the R function
+has no energy dependence.
+And you would say, well, is that really possible?
+If you have an atom, and it decays,
+or you have the atom in state B, at very, very short times,
+you need Fourier transform elements
+of large amounts of energy.
+So maybe for the first femtosecond
+for the time evolution of an excited state,
+you need whatever, in whole x-ray spectrum of energies.
+And it's obvious that the properties of this expression,
+where you sum over all states, something
+will happen when you go past the normal excitation
+energy or the ionoization energy of the atom.
+So what you can immediately read from here
+is that exponential decay is a simple approximation.
+It works very well, but at very early times,
+it will break down, because then the energy dependence matters.
+But the longer you wait, if you wait a few nanoseconds,
+the relevant part of the Fourier transform
+is only a small energy or frequency
+interval around the resonance energy,
+and then the density of states of your photon field
+is pretty much constant around here,
+and then this approximation is excellent.
+So I hope what you have learned from that treatment is,
+number one, where the exponential decay comes from.
+Of course you know that from coupling
+two modes, but that the approximation which
+leads to exponential decay also involves
+that the density of states and the density of modes
+is constant, which is excellent for certain times,
+but which is of course violated at earlier times.
+And finally, if we hadn't done the infinite summation
+of diagrams, if we had done a perturbative expansion,
+he would have never obtained exponential decay.
+
+We've obtained some polynomial decay.
+Questions about that?
+
+Yes.
+What is the polynomial decay?
+
+Some power law.
+
+As far as I know, it would just involve powers of n.
+If you do lowest order perturbation theory,
+instead of getting an exponential decay,
+you would just get a linear slope.
+That's perturbation theory.
+And if you fix it, I think you get quadratic terms,
+so it's a sum of power loss.
+
+Of course, the exponential function
+has a Taylor expansion, which is an infinite sum
+of polynomial terms, and therefore we
+need infinite order to get the exponential.
+So it's not really profound, what I'm saying,
+it's pretty much an exponential function is nonperturbative.
+Other questions?

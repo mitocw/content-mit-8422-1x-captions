@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-OK, now finally, now we can have fun with beam splitters.
+OK, now finally, now we can define the beam splitters.
 So so far we have really just repeated
 a little bit the definitions of classical or non-classic,
 like what are coherent states.

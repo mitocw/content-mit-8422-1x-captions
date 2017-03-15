@@ -1,0 +1,103 @@
+#
+# File:   content-mit-8422-1x-captions/M2L11b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 94 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The goal is to go from two atoms to many, many atoms which then
+form a metal plate and makes the transition from forces
+between neutral atoms to forces between two metal plates, which
+is a famous Casimir force.
+And I want you to hold the thought about what is really
+the quantum aspect here?
+Is it the vacuum?
+Is it the zero point fluctuations
+of the electromagnetic field?
+
+Or are the atoms the zero point fluctuations
+of the atomic oscillators responsible for those forces?
+So we'll come back to that after we
+have discussed the Casimir interaction between two
+neutral plates.
+So maybe one highlight for you today is that maybe in an hour
+you should at least have an expert opinion
+whether single point fluctuations
+of the electromagnetic field are real or are just
+a convenient tool to describe some physics.
+But let's get them.
+So the way how I want to make the transition from two
+neutral atoms to two metal plates
+is by reminding you that the potential was proportional
+at long range to 1 over R to the 6, at short range at 1 over R
+to the 6.
+And if you had the model that the long range interaction
+comes, because the vacuum fluctuations drive
+dipole moment in the two atoms, then we
+know that the potential is proportional
+to the polarizability of atom 1 time
+the polarizability of atom 2.
+So let's now extend that to the interaction
+between an atom and a wall.
+Well, since I don't know--
+at least not yet--
+how to describe a wall, I take the position
+that well, we have an atom close to a wall,
+but now I extend the wall to a sphere of radius z.
+And it's sort of obvious that if an atom in the x with the wall,
+if the wall were flat, it is of course this part of the wall
+which is most important.
+So we should actually get a quantitative or
+semi-quantitative result out of that.
+But now I can use a nice result from electrostatics--
+which I also discuss the 8421 in the M01 course--
+namely when we have a conducting sphere of radius z.
+Do you know what the polarizability of a sphere is?
+You must have all solved this problem
+in classic electrodynamics.
+You apply an electric field, you calculate with a boundary
+condition of the sphere.
+Some spherical harmonic function.
+You calculate what the dipole moment is,
+and you find the proportionality constant.
+It's like z squared [INAUDIBLE].
+Yes, the one thing I want is that it's
+proportional to z cube.
+It's the volume of the sphere.
+And the reason why I discuss that in atomic physics
+is when we talk about the dipole moment and the polarizability
+of the hydrogen atom, we find that the polarizability
+of the hydrogen atom is super radius cube.
+So it seems that when it comes to electric fields
+and to polarizability, an atom, on hydrogen atom
+behaves exactly like a conducting sphere.
+And the size of this sphere is now the size of the atom.
+
+So but that means now that the long the potential
+will now be proportional to the polarizability of the atom,
+and we lose three powers in the power law
+because we have three powers of z
+in the polarizability of the sphere.
+If that worked so well once, we can now
+use that at least as in ridge to discuss what happens
+when we have two metal walls.
+Well, we can now see we have two spheres.
+And the polarizability of each sphere
+is proportional to z cube.
+Well, when we have two walls, we want
+to use the potential per area.
+
+So what we had is we had 1 over R to the 7.
+We lose three powers of R over z because
+of one sphere, another three powers of the other sphere.
+So that's 1 over z.
+But when we normalize by area, it becomes 1 over z squared.
+And now we find that the potential is 1 over z cube.
+And at least with that I have--
+I wouldn't say derived, but motivated for you--
+the famous Casimir potential, which is 1 over z cube.
+And I want to give you an exact derivation of the Casimir

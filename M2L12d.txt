@@ -1,0 +1,102 @@
+#
+# File:   content-mit-8422-1x-captions/M2L12d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 93 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Like with every exact result, you
+have to ask what it's used for because we have,
+we started out with u, which we couldn't calculate with Fourier
+transform.
+We got G, which we couldn't calculate.
+And now, we've expressed G in r, which of course we cannot
+calculate exactly.
+But there is an importance.
+We have made progress for the following reasons.
+Namely, the first is that those resonant terms, which
+appears in the time evolution whenever the system goes back
+to the state b, is now fully accounted for.
+We've sort of factored those terms out.
+We've given them special treatment.
+And therefore, and this is the main result, the expression,
+which now is the non-trivial expression, the function
+r, the kernel, has no divergencies.
+And therefore, because there is no critical part to it,
+rather simple approximations can be made
+and lead to physically meaningful results.
+I mean that's an idea you may see often in physics.
+You have a theory where there is something complicated,
+non-perturbative divergence.
+But you just rewrite the theory, transform the equations
+in such a way that the structure of the equations
+now accounts for the physics behind it.
+And the part, which has to be calculated now,
+can be calculated with good approximation.
+And you still get the correct physics out of it.
+The structure of the equation accounts for the physics.
+And the numerical part has become very harmless.
+But what it does is even if you do now a lowest order
+approximation to the function r, even
+those very simple approximation correspond
+to an infinite number of terms in the original expansion.
+Or in other words, the message is you have an expression.
+And if you do a perturbative expansion,
+well maybe you should do some form of perturbative expansion
+not to the whole expression.
+You should do it to some denominator
+or to some part of the denominator
+because then the perturbative expansion
+involves no divergent terms and can be performed.
+So therefore, we are now in a position
+to make approximations to the function r.
+And the simplest approximation which we can do
+is we can just try to see if we can get away
+with very low order.
+It's not-- we are not getting into any divergences here.
+And let me call this now the triangle.
+So the circle was the naked interaction.
+The square would be the exact function
+if you sum up those interactions to all orders.
+And the triangle is now well the step in between.
+We hope to get away with the triangle.
+So that would mean the following that the exact formulation
+had it propagated the state b has
+to go through multiple squares.
+This is how it propagates.
+This would be the exact result after the re-summation
+we have done.
+And an approximate result is now that the squares
+are replaced by triangles.
+So that's pretty neat.
+But the importance comes now when I pull things together.
+I want to show you what we have exactly
+done for treating an atom in the excited state
+and for treating light scattering.
+So in other words, that's our result. We have derived it.
+I just go now and apply to an excited atomic state.
+So the state we are interested is the atomic state
+b and no photons.
+And the property of the atomic state
+is obtained when we know the function Gb of c.
+Just to tell you what it means, this
+is the time evolution operator when we Fourier transform--
+an inverse Laplace Fourier or Laplace transform,
+which is a contour integral in the complex plane,
+a generalization of the Fourier transform.
+This would take us then to the time evolution
+for the atom in state b.
+So this is now the diagonal matrix element of the T matrix.
+
+And this is the matrix element between state b0 b0
+and the time evolution operator.
+So we are calculating, of course,
+the Fourier transform of the time evolution of the state
+b by the Fourier transform for the resolvent G.
+And all the work we have done with our diagrams
+means instead of calculating G, we are calculating the kernel
+r of z.

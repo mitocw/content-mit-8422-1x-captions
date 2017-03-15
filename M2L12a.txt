@@ -1,0 +1,74 @@
+#
+# File:   content-mit-8422-1x-captions/M2L12a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 65 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+And just to remind you where we are,
+we are describing interaction between the electromagnetic
+field and atoms.
+And we had formulated an exact approach
+using the time evolution operators and diagrams.
+And well, I think we understood what
+it means when atoms in the ground state
+emit photons, which are virtually absorbed
+and all that.
+So we figured out what is really inside this formalism
+and what are the processes.
+What we want to continue discussing today
+is one problem, which you often have with such approaches.
+And this is the problem of resonance.
+If you have a perturbative treatment,
+even if you carry it to infinite order,
+you have formally divergencies if you
+have resonant interaction because the ground state
+and the photon has exactly the same energy
+as the excited state.
+And that means, if you write down
+the perturbative expension, you have
+a zero in the denominator of divergence.
+And I reminded you that in a phenomenological way,
+you have seen that this problem can
+be fixed by adding an imaginary part to the energy level--
+just saying well, the excited state
+couples by spontaneous emission to the radiation field,
+and the level has widths.
+Well but you know, sometimes putting imaginary part
+into Schrodinger's equation means
+it's no longer unitary time evolution.
+It has its problem.
+But any way, we want to now look deeper into it.
+I want to show you what are the tools
+to treat those infinities, those divergencies,
+in a consistent and a systematic way.
+And one hint how we have to do with it comes
+by simply taking this energy denominator
+and expanding it in gamma--
+simply a Taylor expansion in gamma.
+And then we realize--
+I mean, gamma is often calculated in second order
+from this Golden Rule.
+But since we have here all orders n,
+that tells us that doing something here
+probably means infinite orders a perturbation series.
+And that's what I want to show you today.
+I want to show you that I can go beyond this result,
+but I can reproduce this result by going to infinite order
+in perturbation theory.
+And that means to sum up an infinite number of diagrams.
+Who of you has actually seen those kind
+of diagrammatic tricks and summation?
+A few.
+OK.
+So it's maybe nice to see it again.
+But for those who haven't seen it,
+welcome to the magic of diagrams.
+I learned it from those examples.
+And I really like it.
+It's a really elegant way to combine equations
+with graphical manipulations.

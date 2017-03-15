@@ -1,0 +1,49 @@
+#
+# File:   content-mit-8422-1x-captions/M2L10c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 40 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So let me give you one interpretation, which I really
+like, and I learned that actually form Dan Kleppner when
+he taught the atomic physics course at MIT
+20 years ago, that was one element of it.
+And I told you at the beginning that I'm actually proud that
+our atomic physics course has hopefully kept the best
+of the decade long tradition of teachers like [INAUDIBLE]
+and Kleppner and [? Dave ?] [? Pritchard. ?] So this is now
+really due to Dan Kleppner.
+And I will later today actually post
+Dan Kleppner's original lecture notes about this effect.
+So we want to understand the Van der Waals force in a completely
+different system.
+And I think that helps.
+We have two LC circuits.
+There's L, C, C, L. And what happens
+is the two capacitors are close, so there
+is a stray field of one capacitor [INAUDIBLE]
+the other capacitor.
+So I won't go through the detailed math here,
+because it's not necessary.
+But what we have here is we have two coppered systems,
+two coppered capacitors, and the only thing I want to use
+is that the stray field of a capacitor
+has a dipole characteristic.
+And it decays with 1 over r cubed.
+So what we have right now is each LC circuit, when
+it's isolated, has a resonance frequency of omega naught.
+But now, when we have two pendulums, two oscillators
+which are coupled, we get two modes,
+which are omega plus and minus.
+And if we simply solve for two modes
+and they have some coupling--
+well, we get an upshift and downshift by the coupling.
+But if we look more carefully at the solution for two
+coupled modes, it has also a quadratic effect,
+which is sometimes neglected, but it's there.
+So this is in general what you will

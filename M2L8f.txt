@@ -1,0 +1,150 @@
+#
+# File:   content-mit-8422-1x-captions/M2L8f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 141 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+In this chapter, we want to look at interactions
+between light and atoms using Feynman diagrams.
+And I know this part of the course is a little bit formal.
+We are using exact solutions for the time evolution
+operator in quantum physics.
+But I'm not doing it to teach you sophisticated formalism.
+Well, it's interesting to learn it anyway.
+But it is this picture of really writing down
+the exact solution of the time evolution operator
+which helped me to understand much better what
+virtual states are, what certain virtual photons are.
+So there are things we talk about it all the time.
+And the question is, how do you define a virtual state?
+What is the virtual emission of a photon?
+And the only way how I can really
+explain it to you is by showing you the equation
+and say, look, the virtual photon
+is just a term in this equation.
+So, that's the goal of this chapter.
+I don't want to over emphasize a mathematical rigor,
+but I want to really show you what
+it means to have virtual photons and that what exactly
+virtual states are.
+So let me first motivate that by reminding you of two diagrams.
+In physics, we always like to draw something,
+a few lines a few doodles.
+And when we have a two level system,
+we have the two processes which are emission and absorption.
+Well, so this is easy as long as the light is in resonance.
+But if the light is not in resonance,
+we may ask, what about this process?
+And since somehow the wiggly of the photon ends here,
+I may even put in a dashed line and say,
+this is a virtual state.
+What does that mean?
+Or we can even ask, is it possible--
+I'm just playing with straight lines which are quantum state
+and wiggly lines--
+is it possible that this process happens?
+
+That would actually mean that an atom in the ground state just
+out of the blue emits a photon.
+Can that happen?
+And I can again draw a dashed line
+and say, here is a virtual state.
+
+Or we can say we start in the excited state.
+The atom is in the excited state.
+But can the atom--
+it's a two level system so we don't include higher states--
+but can a two level atom in the excited state
+absorb another photon?
+Good.
+So question is, are those processes possible?
+
+Yes or no?
+Yes.
+Yes, they are.
+And they have experimental observable consequences.
+However, they look funny because something seems to be strange
+here with energy conservation.
+And what we will see is that in the end, the end of the day--
+that means if we have an-- if we let the system evolve
+for a long time--
+after a long time, energy has to be conserved.
+And therefore, we will always need a second photon
+to conserve energy.
+So those weirder processes where photons
+are emitted by ground states out of the blue or excited states
+absorb other photons without--
+also, there is no higher lying state.
+That looks a little bit strange but with--
+so what you will see is--
+and I want to show you that mathematically--
+if an atom emits a photon out of the ground
+state, where does the energy come from?
+But quantum mechanic allows us to violate energy conservation
+by an amount, delta E, for a time which
+is h bar over delta E. So for a short moment,
+energy can be violated.
+But then you need the second photon
+to reconcile energy conservation.
+You can violate energy only for short times.
+And if you would say, what does it really
+mean to violate energy conservation for a short time
+spell, I want to show you the equation which
+exactly explains what it means.
+
+Next question, just to see--
+if you have an excited state and you just
+say it's possible to absorb another atom,
+you are in the excited state and you absorb another photon.
+And at least you said yes, this is possible.
+My question is, when you are in the excited state
+and absorb a photon, in which quantum state is the atom
+after absorbing a photon?
+[INAUDIBLE]
+Pardon?
+[INAUDIBLE]
+In the calm state.
+Yes.
+There is no other state.
+And the operator-- and I want to show you that--
+when photons are exchanged, all this transforms the ground
+to the excited state.
+Because a dipole operator connects the ground
+to the excited state.
+So therefore, but we'll see that all
+in the time evolution operator in the formal solution
+that this dashed line is actually the ground state.
+And while it's not obvious, what is this dashed line?
+The excited state.
+It is the excited state.
+The atom in the ground state emits a photon.
+Therefore, the atomic system has now
+lower energy because the photon has been emitted.
+But the character of this state is now the excited state.
+
+So we will later see that this means
+that in a perturbation analysis, we are violating energy.
+We are violating energy because the real excited
+state is omega photon plus omega atom, the resonant energy
+for the atom.
+The real excited state is omega photon plus omega atom higher.
+So you will actually find that in a perturbation analysis,
+this term has an energy denominator, which
+is off resonant by exactly this separation.
+And this term, because of the real calm state is here,
+the virtual state here, which is accounted, is here,
+has actually the same energy denominator as that state.
+And for this state, of course, this
+is something you've seen in off resonant light scattering,
+the energy dominator is that.
+
+So I have explained to you that we involve virtual states.
+So when we have virtual states, we
+want to clarify, what is the energy?
+But we discussed that already in the discussion.
+And what the wave function, ground or excited state?

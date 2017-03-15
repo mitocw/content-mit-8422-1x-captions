@@ -25,14 +25,14 @@ So the course has evolved.
 It wants to stay connected to what is exciting, what is hot,
 and what prepares you for research at the frontier.
 8.422, the second part of the two-course cycle
-in the graduate course in AMO physics
+in the graded course in E&M physics
 is somewhat different, not radically different.
 But it's somewhat different from part one, from 8.421.
 First of all, 8.421, 8.422 can be taken out of sequence.
-We alternate between AMO I and AMO II.
+We alternate between EM-01 and EM-02.
 And whenever you enter MIT, you're probably
-in your second semester, take whatever we offer.
-So let me ask you, who of you has taken AMO I?
+in your second semester, take ever be offer.
+So let me ask you, who of you has taken EM-01?
 Yes, statistically, it should be about half of the class.
 
 It can be taken out of sequence, because that's the way how
@@ -64,13 +64,13 @@ And then eventually, you have to work on the foundation.
 
 Yes.
 Prerequisites for this course-- the course announcements
-said 8.05.
-It is actually 8.05 and 8.06.
-The main part of 8.06, which we really need here
+said 805.
+It is actually 805 and 806.
+The main part of 806, which we really need here
 is perturbation theory-- time-independent,
 time-dependent perturbation theory.
-And this is usually covered in 8.06.
-However, I've had students who took the course without 8.06.
+And this is usually covered in 806.
+However, I've had students who took the course without 806.
 If you're really determined and want
 to acquire certain things by self-study,
 you can follow this course.
@@ -89,7 +89,7 @@ One is the simple part, excitation and stimulated
 emission, because this can be simply described
 by unitary time evolution.
 And you can do a lot, if not everything,
-by using Schrodinger equation.
+by using Schrodinger recreation.
 Things get much more complicated and richer
 if you include spontaneous emission or, more generally,
 if you include dissipation.
@@ -114,7 +114,7 @@ Also, it's not the focus.
 Cause We will come across basic building blocks
 of quantum information science.
 Pretty much when atom and photons interacts.
-This is a fundamental quantum gate.
+This is fundamental [INAUDIBLE].
 And we'll talk about the many-body physics
 of quantum gases.
 So maybe it becomes clearer what we
@@ -126,7 +126,7 @@ We will not talk about the physics above 10 electron volt.
 We will not talk about collisions.
 Or maybe I should say high-energy collisions.
 
-We will, of course, talk about nanokelvin collisions, which
+We will, of course, talk about [INAUDIBLE] collisions, which
 is the physics of the scattering lengths
 and some s-wave collisions, which are really
 relevant to understand quantum gases.

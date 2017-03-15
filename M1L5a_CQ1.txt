@@ -16,4 +16,3 @@ things in the same unit.
 We want to talk about coherent states,
 so the first are just little, quick checks.
 Coherent states are eigenstates of the Hamiltonians,
-of a, or of a dagger

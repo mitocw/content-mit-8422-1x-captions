@@ -1,0 +1,73 @@
+#
+# File:   content-mit-8422-1x-captions/M2L12g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 64 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So to wrap up this chapter, what we have discussed here is--
+I haven't really discussed resonant scattering.
+I've now focused on the function Gb.
+I focused on what happens to the state b.
+But this is-- and this is what I want to for you now--
+the only element we need to discuss resonant scattering.
+So when we have an atom in the ground state,
+and a photon comes along, and it takes the atom to the excited
+state b.
+And then we go back to the same state--
+could be also another state--
+by emitting a photon k prime epsilon prime.
+
+And the relevant matrix element of the time evolution operator,
+which is the T matrix, involve now the matrix element
+the initial energy minus the intermediate energy.
+And the critical part is really--
+you can do it mathematically, I just
+showed it here as a summary--
+the critical part is really the propagation of the state
+b, which is problematic.
+But we have now learned, and it transfers exactly
+to the light scattering problem, that we
+have to include now radiative shifts and an imaginary part
+for the decay to the time evolution.
+And that would actually mean or that
+means that this diagram here for light scattering,
+we have added other terms to it.
+And the other terms are, of course,
+that when we scatter light of an excited state like this,
+the excited state can sort of emit photons and reabsorb them.
+And it can do that too.
+So we go to that state.
+It can do that to infinite order.
+So in other words, for any problem now
+which involves the excited state,
+we replace the [INAUDIBLE] order propagation of the state b.
+And mathematically, it means we replace this function
+by the resolvent, which we have calculated
+by doing an approximation to the [INAUDIBLE].
+Questions?
+Question, having found no resonant-- off resonance,
+excuse me.
+Pardon?
+Is this discretion of the [? Tfi ?] value
+for off resonance?
+Yeah, OK what happens is if you're off resonant,
+you don't have a problem.
+This extra term delta and gamma, the radiative shift
+and the line widths, only matter when the black term
+is close to zero.
+If you have a large detuning delta here,
+then the small shift in the line widths don't matter.
+So everything we have done by correcting
+the naked propagation of the state
+b by the correct propagation with these infinite emission
+and re-absorption of virtual photons,
+this is only needed if the denominator is zero.
+And then we have to figure out what else happens.
+And what else happens is obtained
+in higher order with this non [INAUDIBLE] treatment.
+Other questions?

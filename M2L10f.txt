@@ -1,0 +1,321 @@
+#
+# File:   content-mit-8422-1x-captions/M2L10f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 312 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The reason why I want to show it to you
+diagrammatically are actually twofold.
+One is, it's really beautiful how it comes out.
+But the second thing is--
+when I introduce the Feynman diagrams
+and all this formulation in terms of propagators--
+I gave you a wonderful picture, but in the end,
+I reduced it to first and second order perturbation theory.
+So I want to show you at least one non-trivial example, where
+you would not get the result easily without this formalism.
+So enjoy one non-trivial application of diagrams.
+So if we follow the systematic way
+how we have set up our formulation of [INAUDIBLE]
+electrodynamic with the quantized photon field,
+then the true neutral atoms have no direct coulomb interaction.
+I just want to point that out, because a few minutes ago,
+when I said a classical system is just coulomb field.
+Each charge element has a coulomb potential
+with the other charge element.
+This was just the opposite of [INAUDIBLE].
+But in our QED formulation, we have sold our soul.
+We have said, we only regard the near-field,
+the longitudinal field as belonging to the atoms.
+Everything which happens at longer range
+is included in our atom-photon Hamiltonian.
+So therefore, there is no direct coulomb interaction
+for the longitudinal field.
+Everything now has to come from the interaction,
+the perturbation operator, for the quantized radiation field.
+And therefore, we must get it out.
+We have one atom at d, one at d prime.
+I'm using now the nomenclature which
+is used in atom-photon interaction, pages 121 to 126.
+And so there is one atom at the unprimed location, one atom
+at the primed location.
+And everything has to come out now
+of the formulation of the quantized radiation field.
+And we have discussed at length that
+the transverse electric field become operators a plus a dega.
+The symbol for the dipoles are operators acting on the atoms.
+We've done all that.
+So then the only thing which happens is--
+and this is described by a and a dega--
+is the exchange of photons.
+So the only way how those two neutral objects can interact
+is through the radiation field.
+And through the radiation field means
+they have to emit photons.
+So I want to show you now that the Van der Waals
+interaction can be thought of as one atom emitting a photon.
+But this virtual photon is absorbed by the other atom
+and vice versa.
+
+And you may have heard quite often--
+but I'm not sure if you've seen it explicitly--
+that a lot of interactions in physics
+are actually mediated by the exchange of virtual particles.
+The famous example is that the nuclear force
+comes from a virtual exchange of pions.
+
+But then people say the coulomb force
+comes from a virtual exchange of photons.
+But usually, we don't really show you
+how this virtual exchange of photons works.
+So in that sense, I'm proud that I can show you
+at least the basic outline of how virtual exchange of photons
+between two neutral atoms leads to the Van der Waals potential.
+So that's our agenda.
+
+Now, the fact that this takes six pages in the book
+and the book is not solving all equations
+means if you really want to do it quantitatively,
+it has a certain complexity.
+But what I've done is I've distilled out
+the [INAUDIBLE] idea, which also shows
+you what happens when you go from short-range to long-range.
+And this is what I want to present you.
+And therefore, I take Benjie's question.
+And we'll not discuss all the modes
+of the electromagnetic field.
+I will immediately use the fact that the dominant contribution
+comes from modes.
+And since we don't have real photons--
+we don't have energy to create real photons when everything is
+in the ground state--
+we call them virtual photons.
+Virtual photos are photons which are emitted,
+but a short time later-- because of Heisenberg's uncertainty--
+have to disappear.
+So the dominant contributions come from virtual photons
+at the wavelengths which is d, the distance between atoms.
+So the frequency, which will play an important role,
+is simply the frequency of those virtual photons.
+And I gave you already the reason,
+the density of states which favor higher frequencies,
+but higher frequencies cancel because
+of the e to the ikr terms.
+So we only focus on those.
+The second thing I need is that, when we do perturbation theory,
+the energy shift in perturbation theory--
+well, if you do second order, you go from the initial state
+to an intermediate state.
+And then you go from the intermediate state one
+to the final state.
+And what you have to do is you have to divide by the energy
+denominator.
+If you do higher and higher order perturbation theory,
+in our diagramatic presentation, that
+means we have propagators at intermediate energies.
+And I told you that the time an atom can
+spend in the immediate state is 1 over the energy defect.
+
+So if you integrate the e to the i energy defect factor
+over time, you get something which is proportional to 1
+over delta e.
+So therefore, if you perform the time integration
+of the perturbation analysis, you
+find, by integrating over the short time,
+particles spent in the intermediate state,
+you actually generate those energy denominators.
+That's actually the relationship between the time propagation
+I showed you earlier.
+And when you integrate over the time,
+you get for this intermediate state contribution,
+which is 1 over the energy defect
+over the intermediate state.
+So therefore, if you go now to a higher order perturbation
+theory, we simply have a product of matrix elements
+in the numerator.
+And in the denominator, we have a product of energy defects.
+We are using that all the time for second-order perturbation
+theory.
+But the structure is that you can just
+daisy chain the expression and you
+get higher-order perturbation theory.
+So therefore, all we will have to understand
+to figure out what happens when virtual photons are exchanged--
+I will just show you two relevant diagrams.
+And look, we stare at the diagrams.
+And figure out, what are these denominators?
+What are those energy defects?
+And we will find that there is a difference
+at long-range and short-range.
+So that's the agenda.
+So we will need two energies.
+One energy is the energy of the virtual photon,
+which is exchanged.
+And the second energy or frequency
+is the resonant frequency of the atom.
+So let's look at two relevant diagrams.
+So one is atom a, one is atom b.
+We are interested in interactions between atoms
+in the ground state.
+And after a sufficiently long time,
+both atoms have to be back in the ground state.
+One, two, three, four.
+The result is obtained in fourth-order perturbation
+theory.
+It has to be fourth-order, because we need photon
+exchange to emit a photon here.
+Absorb it here is second order.
+
+But then one atom is in the excited state.
+And this can't be.
+So a second photon is required to undo the effect.
+So we need exchange of photon pairs.
+Each exchange means absorption and emission.
+That means two vertices and photon pairs means another two.
+So we need fourth-order perturbation theory.
+But it's much, much easier than you think.
+So we have a ground state atom.
+And now the action starts.
+This is the first vertex.
+It emits a photon.
+The photon is absorbed by the other atom, which puts the atom
+into the excited state.
+This atom is also in the excited state, of course.
+And then we know the atom cannot stay in the excited state
+for a long time.
+It can now emit a second photon, which brings it back
+to the ground state.
+And the second photon is absorbed by atom b
+and puts the atom back into the ground state.
+So this is one relevant diagram.
+And let me analyze it in the energy defects.
+Here, in the first intermediate step,
+the energy defect is, well, we have ground, ground.
+This is our reference.
+But now we have put one atom into the excited state,
+that costs energy omega 0.
+And we have created one photon omega.
+Here in that timestep, they are no photons,
+but there are two excited atoms.
+And in the third timestep, we have still one atom
+in the excited state and one photon.
+Now, this is one relevant class.
+I mean, you can now use permutations
+that atom b excites photons first and such.
+But the structure of many of these diagrams
+will be the same, that we have those three energy defects.
+But now we have another possibility.
+And this is, one atom emits a photon.
+
+It doesn't want to be excited, because the excitation
+energy is so precious.
+It wants to immediately return to the ground state.
+So we could have a situation that that atom
+fires a second photon before the first photon is absorbed.
+
+The relevant diagram is now this.
+So the atom started in the ground state,
+is in the excited state.
+But as soon as possible, it goes back to the ground state.
+And the other atom starts out in ground state,
+is in the excited state, and is back in the ground state.
+So what we have here is we have, again,
+three intermediate steps.
+In the first step, of course we have an excited atom
+and a photon.
+And we have the same here.
+But now, the difference is that in the intermediate step,
+our energy defect is not two atomic excitations.
+It is two photonic excitations.
+And now we want to compare those two diagrams
+for short and for long-range.
+And it becomes clear that short range is where
+the frequency of the photon--
+its wavelength is lambda.
+Short-range means high frequency.
+The frequency of the photon is larger
+than the atomic excitation energy.
+Or that means the distance is smaller
+than the resonant wavelengths of the photon.
+Whereas long-range is that the atomic excitation
+is more precious than the photonic excitation.
+So we are here in the limit that omega is larger than omega 0.
+So that means if we take now the product of the free energy
+denominators, omega dominates over omega 0.
+So it will have the structure omega, omega 0, omega.
+Omega, omega 0, omega.
+
+Whereas, at long range, omega 0 dominates.
+We have omega 0, omega 0, omega 0.
+So the structure of the product of energy denominators
+is one over omega 0.
+If you look on the right-hand side,
+we have replaced in the intermediate part
+in the propagator, the energy defect by omega 0 by omega.
+So therefore, in this case, we have 1 over omega cubed
+and one over omega 0 squared omega.
+So we know that when we sum up over diagrams,
+we have to sum up over all possible diagrams.
+And the ones which dominate at short-range are those ones.
+And at long range are the other ones.
+So in other words, at short range,
+one photon is exchanged and disappears.
+And then the next photon comes.
+But at long range, we have an exchange
+that one atom sends out two photons almost simultaneously
+and the other atom absorbs them.
+Because it sends them out simultaneously,
+because here, we are talking about long wavelengths photons.
+And photons are cheaper--
+rather send out two photons before you spend too much time
+in the excited state.
+OK, let's wrap it up.
+Since omega is proportional to 1 over the wavelengths.
+And I said, the photons we are concentrating
+is the photons which have a wavelengths of the distance, d.
+So what we are realizing now is that if you just
+compare those diagrams, at long range,
+we go from 1 over omega squared to 1 over omega.
+So at long range, we have an additional factor
+of omega, which is 1 over d.
+
+I can't show you that without solving the real problem--
+but if you assume that, at short range,
+we have 1 over r to the 6 Van der Waals potential, then
+at least I've proven to you that, at long range,
+you get one more power in the distance.
+And this is the transition from an instantaneous potential,
+where propagation effects do not matter, to what
+is called a retarded potential.
+
+So that's all I wanted to show you about interactions
+between two neutral atoms.
+Are there any questions?
+[INAUDIBLE]
+Does it matter the direction of the photons?
+For example, can atom a emits to b.
+B absorbs it.
+B emits to a.
+Rather than--
+In practice, it matters.
+When you solve it, you have to sum over all possibilities.
+Remember, quantum mechanic [INAUDIBLE] does everything.
+It doesn't care whether it's allowed or not.
+It tries everything out, whether it violates energy or not.
+And you have to sum over everything.
+But if you then analyze all the possible diagrams,
+you will actually figure out that no matter what you do--
+what permutation of photons and atoms you have--
+the fourth-order diagrams will be such
+that they are always distinguished
+by this intermediate zone.
+Whether you have two atomic excitations or two photonic
+excitations.
+And so what I drew for you were the two diagrams
+which are representative for a whole class of diagrams here.
+But absolutely, yes.
