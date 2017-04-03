@@ -1,0 +1,51 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 42 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Just a quick reminder--
+since this was covered in 8.421 and most of you know about it,
+I prewrote the slides.
+The density matrix is a time evolution.
+There is one which is sort of trivial, and covered
+in more elementary text, and this
+is the Hamiltonian evolution.
+And I'm sure you've seen it.
+The time evolution, the unitary time evolution,
+involves the commutator of the Hamiltonian
+with the density matrix.
+And later on, we want to specialize,
+including dissipation, including the environment,
+to the evolution of a two-level system driven
+by a monochromatic field.
+And this is the famous Jaynes-Cummings Hamiltonian.
+And we can characterize this system by a density matrix.
+What will be very important is that we distinguish
+between populations-- the diagonal parts
+and the coherences.
+And if you simply put this density matrix
+into this equation, you find the time evolution of the system.
+And we will refer to that result later on.
+Many of you have seen it in 8.421.
+We can parameterize the density matrix
+for the two-level system.
+So we can parameterize the density matrix
+for two-level system by a Bloch vector r, which
+is defined by this equation.
+And then the equation of motion is simply
+the rotation of a Bloch vector on the Bloch sphere.
+And it has a rotational axis which
+is given by the undriven system rotates around the z-axis.
+This is just e to the i omega naught t, the normal evolution
+of the free system.
+But if you drive it with a monochromatic field,
+we have a rotation over the x-axis.
+And the x-axis, of course, can take your two-level system
+and flip it from the ground to the excited state.
+So that's just a reminder of the simple unitary time evolution.

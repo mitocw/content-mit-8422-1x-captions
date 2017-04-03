@@ -1,0 +1,311 @@
+#
+# File:   content-mit-8422-1x-captions/M3L12h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 302 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The next chapter is called Derivation of the optical Bloch
+equation.
+What we really need for a number of phenomenon
+in AMO physics for laser cooling,
+light forces, and much more are the optical Bloch equations.
+But what I try in this chapter to give you sort of the story,
+the profound, story the fundamental insight
+behind the optical Bloch equations.
+Because what the optical Bloch equations are
+is the following-- we want to describe a quantum system.
+But the quantum system is coupled to the environment.
+And that means we have dissipation.
+And this is something which is not easily dealt
+with in simple quantum physics, because a simple quantum
+system undergoes unitary time evolution described
+by an Hamiltonian.
+And unitary time evolution does not allow entropy to increase,
+does not allow energies to be exchanged.
+So a lot of things which happen in our experiments
+and in daily life come because the system we are looking at,
+it follows Schrodinger's equation,
+but it is coupled to a much bigger system.
+And so in this section, what I want
+to address at the most fundamental limit is, what
+is this step where we go from reversible equation,
+unitary time evolution, to something which is called
+relaxation, which is dissipative,
+where entropy is increased?
+And this step, of course, is we go from pure states
+to statistical operators.
+We describe a big system, but then we
+focus on the small system.
+And I want to show you, first with a simple example,
+but next week in more generality,
+how this completely changes the nature of the description
+of the small system.
+A small system which was just described
+by Schrodinger's equation now follows the density matrix
+equation, has relaxation, the entropy increases, and such.
+To maybe set the stage, one of the simplest system
+we can imagine is James Cummings' model,
+that we have an atom in a cavity interacting with one
+or mode of the radiation field.
+And in this course in Part One, we've dealt with it,
+and looked at vacuum Rabi oscillation
+if you really need things.
+But what happens is that the system is an open quantum
+system.
+You can have spontaneous emission.
+And if your mirrors are not 100.00% reflectivity,
+some light leaks out.
+So in other words, we have coupling to the environment.
+Of course, we can say we simply describe it.
+We have our atoms, maybe one mode and plus
+the one mode of the electromagnetic field.
+And then we have the environment,
+which may consist of photons which are leaking out
+and photons which are spontaneously emitted.
+So this is our system.
+And of course, if you write down the total Hamiltonian
+and do the time evolution, something
+will come out which in general, is very complicated, very
+entangled.
+The atom is entangled.
+The atom moving to the left side is
+entangled with a photon which was emitted to the right side,
+and the recoil of the photons push the atom.
+So you have now to keep track of all the photons
+which have been scattered in the lifetime of an atom.
+So you can do that.
+And you do that by propagating the system
+with its total Hamiltonian.
+But often, what we do is we simply
+put the photons in a trash can.
+We trash them. we're not interested what
+the photons are doing.
+We're not keeping track of them.
+Actually, they hit the wall of our vacuum chamber,
+and we couldn't even keep track of them.
+The vacuum chamber has taken care of them.
+So all that we are interested in,
+how do we now describe the atomic system?
+What after the time evolution is now the density matrix
+of the system?
+
+Of course, if we use the full description--
+we know the initial state of the environment,
+we know the initial state of our system,
+we propagate it exactly with the correct time evolution,
+we get everything, and then we could reduce
+by doing a partial trace.
+We could reduce a description.
+What is now the probabilistic description for the density
+matrix of the atom?
+But this is rather complicated.
+What we want to do is, we do it as a derivation,
+but in the end, we want to have a formulation which simply
+tells us what is the atomic density
+matrix as a function of the initial atomic density matrix?
+So in other words, all that, what happens with
+the environment-- that there is an initial state,
+that it gets entangled, and then we neglect,
+we're not keeping track of the photons--
+we are not interested in all that.
+We really want to focus on what happens to the atom.
+How does an initial state of the atom
+propagate into a final state?
+And this is done by optical Bloch equations.
+This is done by the master equation.
+So the master equation, as you can see,
+focuses on the relevant part of the system, maybe just
+a single atom.
+And we can neglect the million photons
+which have been emitted.
+But those million photons which have
+been emitted into the environment, they
+change, of course, the density matrix of the atom.
+And if you find a description, the master equation
+is including, with extra terms, what those photons have done.
+Maybe this sounds very abstract, but in the end,
+you will find that maybe photons which emitted
+produce some damping.
+Or if you put atoms in molasses, the atomic motion
+comes to a standstill.
+So in other words, we want to develop
+a systematic approximation scheme for the master equation,
+where the effect of all these many, many degrees of freedom
+can maybe be simply expressed by a few damping terms.
+So that's the idea.
+So you know already one example of a master equation.
+And these are Einstein's rate equations,
+which we have discussed in the first part of the course.
+If you have a two-level system, which
+is coupled to the radiation field,
+then we obtain the equations that the rate of change
+of the ground state population is related to the excited state
+population through spontaneous emission
+described by the Einstein A coefficient.
+And if you have a spectral density
+of the electromagnetic field, it causes stimulated emission,
+and it causes absorption described by the Einstein A
+coefficient.
+And you have a similar equation for the excited state.
+So this is clearly the semi-classical limit
+of what we want to accomplish.
+But we want to know more.
+We really want to know not just what is
+the rate equation for the atom.
+We want to know, you can say, the wave function.
+Well, wave function slash statistical operator--
+the statistical operator contains all information
+of the wave function.
+And if the wave function is a pure state,
+it has a certain statistical operator.
+And we can find the pure state, so that's what we want to do.
+But sort of just generically, we really
+want to find the full quantum time evolution.
+And now, I just want to express that.
+We have to be careful.
+The time evolution, as an Hamiltonian,
+if you now bring in the environment,
+cannot be simply included by adding an imaginary term.
+This here violates the unitary time evolution.
+In other words, when we find an equation for the quantum
+system, how it evolves, it's not that everything
+you think which phenomenologically works will
+work.
+It has to be consistent with the laws of quantum physics.
+In other words, when we find an equation which
+describes the atomic system, it will be a requirement
+that a density matrix turns into a density matrix.
+So a certain structure has to be obeyed,
+and that is actually extremely restrictive.
+And our derivation of the master equation
+will actually show what kind of operators applied
+to the atomic density matrix are consistent, are quantum
+mechanically consistent.
+This is actually something which is a frontier of our field,
+both in theory and ion traps and with neutral atoms--
+that we have some evolution of an atomic system
+by coupling it with the environment.
+Well, the usual environment you can think of
+is just taking photons away.
+It gives us a damping term of the excited state.
+But now you can ask the question,
+can you construct an environment which
+has some degrees of freedom with laser fields, RF
+fields and such?
+You call it the environment.
+And this environment does something really fancy.
+And a system comes in equilibrium
+with the environment.
+But could you engineer the environment
+that the system comes into equilibrium
+with the environment, and it is in a fancy super fluid
+or fancy entangled state?
+So can you engineer the environment in such a way
+that it does something really fancy to your system?
+Well, you can dream of it, but your dreams
+are restricted by the mathematical structure
+of all possible master equations in the world.
+Because the environment cannot do everything for you.
+The environment can only do for you what can come out
+of all possible Hamiltonians.
+And the fact that the total system
+evolves in a unitary way with a total Hamiltonian
+of the system, this is really restricting.
+This operator that sort of stands for all possible master
+equations is restricting the master equation
+for your atomic density matrix.
+There was just, I think, this year or last year,
+a nice Science or Nature paper by Rainer Blatt's group
+in Innsbruck, where they engineered the environment
+around ions in an ion trap.
+And that stabilized the ion in a state
+which was an unusual state, not what the normally environment
+would have done.
+So anyway, what I've been telling you
+is also sort of relevant to understand
+this sort of frontier in our field,
+which is called "environment engineering."
+So what we have is, we have a system.
+And we have this environment.
+And what we are exchanging with the environment
+is both energy, but also entropy.
+So when we transfer energy or heat,
+there is a corresponding change in entropy.
+And it is a general property of all quantum systems.
+It's a consequence of the fluctuation dissipation
+principle, the fluctuation dissipation theorem,
+that you cannot have any form of relaxation without noise.
+
+So for instance, when we discuss optical molasses--
+we do that in a few weeks--
+where the atomic motion is damped,
+you have a damping term.
+It brings the motion, through friction, to a standstill.
+But we know by general principles
+that damping is not possible without noise.
+So when somebody sells you a wonderful damping scheme which
+damps the motion, you should always ask,
+but there must be noise.
+What is the ultimate noise?
+And it's fundamental that it is there.
+So therefore, our derivation of the master equation
+will also display that-- that we will not
+get any form of damping without at least the fundamental
+quantum noise.
+So what we need is a description of the quantum
+noise, which comes from coupling to the environment.
+The tool which we use for that is the density matrix.
+I assume everybody here is familiar with the density
+matrix.
+The atomic lecture notes on the wiki
+have a small tutorial on the density matrix.
+If you want to fresh up your knowledge about density matrix,
+maybe read about it.
+I don't want to cover it in class.
+The one thing we need, and I just want to remind you,
+is that for all the density matrices,
+you can always unravel it--
+that the density matrix can be written as a probabilistic sum
+over states.
+This will actually play a major role.
+We will make certain models for damping.
+And it's really beautiful.
+On Monday, I will give you the beam splitter model
+for the optical Bloch equation.
+I really like it, because it's a microscopic model,
+and it shows you a lot of fundamental principles.
+But the important part is, whenever
+we have a way to construct a density matrix by saying
+we have certain quantum states, k,
+and we just add them up probabilistically,
+this kind of microscopic interpretation of the density
+matrix is called unravelling.
+It's sort of writing it as a specific diagonal sum
+over states.
+But those unravelings are not unique.
+They describe one possibility, but there
+are other possibilities.
+And the one example which I can give you
+is that if you have a density the like this,
+you can write the density matrix, as this form suggests,
+as a probabilistic sum of being in the state 0, 0
+or in the state 1, 1, with probability 1/4 and 3/4.
+But you can also write it as being with equal probability
+in two states, a and b, where the states a and b
+are superpositions of state 0 and 1.
+And you can see by inspection that this will do the trick.
+So we'll talk a lot about unraveling
+of the density matrix.
+But I want to say upfront that the same density
+matrix can be thought of as being
+created by different processes.
+But this actually makes it even more powerful,
+because we have a unified description, or even
+an identical description, for different microscopic
+processes.
+OK, any last question?

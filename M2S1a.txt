@@ -1,0 +1,70 @@
+#
+# File:   content-mit-8422-1x-captions/M2S1a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 61 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+In the following video, you will see the derivation
+of the full QED Hamiltonian.
+The full QED Hamiltonian is very important for this course,
+because it describes all aspects of the interaction of light
+with atoms.
+Now, if you're not interested in the details of the derivation,
+the result is very, very simple, as is shown here.
+We simply have the free particle Hamiltonian momentum
+squared over 2 m, and the presence
+of electromagnetic modes--
+the presence of light--
+modifies this Hamiltonian.
+We add the vector potential to the momentum.
+P minus q A becomes the canonical momentum,
+and we have to add the Hamiltonian for the radiation
+field, which is simply a summation over all modes
+of the electromagnetic field.
+And each mode is an harmonic oscillator.
+So that's it.
+This is how atoms interact with light.
+I recommend to you to look at the full derivation,
+because it provides a very good background
+to all the assumptions and all the steps which
+lead to those terms.
+For instance, you may wonders there
+is an electric field which is a coulomb field,
+but there's also an electric field
+which is part of radiation.
+How do we distinguish between the two?
+Well, the answer is, one is the transverse field
+and one is the longitudinal field.
+Or you may wonder how all the different modes come into play.
+Well, the modes of the electromagnetic field
+is part of the classical solution.
+And as you will see in the longer video, when
+we look at the electromagnetic field classically,
+we can transform the equation that in the end
+Maxwell's equations for the radiation field
+reduce to harmonic oscillator equations, one for each mode.
+So in other words, the full video
+gives you a deeper familiarity and a deeper understanding
+to all the concepts which lead to those simple equations.
+So here is a summary of what will be derived in the video.
+It is the Hamiltonian in its full beauty.
+It has a vector potential, but of course, the important part
+is how is the vector potential expressed
+by quantum mechanical operators?
+And we will see that the vector potential is expressed
+in terms of a and a dagger--
+creation and annihilation operators for photons.
+And that's what atoms do--
+they absorb and they emit photons.
+And eventually, we have the Hamiltonian for light.
+And as I mentioned earlier, by carefully modifying
+Maxwell's equations, finding a Langrangian or Hamiltonian
+formalism of classical electrodynamics,
+we find that all the complicated radiation
+fields can be decomposed into modes,
+and each mode is simply an harmonic oscillator

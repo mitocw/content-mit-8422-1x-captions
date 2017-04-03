@@ -26,7 +26,7 @@ but how you can entangle atoms.
 But that's an outlook.
 I think, first of all, we want to understand
 what is entanglement.
-So entanglement is-- let me first motivate it.
+So entanglement is-- let me first [? motivate ?] it.
 Many people regard entanglement as the most quantum
 essence you can find.
 
@@ -39,7 +39,7 @@ like electromagnetic waves.
 They can be split, they can interfere,
 but Bose-Einstein condensates are so big, have so many atoms,
 that you hardly ever encounter quantum fluctuations.
-You are really in the classical limit of matter waves,
+You are really in the classical limit of metawaves,
 and I would actually say this is maybe not
 at the heart of quantum mechanics.
 Well, it's nice, it's powerful, it's important,
@@ -50,12 +50,12 @@ Maybe certain quantum fluctuations,
 going down to single photons, and I would agree.
 That's the quantization of the electromagnetic field.
 That's much more quantum than having millions
-of condensed atoms
+of condensate, millions of condensed atoms
 in one single wave.
 But what I would say is even more quantum
 than the single photon is the entanglement.
 Entanglement is sort of pure quantum mechanics.
-With single photons, you can still use your intuition.
+With single photons, you can steel your intuition.
 But with entanglement, that is really bizarre.
 This is really what other-- I hate the word
 but let me use it-- this is sort of pure quantum weirdness.
