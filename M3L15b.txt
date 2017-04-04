@@ -1,0 +1,131 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 122 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We want to now describe single quantum systems.
+
+But when I do that--
+it will become clear at the end of this unit
+but I want to give you the warning right away.
+The way how I describe now a single quantum system
+may not be unique.
+There is actually an infinite number of ways--
+I've already mentioned that to you--
+that there is an infinite number of ways
+to unravel a density matrix.
+I mentioned that you can write every density matrix
+as a probability of pure states, weighted probability of being
+in pure states.
+But that all with different choices.
+You can get an infinite number of different combinations
+of pure states and construct your density matrix.
+So this was sort of at the level of the density matrix.
+But similarly-- and this will come out of this discussion
+today--
+there is also an infinite number of ways
+to unravel the dynamics, the dynamics
+involved in the evolution of an open quantum system.
+So with that, I want to describe the quantum Monte-Carlo wave
+function method.
+So in the quantum Monte-Carlo wave function method we
+perform--
+we don't need an experiment, we don't
+need sophisticated experiments to observe a single quantum
+system.
+It's a theoretical method.
+But we perform thought or gedankenexperiments.
+So our gedankenexperiments is that we perform measurements.
+So we assume we have--
+when we want to describe an ensemble of atoms
+we assume we have a single atom, we assume it emits photon,
+and then we assume that the photon is detected.
+
+So the moment the photon is detected
+we know, for instance, that the atom is in the ground state.
+And so our quantum Monte-Carlo simulation follows now
+the trajectory of the single quantum system by saying,
+I toss a coin.
+There is a certain probability for detecting the photon.
+If I take the photon, the system I know is in the ground state.
+If I don't detect the photon it's not
+in the ground state, and such.
+And this probabilistic approach is just simulated
+in the quantum Monte-Carlo sense.
+So what is in essence--
+what is the essence of the quantum
+Monte-Carlo method is that we allow a small timestep delta t.
+It's a real time simulation.
+And there is a small probability that the system
+has decayed at that time.
+So we may now toss a coin, use of a random function generator
+and ask has spontaneous emission taken place?
+And then the two possibilities are yes,
+and we continue whatever the outcome, whatever the quantum
+state is, or we say no.
+And then, with the those over the probability p we say yes.
+With a probability one minus p, we say no.
+And then we continue the simulation accordingly.
+So this will become much, much clearer
+when I write down the formalism for you.
+But there is one important aspect which is really
+want to discuss with you.
+And this is the essence of the method.
+Namely, how does a wave function change by a measurement?
+So this is the essential, the only conceptual part
+for the quantum Monte-Carlo wave function.
+Afterwards I just show you.
+Once you have this, once we have cleared up
+this conceptional part, the rest is just a few re-creations
+and we immediately show that the quantum Monte-Carlo wave
+function method is equivalent with the optical Bloch
+equation.
+But let's really feature and take
+some time for discussing the concept,
+namely the change of a wave function
+by a quantum measurement.
+And maybe this carries home to you
+is that the nature of an open system,
+we have a quantum system which interacts with the environment,
+is actually that the environment permanently
+performs measurements.
+And you will actually see that the idea of performing
+measurements formalized in the quantum Monte-Carlo sense,
+gives us an equation for the density matrix
+which is identical to the optical Bloch equation.
+So in other words, you can say I'm
+re-deriving for you master equation now,
+but from a very, very different perspective,
+from the perspective of an environment which constantly
+performs measurement.
+So let's go through that, what happens in a measurement.
+Well, if our initial state is the ground state,
+I'm starting very in trivial ways,
+well, there is no measurement because the particle will stay
+in the ground state forever.
+
+Let's go to the next situation, that our atom starts out
+in an excited state.
+Now in the timestep delta t we have two possibilities.
+A photon can be observed or no photon is observed.
+When the photon is observed we know for sure
+that the system is now projected into the ground state.
+If no photon is observed, well, the system
+is still in the excited state.
+So we discussed what happens when the system is initially
+in the ground state and when the system is initially
+in the excited state.
+But now comes the following question.
+We prepare the system in a superposition
+of ground and excited state.
+And we want to discuss what happens
+when the photon is observed, what happens
+when no photon is observed.
+I think, if you observe the photon, it's pretty clear.
+We have to assume after photon emission,

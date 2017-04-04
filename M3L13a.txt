@@ -1,0 +1,79 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 70 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We want to discuss, formally, the derivation of Optical Bloch
+equation.
+But usually when I teach you something,
+I have a general concept in mind.
+And the concept right now here is
+how can we get from unitary time evolution of a quantum system
+to [INAUDIBLE] equations anticipation.
+And this is sort of the subject of master equation
+open system dynamics.
+And this cartoon sort of tells you what you want to do.
+We have a total system, which is one part we are interested in.
+And the other one, often it has many, many degrees of freedom
+and we don't want to keep track of them.
+But they have one Hamiltonian.
+But we only interested in how our atomic system evolves
+and we want to find an equation--
+which is no longer a Schrodinger equation--
+how does an initial density matrix describing our system
+develop this time?
+And as we will see, in general, it follows a master equation.
+And we want to discuss what are general principles
+of such equations.
+What is very important here is that we are not
+keeping track of what happens in the environment,
+and that's associated here with a little bucket or a trash can.
+Every little solid, photons or such, are measured.
+The environment is constantly projected
+on a measurement basis.
+And therefore we introduce a probabilistic element
+into the part we don't observe, namely the part which
+characterizes the atoms.
+So for that, we need the formalism of density matrix
+and that's where we want to start.
+
+At the end of the last lecture I reminded you
+that the density density matrix can always
+be written as an ensemble where you
+say you have a certain probability for a certain wave
+function.
+This is always possible, but it is not unique.
+So each of you could actually create the same density matrix
+by preparing a number of quantum states
+with a certain probability and saying,
+this is my density matrix.
+And, also, each of you has prepared different quantum
+states.
+If you sum them up in that way you
+get the same density matrix.
+And therefore all observable, all measurements
+you will do on your ensemble in the future,
+will be identical because the density
+matrix is a full description of the system.
+So at that level it may look sort of very trivial that we
+have different unraveling-- unraveling means you look
+microscopically what is behind the density matrix--
+but in your homework assignment you will also
+show that you can have a system which have very, very
+different dissipation mechanisms,
+but they are described by the same equation.
+So therefore it's physically not possible
+to distinguish by just mentioning the density matrix
+what causes the dissipation.
+Of course, if you know what causes the dissipation--
+fluctuating fields or collisions--
+you know more than the density matrix knows.
+
+Any questions about density matrix or the agenda
+we want to go through today?

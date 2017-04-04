@@ -1,0 +1,224 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 215 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we've done two things.
+We've done the very, very simple derivation
+using the beam splitter model, where you may not even
+notice where I did the mark of approximation,
+because I jumped from beam splitter to beam splitter
+and left all the correlations behind.
+Here in the most general calculation,
+you have seen exactly where it enters.
+But maybe now you have the full forest in front of you.
+And you don't recognize the trees anymore.
+So let me wrap up this lecture by now focusing
+on the system we want to discuss further on,
+namely a two level system interacting with a vacuum
+through spontaneous emission.
+But I also want to make some generalizations.
+I want to give you some generalizations
+about what kind of environments are
+possible in quantum physics.
+So this part I actually owe to Professor Ike Chuang,
+who wonderfully compiled that.
+So what I want to do now is I want
+to draw your attention to the operator
+form, which is rather unique.
+Remember when we did second order perturbation theory,
+we had the commutator of v with the commutator of v and o.
+This came from iterating the exact equation of motion
+for the density matrix.
+And we want to specialize that now
+to the Jaynes-Cummings model.
+In the end, at least in this course,
+we always come back to the Jaynes-Cummings model,
+because it captures a lot of what we want to explore.
+So the Jaynes-Cummings model in the rotating wave approximation
+is very simple.
+It raises the atom from ground to excited state
+and destroys a photon.
+Or it does the opposite.
+So this is our simple interaction between our system,
+the two level atom, and our reservoir, which is just
+the vacuum of all the modes.
+And you, again, recognize what I said in general.
+You usually always find a bi-linear form, an operator
+which acts on the modes on the reservoir, on the vacuum,
+and an operator which acts on the atom.
+
+Now we want to make the explicit assumption
+that the initial state of the reservoir is the vacuum state.
+It's empty.
+And I want to show you what is the structure
+of the operators we obtain.
+And so if you put v into here, you
+have first the commutator with o, which I write down here.
+And then we have to take another commutator with v.
+And the result of that is the following,
+that when it comes to relaxation process,
+based on the general structure of the time
+evolution of quantum mechanics, we
+have these double commutator.
+And the operator, which couples our system to the environment,
+is a raising and lowering operator.
+The atom, because it interacts with the environment,
+either absorbs a photon or emits a photon.
+But those operators, sigma plus and sigma minus,
+appear now always as products, because we
+have two occurrences of interaction v.
+But if you look at the double commutator
+structure, the operators sigma plus, sigma minus appears--
+this is just the general structure
+of this double commutator--
+appears to the left side of the atomic density matrix,
+to the right side of the atomic density matrix.
+And then there is the cross term,
+where the atomic density matrix is in the middle of the two.
+So this is actually something which
+is very general and very important
+in the theory of open quantum system.
+What I'm discussing with you now is this famous Lindblad form.
+And the story goes like that.
+You want to know, what are possible environments ,
+not just the empty vacuum?
+You can have fluctuating fields.
+You can have, you name it.
+But if you are saying that your environment interacts
+with your system through an operator, and our operator
+is now the operator sigma minus, which
+is the spontaneous emission.
+Unitarity, the structure, the mathematical structural
+a varied quantum theory means that if your system interacts
+with the environment by emitting a photon sigma minus,
+this is now the structure of the master equation.
+This is the structure of the time evolution of the density
+matrix.
+So the operator sigma minus and its conjugate
+and its emission conjugate sigma plus
+always have to appear in this combination.
+Yes, Colin?
+This is still in the interaction picture?
+There's no dynamical phase evolution?
+
+What we do in general, if the system is driven by a laser
+beam, for instance Rabi oscillation,
+we simply add up the dynamics of the Rabi oscillation
+of the unitary time evolution to the time evolution
+done by the reservoir.
+So this form is always in the interaction picture?
+This is, you would say, this form
+is what is the relaxation provided by the environment.
+And if you drive the system in addition
+with a coherent field unitary time evolution,
+you would add it to it.
+
+So in other words, what I'm telling
+you here is that this is the general structure.
+And if you have a system which interacts
+with the environment in five different ways,
+with a dipole movement, with a magnetic moment and such,
+you have maybe five interaction terms.
+And then you have to perform the sum over five operators.
+And here one of them is the sigma minus operator.
+So in other words, if you want to know
+what is the whole world of possibilities for quantum
+system to relax dissipate with an environment,
+you can pretty much take any operator
+which acts on your system.
+But then put it into these so-called Lindblad form,
+and you have a possible environment.
+
+And I mentioned, I think last week,
+that people are now in our field actively working
+on environmental engineering.
+They want to expose a quantum system
+to an artificial environment and hope
+the system is not relaxing, let's say,
+to a boring ground state, but to a fancy correlated state.
+
+So what this Lindblad form, if the operator appears
+in this way, what it ensures is the following.
+Just imagine if we have an equation,
+an derivative of the density matrix,
+which depends on the density matrix,
+you could divide down a differential equation and say,
+is it possible.
+Well, it has to be consistent with quantum physics.
+You have certain requirements.
+One requirement is that rho, the density matrix,
+always has to be a density matrix.
+The trace equal 1 has to be conserved.
+A density matrix always must have non-negative eigenvalues.
+Otherwise what you write down, it
+may be a nice differential equation.
+But quantum mechanically, it's nonsense.
+But now there is one more thing, which is also necessary.
+This time evolution of the system's density matrix
+must come from a unitary time evolution of a bigger system.
+So you must be able to extend your system into a bigger
+system, which is now the environment.
+And this whole system must follow a Schrodinger equation
+with a Hamiltonian as a unitary time evolution.
+And this is very restrictive.
+You cannot just write down a differential equation and hope
+that this fulfills the requirement.
+And what people have shown is under very general assumptions,
+it is the Lindblad form, which allows for it.
+So some operator always has to appear in this form.
+
+So often in these this Lindblad form,
+you have an operator, which is called a jump operator, which
+is responsible for the measurement which
+the environment does on your system.
+The jump operator is here, the operator
+which takes the atom from the excited to the ground state.
+With that you emit a photon.
+And the photon can be measured.
+So often you can describe a system by a jump operator.
+And if the jump operator is put into this Lindblad form,
+then you have a valid master equation for your system.
+So let me wrap up.
+If you take now the definition of the raising and lowering
+operator, and you take the form I've shown you, the Lindblad
+form, you find now this differential equation
+for your two level system.
+
+And this is one part of the optical Bloch equation.
+Now coming to Colin's question, if you
+include the time evolution of the classical field--
+this is the coherent evolution of the Bloch vector
+which I showed at the beginning of the class--
+and we add this and what I wrote down
+at the beginning of the class, then we
+find the famous Optical Bloch equations
+in the Jaynes-Cummings model.
+So these are now the Optical Bloch equations.
+And I hope you enjoy, now after this complicated discussion,
+how simple they are.
+And it is this simple set of equations,
+which we will use in the rest of the course
+to describe the time evolution of the system.
+Just because I did some generalizations
+about the Lindblad equation, I copied that into the lecture
+notes from Wikipedia.
+And probably now you understand what
+is the most general Lindblad equation.
+It has a Hamiltonian part.
+And then it has jump operators like your sigma minus operator.
+But it has to come in the form that the jump
+operator and its complex conjugate, Hermitian conjugate,
+is on the left side, on the right side, and left
+and the right of the density matrix.
+So this is a generalization I've mentioned.
+with that, I think we have derived the master equation.
+And on Wednesday, we will look at rather simple solutions,
+transient and steady-state solution of the Optical Bloch
+equation.

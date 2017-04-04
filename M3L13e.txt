@@ -1,0 +1,127 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 118 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We're interested in a differential equation.
+We want to sort of find out what happens
+when we have the density matrix interacting
+with the environment all the time.
+And this can be simulated by beam splitters
+by using many beam splitters with a small degree
+of reflection.
+So we want to simplify this result now
+for the case of many beam splitters.
+And each of them has a small tipping angle, theta.
+And for later convenience, I define theta to be gamma times
+delta t over 2.
+That's just my definition of theta.
+So what we have in mind now is that we
+start with a system psi.
+And we have many such beam splitters
+within infinitesimal tipping angle.
+Each beam splitter has the vacuum at its input state.
+And we always perform a measurement.
+If I take the equation above, we find a differential equation
+for the density matrix, which looks like this.
+So all I've done is I've used the equation above,
+and I've done a Taylor expansion in the small angle theta.
+And the reason why I brought in the square root,
+we had cosine theta.
+The first order Taylor expansion,
+or the lowest order Taylor expansion from cosine
+is 1 minus theta squared.
+So I get the square root squared.
+So I get gamma, which appears here.
+And then I divide by delta t.
+So this is just an exact mathematical expression.
+And the next step is to form a differential equation.
+But before I do that, I want to emphasize the two features
+we are using here.
+They sort of enter automatically,
+but these are the two big assumptions
+we make when we derive a master equation.
+The first one is that we always have a vacuum state
+as the input.
+So in other words, the environment
+is always in the same state, which is a vacuum state.
+And this is sort of called a Born approximation.
+What it means is that we do a measurement here,
+but the vacuum is not changing.
+In other words, we are not overloading the vacuum
+with so many photons that suddenly, the vacuum is
+no longer in the vacuum state.
+Or in the case of spontaneous emission,
+the vacuum can just take as many photons as you dump into it.
+They disappear so quickly that for all practical purposes,
+the environment stays in the vacuum state.
+So this is called the Born approximation.
+The environment is not changing.
+It has enough capacity not to be modified by the measurement
+process.
+And the second thing is that the vacuum is always
+in the same state.
+And there are no correlations.
+From here to here to here, there is no memory effect.
+Everything is completely uncorrelated.
+So the environment is uncorrelated.
+It has no memory.
+Its correlation function is a delta function.
+And this is called Markov approximation.
+So these are the two effects which are important.
+One is, no memory for the environment--
+delta function correlation, Markov approximation--
+the two are, of course, related.
+And the environment is always in the same state.
+So remember, this is the change for the density matrix, and
+alpha, beta, where the original parameters of the density
+matrix for the input state.
+So I can now rewrite everything as a differential equation.
+
+The density matrix has a derivative
+for the diagonal matrix elements and for the coherences.
+Here, we have plus gamma.
+Here, we have minus gamma, rho, 1, 1.
+Makes sense, because we conserve the trace.
+We have unity probability that we have still a system,
+and therefore, the two diagonal matrix elements,
+the population, some of them cannot change with time.
+And for the coherence, we have gamma over 2.
+And if you are familiar with optical Bloch equations, which
+we derive next, we can say that this
+means if 0 is the ground state, that the ground state changes
+because there is--
+call it spontaneous emission-- from the excited state.
+This equation would say that the excited state decays case
+with a rate gamma.
+And sometimes, you may have pondered
+about the factors of 2 appearing, which
+also appears here--
+that when the excited state decays with the rate gamma,
+we have a factor here for the coherences, which
+is gamma over 2.
+So what we have accomplished in contrast to,
+let's say, Einstein's equation with the Einstein a
+and b coefficient, which led to rate
+equations for the population, we have now a new feature.
+We have an equation for the coherences.
+And we find a decay of the coherences
+with half the rate as the decay of the population.
+Questions?
+So if you want, you could rewrite this model
+for a photon which goes through beam splitters,
+undergoes measurement, you can rewrite it
+for an atomic wave function.
+And you measure whether the atom is in the excited and ground
+state.
+And the equation for the measurement performed
+on the atom is exactly as the equation
+by which the beam splitter acts on the photon state.
+So what I've shown here is very specific for a single photon,
+because I could use simple equations.

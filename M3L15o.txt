@@ -1,0 +1,79 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15o.txt
+#
+# Captions for 8.422x module
+#
+# This file has 70 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Our goal was to have an open quantum
+system, which is the atomic system interacting
+with the reservoir.
+But the way, how we phrased the question,
+we are only interested in what the atomic system does is.
+We didn't do extra measurements on the environment.
+The environment was just a dump for photons,
+a dump for energy, a dump for whatever we assumed
+in our dephasing mechanism.
+So let me just take the example of putting photons
+into the environment.
+And this is described by a certain damping term.
+But there is an ambiguity.
+And this is shown here.
+If we evolve the system of our atomic system,
+the density matrix evolves.
+But the environment also evolves.
+And, for instance here, the unitary time evolution
+has taken the excitation from the atom
+and we have emitted a photon into the environment.
+And you'll remember we got the optical block equation
+by doing the partial trace here and just focusing
+on the atomic part.
+But no wait a moment.
+If we trace out the environment we can trace it out
+in a different basis set.
+Remember, I showed you with the kind Quantum Monte Carlo
+wave function we emit a photon.
+But we can, for instance, detect the photon
+in our Duncan experiment.
+We can detect it with the linear polarization
+or circular polarization.
+If you have a situation where you have an s state which
+decays to a p state, sigma plus takes
+you two N equals plus one.
+Sigma minus takes you to N equals minus 1.
+So therefore, if a photon is emitted in your Quantum Monte
+Carlo procedure, you would say now the atom
+is in the plus one state or now the atom
+is in the minus 1 state.
+But if you detect linearly polarized light by just putting
+a polarizer here-- and this is a unitary transformation in front
+of your detector--
+you would no longer project the atomic system on plus 1
+and minus 1.
+You would project it on N equals 0
+or whatever is connected to the linear polarization
+of the measurement.
+So therefore, if you simply assume
+that something has been dumped in the environment
+and can be used for measurement, there
+are many ways, many unitary transformations,
+what you can do to the information, to the energy,
+to the photons which have been dumped into the environment.
+And each of them will lead to a very different trajectory
+in your Quantum Monte Carlo system.
+So therefore, if you just dump the photons
+and not measure them, you have equal rights
+to assume that your Quantum Monte Carlo wave function jumps
+to states which correspond to circular bases,
+or jump to states which correspond to linear basis,
+and there are many, many possibilities.
+But each of those possibilities is 100% correct on leveling
+of the density matrix.
+And if you just do it right, assume that the measurement is
+done in a certain basis and you are consistent with it,
+you will 100% correctly describe the time evolution
+of your atomic system.

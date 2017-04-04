@@ -1,0 +1,35 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15c_CQ1.txt
+#
+# Captions for 8.422x module
+#
+# This file has 26 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+But if no photon is observed, I want to give you three choices.
+And you should address them with the clicker.
+One choice is that the particle stays in the same state.
+The second choice is that the particular stays
+in a superposition state, but the probability
+to be in the excited state decays.
+Also, no photon has been emitted or no photon has been observed.
+And the third possibility is something else.
+So in other words, assume you are an observer.
+And you know with 100% detection probability,
+let's not discuss technical issues.
+You have completely surrounded your system
+with perfect detectors.
+And you know in the timestep delta-t,
+no photon was observed.
+And now, you should make a prediction what happens next
+to the quantum system and you make the prediction
+by assuming that the system is described by a wave function
+or density matrix.
+And I'm asking you which of the three choices
+correctly describes what this system will do afterwards.
+What the system will do next.
+Is the question very clear?
+Good.

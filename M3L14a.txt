@@ -1,0 +1,121 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 112 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Today I want to discuss with you some characteristic solutions
+of the optical Bloch equations.
+But before I do that, let me first discuss with you
+the assumptions we made to derive a master equation.
+And I hope you remember the Born approximation and the Markov
+approximation.
+The Born approximation says that the reservoir will never
+change.
+The reservoir is always, for instance, in the vacuum state.
+And the Markov approximation said
+that the correlations in the reservoir
+are delta function related.
+It can absorb photons instantaneously.
+The vacuum has no memory time.
+It's like a black hole.
+It sucks up everything, but it's always
+what it was initially, namely, the vacuum.
+Do you know examples where those assumptions are not fulfilled?
+I make it so natural, that these are the most
+natural assumptions.
+But what are the systems which cannot be described with this
+approach?
+So maybe an atom in a cavity, if you change a vacuum somehow?
+At atom in a cavity, very good.
+If an atom emits-- now, it depends.
+We talked today about the master equation for photons and atoms
+in a cavity.
+But we will assume that the cavity is rapidly damped.
+If it's a high-Q cavity, the atom emits a photon,
+but the cavity has memory.
+It stores the photon.
+And after one period of the vacuum Rabi oscillation,
+the photon goes back to the atom.
+So the vacuum has memory time.
+The vacuum has now a time constant,
+which is the same as the time constant for the atom,
+namely the period of the Rabi oscillation--
+big violation of the Markov approximation.
+We do not have the very short correlation
+time of the system we just indicate over,
+and the much longer time scale during which we
+are interested in the dynamics of the system.
+Maybe another example-- actually,
+this example violates both the Markov approximation, also
+the Born approximation, because the vacuum has
+changed when it has a photon.
+Do you know an example where maybe only
+the Born approximation is violated?
+Namely, the reservoir is changing
+due to interaction with a system?
+
+Well, we've always talked about a system and a big reservoir.
+What happens when you make the reservoir smaller?
+
+Well, then when it absorbs energy,
+it will heat up and such.
+It will change.
+The Born approximation is actually,
+when it will come to energy transfer, the assumption
+that the reservoir has an infinite heat capacity.
+It can just take whatever the system
+wants to deliver without changing,
+for instance, its temperature.
+So at least you know now that there
+are systems for which the treatment has
+to be generalized, and you understand, maybe better,
+the nature of the approximations we have made. [? Timor ?].
+Well, the question, last case, which
+is where the Born approximation is not violated,
+but the Markov is, is there any example of that?
+Well, for instance, spontaneous emission into the vacuum,
+but the speed of light is so slow
+that it takes forever for the photon to escape.
+The Markov approximation is more about the time
+scale for the system, for the reservoir, to react.
+And the Born approximation is if the reservoir is really
+big enough to simply absorb everything without changing.
+
+I don't know.
+You could maybe think about you have some reservoir,
+but it has very bad heat conduction or something.
+The transport is just very slow, and therefore, you
+do not have the hierarchy of the two timescales.
+
+Any other questions about the master equation, optical Bloch
+equations?
+
+Well, then we can learn more about
+the characteristic features of the optical Bloch equations
+by looking at solutions.
+And I would like to discuss three aspects of solution.
+I want to discuss the spectrum and the intensity of light
+emitted by the atoms.
+Secondly, we want to talk about transient and steady-state
+solutions.
+And finally, actually, I put it in the chapter of optical Bloch
+equations, but I will use a cavity
+for that example which will actually go
+beyond optical Bloch equations.
+It's also nice for you to see that there
+is more than the optical Bloch equation,
+but it's the same formalism.
+And this is when we discuss the damping of the damped vacuum
+Rabi oscillations.
+I also picked this one example just sort
+of as an appetizer, because I can introduce two concepts
+for you in this last example.
+One is the quantum Zeno effect.
+And the other one is the adiabatic elimination
+of coherences, which plays a major role

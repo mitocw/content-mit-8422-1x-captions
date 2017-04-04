@@ -1,0 +1,45 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 36 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I think it's pretty clear that with this approach,
+you can deal with a great variety of situations.
+Let me just mention two obvious extensions.
+One is polarization.
+A photon is detected.
+That means your random number produced a number epsilon,
+which was smaller than delta p.
+At that point, you can create a second random number, which
+determines if the photon has been detected with signal
+plus, sigma minus, or pi polarization,
+or you can discuss recoil.
+
+If the photon is detected, you use
+you throw on another random function generator, which
+determines what the character of the photon
+is, so what direction [INAUDIBLE]
+the photon has taken.
+And this determines now what is the recoil, the change
+in momentum of your atom.
+So you see you can start with an atom at 0 momentum.
+You can see it emits a photon.
+And then your computer always makes a choice
+based on the random number.
+And then you say, OK, my photon has now received a recoil kick
+at 45 degrees.
+Now your wave function of the photon is such and such.
+And if you add a laser to the Hamiltonian,
+the recoil may have kicked, may have
+Doppler shifted the resonance.
+But everything is easily taken into account.
+So you see that this Quantum Monte-Carlo Wave Function
+method can easily be extended to describe
+external degrees of freedom, multiples layers of fields,
+and all that.
