@@ -1,0 +1,26 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15e_CQ2.txt
+#
+# Captions for 8.422x module
+#
+# This file has 17 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+If you have the 50/50 superposition of ground
+and excited state, and let's say the time
+for spontaneous emission is 10 nanoseconds.
+
+But now, you wait one second.
+And after one second, no photon has been observed.
+
+What is your prediction?
+In what state is the system at this point?
+Is the system in the ground state?
+Or is the system still in a superposition
+of ground and excited state?
+Well, since we have the clicker, you can tell me.
+Is it still a superposition state?
+Or is the system in the ground state?

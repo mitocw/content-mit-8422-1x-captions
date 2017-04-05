@@ -1,0 +1,127 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 118 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We have to discuss now the Bloch vector which
+is the solution of the optical Bloch equation.
+So now I'm going to explain you--
+not all glorious details--
+but the salient feature of the [INAUDIBLE].
+So the density matrix has four matrix elements,
+but if the sum of the diagonal matrix element
+is 1, conservation of probability,
+we have actually three independent matrix elements.
+And those three independent matrix elements
+can be parametrized by what is called the Bloch vector.
+A lot of you have seen it.
+We also discuss it in great detail in 8.421,
+but I'm giving you the definition.
+And sigma is the vector of Pauli matrices.
+To be specific, the three components
+of the Bloch vector are as follows--
+the z component measures, you can say,
+the population inversion-- the difference
+between ground and excited state population.
+And the x and y component measure the coherences,
+either the sum of the coherences or the difference
+of coherences.
+And here is minus imaginary unit.
+And if you replace a density matrix, or the matrix
+elements sigma e e, rho e e, rho g g, by this definition,
+the optical Bloch equation turns into a differential equation
+for r.
+
+It's now a differential equation for r.
+And let me just write down the Hamiltonian part.
+
+This is the equation of motion for the density matrix.
+I will add on, in a minute, the relaxation part, which
+comes from the master equation.
+This is just the Hamiltonian part.
+And this would result it into an equation of motion
+for the Bloch vector, which has delta here, minus delta here,
+minus g, g, and the rest of the matrix elements are 0.
+The Hamiltonian, using rotation matrices,
+can be written by a z rotation matrix
+plus g times the x rotation.
+And if you actually look at the solution--
+sorry, it's sort of finite.
+It's an infinitesimal rotation.
+This matrix tells you that the detuning is the z rotation,
+and the drive is responsible for an x rotation.
+
+Let me tell you what happens.
+You've seen the Bloch vector in many cases.
+If you don't drive the system, the Bloch vector
+in the ground state is down.
+In the upper state, it's up.
+If it's in between, that's where [INAUDIBLE] comes in.
+We have a superposition of ground in the excited state.
+And it rotates at the atomic frequency omega naught.
+But we are in the rotating frame of the laser at omega.
+So in the rotating frame, which then the frame
+rotates with omega.
+And omega naught rotation becomes a rotation with delta.
+So therefore, the free evolution of the atom
+is based on this Hamiltonian that the Bloch vector rotates
+with delta in the rotating frame of the laser.
+And it's a rotation around the z-axis.
+If we drive the system now, we take the Bloch vector
+from ground to excited.
+These are Rabi oscillations.
+And this is now rotation around the x-axis.
+Well, whether it's x or y is a convention of notation,
+and I've defined it such that the driven system is
+an x rotation.
+The free evolution is a z rotation.
+And that's all you have to know.
+This is the most general solution of a two-level system
+without dissipation--
+that we have two rotation angles.
+One is the free rotation, which is the detuning at the z-axis.
+And the driven system rotates around the x-axis.
+
+But now we want to add what the master equation gives us.
+And the master equation has the [INAUDIBLE] platform,
+where we have the sigma plus jump operator.
+And I told you that we have to use the following form.
+You know that this gives us simply the optical Bloch
+equations.
+We've discussed it on Monday, that we
+have now a damping, a gamma term for the population.
+An excited state population decays with a rate of gamma.
+And the coherences, the off-diagonal matrix elements,
+decay with a rate of gamma over 2.
+We spent a long time discussing this factor of 2.
+So this would mean, now, that the equation for the Bloch
+vector has gamma 2 terms which comes
+from the dampening of the coherences.
+And it has gamma, which is the damping of the population.
+Well, if that would be all, everything is damped to 0.
+But everything in the end leads to the ground state population.
+So we have to add this term.
+It's just a different way of the optical Bloch equations.
+We have discussed in great length
+this form of the optical Bloch equations.
+And the sigma plus, sigma minus is
+because these are just simple matrices with one matrix
+element.
+
+You've seen the optical Bloch equation, I think--
+we did that also in 8.421-- that you
+have the derivative of the density matrix includes
+now damping of the off-diagonal matrix elements
+by gamma over 2, damping by the diagonal matrix elements
+by gamma.
+And if you simply substitute the r vector
+for the matrix element, you get this equation in one step.
+These are the optical Bloch equations
+written in terms of the Bloch vector
+and no longer in terms of the density matrix.

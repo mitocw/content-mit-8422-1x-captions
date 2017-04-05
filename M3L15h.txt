@@ -1,0 +1,212 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 203 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me now formalize exactly how this
+is done, with all the bells and whistles.
+We assume we have an initial wave function, which
+is now an arbitrary superposition state
+of ground and excited state.
+And we have the environment, which in this case
+we assume is a zero photon state.
+It's a vacuum.
+And we want to exactly solve the Schrodinger
+equation for that system.
+But we restrict ourselves too much to a very small timestep.
+The small timestep is smaller than anything else,
+than the natural decay time, maybe the inverse Rabi
+frequency, if you drive the system.
+You're not doing it here but I will later
+show you how you can add a laser beam and drive the system.
+Or it should also be smaller than the inverse detuning.
+So what is very important here is
+that we want to deal only with simple cases.
+Namely, one photon has been emitted or no photon.
+So we want to make sure that there
+is at most one spontaneous emission event using the time
+delta t.
+So what I'm writing down now is the total wave function
+of the system plus the environment.
+And now we can evolve it.
+We can ask what happens, what is the wave function time later.
+This can be exactly done by time-dependent perturbation
+theory.
+And the result is that the system
+will be in a superposition of ground and excited state.
+And we want to calculate the coefficients
+alpha prime and beta prime.
+And we still have the vacuum state.
+But then we have the possibility that a photon has been emitted.
+In that case, we are in the ground state.
+And the direct product with the environment
+involves now a photon emitted into a certain direction
+with wave factor k, with a polarization epsilon.
+And we have coefficients beta k epsilon.
+And we have to sum over all possibilities for the photon
+to be emitted.
+So we call this--
+so the wave function of the total system has now two parts.
+It's a wave function, which I called psi zero.
+This is the wave function which involves
+no photon in the environment.
+And the wave function psi1 involves
+one photon in the environment.
+So this is the [INAUDIBLE] which seems very natural.
+But it's also, you could immediately
+prove that these are the only possibilities how
+the system can evolve.
+And we can verify this by using time-dependent perturbation
+theory.
+
+Almost everybody of you has seen it in
+either in 8421 or in a more basic course
+in quantum physics.
+It's time-dependent perturbation theory
+for emission of a photon.
+But usually when you see those treatments, the reservoir,
+the environment is not treated as explicitly as we do it here.
+The theory where this is treated exactly in this way
+how we need it is the Wigner-Weisskopf theory, which
+is nothing else than the perturbative approach
+but it's really a perturbation theory not just
+for the atomic system, how we sometimes present it
+in a simplified version, it's perturbation theory
+for the total wave function of the complete system.
+[INAUDIBLE]
+So you mentioned the time interval of the chosen dt
+is much smaller than a lot of things.
+But here we're ignoring a [INAUDIBLE] counter rotating
+terms, in which case, we're still
+a large enough timestep that's [INAUDIBLE], so to speak?
+
+I simply say this because I expected
+to be an e with a photon term from the g going up,
+so to speak.
+
+Yes.
+
+The counter rotating term.
+
+The first answer I wanted to give,
+this is exact perturbation theory.
+But I think I get myself into trouble if I would allow--
+I would get myself in trouble if I would allow the timestep
+to be extremely short, shorter than 1
+over omega because during the time 1 over omega
+we have counter rotating terms.
+Or in other words, particularly in the ground
+state during a time 1 over omega,
+particularly in the ground state, can emit a photon
+and re-absorb it.
+This way, those weird diagrams with virtual states,
+which we discussed earlier in this course.
+So I think I want to assume here it's--
+I haven't done-- that the timestep is larger than omega
+to the minus 1.
+As you know, the counter rotating term
+has a detuning delta, which is two omega.
+So therefore it is excluded.
+In other words, when we talk about photons
+sent into the environment we want
+to talk about real photons and not virtual photons.
+Yes, good point.
+
+OK.
+So if you do simple lowest order time-dependent perturbation
+theory, in Wigner-Weisskopf approach,
+you get an exact result for beta prime.
+You find that beta prime in this superposition.
+You see original amplitude beta but it has decayed with e
+to the minus gamma over 2dt.
+And since we are only interested in small timesteps
+we can do linear expansion of that.
+The probability, dp, that a photon has been emitted
+is the norm of this wave function psi1.
+And this, using Wigner-Weisskopf perturbation theory,
+is gamma dt times the amplitude squared, that the system was
+excited to begin with.
+And because of the conservation of the norm the wave function,
+the norm of the wave function psi 0, which
+is the wave function without a photon being emitted,
+is 1 minus dp.
+
+So what I'm telling you here is that this
+is an exact result of time-dependent perturbation
+theory.
+Often when textbooks treat spontaneous emission,
+they are more interested in getting Fermi's golden rule
+and this rate.
+But the same approach, if you just write it down,
+tells you how the amplitude in the excited state evolves.
+
+So therefore, what we learn from perturbation theory that alpha
+prime and beta prime, the coefficients of the wave
+function without emission of a photon.
+This evolution of the wave function
+occurs with a non-Hermitian Hamiltonian.
+
+And this non-Hermitian Hamiltonian
+is our Hamiltonian for the atomic system.
+But then we have to account for spontaneous decay.
+And this is done by this non-Hermitian part.
+So occasionally you may have heard
+that people wave their hands and say
+your system is described by a Hamiltonian, which has
+an imaginary part for decay.
+And this is sort of phenomenological.
+This is definitely not the case because even
+if you have an Hamiltonian like this,
+a pure state would simply decay and remain a pure state.
+What we are doing here explicitly
+is we deal with probability in a correct way.
+Every time the system can branch out
+into two different possibilities, two
+different dimensions of the density matrix,
+one has probability delta p, one has probability
+1 minus delta p.
+And it is only the wave function associated with probability 1
+minus delta p which evolves with this Hamiltonian.
+So what I'm telling you is the exact solution
+for the evolution of the total system in terms of a density
+matrix for the atomic system.
+
+And this is exact.
+
+So that means the procedure how we implement
+this exact solution of perturbation theory
+is the following.
+We have a timestep delta p.
+We compute what is the probability
+that a photon will be emitted.
+Then we need a random number generator.
+So we need a number epsilon, which is a random number chosen
+in the interval 0 and 1.
+If this random number turns out to be smaller than delta p then
+we continue our time evolution on the computer
+that psi is now in the ground state.
+And maybe there is a laser beam which excites it again,
+and such.
+I will add a few bells and whistles later.
+Otherwise, psi, our wave function,
+is now the wave function, which is the time evolution
+with a non-Hermitian operator of the original wave function psi.
+And since we have a real wave function now
+with probability 1, we have to renormalize the wave function
+by this denominator.
+And then we execute the next timestep.
+This means go to two and do the next timestep.
+And then you have, so to speak, if you do it many, many times,
+you get a time direct trajectory of so to speak one experiment.
+And then you start again with your system in a wave function
+psi and you accumulate a second experiment.
+And maybe you do it 10,000 times to get enough statistics.
+And then you sum up everything you want
+and calculate all the expectation
+values you want to know about your quantum system.

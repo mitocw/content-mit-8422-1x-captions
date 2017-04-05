@@ -1,0 +1,151 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 142 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, so this was more a qualitative discussion.
+Let's now work more quantitatively,
+and describe the Mollow triplet.
+The Hamiltonian for our system is the atomic Hamiltonian
+times the z Pauli matrix.
+The z Pauli matrix is excited, excited minus ground,
+ground state.
+And because of the conservation of probability, it's 2 times
+Xi, or also just mathematically, it's just that.
+We have the free Hamiltonian of the radiation
+field, which is a dagger a.
+And then we have the coupling of a two-level system, which
+is the product of the atomic dipole moment written
+as sigma plus plus sigma minus, raising and lowering operator.
+Just to remind us, sigma plus is e g, and sigma minus is g e.
+And then we have to multiply with a plus a dagger.
+If you want the atomic part, it's the dipole moment.
+And this is the electric field, both written as operators.
+So this is the electric field.
+And if you look at the coupling term--
+we've discussed it before--
+you have four terms.
+But in the rotating wave approximation
+which we want to use here, we keep only
+the two resonant terms, which is when
+we raise an excitation in the atom,
+we lose an excitation in the light field.
+Or if we go from the excited to the ground state,
+we emit a photon.
+So we have two terms which form the rotating wave
+approximation.
+The other two terms are highly of resonant,
+and can often be neglected.
+So this rotating wave approximation
+becomes, of course, the better the more we
+go on resonant, because on one term, it's fully resonant
+and the other one is very off resonant.
+And in this case, we can simplify the Hamiltonian,
+because the number of excitations is conserved.
+The number of excitations is the number
+of excitations in the photon field
+plus the number of excited atoms.
+So this is the operator which measures
+the number of excitations.
+If you [INAUDIBLE] counter-rotating term,
+this operator is conserved.
+So if I introduce, as usual, the detuning,
+this is what my notes say seems to have the opposite sign.
+I'm not sure if I made a sign error here or later,
+or if I changed the definition.
+Let's just move on and see how it works out.
+So if you now do the rotating wave approximation,
+our Hamiltonian has now, by introducing the operator in,
+the number of quanta times h by omega.
+However, we have multiplied the N operator
+with the photon energy.
+If the energy is in the atom, we have
+made a mistake, which is delta.
+And we call that by using the z Pauli matrix.
+And then our interaction term is a dagger times sigma
+minus plus a times sigma plus.
+Let's now discuss what are the eigenstates
+of this Hamiltonian in the simple case, when
+the detuning is 0.
+And we have sort of two ladders of eigenstates.
+One is the ground state with n photons,
+and one is the excited state with n photons, 0, 1, 2.
+So we can label this by the photon number.
+And the excited state, of course,
+starts with a higher energy for 0 photon.
+And this is the energy with one photon.
+And in the case of 0 detuning, the two ladders are degenerate.
+And if we introduce the interaction-- if g is now
+non-0, the levels split.
+And the splitting is given by g.
+There's a factor of 2.
+But now if we have photons in the field,
+a dagger acting on the photon field gives n plus 1.
+So therefore, for one photon, we have square root 2.
+In general, we get an expression which is square root n plus 1.
+Or to write it mathematically, if we
+have strong mixing between an excited state with n photons
+and a ground state with n plus 1 photons, for the case of delta
+equals 0, it's just plus minus, symmetric and antisymmetric
+contribution times 1 over square root of 2.
+And these are now the states we label plus minus, the upper
+and lower state of each manifold.
+And n is the photon number in the excited state.
+n plus 1 is the photon number in the ground state.
+And the energy of those states is
+the number of quanta, n plus 1.
+But then we have the resonant splitting, g.
+And because of the matrix element of a and a dagger,
+we get square root n plus 1.
+
+Now, if we use a very strong drive--
+and this addresses Colin's question about depletion--
+we use a laser beam, which is described by a Rabi frequency.
+This is proportional to the electric field.
+So we introduce the Rabi frequency,
+which is given by that.
+And the laser beam has so many photons
+that we don't care about n plus 1 or scattering a few photons.
+So we simply replace n, n plus 1, n minus 1,
+whatever contains n, by a z number, which is the Rabi
+frequency of the laser beam.
+So this eventually means that we had two manifolds, plus, minus,
+plus, minus.
+Sorry, we have two states-- plus, minus.
+And they are periodic when we add one photon
+to the field, periodic in n.
+The splitting is the Rabi frequency defined above.
+And now we realize that when we have
+spontaneous emission between the manifold n
+minus 1 the manifold n, we have two possibilities
+to emit light on resonance.
+And we have, then, one possibility
+to emit an upper side band, and one possibility
+to emit the lower side band.
+
+So what is called the "dressed" atom
+picture is nothing else than the solution of an atom driven
+by a strong monochromatic field.
+The atom is dressed with photons.
+And the eigenstates are no longer just atomic eigenstates.
+These are dressed eigenstates of the combined atomic system
+plus laser field.
+So this dressed atom picture explains the Mollow triplet.
+
+And you can immediately generalize it,
+if you want, to [INAUDIBLE] detuning.
+Then the superposition states plus/minus
+do not have equal weight.
+But it's what you've seen a million times--
+diagonalization of a 2 by 2 matrix.
+Colin.
+Yeah, how does this explain the widths of--
+It does not.
+This is what I just wanted to say.
+It explains the Mollow triplet, but not the line width.

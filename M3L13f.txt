@@ -1,0 +1,141 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 132 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Before I give you the general derivation of the master
+equation, let me talk about what we
+have learned from this example, and what
+the general procedure is.
+The first thing is, our goal is to find a differential
+equation for the density matrix of the system.
+Oh, I just remembered, there was one thing I wanted to mention.
+In the previous derivation with the beam splitter,
+I started with the pure state and the pure state developed
+into a statistical mixture.
+And this statistical mixture would then
+transform the next beam splitter into
+another statistical mixture.
+I derived the differential equation for you
+for the first step from the pure state
+to the statistical mixture, but if you
+would spend a few minutes, you could immediately
+show that you can start with an arbitrary density matrix,
+look how it evolves through the beam splitter,
+and you get exactly the same differential equation.
+So the general procedure is we want
+a differential equation, how the density matrix evolves
+with time.
+And this will be obtained by finding an operator which acts
+on the initial density matrix.
+This operator is not a unitary operator,
+because we are performing measurements
+through the environment.
+Even if you don't actually perform them,
+once we dump something into the environment,
+it's out of our control.
+And anybody could go and perform a measurement.
+And so we should assume that this measurement
+has been taken.
+It's one of those quantum mechanical things
+that you don't even have to care whether somebody does it.
+The environment does it for you.
+So this operator is called a Liouvillean operator.
+It sometimes goes-- and I haven't really traced down
+why--
+it's called sometimes "super operator."
+I mean, I know what superconductivity is,
+but I don't know what the super powers of this operator are,
+but that's just the language you will find.
+The second thing which we have used
+is that the evolution of the system
+can be obtained from the time evolution of the total system
+by performing a trace over the degrees of freedom
+of the environment.
+This was exactly what we actually did when we said,
+the system continues with probability p0
+in one state and probability p1 in the other state.
+The operation which led to this density matrix
+was exactly the partial trace.
+So this is the second general feature
+which we have to implement.
+Thirdly, if we could do one and two exactly,
+we would have an exact formulation
+for a small part of the quantum system,
+no matter how complicated the environment is.
+In practice, we can solve the equations only
+when we make simplifying assumptions
+about the environment.
+One is it is large.
+And more important, therefore, it's unchanging.
+And this is the Born approximation.
+And the second feature is it has a short correlation
+time, tau z.
+In the beam splitter, I've made the assumption
+that there is no correlation between different beam
+splitters.
+In the derivation which I want to walk you through right now,
+you will see explicitly where the correlation time enters.
+And this is called the Mark ov approximation.
+And finally-- this is number four--
+the whole possibility to derive a master equation
+hinges on the fact that we have different time scales which
+are very different.
+We are interested in the evolution of our system.
+We want to know how it relaxes, and this is on a time scale
+1 over gamma.
+So we call this slow.
+We are interested in a variation of our system--
+the atomic system or the photon state
+which passes through the beam splitter.
+And this time scale has to be much slower
+than the fluctuations of the environment.
+So therefore, if the environment has
+fluctuations-- which in the beam splitter model
+were assumed to be 0.
+It was delta function in time.
+If that correlation time is much smaller than the time
+it takes for the system to relax and to evolve,
+that opens a window, delta t.
+And this is the time scale of the master equation.
+Just to give you one example for the spontaneous emission,
+the correlation time, tau z, would
+be the time it takes the photon to disappear from the atom.
+And the photon has disappeared from the atom
+when it is one wavelength away.
+So typically, the correlation time
+of the vacuum for spontaneous emission
+is one cycle of the optical frequency.
+It's very, very fast.
+Whereas typical decay times of the excited states
+are nanoseconds.
+It's six orders of magnitude slower.
+And this is what we describe.
+But on a time scale of a femtosecond,
+of one optical cycle, the photon has not detached from the atom,
+and it could go, actually, back to the atom.
+During that time-- we talked a little bit about it
+when we did this diagrammatic discussions of resonance
+scattering-- for very, very early times,
+you don't have exponential decay.
+Because you cannot do the approximations where we
+approximated the kernel by something which was completely
+energy dependent.
+And so what happens at such short times,
+we encounter here, again, at such short times,
+we will not have a simple description of the system.
+So the last point, let me summarize-- our goal
+is that we describe the density matrix of the system.
+And we want to find the Liouville operator
+or some matrix which acts on it.
+And because we will integrate over
+time steps which are larger than the correlation
+time of the system, we can also call it
+a coarse-grained evolution.
+Any questions about that?

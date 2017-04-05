@@ -1,0 +1,137 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mb.txt
+#
+# Captions for 8.422x module
+#
+# This file has 128 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, we want to now discuss one other aspect, which is actually
+fairly simple.
+We want to discuss steady state solution.
+For the steady state solution, we just
+go to the differential equation and say
+the left hand side is 0.
+That immediately gives us a solution for the block vector.
+It gives us a Lorentzian, but for strong drive
+it has a term here, which we will immediately
+realize that this gives us power broadening.
+And then the steady state block vector
+is g delta, g gamma over 2, delta
+squared plus gamma squared over 4.
+So we can now use this solution for steady state
+and discuss everything we want what happens in steady state.
+So one question is, if you have an atom laser
+beam in steady state, how much light is absorbed?
+Well, the basic equation is if you
+have a charge q which moves in an electric field, that
+means the work is done.
+So therefore, the absorbed power is related to that.
+And we can now combine q dr dt, and this
+is nothing else than the derivative
+of the dipole moment.
+And then we calculate the average.
+So with that, we find the result that the absorbed power,
+we express now e0 by the Rabi frequency.
+And h bar appears and an omega.
+But the important thing is that we
+need now the dipole moment, or the derivative
+of the dipole moment.
+And the dipole moment is given by the coherences
+of the density matrix.
+And that is, if you look at the substitution,
+is the x and y component of the optical block vector.
+But now what we need, of course, we
+need only the component of the dipole moment, which
+gives the non-vanishing term with cosine omega t.
+That means what we need is--
+I mean, it's like an harmonic oscillator--
+the component of the motion, which
+is responsible for absorption, is
+the one which is in quadrature, which is the sine omega t
+component.
+And that, you have to go back and look by inspection,
+but this is exactly what the y component of the block vector
+does for us.
+It will become important later on for optical forces.
+So we have the optical block vector.
+
+We are in the rotating frame, and the one component,
+which is the x component is in phase with the light.
+And the y phase is 90 degrees out of phase, as in quadrature.
+And for absorption, it's of course, the in quadrature
+component, which is relevant and which
+determines light scattering.
+OK, this is the absorbed light.
+And we don't measure power in work,
+we measure power in the number of absorbed photons.
+This is an actual unit here, and for that we
+have to divide the expression by h bar omega.
+And that means now that the number of photons absorbed
+per unit time is given by the Rabi frequency and the y
+component of the block vector.
+Well, we can ask another question,
+and ask what is the number of emitted photons?
+Well, the number of emitted photons
+is related to the population in the excited state.
+We take the population in the excited state
+and multiply with gamma.
+This is spontaneous emission out of the excited state.
+Now the excited state can be the excited state population.
+You have to look up at the substitution,
+but is related to the z component of the optical block
+vector.
+To remind you, the z component is
+the difference of population between excited and ground
+state.
+But the sum of the two is 1, so therefore this is now
+the excited state population.
+And here is our steady state solution.
+Here is our steady state solution for the z component.
+And by using that now, we find that we
+have the result with the Lorentzian denominator.
+And what we have here is gamma g squared over 4.
+And now, of course, if you compare that
+with the solution for y, for the number of absorbed photons,
+you find--
+well, it shouldn't come as a big surprise
+that the number of absorbed photon in steady state
+is equal to the number of emitted photon.
+
+So this is one case of--
+one important part of the solution.
+And I should have shown that to you earlier.
+When we look at the two components, the x and y
+component, the y component is sort of absorptive,
+is Lorentzian, whereas the x component is dispersive.
+
+Just by inspection of these two expressions here, is a delta,
+and the it makes the x component antisymmetric,
+and the y component is symmetric with respect to the origin.
+So what we see here is we have a Lorentzian.
+The Lorentzian has a natural line
+broadening by gamma, so the full width at half maximum is gamma,
+but only in the limit of zero drive.
+When we drive it, we have an additional broadening which
+is called power broadening.
+So for absorption, the full width at half maximum
+is 2 times gamma squared over 4 plus g squared over 2.
+And this last term goes by the name power broadening,
+or situation broadening.
+Just to avoid coming confusion, if you go to very high power,
+then this term doesn't play a role.
+How does the line width scale with power in power broadening?
+
+Linear in power, quadratic in power, square root of power?
+Square root.
+Square root of power, yes.
+So in that sense power, yes power broadening only
+goes to the square root of power.
+It's in essence a Rabi frequency.
+If you drive the system at the Rabi frequency,
+it gets power broadened by the Rabi frequency.
+And I think that's the prefect, which is 2 or square root 2.
+But in essence, power broadening scales with the Rabi frequency.

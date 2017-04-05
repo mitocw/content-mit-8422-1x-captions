@@ -1,0 +1,130 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mm.txt
+#
+# Captions for 8.422x module
+#
+# This file has 121 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The way how we solve this master equation in this limiting case
+is by the method of adiabatic elimination of coherences.
+And let me explain it to you with that equation.
+What we have here is that the derivative of the coherences.
+And when you look at the right hand side,
+the derivative of the coherences is
+kappa in damping terms times the coherence.
+Well, if you have an equation which
+says a dot equals minus strong damping times a,
+you have a very rapid exponential damping.
+
+The system immediately gets into an equilibrium,
+and the equilibrium is given by the first term.
+So if we have a situation that the population do not rapidly
+change, then this equation can be
+written that we have a very rapid damping.
+And ultimately the coherences settle
+to an quasi-equilibrium value in a time 1
+over kappa, which is given by the first term.
+In other words, you set the time derivative of the left hand
+side 0, and then the coherences are
+expressed in terms of the slowly changing quantity, which
+are the populations.
+So let me repeat, if coherences are rapidly damped,
+we can neglect the time derivative of the left hand
+side.
+And at any given moment, the coherences
+will be given by an expression which involves a population.
+And if the populations slowly change,
+the coherences will slowly change.
+Or in other words, the coherences
+follow the population, and the lag time is at most 1
+over kappa, and we are in the limit of strong kappa.
+This principle of eliminating coherences,
+and we simply get a master equation for population,
+is called the adiabatic elimination of coherences.
+It's also called by Eric Hawken in his famous work
+about synergy by the principle that if you have rapidly
+damped modes, they are slaved by this slow modes.
+In other words, the rapidly damped degrees of freedom
+follow the slow degrees of freedom.
+And this is what I just said, that the instantaneous value
+of the coherence is is always given by the population.
+So let me just write that down and see where it takes us.
+So we have the situation that we want to now look
+at the case of strong damping.
+This is the overdamped case.
+And we use now the method of adiabatic elimination
+of coherences, because they are rapidly damped.
+And there is a wonderful discussion about this method
+in Atom-Photon Interaction.
+It's the exercise 18 on page 601.
+So mathematically what we assume is
+that the population very slowly, for instance they
+vary at the Rabi frequency.
+
+So therefore, we can say that over the rapid time
+evolution of the coherences--
+rho 1 2 plus rho 2 1.
+So this is a rapid time evolution of the coherences,
+but for this, for times, which are on the order of 1
+over kappa, the population are not changing.
+The population change over the much longer time
+scale, which is the period of the Rabi oscillation.
+So therefore, for the short time scale,
+I can sort of pretend that this term is constant.
+And for obvious reasons, let me now call this constant term,
+or slowly varying term, it is, at least for a short time
+scales, the equilibrium value.
+So the way we should read it is that the coherences
+will very, very rapidly damp to this equilibrium value.
+And this equilibrium some value was
+given by the population, which may slowly change.
+But that means now, by eliminating coherences,
+we obtain a rate equation for the populations only.
+So therefore, if you neglect short transience
+over the short term 1 over kappa,
+the coherences are always given by
+this quasi-equilibrium value, which
+is expressed by the population.
+And therefore we can go to our master equation, which
+was a master equation of diagram matrix elements of the density
+matrix.
+And we can now replace the coherences
+by an expression which involves only population.
+So we get now closed equations for only the population.
+I'm sort of emphasizing that, because you may have asked
+yourself when you have the rate equation a la Einstein
+with the a and b coefficient.
+These are just rate equation for populations.
+But here in our class, we've always
+talked about that density matrix,
+how important the coherences are.
+The coherences are important.
+Without coherences, you would never absorb or emit light,
+but if the coherences can be expressed by populations,
+you don't need a differential equation for them.
+OK, so with that now, we have one master equation
+for the population.
+And by just inserting that, we find this.
+And we were interested in the decay of rho 1 1,
+or this is also the population of the atom in the excited
+state.
+If we initially start where rho 1 1 is large,
+we're interested in the initial decay,
+then the population in the ground state is small.
+And we find indeed that there is exponential decay
+of the initial distribution.
+And the decay rate, gamma z, gamma cavity,
+is given by this expression.
+So therefore, what we find is, but you know it
+by now, the effect that the stronger we damp the cavity,
+the smaller, the weaker is the decay of the initial state.
+And I've already explained to you
+that one picture to explain that is
+that we have the excited state.
+We have the ground state.
+The ground state gets damped by kappa,
+and therefore, time evolution which

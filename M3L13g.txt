@@ -1,0 +1,401 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 392 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I really like the discussion-- the derivation of the master
+equation-- how it is presented in Atom Photon Interactions.
+But well, it is presented on more than 50 pages
+with many, many equations.
+So after giving you all the principles, all the concepts,
+I want to go with you now over those equations
+and point out how the principles which we encountered
+with the beam splitter, how they are now implemented
+in a very general context.
+I will not be able to give you all the mathematical aspects
+of it.
+But I think by now you know that the book Atom Photon
+Interactions is actually wonderful.
+You can get a lot of conceptual information out of it
+by looking at the equations without understanding
+every technical detail.
+So I would really encourage you if there is something which
+piques your interest, and I hope there
+will be things which you find very interesting, that you
+go to the book and read it.
+So I'm exactly following that.
+We have an Hamiltonian, which is describing the atomic system.
+It describes the reservoir.
+And then there is an interaction.
+We keep it very general here.
+But you may always think, well, the atom is
+your favorite two-level system.
+The environment is maybe the vacuum
+with all its possible modes.
+And the interaction is the dipole interaction
+or the a dot p interaction.
+So we start out with an equation,
+which is nothing else than Schrodinger's equation
+for the density matrix.
+The time derivation of the density matrix
+is a commutator with the Hamiltonian.
+But it is often useful, and you've seen it many times,
+to go to the interaction representation--
+that the time dependence due to the unperturbed part
+of the operator is absorbed in a unitary transformation.
+So therefore this density matrix in the interaction
+representation evolves not with H, because H0 is taken care of.
+It only involves due to the coupling between the two
+systems, between the system and the environment.
+So now this equation-- you're interested in a time step
+delta-t.
+And this time step delta-t, remember,
+we want to core screen will be larger
+than the correlation time of the reservoir.
+And you will see exactly where it comes about.
+So we want to now do one of those core screen steps.
+We take this equation and we integrate from time-t
+to time-t plus delta-t.
+
+So this is exact here.
+But now we want to iterate, and that means the following.
+We have expressed the time step in the density matrix
+by having the density matrix there.
+But now we can do in a first order perturbation theory--
+we can do one step.
+And we get the second order resolved
+by plugging the first order result into this equation.
+It's the same we have seen with our diagrams and such.
+We have an exact equation.
+It's useless unless we do something.
+And what we do is we realize that we can iterate it,
+because the part we don't know involves one more occurrence
+of the interaction potential.
+And when you plug the dense order solution in here,
+you get the n-plus first order solution.
+And this is exactly what is done here.
+And I skipped a few equations here.
+This is what is done here, number one.
+And number two is we're interested in the system,
+not in the reservoir.
+So therefore we perform the trace over the reservoir.
+And the trace of the reservoir for the photon beam splitter
+meant--
+we say we have two possible-- two possible states.
+We detect the photon or not.
+And for the system, we have now a density matrix,
+which is probability p0 in one state, probability
+p1 in the other state.
+And this is exactly what the operator partial trace does.
+Remember also, I want to really make sure
+that you recognize all the structures.
+The time evolution of a density matrix was a commutator with H.
+But in the interaction picture, it's
+a commutator with V. Since we are putting the first order
+result in here, the second order result is now the commutator
+with--
+of V with the commutator of V and O.
+It's just we have iterated one more time.
+So V sigma tilde, the density matrix for our system.
+Tilde means in the interaction picture--
+is now the partial trace over the reservoir
+of the total density matrix.
+Tilde means in the interaction picture.
+And the important part here is that it is exact.
+We have not done any approximation here.
+Any questions?
+Of course now we have to make approximations,
+because we cannot solve an arbitrary quantum problem
+exactly.
+The first one is--
+and what do we want to do in the end?
+We want to keep the first non-trivial term.
+But to the extent possible, we won't to factorize everything.
+We want to get rid of the entanglement of the environment
+and the system and only get the minimum which
+is provided by the coupling.
+So this evolves as follows.
+The interaction we assume is a product of two operators.
+One operator acts on the system.
+One operator acts on the environment.
+So this could be the dipole acting on the atom,
+the vacuum filled E interacting with the environment,
+or it could be p dot a.
+Or maybe your system has a magnetic moment m,
+and the environment is--
+consists of fluctuating magnetic fields.
+So we will pretty much find in every kind of measurement
+that a measurement involves the product of two operators.
+One is an operator for your system.
+And one is an operator for the reservoir
+or for the environment.
+
+So this is one thing we want to use.
+And now there is some-- one thing which--
+the moment we will use set in our equations.
+There is one thing which will naturally appear.
+What we have here is the interaction operator V
+at two different times.
+So this means if something is-- happens at different times,
+and we indicate over times.
+This is a correlation function, a correlation function
+between V at the time t-prime and the time t-double-prime.
+And the reservoir part of this interaction is the operator r.
+So what we have here now is we have a correlation
+between the operator r at 2 times, which
+characterizes the environment.
+And now comes an important approximation.
+You'll remember I said we want to assume
+that the environment has a very short correlation time.
+Whenever a photon is emitted, it appears dramatically fast.
+It disappears in one optical cycle,
+and the environment is sort of reset.
+It's back in the vacuum state.
+So this is now expressed here, that this product over which
+we take the partial trace has a very short coherence time.
+And the fact is now the following--
+we are integrating over a coarse-grained step delta t.
+But this correlation function goes to 0 in a very short time.
+So therefore, it will not contribute a lot.
+Let me write that down.
+What we want to approximate is our total density matrix
+is now approximately factorizing in a density matrix
+describing the atomic system.
+Well, we describe the atomic system
+when we trace out the environment.
+We describe the environment when we trace out the atomic part.
+And if we now form the direct product,
+we are back to the total system, but we
+have factorized the total density matrix into two parts.
+What we neglect here is a part which cannot be factorized,
+which is the correlated part of it.
+
+But what happens is, since we are integrating over time steps
+delta t, and the correlations decay in a very,
+very short time, the result is that this complicated part--
+which we could never calculate--
+is smaller than the first part by the ratio of the time
+where the correlations contribute
+over the time delta t, the times that we are going to take.
+So this is a very critical assumption.
+There is a whole page or two in the book
+where in atom-photon interaction they discuss the validity
+of this assumption.
+But I've given you the physical motivation that we integrate
+over much larger time.
+And if this time is large, and the correlations
+last for a short time, they only contribute
+with this small parameter to the result.
+So in other words, that means after we have--
+we have an interaction between the environment and the system.
+We write it down in second order.
+But the second order result is now
+evaluated by factorizing the density matrix into our system
+and the reservoir.
+So that means, in that sense, if you factorize something,
+it looks as if it's non-interacting.
+But the trick is the same.
+You write down something to first and second order.
+And once you have factored out the important physics,
+now you can evaluate the expression
+by using an approximation, which is now the approximation
+that the density matrix factorizes.
+
+So this is the approximation we have made--
+that the correlation time is very short.
+And now we have a differential equation
+for the density matrix sigma, which
+describes our atomic system.
+
+We have traced out the decrease of the reservoir.
+
+And now we want to insert B.17.
+You probably don't remember what B.17 is.
+It says that the interaction operator is the product of A,
+the operator A for the atoms, and r for the reservoir.
+So the reservoir part--
+tau prime, tau double prime--
+gives a correlation function.
+This is the correlation function between the operator
+r at two different times.
+And the part which acts on our system,
+the A part is explicitly kept here.
+So this is now a general master equation.
+It tells us the time evolution of the density matrix.
+And in this form, it looks very complicated,
+but this is because it's very general.
+In order to bring it into an easier form,
+we want to now introduce the basis of states, energy
+eigenstates, of the unperturbed system,
+and write down all these operators
+into such a basis of states.
+But anyway, you saw here how we had an exact equation.
+And the main approximation we made
+is that the operator acting on the environment
+has a very short correlation time.
+Any questions?
+We're only a few minutes away from reducing this result
+to Fermi's golden rule, which you have
+known for a long, long time.
+It's just we have made very general assumptions.
+You see sort of how the assumptions propagate.
+But now, if we write it down for an energy eigenbasis,
+you will immediately see results you have pretty much known
+since your childhood.
+So we want to have energy eigenstates
+of the atomic operator.
+So this is sort of ground and excited state
+if you think about a two-level system.
+The previous equation is a differential equation
+for the density matrix here.
+And here is the density matrix.
+So now we formulate this equation
+into an energy eigenbasis.
+And what do we get?
+Well, we get an equation for the matrix elements.
+And what matrix elements are important?
+Diagonal matrix elements, which are
+population of diagonal matrix element, which are coherences.
+So we pretty much take this equation,
+use the energy eigenbasis, and look
+what do we get for the populations,
+and what do we get for the coherences.
+
+The structure is now the following--
+that we have our matrix elements, a, b.
+
+There is one part, which looks like a unitary time evolution.
+This is what comes from the Hamilton operator.
+
+You'll see that in a moment, but this is the time evolution
+without relaxation.
+And now we have something here which are generalized
+relaxation coefficients.
+And you will find, if you look further above,
+that those relaxation coefficients are
+directly related to the correlation
+functional of the reservoir.
+So we can now specify what happens between populations.
+Population means that we have a differential equation,
+let's say, between sigma a, a--
+the polar sigma a, a--
+and sigma c, c.
+So we have a rate coefficient, which
+connects the population in state a
+with the population in state c.
+
+And if you take this expression, you'll find several things.
+You find Fermi's golden rule in a generalized way.
+That's always nice.
+You find Fermi's golden rule.
+When you integrate over time, you often get a delta function.
+And you expect to get a delta function,
+because you have energy conservation.
+So you get that, of course, naturally.
+Secondly, we have second-order matrix element, which you
+know from Fermi's golden rule.
+But now we have the following situation--
+that the matrix element in Fermi's golden rule
+may actually depend on the state view of the environment.
+So you have maybe 10 different possibilities
+for the environment, and Fermi's golden rule
+gives you spontaneous emission, which is
+different for those 10 states.
+And naturally, since we have performed the partial trace
+over the environment, we have all those rates
+weighted with the probability that the environment
+is in one of those states.
+So what you find here is a simple generalization
+of Fermi's golden rule.
+And if you look at the off-diagonal matrix elements--
+for instance, you want to know what is this rate.
+What is the rate coefficient, which gives you the time
+derivative of the coherence?
+And it's multiplied with the coherence.
+You find now that in general, this rate coefficient
+has a damping term, but it may also have an imaginary term.
+And I hope you remember when we played with diagrams that we
+had something similar.
+That was something which we called the radiative shift.
+I called it the ac Stark effect of a single photon.
+And here it is a level shift, which
+comes because the environment interacts with your system
+and it shifts the levels a little bit.
+So in addition to just relaxation,
+spontaneous emission, and damping,
+there's also a dispersive part--
+a level shift.
+And it has exactly the same structure.
+Let me add that delta a, b is the difference
+between the shift of state b and the shift of state a.
+And those shifts have exactly the same structure.
+You have to take the principle part of something
+which has 1 over the difference of energies.
+And we discussed that this has to be understood
+by somewhere adding an infinitesimal imaginary part,
+and doing the right thing with complex function.
+It's actually related to the difference
+between Laplace transformation and Fourier transformation.
+So anyway, what I find sort of beautiful
+is that we started with the most general situation.
+We performed the partial trace.
+We made one assumption of short correlation times.
+And a lot of things we have known about quantum systems
+just pops out in a very general form here.
+
+Any questions about so far?
+The coherences are, of course, more interesting
+than the population.
+Coherence is always something physicists
+get excited about, because it captures
+something which goes, often, beyond you
+know a classical system--
+that we have quantum mechanical coherences.
+And what happens is the coefficient here,
+which provides the damping of the coherence--
+just comes out of the formalism-- has two parts.
+And one part is an adiabatic part,
+and the other one is a non-adiabatic part.
+And that makes sense.
+If you have quantum states, and there is a coherence--
+some phase between the two--
+the phase can get lost if you do a transition between the two
+states, or one state undergoes a collision and is quenched.
+So you definitely have one part, which is due to the fact
+that the quantum states or the population changes.
+And you find that there is this state-changing part, which
+is pretty much the sum of all the rate coefficients leading
+out of state, leading to the decay of state a
+and leading to the decay of state b.
+In other words, if you have a two-level system which
+has a coherence, and you have decay of the excited
+state and decay of the ground state,
+you would expect that those decay terms appear also
+in the decay of the coherence between the two levels.
+And they do.
+And they appear with the correct factor of 1/2.
+But there is another possibility,
+and this is the following--
+you can have no relaxation of the population of the state.
+But you can still lose the coherence.
+The model you should maybe make is that you
+have spin up, spin down.
+You're not perturbing the populations
+in spin up and spin down.
+But the environment provides a fluctuating magnetic field.
+Then due to the fluctuating magnetic field,
+you no longer can keep track of the phase.
+And that means in your density matrix,
+the off-diagonal matrix elements decay.
+And we find that here.
+This is the second part, which in this book
+is called the adiabatic part.
+And the physics behind it is now pure dephasing.
+So it's an independent way for coherences to decay independent
+of the decay of the population.
