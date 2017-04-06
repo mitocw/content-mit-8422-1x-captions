@@ -1,0 +1,63 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 54 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Questions?
+Colin.
+Where does the Markov approximation come in?
+The Markov approximation is, so to speak,
+the delta function approximation,
+which would say that--
+I introduced the correlation function between the reservoir
+operator and said, the coalition time, tau z,
+is very, very short.
+The Markov approximation would actually
+state that it would actually say in a more radical way,
+the correlation time is 0.
+And the Born approximation, the fact
+that the reservoir is unchanged, came
+in when we said the total density
+matrix for the second order expression just factorizes.
+It factorizes into the environment,
+which is just this density matrix of the environment.
+It's not changed by the interaction with the system.
+And this is the Born approximation.
+We just use the same expression for the reservoir independent
+of the measurements the reservoir has done.
+
+Other questions?
+Yes, Nancy.
+[INAUDIBLE]?
+
+This is something very general, I think.
+Thank you, actually, for the question.
+Whenever we have some damping of the population,
+the coherence is only damped with a factor of 1/2.
+One way to explain it in a very simple way
+is that if you have an amplitude alpha excited and alpha ground,
+the population in the excited state is this squared.
+So you sometimes make the model that the amplitude
+decays with gamma over 2.
+But the population, because you take the product,
+decays with gamma.
+So you would say alpha e and alpha g both decay
+with half the rate, but the probabilities
+with the total rate.
+And the coherence is the product of the amplitudes.
+So therefore, when you look at the coherence,
+this decays with 1/2 gamma e.
+This decays with 1/2 gamma g.
+And this is what you get here--
+1/2 gamma in state a, 1/2 gamma in state b.
+Whereas the probability to be in this state
+decays with twice that, because the probability is squared.
+So you find that pretty much in any quantum
+mechanically correct derivation which
+you do about the decay of population coherences.

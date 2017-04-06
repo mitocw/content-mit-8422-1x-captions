@@ -1,0 +1,45 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mg.txt
+#
+# Captions for 8.422x module
+#
+# This file has 36 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So there are two new concepts which I want to introduce.
+One is the idiopathic elimination of coherencies,
+and the second one is the quantum Zeno effect.
+So first of all, if you look at the differential equation,
+and when kappa is small, in particular, kappa
+is smaller than two times a vacuum Rabi frequency,
+then the population to be in the excited state, which is rho 22,
+undergoes Rabi oscillation.
+And those Rabi oscillations, this population,
+is stemmed by e to the minus kappa t.
+So what I want to discuss now is the overdamped case.
+I think you know by now that I have a preference
+to maybe ask you questions about really simple quantum physics.
+Quantum physics is subtle enough that nobody fully
+understands it.
+And we want to improve on that.
+So I want to test your intuition by looking at the situation.
+We have an excited state without photon, we have a ground state.
+So I want to test your intuition in the following way.
+We have Rabi oscillations between two levels.
+The case in the cavity is a Rabi oscillation
+between state two and state one, but it doesn't matter.
+You can also assume that it is a Rabi oscillation between two
+hyperfine levels and the Rabi oscillation
+is driven by an RF field.
+And the one thing we introduce now
+is we introduce damping kappa to this level.
+But we start out the system with all the population
+in this state.
+And in the overdamped case, when kappa is sufficiently strong,
+an oscillator will be overdamped and will no longer oscillate.
+And in this situation, the probability
+to be in the initial state will decay, e to the minus gamma t.
+So it decays with a decay rate kappa.

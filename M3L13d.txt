@@ -1,0 +1,58 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 49 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I like the beam splitter because the beam splitter
+provides an exact formulation of the measurement process.
+You really can use the beam splitter
+to discuss what happens fundamentally
+when you perform a measurement.
+And the beam splitter is one typical implementation of that,
+but it has all the features you will
+find in any measurement system.
+
+And especially what you observe here--
+let me just emphasize this--
+the fact that we do not make a measurement
+is changing the wave function from the initial wave function
+psi to psi 0.
+We have a factor cosine theta here.
+And that's also very general.
+A measurement perturbs, modifies your wave function
+no matter what the outcome of the measurement is.
+
+OK.
+So let me write it down, because we want
+to take it to the next level.
+So we have now found, in terms of the beam splitter, angle
+theta and the parameters of the initial state, alpha beta.
+We found the density matrix after the beam splitter.
+
+OK, so what is the next step?
+Our goal is to derive the master equation
+for the density matrix, the time evolution of the density
+matrix.
+So since we want to discuss the time evolution,
+we want to find a differential equation.
+So what we want to figure out is what
+is the difference between the output density matrix
+and the input density matrix.
+The input was, of course, a pure state
+characterized by the matrix population alpha squared
+and beta squared and of diagonal matrix element of alpha beta.
+The difference between the density matrix is--
+can just calculate the difference.
+You can simplify things by applying
+some trigonometric identities.
+So this is an exact result, cosine theta minus 1.
+Here we have alpha beta, cosine theta minus 1
+and on the diagonal, we have cosine
+2 theta minus 1 divided by 2.
+Anyway, this is an intermediate result.

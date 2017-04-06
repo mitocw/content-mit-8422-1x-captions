@@ -1,0 +1,144 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mf.txt
+#
+# Captions for 8.422x module
+#
+# This file has 135 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to discuss simple limiting cases.
+So I think you're glad to hear that we are
+choosing zero thermal photons.
+So therefore we assume we have a cavity in vacuum.
+And therefore, we only need the Lindblad operators L1 and L2.
+And we want to describe the system, which
+has maximally, which has only one x, which
+has maximally one excitation.
+We try to keep the density matrix small.
+So we only want to consider three states.
+So when I say there is one excitation,
+it is, of course, the state which has
+no photom in the excited state.
+The state [INAUDIBLE] is we have the ground
+state and one photon.
+And those two states are coupled by the cavity.
+And since I really want to discuss the simplest
+case, which has all the wonderful, which already
+illustrates all the concepts want to do
+is, they are accompanied by the vacuum Rabi oscillation.
+And we have discussed vacuum Rabi oscillation
+in part one of the course.
+But it's very simple.
+It's just two levels coupled.
+It's a two-by-two matrix.
+So this is something you are familiar with.
+But now, the master equation, the Lindblad operator
+bring in the third level, which is the ground
+state without photons.
+And this can happen in two ways.
+One is spontaneous emission.
+The excited state emits, but not into the cavity.
+It emits to the side.
+So spontaneous emission can take us down here.
+Or, when the excitation is in the cavity,
+we have one photon in the cavity,
+this photon can leak out, and the rate for that is kappa.
+And since we have talked about spontaneous emissions
+so much with the optical bloch equation,
+we want to discuss now the case where gamma can be neglected,
+and we want to understand what happens
+when the only dissipation of the system
+comes by photons leaking out of the cavity.
+
+Any questions about the system and the motivation?
+
+So our system is now an atom with a cavity.
+The environment is a vacuum.
+But the process of dissipation, relaxation,
+is no longer spontaneous emission.
+It is the photon leaking out of the cavity.
+And this realizes a different physics,
+and I hope by experiencing these different physics,
+you have sort of a nicer picture,
+what is dissipation in an open system, and what is similar,
+but what is also different with spontaneous emission.
+Colin.
+If you're considering only kappa,
+isn't there an equivalent process and order kappa
+takes you to the ground of two photons in the cavity?
+Don't you have to consider that state as well?
+
+So, wait, the question is, I restrict the Hilbert space
+to maximally one excitation.
+So this is how we start out.
+We start with a differential equation.
+Now this isn't in a thermal bath.
+I thought we were assuming we had--
+Oh, sorry, I've--
+I first made everything complicated.
+But then I said, now let's make it simple.
+We assume the thermal bath is 0.
+So we reduced, in a way--
+yes, I told you, here are four Lindblad operators,
+and you can describe everything you want.
+But then I said, hey, two of them become 0,
+because we eliminate the thermal bath.
+And now I make the approximation that spontaneous emission
+is negligible.
+And now we are back to the situation,
+which is nice for classroom discussion we've only one term
+left.
+And this is leaking out of the [INAUDIBLE] of the cavity.
+So I will show to you what happens.
+But ultimately, when we make the cavity better and better
+and kappa smaller and smaller, I will see, wait a moment.
+We now have to take that our solution is
+consistent with our assumption that spontaneous emission can
+be neglected.
+So that's sort of what you want to do.
+OK, so what we want to do is we want to look
+for the dynamics of the system.
+We start out in state one.
+So we inject one excited atom into the cavity.
+And what we want to learn now is--
+and it has a lot of interesting physics in it--
+what will happen as a function of this new dissipation kappa?
+Well, qualitatively, it should be pretty clear.
+If kappa is 0, we have vacuum Rabi oscillation
+between state 1 and state 2.
+If you then put a little bit kappa into the system,
+you have Rabi oscillation, but they're getting damp.
+And, like in any oscillator, if you crank up the damping,
+you go into an over-damp regime.
+So this is exactly what the equations give us.
+Rabi oscillation, damped Rabi oscillation,
+and then, over-damped regime.
+And actually, the most interesting regime for us
+will be the over-damp regime.
+That's something we haven't encountered.
+But let me just, before we go there, write down
+the master equation for you.
+So without the photon leaking out of the cavity,
+we have the following terms.
+Without the photon leaking out of the cavity, of course,
+state 3 is not involved.
+We simply have Rabi oscillation between state 1 and state 2.
+And this is actually also like the optical bloch creation
+without damping.
+It's simply the Jaynes-Cummings model minus--
+
+that's this.
+And for the coherences, we get omega not rho, 1, 1
+minus rho 2, 2.
+But now we put in the terms with kappa.
+The state, which is the state 2, which
+is the ground state with the photon,
+has now a damping term, because the photon can leak out.
+We get, of course, an equation for the ground state.
+The population, the photon leaks out.
+And we populate state free.
+And the damping also effects the coherencies.
+And the form of the master equation, the Lindblad form,

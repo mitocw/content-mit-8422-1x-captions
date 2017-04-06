@@ -1,0 +1,47 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14b_CQ1.txt
+#
+# Captions for 8.422x module
+#
+# This file has 38 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's start with the first part, the spectrum and intensity
+of emitted light.
+And I want to start off this discussion with a clicker
+question.
+So the situation is that we have an atom which
+is excited by laser light of frequency omega L.
+The atom has frequency omega 0.
+I'm discussing the limit of very low intensity.
+And the question for you is what is the spectrum
+of the emitted radiation?
+So in other words, we have our atom.
+We have the laser beam, which comes here.
+And now the atom emits in all directions.
+And you collect in frequency analyze the light.
+And I want to give you four possibilities how
+the spectrum of the emitted light may look like.
+Let's assume that on the frequency axis
+this is the laser frequency and this
+is the frequency of the atom.
+And the first possibility is that we
+observe a spectrum which is centered
+at the atomic frequency with aligned with gamma.
+The second option is that we observe
+a delta function, a very sharp peak, at the frequency omega 0.
+The third possibility is that we observe a sharp peak
+at the laser frequency.
+And the fourth option is that we observe
+radiation centered at the laser frequency but with bits gamma.
+So I would ask you for your vote, A, B, C, or D.
+Was there any question about--
+questions about the choices?
+Forty for in spectral, the low intensity
+limit of light scatter emitted by an atom, which
+is excited with a laser beam we can
+assume close to resonance, but not on resonance,
+so we can distinguish between the laser frequency

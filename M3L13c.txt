@@ -1,0 +1,190 @@
+#
+# File:   content-mit-8422-1x-captions/M3L13c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 181 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Before I discuss with you optical Bloch equation
+and master equation in general, I
+want to give you a very simple model.
+I really like simple models which
+capture the essence of what you want to discuss.
+So I want to use a beam splitter model for photons.
+I formulate it for photons, but it would also immediately
+apply to atoms.
+And this model, what I like about it is it
+has all the ingredients of the derivation of the master
+equation we do later on, without the kind of many indices
+and summations and integration.
+But it captures every single bit of what is important.
+And I usually like to present exactly solvable simple models
+where you get it, and then I can go a little bit faster
+through the general derivation, because you
+know exactly what the more complicated equations,
+what they are doing.
+In other words, what I want to derive for you is,
+we want to have the following situation.
+We have a beam splitter.
+And we know everything about beam splitters,
+because we talked about them in the first part of the course.
+And we have a wave function which is the input.
+And this is a photon.
+And we want to understand after the beam splitter,
+how has the system evolved.
+In general, it will be a density matrix.
+And what you want to find out is what
+is the equation for the density matrix?
+Maybe this density matrix goes through the next beam splitter,
+and then we want to know what comes out of it.
+And all we have to apply is the formalism
+we developed for the beam splitter earlier in the course.
+Of course, the beam splitter is not as harmless
+as it looks like.
+There is another port and another port.
+One here brings in the environment.
+And for the environment, we will use the vacuum.
+That's the simplest environment.
+It's actually an important environment,
+because it's the environment we will use all the time when we
+discuss spontaneous emission.
+We send photons into Nirvana, into the vacuum,
+and they disappear.
+And this is our model for it.
+But the other one, which is often not so explicit,
+if you send your photons away, you're
+not keeping track of what happens.
+But you could as well perform a measurement.
+And this is what we put in here.
+We say those photons hit a bucket or detector.
+And we measure them.
+We observe them.
+There's nothing else we do with them,
+so we can as well measure them.
+And this will immediately lead to the equation for the density
+matrix.
+So this is what you want to discuss.
+And it will have all the ingredients later
+on, in a mathematically simple form,
+for the derivation of the master equation.
+So let's consider a single photon for that.
+So the wave function is a superposition
+of no photon and one photon.
+And the coefficients are alpha and beta.
+And just for simplifying notation,
+I pick alpha and beta to be real.
+So what do we expect to happen at the beam splitter?
+Well, there's a probability that the photon gets reflected--
+probability to reflect the photon--
+and therefore, to observe the photon.
+This probability is, of course, beta square, the probability
+that we have a photon to begin with.
+And then the beam splitter--
+remember, we characterized the beam splitter
+with angle sine theta cosine theta.
+Sine theta was the reflection amplitude, cosine theta
+the transmission amplitude.
+So this probability, which I call P1,
+is the probability for reflection and for measurement.
+And now, naively you would think what
+happens after the system has passed through the beam
+splitter?
+With a probability of P1, we've measured the photon.
+We know for sure there is no photon left.
+The system is in the vacuum state.
+But then you would say, well, maybe
+with probability 1 minus P1, we have not measured anything.
+Nothing has happened to the wave function.
+And that means the wave function just continues.
+Well, as we will see, this is wrong.
+We are missing something.
+What we are actually missing is that if we measure nothing,
+the wave function is not psi.
+The possibility that we could have measured something
+changes the wave function.
+I will comment on that in much more detail in a few lectures
+down the road when I derive for you quantum
+Monte Carlo wave function.
+I will have a wonderful discussion with you
+about how does a non-observation change a wave function,
+so we will talk about the physics behind it
+in some more detail.
+Right now, I don't want to get into this discussion.
+I simply want to use our beam splitter equation.
+So we can just take the beam splitter equation and apply it.
+So our output state is obtained by taking the operator
+for our beam splitter.
+And maybe you will remember that the propagation for beam
+splitter was described by an operator which
+had a dagger b plus b dagger a in the exponent.
+a and b are the two input modes and the angle
+of the beam splitter, which interpolates
+between 0% and 100% reflection and transmission, is theta.
+We are now looking for the output
+state of the total system.
+We are not performing the measurement yet.
+And this is now acting on the total system, which
+is the cross product of our photon system,
+of our system of interest.
+And the other input, which we call the environment
+or the vacuum, is 0.
+
+Look a few weeks back.
+We have done that all.
+The output state is--
+there was a probability alpha that we
+had no photon in the state psi.
+And if we have no photon in state psi
+and no photon in the vacuum, this
+is the state 0, 0, what I denote here in second place
+is the environment.
+And now, we have one photon.
+We have exactly one photon with the amplitude beta.
+And this photon is split with cosine theta transmitted,
+and with sine theta reflected.
+If you transmit it, we have 1, 0.
+If you reflect it, we have 0, 1.
+And again, this is the environment,
+and here is a photon in the environment.
+So let me just be clear that this is
+where the environment comes in.
+It is a vacuum state.
+And here, this is the output port for the environment.
+This is where we do the measurement.
+And I don't think it matters.
+I haven't really told you which is mode a, which is mode b.
+Doesn't matter, but let's say the environment is mode
+b and the system evolves in mode a.
+So what is our output?
+Now we have two possibilities.
+The environment is 0 or the environment is 1,
+and we perform a measurement.
+So we have to now go into a probabilistic description.
+So with probability P1, we have done a measurement.
+And our output state is now the vacuum state.
+With probability 1 minus P1, we have not
+detected anything in the vacuum.
+And therefore, our state of the system
+is alpha 0 plus beta cosine theta 1.
+
+So it is not beta 1 as naively you would have assumed.
+It's not the original state.
+There is a cosine theta factor, which we got exactly
+from the beam splitter, from the unitary evolution provided
+by the beam splitter.
+And since this state is no longer normalized,
+I have to normalize it by alpha squared plus beta squared
+cosine squared theta.
+So now we have done our measurement, probability
+P1 to detect the photon.
+This projects the system into the vacuum state.
+With a probability 1 minus P1, we have that state.
+And that means that our system is now
+described by a density matrix with probability P1
+and 1 minus P1.
+With probability P1, we are in the vacuum state.
+And with probability 1 minus P1, we are in that state psi 0--

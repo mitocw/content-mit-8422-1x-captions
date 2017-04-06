@@ -1,0 +1,104 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 95 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, I want to talk conclusions.
+Our goal is to understand the spectrum
+in the line widths of the Mollow triplet of the emitted light.
+So I have to make the connection.
+How do I make the connection from the Bloch vector
+to immediate light.
+Well, it's done by the dipole moment,
+because it is the oscillating dipole which
+is responsible for emitting and scattering light.
+The dipole moment can, of course,
+be obtained from the solution of the optical Bloch
+equatio for the density matrix.
+It is a trace of the density matrix times the operator
+we are interested in.
+And this involves the matrix element dge.
+
+The dipole moment has only matrix elements
+between excited and ground state.
+And because I want an excited state I trace
+a whole other parenthesis.
+So this is the matrix element that we now
+write down the density matrix in its matrix element
+oge plus oeg.
+But now we want to go from the rotating
+frame back to the lab frame.
+And the rotating frame rotates at omega.
+So now I have to put back e to the i omega t and e
+to the minus i omega t.
+This is sort of going back from the rotating frame to the lab
+frame.
+And the picture we want to use is the--
+the intuitive picture is to use the Bloch vector.
+So I'm expressing now those matrix elements
+by the component x and y of the Bloch vector.
+And since the x and y component was the sum, or difference,
+of the matrix, of the [? opthalmic ?] matrix element
+of the density, meaning of the coherencies,
+I get now cosine omega t and sine omega t.
+So that tells us that one component is in-phase.
+Well, in-phase means with respect to the driving field.
+We assume that the system is driven by the classical field
+[? in at ?] cosine omega t.
+And now we find that the oscillating dipole moment,
+it's a driven harmonic oscillator.
+And there is a part which is driven in-phase
+with the drive field and one which is in quadrature.
+So we have those two components.
+And the fact is now the following.
+If we have an oscillating dipole these gives raise to emitted--
+or more accurately, I should say, scattered light.
+Remember, if you assume there is photon
+first emitted and then a resonant photon
+absorbed this picture is wrong.
+You should rather think of scattering light.
+But the light scattering is induced
+by the oscillating dipole.
+And what happens now is--
+and this is why the Bloch vector and the Bloch sphere
+is such a wonderful picture--
+the dipole moment are the transverse component
+of the Bloch vector.
+So therefore you can say that if you
+are interested in the spectrum of the emitted light what
+you should find out is what is the spectrum of r.
+
+Let me back up one step.
+If you want to get the spectrum of the emitted light
+from first principles--
+I'm cheating a little bit here.
+I'm saying let's get it from the dipole moment.
+You should actually get it from the correlation function
+of the dipole moment.
+It's sort of the two time correlation function.
+But you can show-- and this takes another 10, 20,
+30 pages in API--
+
+the-- what am I saying?
+The temporal correlation function of the dipole moment
+fulfills the same differential equation as a Bloch vector.
+So I've given you here the intuitive link
+that would oscillates.
+It's the Bloch vector.
+It emits it.
+But technically, because you may not
+control the phase of each atom, you
+should rather say the spectrum is a correlation
+function of the dipole.
+And we should look at the spectrum of the correlation
+function.
+But instead I'm looking now at the spectrum
+of the optical Bloch vector.
+And you can show, mathematically,
+exactly that they obey the same differential equation.

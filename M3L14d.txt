@@ -1,0 +1,88 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 79 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's move on now and talk about higher intensity.
+The high intensity case we discussed in great detail
+in 8421.
+But you pretty much, I think, know also
+from basic quantum physics what happens if you take a two level
+system and drive it strongly.
+If you drive it strongly, stronger
+than spontaneous emission, that means
+there is a limit where you can just
+forget about spontaneous emission in leading order.
+And the system is nothing else than a two level
+system coupled by a strong monochromatic drive.
+So I assume you have all heard about the solution.
+You get Rabi oscillation between ground and excited state.
+So the high intensity limit are Rabi oscillations
+at the Rabi frequency.
+So what happens now to the spectrum of the emitted light
+if you are in the limit that you have Rabi oscillation
+of the atomic system?
+
+And I want you to think classically or semiclassically.
+Three peaks?
+Three peaks you generate sidebands.
+Classically you have an emitter, an oscillating charge,
+but now you want to throw in that the atom goes
+from the ground to the excited state,
+from the excited to the ground state.
+So to speak, when it's in the ground state it cannot emit.
+When it's in the excited state it can emit and such.
+So you should think about an oscillating dipole which
+is now intensity modulated.
+And you know when you take a classic light source, which
+is monochromatic, but put on top of it
+an intensity modulation at frequency omega Rabi
+the solution of that are three peaks.
+The carrier, which is the laser frequency,
+plus two sidebands at omega Rabi.
+So therefore, what we now expect for the spectrum is
+we have the laser frequency.
+And this is our result for low intensity.
+However when we, in the limit of strong drive--
+and you will see in a moment where strong drive really comes
+in--
+so if you have this modulation at the Rabi frequency
+you obtain sidebands at the Rabi frequency.
+And the fact that there is a structure with three peaks
+is actually the famous Mollow triplet.
+I know when I was a student there was big excitement
+because people measured, for the first time, the Mollow triplet.
+You need high resolution, lasers and such,
+and people were just ready to measure that.
+Now it seems something which is just mentioned in basic courses
+because it's such a basic phenomenon.
+OK.
+But let's work a little bit more on that.
+Namely, the Rabi frequency is the Rabi frequency
+of the drive where you can see the coupling matrix element.
+But when we have a detuning-- and this is what you want
+to discuss, now--
+you have to add the detuning in quadrature.
+So this is the frequency at which the atomic population
+oscillates.
+And it is, just saying semiclassically,
+the modulation of the atomic population
+which creates a sidebands.
+Now if you take that to the limit of large detuning
+or small drive, small Rabi frequency, this becomes delta.
+So that actually means, if we go to our stick diagram here,
+the laser frequency is, of course, detuned by delta
+from the atomic frequency.
+But the Rabi frequency is delta and this is the Rabi frequency.
+So now maybe some people who pressed
+A and B feel vindicated, because now you
+have a component of the emission spectrum
+which is at the atomic resonance frequency.
+And you have a second peak which is omega 0 minus 2 delta or 2
+omega Rabi.

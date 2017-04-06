@@ -1,0 +1,56 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14e_CQ2.txt
+#
+# Captions for 8.422x module
+#
+# This file has 47 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Question.
+How would you give a simple answer if I would ask you
+what about energy conservation?
+I was hammering so much on energy conservation.
+How can we conserve energy by having a laser photon
+and emitting one at a different frequency?
+Compensate [INAUDIBLE]
+It's compensated with it.
+And now let me ask you another question.
+If you would scatter N photons and you do an experiment,
+you would expect that due to poor sound
+fluctuation and such--
+we've talked about fluctuations of intensity
+and squeezed light and all that--
+but unless you do something special
+you would expect if you excite an atom it emits N photons.
+In your experiment you measure plus minus square root
+and you measure Poissonian statistics.
+What would you actually expect?
+But now let's expect you observe N plus photons
+on the upper side bent.
+What would you-- and you measure and you
+observe in minus photons on the lower side bent.
+Would you expect that in plus and minus, both
+have now Poissonian fluctuations or would
+you expect something else?
+
+In other words, let me be very specific.
+If you count plus--
+
+or we can make it a clicker question--
+so you have a counting experiment.
+And you have N plus photons in the upper side bent and N
+minus in the lower side bent.
+And if you simply look at the variance, which
+is the square of the standard deviation form N plus,
+you'll find that it's Poissonian is secluded.
+
+So the question which I have now is
+what is the variance between N plus minus N minus?
+Is it simply the variance of N plus plus the variance
+of n minus?
+The second answer I want to give you is 0.
+And the third answer is something else.
+So this is A, this is B, and this is C.

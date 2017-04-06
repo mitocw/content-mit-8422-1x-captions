@@ -1,0 +1,301 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 292 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Today is actually a very nice topic.
+I think almost every lecture we have a nice topic,
+but today is especially nice.
+It's called unraveling open quantum system.
+That may not tell you so much, but unraveling
+means we want to sort of untangle it,
+we want to understand what is inside.
+And so we want to develop a better understanding of what
+is inside a density matrix.
+How can we think about the quantum system
+in an even more microscopic way than the density
+matrix tells us?
+And again this finds applications in atomic physics
+because one application of it is spontaneous emission
+[INAUDIBLE] equations.
+On the other hand, actually, this class
+will also teach you something very general
+about quantum physics.
+
+So today's lecture, this part, will have three topics.
+One is, I want to provide a motivation for single quantum
+systems.
+And you should appreciate this.
+A single quantum system is not what Schrodinger and Heisenberg
+taught us about.
+Quantum mechanics was formulated as an ensemble average.
+But today we want to talk about, is there something in addition
+about single quantum systems?
+Part two is-- addresses the derivation of the quantum Monte
+Carlo wave function method.
+And this is a formalism which is really
+simulating, in quite general terms, quantum physics
+by following, using quantum Monte Carlo
+simulations, trajectories of individual quantum systems.
+So here, the individual quantum system,
+even if you don't have one, becomes a computation tool.
+And eventually, in part two, I want
+to give you another example for unraveling open quantum
+system, which are different models for the phasing.
+And if you remember that this was on one of your homework
+assignment, that's correct, I sort of
+want to, here, take your homework into the class room
+discussion.
+Well, I think it's nice to start this lecture with a quote
+by Erwin Schrodinger.
+He said, we never experiment with just one electron
+or atom or molecule.
+In thought experiments, we sometimes assume that we do;
+this inevitably entails ridiculous consequences.
+Well today we want to talk about those ridiculous consequences,
+because many people in our field trap,
+address, and observe single electrons and single atoms.
+Now this is related to quantum jumps.
+Quantum jumps has even made it into the popular realm.
+You can find lots and lots of references on quantum jumping,
+but I warn you, this is about quantum
+jumping into different worlds.
+It's about broadening your horizon.
+And those authors, those people, actually,
+sell you something by claiming that people like Einstein
+and Stephen Hawking would support the idea that you can
+jump into a different universe, experience
+another version of yourself--
+probably a better version of yourself--
+and this will inspire you to change your life in the world
+you live.
+But so, this is quantum jumping.
+I'm not talking about quantum jumping,
+I will only talk about quantum jumps.
+So what you see here is really a classic experiment,
+one of three experiments which were
+done almost simultaneously.
+There have always been races for the first observation
+of something, and there was the Hamburg group by Toschek,
+the Seattle group by Hans Dehmelt,
+and the Boulder group by Dave Wineland, who
+observed the phenomenon of quantum jumps
+for the first time.
+Let me just tell you what it is because that's exactly what you
+want to describe.
+Here in the situation, you have a system.
+It's a trapped barium ion with a p and s state.
+And there is a very fast transition,
+where you can rapidly scatter light and get
+lots of fluorescence at 493 nanometer.
+But what happened is, every once in a while,
+the particle has a branching ratio to decay, to d state.
+And well, d to s--
+two units of angular momentum--
+the transition here, down to the ground state is very slow.
+It's slow because it's forbidden,
+it's even slower because it happens at longer wave
+lengths of 1600 nanometer.
+And this is slow and it has a lifetime of about 50 seconds.
+
+So if you think about it naively,
+and that's probably the correct approach, you would say,
+the particles in the s state, it's
+like a light bulb it scatters many, many photons.
+But then it branches to the d state, and for 50 seconds,
+the light bulb is switched off until the particles
+spontaneously go down to the s state,
+and then the light bulb is switched on.
+And this is exactly what people observed.
+But I mean-- I was-- this was '86.
+That was the time I was at graduate school,
+and I talked to theorists in the field.
+And a respectable theorists told me
+that there was a controversy--
+probably not among experimentalists,
+who use a naive approach, but theorists, who believe too
+much in what they calculate--
+because if you solve it quantum mechanically, and look,
+what would you get?
+It's a steady state solution, [INAUDIBLE] in steady state,
+leaves in a steady state, and if you calculate
+the quantum mechanical expectation value,
+the expectation value is constant as a function of time.
+So a simple quantum calculation would say the fluorescence is,
+on average--
+well just the time average.
+It is constant and is time independent.
+So there were some serious doubts
+whether you would observe this or something which looks
+more like he ensemble average.
+Well-- made all the theorists realize you cannot calculate
+the steady state average, you have to calculate
+the correlation function in steady state.
+And the steady state correlation function
+has structure exactly 50 seconds.
+So in a steady state system if you're
+interested in fluctuations in temporal behavior,
+you can't just calculate quantities,
+you have to calculate correlation functions
+of quantities.
+So anyway, but, then of course, if you now
+average over many, many realizations,
+you'll find exactly an exponential decay
+with 50 seconds.
+And this is sort of what you would
+get from an ensemble average.
+So this is what quantum jumps are.
+This is what you should always imagine
+when we talk about quantum jumps in the rest of this lecture.
+But I also want to show you a more recent example
+from Serge Haroche's school, in Paris,
+where they observed quantum jumps recording
+a single photon in a cavity.
+So what happens is there's a signal photon in this cavity.
+And they can read out whether there is a photon
+or not, by sending [INAUDIBLE] atoms through.
+And the single photon is never absorbed,
+but it causes a phase shift, an [? AC-stark ?] shift
+on the [INAUDIBLE] atom, and then they can read out with
+a [INAUDIBLE], the AC-stark shift.
+So every atom which passes through the cavity
+will tell you whether there is a photon or not.
+
+And this is shown here.
+Blue means there is no photon, red means it is a photon.
+So here, you repeatedly figure out, again, there is no photon,
+and suddenly there is a quantum jump
+when the cavity has absorbed the photon
+or when a thermal photon was released.
+You may say, what happened here?
+Well, no measurement is perfect, there is some noise.
+But by seeing that these are outliers,
+you clearly see that here is a photon in the cavity.
+And here, where the red read out of the atom
+overwhelms the blue read out--
+here you have no photon.
+And then, as time goes by, you can
+observe [INAUDIBLE] death and birth of micro cavity photons.
+So these are now quantum jumps in the--
+not in atomic population, but quantum jumps in the photon
+number in the cavity.
+
+Is the time scale on that?
+Yeah, time is second.
+So what is show here is--
+
+300 milliseconds and this is 2.5 second.
+[INAUDIBLE]
+What does the density of the lines mean?
+Each line is a [INAUDIBLE] atom, which
+has been read out with a [INAUDIBLE] and,
+Does that mean [INAUDIBLE]
+I think that means there was a [INAUDIBLE] atom in state e,
+which means there is a photon and blue means--
+the blue bar means there was a [INAUDIBLE] atom in state g.
+These are two highlighting states of the rubillium atom.
+Each spike here is one read out of the microchannel plate.
+So these-- are detector clicks, you can see, yes--
+you can say blue is yes and red is no,
+and these are the two clicks.
+Yeah, but the separation between two clicks is not uniform
+No, because if you have an atomic beam,
+the atoms come not equally spaced out.
+There's a randomness when the atom comes,
+I think it's Poissonian statistics in this experiment.
+It's a real experiment, it's amazing.
+Other questions, [? Timore? ?]
+Just one more question so the-- for example,
+the first bit of blue is all the measurements for the same state
+of the cavity.
+I don't know if blue means photon or no photon,
+but if it does mean photon that means
+it's the same photon interacting with--
+Yes.
+OK.
+Yes because-- this is something people know--
+that the photon number in this cavity only changes
+over very long time scales.
+And you sort of see--
+exactly here-- how--
+you see here two quantum jumps, one from blue to red and one
+from red to blue in this cavity.
+Yes?
+I don't know if this maybe just my eye sight's not very good.
+But in the bottom left graph, or on the bottom graph
+in sort of the left corner, it looks
+like there was some overlap between the dark blue
+and the dark red.
+Yeah
+You mean here?
+Yeah right there-- is that--
+there is a photon and not a photon?
+[INAUDIBLE]
+I think, to the best of my knowledge--
+I'm really look--
+I've heard wonderful talks about it
+and you can go back and read the paper.
+But this probably means in the atom number in the cavity,
+and the algorithm they have used to analyze the data
+says that here, the photon number was 0, it jumped to one,
+and jump back again.
+So if you see here, for instance,
+there is some overlap, but you would still
+say, since either there is a photon or not a photon,
+as long as you have an--
+if you have a higher number of red clicks than blue clicks,
+you would say there is a photon.
+And the little overlap, there is maybe a little bit of time
+where you don't know whether there is a photon or not.
+But this is real because every measurement
+takes a certain amount of time.
+Since you have a few random clicks,
+if there are a few random clicks,
+you do not know yet if the system has jumped.
+You have to wait a little bit.
+But this is really also showing how
+our knowledge about the quantum system comes with time.
+And therefore the wave function of this statistical operator
+changes with time, because wave function, statistical operator,
+are simply a description of our knowledge about the quantum
+system.
+[INAUDIBLE]
+You could have a situation, for instance, you
+could prepare the cavity that it has an equal probability for 0
+and one, and then what you would read out
+may just be completely random.
+So that may be possible, but in that experiment, I think,
+the nature here is that you have,
+most of the time, 0 photons, because the cavity is cooled
+to very low temperature, and only occasionally does
+the thermal distribution, the [INAUDIBLE]
+distribution of photons in the cavity have a one.
+And what we observe are the thermal fluctuations
+between mainly 0, and occasionally a one.
+
+If you would make the cavity a little bit hotter,
+it would have, maybe, half of the time a one,
+and half of the time a 0.
+But that wouldn't mean that you have completely randomness
+in your results, because there is a thermal relaxation
+time over which a photon is created,
+and the photon goes back.
+The photon would not jump back and forth from the cavity
+to the walls of the cavity in microseconds.
+It would probably have an exchange time
+and you could measure the thermal correlation
+time of photons in a cavity.
+
+It's a really good experiment.
+
+OK, so in that sense, I think I showed you
+that what Schrodinger said is ridiculous, is real,
+is the subject of current research.
+And since [INAUDIBLE] information processing,
+quantum computers, we need single quantum system

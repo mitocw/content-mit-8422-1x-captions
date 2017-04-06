@@ -1,0 +1,151 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14k.txt
+#
+# Captions for 8.422x module
+#
+# This file has 142 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Once we know what the optical Bloch
+vector is doing spectrally, we know the spectrum
+of the emitted light.
+And for that, for the optical Bloch vector,
+we simply look at this matrix.
+And we ask what are the eigenvalues of this matrix.
+This 3 by 3 matrix has three eigenvalues.
+The real part of those eigenvalues
+gives us the position of the model triplet.
+And the imaginary part gives us the width of those peaks.
+So if you look at this matrix--
+and I'm not doing the complicated cases here--
+if you look at this matrix for delta equals 0 and g equals 0,
+well, it is already in diagonal form.
+So it has three imaginary eigenvalues
+minus gamma over 2 minus gamma 2 minus gamma.
+So this matrix has three complex eigenvalues.
+And I want to discuss two cases.
+For this case, we have minus gamma over 2
+for the x and y component of the optical Bloch vector.
+And the z component is minus gamma.
+And this is the situation--
+
+apart from a factor of 2--
+that we have gamma, 2 gamma and gamma.
+
+The factor of 2 comes, of course,
+are you asking what is the spectrum of the electric field
+or what is the spectrum of the power?
+If you go from e to e squared, then
+if you have an exponential decay with gamma of e,
+e squared decays with 2 gamma.
+So that's where factors of 2 come from.
+[INAUDIBLE]?
+
+Yes.
+
+Give me a second.
+[INAUDIBLE] g equals 0, right?
+The factors here, we are looking at limiting cases.
+And the more important thing is that this
+is the case of weak drive.
+So what is more important is that the drive frequency is 0.
+I'm not giving you the full picture here.
+Yes.
+The full glorious derivation is in API.
+And I just try to sort of entertain you
+by giving you a few appetizers.
+If you want, read it up there.
+But what I want to show you is there are two simple cases.
+But it looks already intriguing, because here, this
+is wider than the side bands and here it's the opposite.
+And I want to give you a taste of it.
+And I'm not doing it rigorously.
+And you're right, I have to think about it.
+But the important part is that the drive frequency is 0.
+We are not driving.
+We're not rotating in x.
+The system is mainly rotating around the z-axis.
+And at that moment, the matrix for the differential equation,
+for the optical Bloch vector, has three imaginary parts.
+It's gamma, 2 gamma, and gamma, or half of it
+if you look at the amplitude.
+And now I want to just show you in a second how
+we can get the second part.
+But yeah, I'm guilty as charged.
+There are small gaps in my argument.
+But all I want to show you is how you find--
+I want to just sort of convince you
+that the optical Bloch equations with this matrix
+have all the ingredients to explain it.
+
+So what I've done here is, I've shown you that we
+have those three ingredients.
+And actually, the moment--
+sorry, I should have said it before, answering
+your question-- when we now crank up
+delta, what we're physically doing
+is we are doing a rapid rotation of the Bloch vector
+around the z-axis.
+So when we're rapidly around the z-axis,
+we are not doing anything to the z component,
+but we are strongly mixing the x and y component.
+But since we have the imaginary part--
+I'm waving my hands now-- we're not changing the imaginary part
+for x and y.
+And we still have two imaginary parts
+which are gamma over 2, 1 imaginary part which is gamma.
+So if you do a rapid rotation around the z-axis,
+we obtain three eigenvalues.
+I first showed you what are the eigenvalues
+of this matrix in one case, which is just a warm-up.
+I'm telling you there are those three values.
+And now I'm saying, we are interested
+in the physical situation of rapid rotation.
+The rapid rotation modifies the three eigenvalues.
+The three eigenvalues are no longer real.
+The rapid rotation around the z-axis
+adds an imaginary i delta to the x and y-axis.
+Because now we are rotating, x and y are getting mixed.
+And this means now that we have three peaks.
+They are located here in the rotating frame at 0.
+This is the carrier at plus/minus delta.
+These are the two sidebands.
+And these parts are the width of it.
+This is how you have to interpret the result.
+So we have now three peaks and the full width
+of half maximum for the intensity, which
+is the amplitude squared is gamma, 2 gamma, and gamma.
+And we can now immediately proceed to the next case.
+If we are on resonance, and we drive the system strongly,
+now we are driving the system strongly around,
+not the z-axis, around the x-axis.
+So now if we add the strong drive around the x-axis,
+we have now eigenvalues which is plus/minus i g.
+This is the rotation we add.
+And this gives e to the i, if in rotation, with g, e
+to the i omega t gives an i g.
+And what happens is the following--
+the rapid rotation around the x-axis--
+
+well, if you rotate around the x-axis, you're not touching x.
+And without any rotation, we had an eigenvalue
+for x which was minus gamma over 2.
+And if you take the matrix of whatever the system
+and rotate it around the x-axis, this
+is preserved, but the rotation around, say,
+x strongly mixes y and z.
+So therefore, the two other eigenvalues
+appear at rotation i g.
+And it is now the average of gamma and gamma over 2,
+which is 3/4 gamma.
+And if we go to the amplitude squares, it is 3/2.
+So therefore, we have the situation
+that we have those three eigenvalues.
+And this is responsible for the three peaks at plus/minus g
+and 0.
+And the width of it is--
+I have to multiply by a factor of 2 gamma and 3/2 gamma.
+And this explains the two limiting cases

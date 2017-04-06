@@ -1,0 +1,50 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15k.txt
+#
+# Captions for 8.422x module
+#
+# This file has 41 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, let me just generalize the thought.
+But I think you know already everything about it.
+We talked about the master equation.
+We talked about the most general master equation
+in the [INAUDIBLE] platform, where those operators l
+are the jump operators.
+And the prominent example for jump operator
+was the sigma minus operator, which
+takes a particle from the excited state to the ground
+state.
+And this is a jump operator for spontaneous ignition.
+But you may have many jump operators, maybe
+spontaneous emission of different photons
+with different polarization and such,
+or the cavity may lose a photon, and then
+we have a jump operator for the cavity.
+We went through that.
+Well, that means now in an exact way
+that the [INAUDIBLE] Hamiltonian is the original Hamiltonian
+with an imaginary part, which comes because of those jump
+operators.
+And the general Quantum Monte-Carlo Wave Function
+procedure is that first, you ask, has something happened?
+Has any jump happened?
+And this gives you the probability delta p.
+And if no jump has happened, you just do a time evolution
+with a [INAUDIBLE] Hamiltonian.
+But if a jump has happened, then the jump is now--
+the wave function is projected by the jump operator.
+If you have a sigma minus operator,
+it takes a particle to the ground state.
+If you have several operators, a different jump operator
+may take your particle to another state.
+And you have then a branching ratio
+that you know first the jump has happened.
+And then the question is which jump has happened.
+And you just play the probabilistic game.
+So you see that the Quantum Monte-Carlo Wave Function
+method can be immediately be generalized.

@@ -1,0 +1,225 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15p.txt
+#
+# Captions for 8.422x module
+#
+# This file has 216 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+Any questions?
+[INAUDIBLE]
+Again with the dt, I'm just curious.
+We take a very short but why don't we run into something
+like the quantum Zeno effect, where
+if every evolution is initially quadratic
+like for [INAUDIBLE] frequency.
+You take very short dt's, certain measuring system,
+shouldn't for a choice of sufficiently short dt,
+the simulation would give you strange results
+because of some sort of quantum Zeno effect?
+
+That's a very deep question [INAUDIBLE]
+and I want to think about it more
+but I think I've excluded that by saying that the timestep
+dt is larger than the correlation
+time of the environment.
+So I'm doing some kind of mock up approximation
+of the environment.
+Whereas, the quadratic part of the behavior
+is a coherent time evolution.
+For very short timesteps a wave function evolves quadratically.
+But this part is a coherent evolution,
+and that's related to the fact that an atom can emit a photon
+but in the very first moment, before the vacuum has
+transported it away, it can take the photon back.
+And the result of that is that at very short times
+the exponential decay doesn't start,
+or exponentially it starts out a little bit flatter.
+We get the exponential decay, we get Fermi's golden rule,
+and we get optical Bloch equations
+only if you're timestep is larger than the correlation
+time of the reservoir.
+And the fact, you'll remember when we derived the master
+equation, we had to say we do a step which
+is sufficiently small for the dynamics of the atomic system
+but sufficiently large that we are not getting into any memory
+effects of the reservoir.
+And we've done the same assumption here.
+
+Other questions?
+Nicky.
+In this [INAUDIBLE] wave I would say,
+the environment measures the system
+at regular time intervals delta t, which
+are large compared to the correlation time
+but smaller [INAUDIBLE] evolution of the atom.
+But now everyone, isn't that affected
+the Markov approximation [INAUDIBLE]
+derived the master equation?
+Yes.
+And I was just wondering, if we just [INAUDIBLE]
+derived by making the master equation.
+Maybe we don't actually need the idea of constantly measuring.
+Maybe a physical interpretation of the Markov approximation.
+Oh yes, exactly Nicky.
+I think you said it really very, very nicely.
+We derived a master equation just
+by assuming that the system takes a photon,
+and past the correlation time the photon
+is taken for good by the environment.
+And with a Markov approximation we formalized that.
+There is no memory effect, the photon is not stored,
+like in a cavity.
+The photon has disappeared.
+And by saying that this time is very short,
+this was a Markov approximation and the derivation
+of the master equation.
+But that also means if the photon has disappeared,
+has separated from the atomic system,
+we are now free to make a measurement.
+And of course, it shouldn't matter whether we
+make the measurement or not.
+But what I was able to do today is
+I was making now the assumption, let's assume
+that we make a measurement.
+We measure all of the photons which have been emitted
+and the measurement is probabilistic.
+And we fold this probabilistic evolution
+into our quantum system.
+And what we obtained was exactly the same time evolution
+for the density matrix as we got from the master equation.
+So in other words, this should tell you
+that interactions with an open quantum system,
+where irreversibly, energy, photons, angular momentum,
+or whatever flows into the environment.
+Once it has flown into the environment you can measure it,
+and you get all the stochastics from the measurement.
+But even if you don't measure it you
+get exactly the same stochastics as if you had measured it.
+It's all the same.
+Jenny.
+Now that I think about it, it seems sort of weird to me
+that we're making these measurements or lack
+of measurements, these interactions
+at regular intervals and not--
+It doesn't really matter.
+All we have to make is, we could actually
+make delta t a random variable.
+It wouldn't change anything.
+The only thing we have to make sure
+is we have to make the time interval short enough that we
+don't have maybe two photons emitted in that time.
+We just want to make sure that it's
+a simple probabilistic branching, yes or no.
+And that's the only requirement here.
+
+This is a problem based on that.
+Would you say that would be the wave function evolved
+and then collapse?
+And this is where the emission comes in.
+To now say the equivalent wave function
+evolved and then collapsed when you make a measurement, to say
+that [INAUDIBLE] evolves.
+So is it possible to also evolves some kind of formalism?
+Like this rather than the [INAUDIBLE] operator?
+Because here, like even though the density matrix's operator
+but it's kind of like--
+it should describe the state.
+
+I haven't seen it Marc but I'm absolutely certain that you
+could describe the same physics in the Heisenberg picture,
+where the time evolution is with operators.
+Because what we have here is we have a timestep delta t
+where the system evolves as an isolated quantum system.
+And then we measure again.
+And so, I think if you would use operator equation you would
+have an evolution of the operator
+with the same Hamiltonian, which is
+known as Hermitian Hamiltonian.
+And then the measurement would do some form of projection.
+I have to think about what the protection would
+be in terms of operators but my gut feeling
+is you can always take the transformation where
+you put the time dependence into the operators
+and not into the wave function.
+On the other hand, I have some little bit misgivings
+about that because the quantum Monte-Carlo wave function
+was really developed in order not to deal with matrices,
+not to deal with something which has dimension n times n, if n
+is the number of components of the wave function.
+It was specifically formulated to have
+the simpler description with n coefficients for the wave
+function.
+But conceptually, I think it is evolution
+with a Hamiltonian measurement, evolution with a Hamiltonian
+measurement.
+And I assume this could also be done with operators.
+Nancy.
+[INAUDIBLE] but when the measurements are actually
+done how important is the randomness?
+After epsilon that there [INAUDIBLE] random numbers.
+
+Well, I think how random a random number
+has to be is really dealt with in computer science
+and mathematics.
+But [INAUDIBLE] you always get this exponential behavior.
+
+I don't know the answer.
+I mean here, conceptually, it should
+be a completely random number.
+And I think there are algorithms which
+produce pseudo random numbers.
+But if the pseudo is close enough,
+if there is a recurrence time of your number.
+if your series of random number repeats itself
+after several billion random numbers
+this gives you a small error bar.
+And
+If you'd only do a limited sampling, a limited
+number of time trajectories, I don't think it matters.
+Of course, if you want to have ultimate precision then also
+the precision of the random number
+may enter through the back door at some point.
+[INAUDIBLE] of the photons.
+But if you know the photon is communicating
+and we have this information, then we
+can decide which is the [INAUDIBLE]
+That's correct.
+If we would know--
+
+If we would know more about the environment,
+if we would say we measure the photons in a certain basis,
+or when energy is dumped in the environment
+by a dephasing mechanism, we look at the environment.
+Then of course, we would add extra information to it.
+And then certain quantum trajectories
+would reflect the extra knowledge we have.
+And of course, we would then describe everything
+in this basis.
+On the other hand, what you should
+learn from this is once the information, once the photon
+has escaped, it doesn't matter for the time evolution
+of your atomic system in which basis you measure the photon.
+So the evolution of the atomic system itself,
+at least when you average, is unaffected by this basis.
+However, if you make a coincidence measurement,
+that you see your atoms which has emitted
+is still flying through your vacuum chamber.
+And now you figure out the photon
+is emitted as circularly polarized light.
+Then of course, you know that this atom, which is still
+available, has emitted circularly polarized light,
+and then you have actually obtained extra information
+about your atom.
+In other words, the photon and the atom
+was entangled, like a Bell pair.
+And if you now do a measurement on one part of the Bell pair
+you know more about the other part.
+But this is just how quantum physics works.
+If you don't use this information for anything then
+you could have as well not measured the polarization.
+And it would have no effect on the atomic density matrix.
+
+OK.

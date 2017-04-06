@@ -1,0 +1,58 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 49 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the claim is that this method, called quantum Monte
+Carlo wave function method, is fully
+equivalent to the optical block equations.
+And I want to prove it to you by showing
+that if I take a density matrix, which is an ensemble
+average over many of realizations of those Quantum
+Monte Carlo trajectories, that then this density
+matrix follows the differential equation, which
+is the optical block equation.
+And the proof is shown here.
+So what I told you is the density matrix after time delta
+t.
+Has now two matrix elements, one with probability delta p.
+And this photon has been emitted system
+is in the current state with probability 1 minus delta p.
+
+We evolve the quantum state with a Non-Hermitian Hamiltonian.
+
+And then all what is done in the next few steps we
+assume that delta t is small.
+We do a tailor expansion of the exponent.
+We neglect quadratic terms in delta t
+and then we come to this line.
+
+And if we write this as rho of t plus delta t
+minus the original rho of t, we find
+that this follows a differential equation which is exactly
+the optical block equations.
+So therefore what we implemented as a form of doing many,
+many quantum measurements in the environment
+is a procedure which is rigorously
+the same as the optical block equations, which
+we derive using a master equation approach.
+
+OK.
+This method is very powerful for the following reasons.
+If you simulate a density matrix with N internal states,
+or N external internal states--
+I should have said with N quantum states,
+you need N times N matrix elements,
+which can become quite a memory hog for your computer.
+The wave function, at any given moment, has only N components.
+So therefore there is a computational advantage
+in using a stochastic wave function
+approach over simulation of the density matrix.
+The second thing is that a lot of people, especially
+experimentalists, like this approach
