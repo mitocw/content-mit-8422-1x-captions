@@ -1,0 +1,25 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mh_CQ1.txt
+#
+# Captions for 8.422x module
+#
+# This file has 16 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+And my question for you is A, B, and C,
+whether the decay rate copper is proportional
+to the damping rate gamma, proportional to the inverse
+of gamma, or independent of gamma.
+
+So we've [INAUDIBLE] this system.
+The system has possibility of Rabi oscillation.
+I showed you the damp Rabi oscillation and in the limit
+of small copper.
+But now you go to the overdamped regime and my question is,
+if the system is overdamped, will this decay of [? 8 ?]
+increase with gamma, increase with copper,
+decrease with copper, or will it be
+independent in the overdamped regime?

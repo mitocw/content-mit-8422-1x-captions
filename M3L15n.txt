@@ -1,0 +1,96 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15n.txt
+#
+# Captions for 8.422x module
+#
+# This file has 87 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me now talk about dephasing.
+What I've shown you so far is how
+we can unravel the density matrix
+in many microscopic realizations.
+And I've given you a specific example.
+We assume probability for spontaneous emission
+and with that we propagate our wave function.
+But now I come to the nitty gritty details,
+or the dirty truth, that what we have assumed is by no means
+unique.
+And I want to explain it to you first by reminding you
+of a very, very nice homework assignment you have solved.
+And this was about--
+we have optical block equations for the density matrix.
+And the solution of the optical block equation
+is that we have population damping
+with a damping time, t1.
+And the off-diagonal matrix elements
+are damped with a time, t2.
+Remember, if we have only spontaneous emission,
+t2 is 2 times t1.
+But we can have a lot of other processes, which
+can lead to a much, much faster dephasing
+time than the time of population changes.
+And in your homework, you have discussed three possibilities.
+One is where spontaneous emission is energy loss.
+But you have discussed three different possibilities for t2.
+
+Three different possibilities how
+dephasing, loss of coherence, and phase damping can happen.
+And in this homework assignment, you
+assumed either that there is a random phase,
+that the elastic collision, which
+project onto the excited state.
+And then you got the most crazy and artificial model
+that every time, randomly, the phase of the excited state
+flips from plus to minus.
+So if I would implement it now with a quantum Monte Carlo
+method, it would have the following effect.
+And I hope you enjoy the graphical representation.
+You can really think about it, that this is what happens.
+That this is what is inside the density matrix
+described by this process.
+So let's assume we have a system, which
+would be in a superposition of ground and excited state.
+And that would mean that in the lab frame,
+the dipole moment would just rotate at the resonance
+frequency.
+It rotates, and it is a rotating dipole moment,
+which emits coherent light.
+But now you assume that you have a random phase.
+So if you add random phases to it--
+maybe because you have fluctuating magnetic fields--
+then the line becomes sort of--
+that doesn't look random, but you know what I mean--
+it becomes sort of jagged.
+The phase distribution is still sort of there,
+but there is a jitter on top of it.
+And as a result, the light emitted by this dipole
+is spectrally [? broad. ?]
+Well, in your second model, you assumed that with a certain
+randomness, with a certain time constant,
+there's an elastic collision in the excited state,
+which [? put-- ?] [? shakes a ?] system into the excited state.
+At this moment, there is no superposition state anymore
+and the dipole moment is zero.
+So that's what you assume.
+Or when you have a random phase flips,
+you assumed that suddenly this kind of deterministic sine
+function suddenly jumps, corresponding to a minus
+sign in the excited state.
+And depending where you are in the cycle,
+it creates jumps at random places.
+
+And the question, of course, is if all those three processes--
+and that's what you showed in your homework--
+lead to the same density matrix, which one is correct?
+Which one is real, is really realized,
+in an experiment on a system which
+is described by this kind of damping
+or by the optical block equation?
+
+So you can say all or none.
+Well, you can assume what you want.
+It doesn't make a difference.

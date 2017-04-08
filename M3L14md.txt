@@ -1,0 +1,83 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14md.txt
+#
+# Captions for 8.422x module
+#
+# This file has 74 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's now come to the third aspect
+of master equation solutions of optical bloch or master
+equations.
+And these are damped vacuum Rabi oscillations.
+I really like this example in this chapter.
+So I hope, well, I think we have many highlights.
+But this is sort of a really nice example.
+I learned it from Professor Schwann when he introduced it.
+And what I like about it is I can
+use it to show you what other Lindblad operators may
+be important.
+So you suddenly understand in a bigger context
+what the master equation is.
+And then we continue with an atom in a cavity.
+And the damping is no longer by spontaneous emission.
+The damping is by photons sneaking out of the cavity.
+So we really learn something which
+is similar to optical bloch equation,
+but in another context.
+And often if you see two different realizations
+of similar physics, you maybe realize
+more what is more generic and what is special,
+for instance with spontaneous emission.
+So I really like that.
+But also, I found that this example
+allows me to introduce to you the concept of the quantum Zeno
+effect, and the concept of adiabatic elimination
+of coherences.
+So it's a wonderful example which
+connects us with a number of really neat concepts.
+So with that promise, let me remind you
+that in the master equation, when we derived it,
+we got an exact expression, when did second order--
+when we did second order perturbation theory.
+And this structure, which came, was this double commutator
+between the interaction operator and the statistical operator.
+Just to remind you, in the interaction picture--
+first, in the non-interacting, in the normal picture,
+the derivative of the density matrix
+is the commutator with h.
+And in the interaction picture, it's
+a commutator with v with the interaction.
+But when we iterate an equation to second order,
+we pluck the first result into the equation.
+Then we get, in second order, the structure.
+And by expanding the commutator, we
+obtain the following structure.
+And that gives rise to the Lindblad form
+of the master equation, which is rho dot equals a Hamiltonian
+part.
+But then, we have now a sum, v. The interaction
+with the environment can be a sum of, you know, mu dot b--
+sorry, an external b field times magnetization,
+and dipole moment times an electric field.
+It can have a number of terms.
+And therefore, in general, we have more than one Lindblad
+operator.
+But the structure is always given by this commutator
+in the following form.
+OK, so we had this general derivation,
+but until now, we have only looked
+at a system which is a simple atom,
+and the environment was the vacuum.
+So this is our environment.
+And also, the environment was always in the vacuum state.
+So these were our assumptions.
+And that means that the only Lindblad operator,
+the only jump operator in this sum
+is sigma minus for spontaneous emission.
+And by inserting this jump operator
+into the Lindblad form of the master equation,
+we find the optical bloch equation.

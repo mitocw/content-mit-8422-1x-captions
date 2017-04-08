@@ -1,0 +1,48 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 39 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the question is, now we understand the stick diagram
+of the mollow triplet that we have always
+aligned at the carrier.
+Actually, let me put--
+let me just put marks here.
+We have the carrier and the resonance frequency.
+But the question is now, what is the width of the spectrum?
+
+The general answer is rather difficult,
+but let me give it to you.
+And I will derive it from the optical Bloch equation.
+Let me discuss that one limit where the detuning is
+larger than anything else.
+And the other case is the resonant case.
+In general, we started out by saying
+that we have a delta function at low intensity.
+If you now go to higher and higher intensity,
+you still sort of have the delta function
+from the lowest order diagram.
+But the higher order diagram become more important.
+And the spectrum is, in general, a superposition of three
+[? broaden ?] peaks in the data function.
+At low intensity, you only have the delta function.
+At high intensity, the weight of the elastic scattering,
+the delta function, goes to 0.
+And now let's discuss the widths.
+And that shows you that even light
+scattering by a two-level system, those very, very
+simple Jaynes-Cummings Model, has interesting,
+and maybe non-intuitive aspect.
+The side bends have a width of gamma.
+The carrier has a width of 2 gamma.
+But when you are on resonance, the situation changes.
+The carrier has now a width of gamma,
+and the side bends have a width of 3/2 gamma.
+But if you look at it, the sum of the three widths
+is always 4 gamma.

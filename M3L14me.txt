@@ -1,0 +1,74 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14me.txt
+#
+# Captions for 8.422x module
+#
+# This file has 65 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, let's do Cavity QED.
+And there are lots of experiments
+going on in the research group of Professor Vuletic.
+And in this situation, our system is actually not
+just the atoms, it's the atoms and a single mode
+of the cavity.
+This is our system, and the environment
+are all other modes.
+So in other words, the atoms interacting with a single mode
+of the cavity--
+this is our system--
+and the environment is now accessed
+by emitting the atom is emitting.
+Or there are photons leaking out of the cavity,
+because the cavity mirrors do not have 100.0% reflectivity.
+I will immediately reduce it to one Lindblad operator,
+but we could now say that this system in its full glory
+has four different Lindblad operators which
+provide dissipation, which provide coupling
+to the environment.
+The first one is simply what we had before--
+spontaneous emission.
+However, if we allow that the environment is thermal,
+we have to multiply.
+But whenever you have emission, and you have already
+population in a mode, and it's a number of thermal photons
+in every mode on average, then you
+have an extra bosonic or photonic stimulation term.
+That's sort of stimulated emission,
+but not by the laser beam.
+It's now stimulated emission by a thermal occupation
+of all the other modes.
+So just assume for that purpose that you have a cavity here,
+but the cavity is now in a black body cavity, and everything--
+all modes--
+in the vacuum are no longer vacuum modes.
+They are occupied within thermal photons.
+Of course, if this is the case, we
+have also the opposite effect, you can see by [INAUDIBLE].
+Namely, that we can have an absorption process.
+We absorb a photon from the thermal background.
+But now we have two more processes,
+and this is photons leaking out of the cavity.
+When the photon leaks out of the cavity, this leakage
+is not coupled to the atom, it's coupled to the mode.
+We describe the mode by a mode operator a.
+So now the leakage out with the [INAUDIBLE]
+is presented by that.
+But in the case of thermal photons,
+we have stimulation by the thermal photons.
+And also, if we have thermal photons,
+photons can not only leak out of the cavity,
+they can also leak into the cavity.
+So we have assumed here that we have
+n thermal photons in each mode of the environment.
+So in other words, if you want to look at, for instance,
+Serge Haroche's experiment in the wonderful experiments
+in the microwave domain, he has cavities at, I think,
+gigahertz frequencies.
+And even at cryogenic temperature,
+there are occasional thermal photons in this mode.
+But you are now expert enough that you
+would know how to set up a master

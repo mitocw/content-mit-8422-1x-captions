@@ -1,0 +1,35 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mj_CQ2.txt
+#
+# Captions for 8.422x module
+#
+# This file has 26 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me maybe try to give you another problem.
+And you should maybe figure out if those two problems
+are related.
+I want to ask you now something simpler.
+There are not three levels involved,
+there are two levels involved, but one of the levels
+is broadened by kappa.
+It's sort of, call it an unstable state, because it
+can decay with a rate kappa, and we often
+show something which is broadened.
+And now, we have a matrix element
+between the discrete level and the broadened state,
+which I call omega.
+It's a matrix element or [? RB ?] frequency.
+And now, you should figure out what
+is the physical picture which describes
+the coupling of a discrete initial state to something
+which is broadened.
+Is now the transition rate, from the original state--
+does the original state decay with the characteristic rate,
+which is omega, or is it omega squared over kappa,
+or is it none of the above?
+So, coupling between two levels, very, very simple,
+but one level is broadened.

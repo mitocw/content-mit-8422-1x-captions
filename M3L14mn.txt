@@ -1,0 +1,197 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mn.txt
+#
+# Captions for 8.422x module
+#
+# This file has 188 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we have now a result for gamma cavity.
+We have a result how the atom decays
+in the presence of the cavity.
+
+And I want to rewrite this for you in a very nice way.
+Namely, I want to show you the famous result that when
+an atom emits in a cavity that the atom can decay faster
+than the spontaneous decay.
+Because if the cavity has a resonance,
+the cavity changes the vacuum around the vacuum.
+It increases the density of modes,
+and therefore there is a stimulation
+of the atom into the cavity.
+So I'm not-- I don't have any other math
+than just rewriting our result of gamma cavity in other units,
+in other ways.
+And then we can compare it to the natural decay of an atom
+without the cavity.
+So what we want to do now is we want
+to take the cavity induced decay of the excited state,
+and we want to compare with the natural decay rate gamma.
+So I just have to rewrite things in a few units.
+The cavity induced decay is the vacuum
+Rabi oscillations squared over kappa.
+So let me remind you that the Rabi frequency is always
+given by an dipole moment times electric field.
+It's a matrix element.
+Well, there's one of those factors of 2,
+and each bar keeps the units correct.
+And in the case of the vacuum, Rabi oscillation,
+the electric field is the electric field, so to speak,
+of one photon in the cavity volume.
+And there's the factor of 2.
+So this is now the volume of the cavity.
+So therefore, the vacuum Rabi frequencies,
+the dipole moment, times 2 atomic resonance frequency
+epsilon 0 h bar v. And that means now,
+and this is a nice result, that the cavity induced decay is
+omega squared over kappa.
+And I just use the above solid for omega 0.
+And for kappa, I introduce the q factor
+of the cavity, which is the number of oscillations
+before it is damped.
+It's omega over kappa.
+And with that, I can rewrite the cavity induced decay
+is 2 d squared, epsilon over h bar v times q.
+And if you remember form part one
+of the course, or standard textbook result,
+that spontaneous decay is a dipole moment squared
+times frequency to the power 3.
+Then we obtain the famous result,
+which is called the Purcell factor, namely
+that the decay in the cavity compared
+to the decay in free space is proportional to the q
+of the cavity.
+There is a numerical perfector but then what enters
+is the wavelengths of the photon cubed over the volume.
+So the case of eta larger than 1,
+and it's actually interesting that this result
+is completely independent of atomic properties.
+So in other words, every atom you put in a cavity,
+no matter what its dipole moment is,
+it will decay with a rate that is q times larger.
+
+There are many ways how to look at it.
+You can say if the cavity consists of two mirrors,
+you create q mirror images of your atom,
+and you have sort of an atom, which
+has a q times stronger dipole moment.
+And therefore, because the mirror images also radiate,
+and therefore, you get a q times faster decay.
+So this limit makes sense in many, many different pictures.
+And it's a general result that if an atom emits
+in a cavity with [INAUDIBLE] q, you get the q times
+enhancement of spontaneous decay.
+So this is called cavity enhanced spontaneous emission.
+It goes back to Purcell in 1946, and you
+can see the whole field of cavity QED
+depends on this effect, that you can enhance spontaneous decay,
+or it's the opposite.
+If an atom has a resonance frequency
+between two modes of the cavity, the spontaneous decay
+is inhabited.
+And this is sort of what is exploited in cavity QED.
+
+Let me just conclude here by saying
+that our assumptions have to be consistent in our derivation.
+We neglected gamma.
+When I said the two link plot operators,
+we only look at the leakage out of the photon.
+We neglect spontaneous decay.
+So of course, this requires that eta is larger 1.
+So this is the consistent range of validity of our result.
+Secondly, we discussed the limit of over damping,
+which requires that kappa has to be larger than the vacuum Rabi
+frequency.
+And therefore the above result is valid for large q,
+but q cannot be--
+q has to be sufficiently large, but cannot be large in this
+value.
+Any questions?
+Nancy.
+For kappa, is that the loss of the cavity--
+is there any difference between the losses of the cavity
+because it's a cavity or the losses
+into other modes of the cavity?
+Kappa is the loss.
+You can say kappa is the rate at which a photon in the cavity
+is lost.
+Is lost from the cavity completely,
+or is into another mode inside the cavity?
+Is there a difference?
+With [INAUDIBLE] just one mode inside the cavity?
+Well, we have not an element--
+OK, if the mirror has imperfections,
+we usually think of light leaking out of the mirror.
+If the light is absorbing, because the coating has
+a tiny little bit of absorption, you
+know from the beam splitter analogy
+that a small absorption means it's equivalent here
+to small transmission factor.
+Usually we don't consider that the light transforms
+from one mode of the cavity to the other.
+It's either absorbed or leaking out.
+But if you assume that the mirrors are not super polished,
+and they scatter light a little bit,
+then you would have a mechanism that the light in the cavities
+scatters into other modes.
+And all those losses are summarized
+in one coupling constant kappa.
+
+Let me finish by showing to you the recent Nature
+paper by the Innsbruck group.
+We've talked so much about lint plot operators.
+And the lint plot operators tells us,
+the dissipation tells us what is the effect of the environment.
+And usually you would say, well, if you have an atom
+and it interacts with the environment,
+what is sort of the equilibrium state?
+Well, if you just have the vacuum,
+the atom goes to the ground state,
+and the ground state is the attractor,
+the stable state of the system.
+If you drive this system with one laser beam,
+the attractor state, where the system goes into,
+is the steady state solution of the optical Block equation.
+That all sounds a little bit boring, but in this paper based
+on his theoretical suggestion of Peter
+Zoller, an experimental realization with tracked ions,
+at Innsbruck, they actually engineered an environment,
+engineered lint plot operators in such a way
+that the system of two ions was relaxing into a Bell state.
+So you engineer now the environment
+that-- not I wanted to say thermal equilibrium-- no,
+that the equilibrium state with the environment,
+the dissipation leads to a Bell state.
+Well, it's a little bit complicated how it is done,
+but I just want to sort of just look
+at a few highlighted key messages.
+So the idea is here engineering of dissipation,
+creating experimentally dissipative operators.
+We usually manipulate quantum system with emission operators,
+but here it is manipulated not by the h operator,
+but by the l operator.
+And so the idea here is to have an evolution of the density
+matrix--
+a linear mapping that the density matrix
+evolves in a certain way.
+I think you'll recognize partial trace.
+You recognize a few equations, a few results
+which we have discussed.
+And what you see here is exactly lint plot form.
+And what they did is by using a number of laser
+beams in quantum operation, they designed
+operators z, jump operators, lint plot operators
+in such a way that the system was damping out
+into a Bell state.
+So that seems a new frontier for research.
+That goes by the title that we can do quantum simulations
+using trapped ions and core atoms of Hamiltonian's.
+But we can also quantum simulate very special environments,
+maybe environments in which it would be hard to find them
+in nature, but they are quantum mechanically allowed,
+possible environments.
+And they may have new features which
+have not been explored so far.

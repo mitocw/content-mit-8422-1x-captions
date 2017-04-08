@@ -1,0 +1,158 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14mc.txt
+#
+# Captions for 8.422x module
+#
+# This file has 149 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let us discuss the case when we go to very high power, very
+high Rabi frequency.
+At that moment-- you can just see it in the solution
+on the page above--
+the z component of the optical block vector goes 0, becomes 0.
+That means there is no population
+difference between excited and ground state anymore.
+We often describe the limit of high power
+by introducing a saturation parameter, which
+is defined here.
+Saturation is discussed in more details
+in part one of the course, but I want
+to relate it here to the solution with the optical block
+vector.
+The z component, which is the difference
+between ground and excited state population,
+becomes now-- has a very simple form.
+1 plus 1, 1 over 1 plus s.
+The population to be in the excited state is 1/2.
+Half That's what we get at infinite power.
+And then if the power is finite, you just
+multiply it by s times s plus 1.
+And the power broadened line widths is the natural line
+widths, which just gives the line widths
+in the limit of low power.
+And then you multiply with square root 1 plus s.
+So what does it mean to have a saturation parameter of 1?
+Well, if you just look how it was defined,
+if you have the ground and the excited state,
+at a saturation parameter of--
+first, at a saturation parameter of infinite,
+you have a 50-50 population.
+And at a saturation parameter of 1, you're half way to 50-50.
+That means you have 3/4 population here,
+and 1/4 population there.
+So at this case, the number of photons emitted per unit time,
+which is all always given by this formula,
+becomes now gamma over 4.
+So at a saturation parameter of 1,
+the emission rate is gamma over 4.
+At a saturation parameter of infinity,
+the spontaneous emission rate is gamma over 2.
+Any questions about steady state solution?
+[? Tino. ?]
+So what we derive right now is a spontaneous emission rate.
+Do the optical Bloch equations say anything
+about the stimulated emission, or is that
+the fact that it doesn't happen in the same mode?
+Stimulated emission is built in the optical Bloch
+equations for negligible damping contain Rabi oscillation.
+And Rabi oscillation is the stimulated emission.
+So this is being built in, however
+since we are describing the drive field
+by a classical field by Rabi frequency,
+we are not really accounting for the number
+of photons exchanged with it.
+So in a way, the driving field is always
+treated in the undepleted approximation.
+It's a z number, but in the drive system.
+But, of course, you can immediately
+read from the Rabi oscillation the exchange
+of excitations between the atomic system and the drive
+field.
+So yes, the optical Bloch equations contain that,
+but not in the photon picture.
+But I guess what I'm--
+so if you have Rabi oscillations you can kind of guess
+that every time you go down, you stimulated the emission.
+In steady state, you don't have Rabi oscillations.
+Can you still somehow extract the rate?
+
+I hope the question we answer will become crystal
+when we discussed quantum Monte Carlo simulations.
+In quantum Monte Carlo simulation,
+we have an ensemble of atoms.
+And the atoms all do Rabi oscillation,
+but in steady state they do it out-of-phase.
+So you have atoms in your ensemble
+which, at a given time, absorb, and others
+emit in a stimulated way.
+And the effect cancels out in steady state.
+
+Other questions?
+Yes.
+So you're saying in steady state, they kind decohere.
+You don't have any net change in these populations.
+Do you still get the triplet lines
+if you don't have a modulation of your intensity beam?
+
+Yes, absolutely.
+The Mollow triplet is a feature in steady state.
+And maybe let me explain that, because it's
+an interesting discussion.
+What will happen is, in steady state in your ensemble,
+you don't have Rabi oscillations.
+But if you would look at one atom,
+you see Rabi oscillations.
+It's just when you average over all atoms in your ensemble,
+the phase of the Rabi oscillation has averaged out.
+So in other words, what would for instance, what would happen
+is the following.
+If you take a steady state solution,
+and you ask what is the dipole moment as a function of time
+in steady state, you will find that this is 0.
+So you would then ask, hey where is the light emitted?
+Because isn't the light emitted by a time-dependent dipole
+moment?
+What you really have to do is when you want to study time,
+when you want to study light emission in steady state,
+you can't look at expectation values,
+because they are not changing as a function of time.
+What you have to do is you have to look at the correlation
+function.
+And the correlation function sort of tells you--
+let me just use it for Rabi oscillation--
+if one atom is sort of in the excited state, a Rabi period
+later, it would be, again, in the excited state.
+So also you are in steady state, you have correlations.
+Because if you look at your ensemble and see
+there is a fluctuation where the atom is excited,
+you will actually find the correlated fluctuation
+a Rabi period later.
+So in steady state, when you want to study dynamics
+like the Mollow triplet, you should not
+look at the solution for the dipole.
+You should look for the solution of the correlation function.
+And I made this cryptic remark on Wednesday
+that this correlation function follows the same differential
+equation as the expectation value.
+Therefore, when I try to discuss for you the line
+widths of the Mollow triplet, I simply
+use the matrix for the block vector,
+knowing that it uses the matrix, the same differential
+equation, which will describe this correlation function.
+
+But it is important here that in steady state,
+the average values are 0, but we have fluctuations.
+And it is the fluctuations which emit
+the light, the fluctuations which emit the Mollow triplet,
+and fluctuations are described by quantities like this.
+So it's a little bit beyond what I want to discuss in the book,
+but Atom-Photon Interaction has a wonderful chapter on that.
+Other questions?
+
+There is another important case of the optical Bloch equation,
+which is the weak excitation limit, which is simple,
+but I've already asked you to look at it in your homework

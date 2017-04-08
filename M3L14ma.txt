@@ -1,0 +1,191 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14ma.txt
+#
+# Captions for 8.422x module
+#
+# This file has 182 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the question is about the master creation.
+We know that the most general master creation
+has to have the Lindblad form.
+And the Lindblad form has a jump operator,
+which is providing dissipation.
+In its simplest case, a jump operator
+is just a sigma minus operator for spontaneous emission, which
+takes us from the excited state to the ground state.
+And when we had the Lindblad form, the jump operator--
+and it's [INAUDIBLE] conjugate, like sigma plus, sigma minus,
+appear on the right hand side of the master equation
+with the statistical operator here, here, and in the middle.
+They are plus minus signs in factors of 2.
+So I don't have an intuitive explanation
+of where the factors come from.
+They come from the derivation, but-- do you
+have a question about it, Nancy?
+So after writing the Lindblad form,
+we get gammas, which we are saying for the [INAUDIBLE]
+vector, we were writing [INAUDIBLE] gammas
+in the [INAUDIBLE], and we [INAUDIBLE].
+
+Yes.
+
+So let's go right here.
+That's actually what we were going to discuss today is.
+We want to discuss today solutions of the optical Bloch
+equations.
+And just to remind you, we derived a master that equation,
+master equation for the density matrix.
+And this master equation, through the interaction
+with a reservoir, is acting a term
+to the Hamiltonian evolution.
+And this is shown in red here.
+These are the interactions with the reservoir.
+And in the case of the optical Bloch equation
+and spontaneous emission, we have
+only one Lindblad operator, which
+is Lindblad operator sigma minus for spontaneous emission.
+So this here is the master equation
+for the two level system interacting with a vacuum
+through spontaneous emission.
+And by substituting the two level density matrix
+has three non-trivial components.
+Sure, it's a two by two matrix, but the trace is one.
+And so we can transform from the matrix elements of the density
+matrix to the other coefficient, which come in very handy,
+because they allow a simple geometric Lindblad [INAUDIBLE],
+and this is the Bloch vector.
+And so the master equation, which is shown here,
+turns into a differential equation for the Bloch vector.
+And those two equations are identical.
+We've just undo substitution.
+But your question is now about--
+[INAUDIBLE]
+Because we have negative gamma over 2,
+which is from the first and last term.
+But the gamma [INAUDIBLE].
+This one here?
+No.
+This one?
+Yes.
+That's negative gamma over 2 times negative 2.
+No.
+I mean, first of all, this is a differential equation
+for r dot.
+r dot-- OK.
+This is a differential equation for the Bloch vector.
+And we have here three different relaxation
+rates, which are gamma, gamma over 2, and gamma over 2.
+And they are all negative, because they're
+relaxation rates.
+This here not a prefector of r.
+It is sort of a constant.
+And it means, in the long time limit, I mean,
+what happens if you have a system which spontaneously
+decays after a while?
+The r vector is not 0.
+The r vector is hanging down.
+The system is in its ground state.
+And this is exactly that.
+
+Wait, am I r dot?
+
+Yes, the fact is, the system, the differential equation
+has to relax towards the equilibrium.
+You can actually rewrite this equation r dot equals a matrix
+times r minus r equilibrium.
+So here is the matrix, the matrix
+of the optical Bloch equation.
+So if you rewrite that that r dot is the matrix times r
+minus r equilibrium, then r equilibrium times
+the matrix gives something constant,
+and this is exactly this here.
+But it's a mathematical identity.
+Just look at it.
+There is no assumption.
+It's an exact rewriting of the equation.
+
+So it is this creation which will
+be in the focus of our attention, not only today,
+but also when we talk about light forces.
+The first thing we did is we wanted
+to discuss the Mollow triplet.
+And just as a reminder, we have talked about,
+at the beginning of last class, we
+talked about the fluorescence.
+An atom is excited by monochromatic laser light.
+And at low intensity, it simply emits--
+a delta function emits exactly the same frequency
+of light, which is provided by the laser light.
+So the incoming and outgoing photons
+have exactly the same frequency.
+And this is simply a consequence of energy conservation.
+But at higher intensity, we have sidebands
+and we understand intuitively that we have sidebands
+because the system a Rabi oscillation.
+So same classically, we have an emitter,
+which has some modulation, and that creates sidebands.
+But what's rather easy to understand
+is by diagonalizing the two-by-two matrix,
+we find that we have a splitting of excited state with n photons
+and ground sigma with n plus 1 photons.
+So we have sort of a plus and minus state.
+And if you look at the possible transitions,
+we immediately find the explanation
+for the Mollow triplet.
+There are three different frequencies
+which can be emitted between transitions
+between three states.
+What is much more subtle, what cannot be obtained from
+a perturbative treatment is the [INAUDIBLE],
+how wide are those peaks in the Mollow triplet?
+And there is tens and tens of pages
+in atom-photon interaction.
+But at least for two limiting cases,
+I could show you what the bits of the peak is by first seeing,
+if you have delta equals c or ng equals 0, the matrix, which
+determines the dynamics, has three eigenvalues, gamma
+over 2, gamma over 2, and gamma.
+And now, if we detune, we add a rotation along z.
+If we drive the system strong, it
+corresponds to a rotation around x.
+You probably remember from 8421 the spin in the magnetic field.
+It rotates with its frame rotating with omega.
+It rotates at the detuning delta.
+But if you derive it, we make it flip along the x-axis.
+So we find exactly that here.
+And then, it's an intuitive way to solve the matrix
+if you want solve the matrix mathematically.
+But intuitively, what happens is, if you have a z rotation,
+we don't change this eigenvalue.
+And the rotation is just adding i omega.
+Omega is the rotation to x and y,
+because x and y are now rotating.
+So therefore, we obtained that, in the case of detuning
+the z rotation, we have minus gamma,
+minus over 2, minus gamma over 2.
+And here, what appears here is the rotation frequency.
+And then, if you rotate around the x-axis, then of course,
+nothing happens.
+But what used to be the x-axis, so we get one eigenvalue
+with minus gamma over 2.
+But the y and z eigenvectors are rotated.
+And hand-wavingly, I can tell you.
+But you can show it mathematically
+that this means the two new eigenvectors have the average
+of those two damping terms.
+And this is 3/4 gamma.
+So at least for the two cases for large detuning
+and strong drive, I was, with a little bit of intuition,
+showing you and deriving for you where
+the non-trivial bits of the Mollow triplet comes from.
+So I hope you are least impressed
+that these optical Bloch equations are powerful
+and allow us to make predictions which would be
+difficult to obtain otherwise.
+Any questions about that?
+About the Bloch vector, the differential equation,
+and the spectrum of the emitted light?

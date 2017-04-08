@@ -1,0 +1,38 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15m.txt
+#
+# Captions for 8.422x module
+#
+# This file has 29 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me come back to the special case of spontaneous emission.
+In that case, we have only one jump operator,
+which is sigma minus.
+And the normalization is the square root of gamma.
+And that actually means that our quantum trajectory,
+ground state, excited state is very simple.
+If you start with a system 100% in the excited state,
+it's very trivial what happens.
+Nothing happens.
+But if then the jump occurs, the particle
+is in the ground state.
+And nothing happens then until infinite time.
+You then have to start the next trajectory,
+you start in the excited state.
+And this time, by chance of the random number generator,
+the jump happens later.
+Another time, the jump happens earlier.
+And what you then have to do is you
+have to average over all those realizations
+what is the probability for the particle
+to be in the excited state?
+And this is now your estimator for the excited state diagonal
+matrix element of the density matrix.
+
+And if you've written your code correctly,
+you will find that you get a wonderful exponential decay
+exactly as you have expected.

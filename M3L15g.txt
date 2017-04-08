@@ -1,0 +1,111 @@
+#
+# File:   content-mit-8422-1x-captions/M3L15g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 102 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me just emphasize it again.
+And giving you also an example in the reference.
+A zero measurement, a zero measurement
+modifies the wavefront.
+You can also put it like this.
+What the wave function is, is the best knowledge
+you have about this system.
+The wave function is a way to predict what happens next.
+And it's the most precise way to predict it.
+More accurate predictions than the wave function allows cannot
+be made because of Heisenberg's uncertainty relation.
+But what happens is if you have a 50/50%
+superposition of [? count ?] in excited state
+and the system is not immediate, then you would see initially
+my guess was half of the atoms are excited, half of the atoms
+are in the ground state.
+But if none of them has decayed for a while, you would say,
+I revised my estimate now.
+Now I have to assume that more are in the ground state
+because having not decayed means there is a higher probability
+that the system has actually--
+is in the current state to begin with.
+So this is how this way of dealing with the wave function
+automatically adjusts for the knowledge you
+have gained about this system.
+Let me give you another example of its home this message.
+And I take it from a pedagogical paper form
+Dickey from American Journal of Physics 49, 926 (1981).
+And what he discussed is the following.
+You have a box and of originally your atomic wave function
+is completely organized.
+You were both Einstein condensate
+if you want in this box.
+Or let's just this one atom to be more precise
+and it's completely de-localized.
+But now, you focus a laser beam into the system.
+And the laser beam would ionize your atom
+and you could count the ion with 100% probability.
+And for a short moment, you flash on the laser
+and the result is yes, you count.
+You get a count.
+In that moment you would see, my wave function
+is more localized.
+I revise my estimate.
+
+Well, maybe I shouldn't say ionized.
+If it's ionized, you destroy the atom.
+Let's just you observe luminescence so the atom is
+still alive.
+But now you have to say the atom is localized in that region.
+However, if you don't observe anything,
+you would say, well, now it's actually more probable
+that the atom is outside.
+Because if it had been in the laser beam
+with a certain probability I would have detected a photon.
+But the non-detection of a photon
+means that I revise my estimate.
+And I say, it's much more probable
+that the atom is outside the laser beam
+than inside the laser beam.
+So this, here, is exactly how a non-observation
+of anything, a zero measurement, modifies your wave function.
+And the formula-ism to incorporate that
+is what we have discussed before.
+Yes, Cody?
+Your arguments here so far are the same way as a-- inside
+the waveform we have this entire capacital probability
+and we're updating or resetting the probability?
+You haven't included anything about the relative
+between these two.
+I want to do that now.
+I mean this is sort of just to address the basic concepts
+about what does a measurement mean, what does a zero
+measurement mean.
+But now I want to write down everything for you
+in amplitudes.
+We want to do exactly the time evolution of this system.
+Nancy?
+Yes, but if you do not [INAUDIBLE] that
+is, then we should not just apply [INAUDIBLE].
+
+Well, if your particle-- if your system
+is not in an eigenstate of the Hamiltonian,
+it doesn't have a sharp energy.
+And that would mean that when you measure the energy now,
+you have fluctuations.
+Sometimes you measure higher, sometimes you measure lower.
+It's only when you are in an eigenstate
+that you measure a sharp value.
+And therefore you know from the beginning,
+that you will measure an [INAUDIBLE] motion.
+And sometimes you measure higher and sometimes
+you measure lower than the average value.
+There's nothing wrong about it, but your question
+is a very good one.
+You should-- I mean, those examples
+are really on the one hand they are trivial,
+but on the other hand it's very profound
+what they tell us about [INAUDIBLE] physics
+and how to apply conservation laws in such.

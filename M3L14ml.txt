@@ -1,0 +1,74 @@
+#
+# File:   content-mit-8422-1x-captions/M3L14ml.txt
+#
+# Captions for 8.422x module
+#
+# This file has 65 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to now derive this situation for you for our atom
+in a cavity.
+And this is one example for the Quantum Zeno effect.
+But let me explain to you what the quantum zero effect is.
+Quantum zino is a Greek philosopher,
+and the Greek philosophers had some deep thoughts
+about the nature of time, the nature of motion.
+And I think in the Greek philosophy,--
+Sorry, but I don't have a strong background in philosophy.
+But I think the idea is that motion
+is when something moves around.
+But it takes some time to move, so if you observe it,
+it can't move because every time you observe it,
+you localize something.
+That's the idea.
+If you see an arrow, the moment you observe it it's localized.
+And if you localize something too often it cannot move.
+This is sort of what you can see here.
+The system wants to evolve to a second state.
+But kappa can actually be a measurement process.
+We can just shine a strong laser on this state and figure out,
+has something arrived here?
+And the more often we look, the stronger our measurement is,
+the less the system can evolve.
+So a measurement of what arrives in this state
+slows down the dynamics to that state.
+And this is called the Quantum Zeno effect.
+It also goes by the name of Quantum Zeno paradox,
+but it's just quantum mechanics, it's not a paradox.
+In the popular world, it is sometimes paraphrased
+as if you observe the tea kettle, the water never boils.
+But what you see now where it comes from.
+So this is a Quantum Zeno effect,
+and by looking at the master equation
+for an atom in a cavity, I want to show you
+that you limit comes out of the master equation.
+Questions about it?
+
+So this is the Quantum Zeno effect.
+And one of the nicest papers on the Quantum Zeno effect,--
+I'm biased here-- was written by my group
+because we used the Bose-Einstein condensate,
+we had an RF coupling to another hyperfine state.
+And then we used the laser beam and observed the population
+in the final state.
+We saw that the effect of the RF drive
+became weaker, and weaker, and weaker, the stronger we
+make the measurement in the final state.
+This is a reference, and our work
+was the first quantitative comparison.
+You can now do a measurement by just
+using a strong laser in maybe every millisecond or so.
+Or you can use a weaker laser beam continuously.
+So we show in this work that the Quantum Zeno
+effect is the same--
+whether you do a pulsed observation,
+which is a strong measurement, or continuous weak measurement.
+But let's now go back to the master equation.
+So our job is now to solve this master equation for the limit
+of strong damping.
+And what we will find is both Quantum Zeno
+effect, and-- another tidbit--, we
+will also find the Purcell effect,
