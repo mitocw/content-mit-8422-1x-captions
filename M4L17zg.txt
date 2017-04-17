@@ -1,0 +1,271 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zg.txt
+#
+# Captions for 8.422x module
+#
+# This file has 262 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So, energy conservation.
+Energy conservation has to be discussed with two
+different perspectives.
+One is a transient phenomenon, which I'll do in a few minutes,
+but let me first discuss something which is sort of
+[INAUDIBLE].
+And this is the following-- you have atoms, which
+move over a standing wave.
+And I used the test atom picture to show you
+that for strong [INAUDIBLE] and standing wave,
+we have a friction force.
+So the atom, this was the Sisyphus cooling
+that the atom is climbing up hills, does some transition,
+climbs up the next hill.
+But whenever the atom climbs up more hills,
+then it scoots down.
+And therefore there is work done, there is a net force.
+And this net force provides friction,
+it slows down the velocity of the atom.
+My question to you is where has this energy gone?
+The kinetic energy lost by the atom,
+where does this energy appear?
+
+Which fields?
+Modulation of a laser beam.
+Well, we have two fields-- the laser fields--
+Oh.
+--And we have maybe spontaneous emission.
+But the force is only a stimulated force, so yeah.
+
+Which fields?
+The laser field. 'Cause when you stimulate into the laser
+field, [INAUDIBLE]
+[INTERPOSING VOICES]
+--phase modulator [INAUDIBLE].
+Well, I have a little bit problem with that,
+because when the atoms, the force
+comes from distributing photons from one standing
+wave to the other one, and these are photons of equal frequency.
+So in that sense the net effect is that those two laser beams
+are--
+actually the atom moves here, so what should happen to the laser
+beams?
+Photons are not disappearing.
+
+I will later tell you, in the transition picture--
+and this maybe you have already done your homework assignment
+number 10--
+there is something happening to the laser beam,
+but this would only happen when atoms fly in
+and fly out of a laser beam, then
+we have a different situation.
+But here, if the atoms stay in the laser beam, the laser beam,
+so to speak, sees a constant index of refraction medium,
+it just goes through and nothing has
+happened to the photons except that occasionally photons
+are spontaneously emitted.
+
+Well, OK if it's not the laser beams, what remains now?
+
+Spontaneous emission.
+Now, how can spontaneous emission carry the energy? .
+What is the spectrum of spontaneous emission?
+
+Triplet?
+Yes, the Mollow triplet.
+We have the central carrier.
+Thus the carrier is not carrying away any energy
+because it is at the laser frequency.
+Now we have two sidebands.
+Can the sidebands carry away energy?
+[INAUDIBLE]
+Pardon?
+[INAUDIBLE]
+A symmetry is what sense?
+[INAUDIBLE] are the same.
+Well, but didn't we discuss with a radiative cascade
+that the blue-detuned sideband comes
+when you go from the upper crest level to the lower crest level?
+And in the lower crest level you can only
+emit a red-detuned sideband, not a blue-detuned sideband.
+Or we said in the radiative cascade
+after one blue-detuned photon, there is a red-detuned photon.
+So the number of photons emitted on the red sideband
+and on the blue sideband are exactly equal.
+
+[INAUDIBLE]
+[INAUDIBLE] have to [INAUDIBLE] picture
+where the red-detuned sideband was emitted
+in a lower field, [INAUDIBLE].
+Yes.
+So the situation is the following--
+the atom emits an equal number red, blue, red-detuned,
+blue-detuned, red-detuned, blue-detuned.
+But when it emits the blue-detuned,
+the sideband spacing is larger because it
+emits the blue-detuned photon when it's on top of the hill.
+And the red-detuned photon is emitted
+when the atom is more in the dark
+and therefore the sideband spacing is lower.
+So it alternates-- blue, red, blue, red--
+but the blue-detuned photon is emitted
+when the generalized Rabi frequency is larger, when
+the atoms is at an antinode.
+And the red-detuned is more preferably emitted
+when the photon is at a node of the standing wave.
+So it is the difference of this modulation--
+the sidebands are modulated--
+and there is a preference to emit the [? blue detuned ?]
+sideband when the sideband spacing is larger
+than the red-detuned case.
+And this is where the energy goes.
+You could make the argument, then,
+that would give a simple picture for the maximum cooling rate.
+Yes.
+Where you have omega times your [INAUDIBLE].
+Yes, that's exactly how last class I calculated the cooling
+rate.
+The cooling rate, the energy removed from the system, is
+an--
+
+Yeah, I said it is the height of the lattice,
+but the height of the lattice is also the amount by which the--
+the lattice is nothing else than the generalized Rabi frequency.
+This is the energy level of one crest level,
+and therefore the lattice is the increment
+by which we modulate blue and red sidebands, exactly.
+This can be quantitatively worked out.
+If I had another half hour I can do it for you.
+It's in the references, but this is the physical picture
+for cooling.
+
+But so you realize that these are one of the subtleties--
+we can understand the force simply
+from simple picture energy levels, Sisyphus cooling
+and such.
+But in order to understand where the energy comes from we
+need the Mollow triplet.
+We need spontaneous emission.
+So the force comes from the redistribution of photons.
+It's a stimulated redistribution of photons,
+which is responsible for the force,
+but the energy balance comes from what
+can be neglected for the momentum balance,
+namely the few spontaneous emission
+events and especially those which involve
+the blue and red sidebands.
+And it beautifully works together
+and all the equations of physics are obeyed.
+OK, but that tells you now that the cooling effect
+hinges on spontaneous emission.
+And, yes, spontaneous emission is dissipation,
+and whenever you want a friction coefficient,
+you want dissipation.
+You need an open system, the open system
+is spontaneous emission into those nodes.
+So let's now talk about an opposite situation
+where we do not have any spontaneous emission.
+And I think almost all the people
+who work with optical lattices use infrared lasers for them
+or [INAUDIBLE] detuned laser where spontaneous emission
+happens only once every 20, 30 seconds to a 100
+seconds per atom, so we can really neglect it.
+So now the question is the following--
+assume you have a focused laser beam
+and you load a [INAUDIBLE] Einstein [INAUDIBLE]
+at the edge of the cloud, and now the condensate is
+accelerated, sucked in into the laser beam.
+So now the atom has kinetic energy.
+The question is where does this kinetic energy come from?
+And this time we do not have spontaneous emission,
+as we have when we do frictional cooling.
+So the question is now where does the energy
+of the atom come from?
+
+I thought we were talking about a dielectric medium that's
+coming from those light rays that are reflected or not
+reflected.
+[INAUDIBLE]
+It comes from those light rays.
+But the atom is a dielectric medium-- that's good.
+But the reflection, the deflection of light rays--
+
+at least in leading order, you would
+say photons of the same energy are deflected.
+But in the [INAUDIBLE], it says the atom [INAUDIBLE]
+absorbs [INAUDIBLE], and then it gets [INAUDIBLE].
+I would hate to use a picture of absorption and emission.
+What really happens is it's just scattering.
+It's scattering.
+You scatter a photon, which has one frequency in two
+different direction.
+It's really light scattering.
+
+Well, you have a homework assignment on that,
+and I don't need to go into details because it can easily
+be worked out.
+But what happens is the following--
+the atom is a dielectric medium.
+It has an index of refraction.
+And if you suddenly put an index of refraction
+into a laser beam, then you change
+the phase of the laser beam.
+The atoms act as an electro-optical modulator,
+and they change the frequency of the transmitted photons.
+You have a homework assignment on that.
+So if you increase the number of atoms in your laser beam
+because they move in, this is then
+the phase of the transmitted photons is shifted.
+If the phase of the photons is shifted during a certain time,
+phase over time is frequency.
+So therefore you will see when the atoms move in
+and gain kinetic energy, the transmitted photons
+of the laser beam have lost some energy,
+they are slightly shifted to the right.
+So in other words, it's funny, but if you have a dipole trap,
+and the laser beam is focused, and atoms
+slosh through the trap, if you would carefully
+analyze the frequency of the transmitted beam,
+you will find that it's a little bit blue, little bit, little
+bit red, little bit blue, little bit red,
+and this compensates for the kinetic energy.
+Again, I don't think you'll find that in any textbook.
+It confused me for a while until I could work it out.
+But the homework assignment gives you
+an exact [INAUDIBLE] model where you can be exactly sure what
+I told you.
+
+So these are the two situations here--
+it's either spontaneous emission-- which
+is responsible for cooling.
+But here we have a conservative potential,
+and in this conservative potential
+the only player is the laser beam which is transmitted.
+And indeed it is the photons which have been transmitted.
+And usually you wouldn't put that into your picture.
+Remember, the dipole force can be
+explained by eliminating the coherent field of the laser
+field for canonical transformation.
+And then we have a C number, we have
+a classical electric field--
+this is your Hamiltonian.
+And from this Hamiltonian, you derive that you
+have a conservative potential.
+But if you now ask where the energy goes,
+the energy, really, in this situation
+goes into a frequency shift of the photons.
+Also, in your Hamiltonian, you have
+assumed that the electric field is an external classical field
+e0 times cosine omega t.
+
+Well, if you want my advice, whenever
+you use the AC stark shift for trapping,
+just use the AC stark shift and regarded it
+as a classical potential, and just completely
+forget that there are photons behind.
+Because if you want to account what really happens
+to the photons, what really happens
+to the energy in the system, it really gets subtle
+and it can get really confusing.

@@ -1,0 +1,91 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zm.txt
+#
+# Captions for 8.422x module
+#
+# This file has 82 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So I've told you about Sub-Doppler cooling,
+sub-recoil cooling, but what really
+got atomic physicists to nanokelvin temperature
+were two other techniques-- laser cooling was used
+as pre-cooling, but then the final trapping and cooling
+was done by magnetic trapping and evaporative cooling.
+So I want to give you now a quick overview
+of magnetic trapping and evaporative cooling.
+So I think any discussions of magnetic trapping
+starts with a theorem.
+A theorem which tells you that not everything is
+possible you would like to do.
+And this is the following--
+that-- if you have a region without charges and currents--
+without-- so you are in empty space.
+And what this theorem says--
+in empty space, you cannot have a local maximum
+of your electric and magnetic field.
+So if you take the strengths of the electric field
+or the strengths of the magnetic field,
+you cannot have a maximum.
+You can only have a minimum.
+Well, and this is important when it comes to magnetic traps.
+Depending on the magnetic moment--
+spin up, spin down--
+we could trap-- we could create a trapping potential
+around a maximum of the magnetic field
+or the trapping potential around a minimum
+of the magnetic field.
+You want to be sort of at a minimum of the potential,
+but if you have a minus sign, you
+may want to be at the maximum of a magnetic field.
+But Wing's theorem says that only one of them is possible.
+The proof really goes in two lines.
+You really show if you assume that there
+is a maximum that would mean that,
+if you add a field to it--
+you add a field and, no matter in which direction
+you add a field, the total field strengths become smaller.
+
+But that requires a violation of the Laplace equation.
+I don't think-- it's easier for you--
+you can probably read it at home.
+But you simply assume you have the situation.
+So you add-- and you show you have
+an incremental field, delta e.
+This field, delta e--
+you have-- you are at the maximum an electric field
+and then delta e over r is the small difference
+of the electric field.
+And you can show that this expression is only negative.
+That means you have a maximum of the electric field--
+when the electric field would not
+fulfill the Laplace equation.
+So the gist of the argument is the following.
+Each component of the electric and magnetic field
+fulfills the Laplace equation.
+And the Laplace equation--
+I don't know if-- you've probably heard about it.
+If something fulfills the Laplace equation,
+it says, at any given point, the function
+which fulfill the Laplace equation
+is equal to the average of the function--
+averaged over a small sphere around it.
+And that means if something fulfills the Laplace equation,
+you cannot have a local maximum or local minimum,
+because if the value here equals the average, that would mean,
+in one direction, the value gets higher.
+In the other direction, the value gets lower.
+So if something fulfills the Laplace equation,
+you cannot have a local maximum or local minimum.
+But now we are not asking for maximum or minimum
+in one component of the electric or magnetic field.
+We ask for a maximum or minimum in the total value--
+or the square-- of the electric field.
+But then you show--
+when you assume that you have a maximum,
+the field points along the z direction,
+that then the z component of the field cannot fulfill
+the Laplace equation.

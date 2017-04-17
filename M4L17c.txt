@@ -1,0 +1,45 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 36 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The next big chapter, namely we want
+to understand the dipole forces within the dressed atom
+picture.
+The book Atom-Photon Interactions
+has a nice summary of it, but the more detailed picture,
+and I heavily draw from this, is in truly seminal article
+by Jean Dalibard and Claude Cohen-Tannoudji.
+I've linked this article to our website.
+
+I've summarized here are pretty much what I just told you.
+This is sort of the summary from the previous section.
+What we have to know is, to understand light forces
+in the dressed atom picture, is number one,
+the energy splitting between the two.
+The splitting between the two is the generalized Rabi frequency.
+If there is anything which is not,
+well I shouldn't say 100%, but at least 90% clear to you,
+ask me a question.
+These are the results we really need
+for the following discussion.
+So number one is the dressed energy
+levels are split by the generalized Rabi frequency.
+Number two is with this angle theta, which
+came from the solution of diagonalizing the 2 by 2
+matrix, we have now the steady state populations in the upper
+and in the lower dressed state.
+And the third thing is when we are not in steady state,
+then the steady state populations
+are obtained with a time constant, which is given here.
+The time constant is, not just gamma,
+it's gamma times these trigonometry functions.
+So these are simple ingredients, but by using those ingredients
+we can get a very nice formulation
+for the stimulated force.

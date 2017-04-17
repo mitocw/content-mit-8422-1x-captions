@@ -1,0 +1,131 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zi.txt
+#
+# Captions for 8.422x module
+#
+# This file has 122 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, how can we achieve sub-Doppler cooling?
+Sub-Doppler cooling was discovered in 1988.
+And I remember, I was at the [? ICA ?] Conference in Paris
+when Bill Phillips's group said, we've carefully
+measured the temperature.
+And in sodium, we measured a temperature
+which is lower than the Doppler limit, which
+was rigorously derived.
+I derived for you with the Doppler limit of molasses.
+So what went wrong here?
+Well, it became clear the only loophole--
+if you have a theory that predicts something
+and then you find a violation, you carefully
+have to check the assumption.
+And the assumption which was made
+and which we have made in this course
+is that we were a two-level system.
+Now, atoms have hyperfine structure.
+And for pedagogical reasons-- because I want to explain you
+one sub-Doppler cooling scheme--
+I assume this hyperfine structure with F equals 1/2,
+F equals 3/2.
+But let me first tell you what is the novel
+feature about a multilevel atom which is hyperfine structure.
+Now, the one thing which happens is
+that instead of just going between our single ground
+state and our single excited state,
+we now have transitions--
+you may want to call them Raman transitions
+or optical pumping--
+between the hyperfine levels.
+So there are now transitions not only up to an excited
+state, which rapidly decays.
+There are now transitions--
+Raman transitions-- between ground states,
+which have a very low widths.
+The width of the excited state is gamma.
+Well, what is the width of the ground state?
+Well, if you don't have a laser beam, the width is 0.
+But if you have laser beams, the atom
+doesn't stay there forever.
+There will be a time, which is estimated here--
+depending on the Rabi frequency and the detuning,
+this is the time.
+This is simply nothing else than the scattering
+rate, which we derived before.
+So that's the rate at which you scatter photons.
+And then, depending what the branching ratio is,
+this is also the time in which you may optically
+pump to another ground state.
+So therefore, what we have to take into account now
+is that we have narrower widths in our system.
+And those widths correspond to another two-level system,
+which is driven by two photons and which
+connects the two ground states.
+I will not give you any derivation, how this exactly
+leads to lower temperature.
+But I want to give you two pictures, which I have already
+introduced to you.
+One is-- remember when we discussed Doppler cooling,
+the finer temperature was proportional to gamma,
+the width of the transition.
+So now, I'll wave my hands and say,
+if you have transitions between ground states, which
+have a much, much smaller width, which is
+the rate of optical pumping--
+and for low laser power, these widths
+can become very, very narrow--
+that you have at least one ingredient which
+can lead to lower temperature.
+OK, in all truth, in advertising for the Sisyphus
+for the polarization gradient cooling scheme,
+the final temperature is not given by gamma prime,
+the rate of optical pumping.
+It is a proportionality factor.
+But there is another factor.
+If you want to learn about it, you
+have to read some of the classic papers.
+But there is another picture, which
+I can also use to tell you--
+and it's actually related--
+why optical pumping at least gives the possibility
+for lower temperature.
+I explained to you, with the stimulated force
+in [INAUDIBLE] molasses, that the only reason
+why we have cooling is that the atom has a lag time.
+It cannot instantaneously adjust itself to the light field.
+It lags behind.
+And you can say, in Doppler cooling,
+the lag time is the spontaneous emission time.
+And the inverse of it is gamma.
+Here, in this case, the lag time can be the very long time
+to optically pump.
+So therefore, if the atom is in one hyperfine state and now
+moves into an area where the polarization of the laser beams
+is different, it may take a long time to adjust.
+And it is this lag time to which the friction coefficient
+was proportional.
+So this is a new feature, long delay times,
+narrow widths in resonances between ground-state levels.
+
+OK, a little bit show and tell now--
+
+nobody thought about polarization gradient cooling.
+Nobody thought about Doppler cooling.
+But it was discovered when people simply
+did Doppler molasses.
+And it's one of those big violations of Murphy's law
+where cooling worked much better than everybody had thought.
+And the result is the following.
+That, when I drew for you the blue curve, which
+is force versus velocity--
+it's pretty much the subtraction of two [INAUDIBLE]--
+what happened is, for sodium atoms or for any alkali atom,
+is the red curve.
+For large velocity, you have the Doppler cooling mechanism.
+But for smaller velocities, you have, sort of,
+a steepening of the slope.
+And steeper the slope, the larger
+is your friction coefficient alpha.

@@ -1,0 +1,120 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 111 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+You've done the hard work.
+Now we want to have some fun discussing the physics.
+I want to discuss three points.
+One is I want to give you all the different pictures to find
+the potential of a dipole trap, because we've
+encountered several.
+The second thing is I wanted to have a discussion with you
+if they stimulated force due to electric or magnetic forces.
+And eventually and so, if we are running out of time,
+I have to do that on Wednesday to discuss the question
+of energy conservation.
+If you cool the atoms, where does the energy go?
+If we use this stimulated force it
+gives rise to dipole potential.
+And using the optical Bloch equations or the dressed atom
+picture, we found this expression
+for the dipole potential.
+And there are at least four ways how we could have derived it.
+One is the optical Bloch equations.
+We did that.
+The dressed atom picture.
+We did that today.
+
+Another picture is very straightforward and simple.
+It just says that the potential is the electric potential
+of a dipole.
+And then all you have to know is from the AC polarized ability,
+if you drive an atom with a laser field below resonance,
+I mean that's just a harmonic oscillator,
+below resonance, the harmonic oscillator
+is in phase with the force.
+Above resonance, if you drive a harmonic oscillator fast,
+the response of the harmonic oscillator is in opposite.
+It's out of phase.
+So therefore, if your potential is minus dE, you are in phase.
+It is a negative attractive potential.
+If the harmonic oscillator is driven above resonance,
+there is another minus sign, you get
+plus dE, which becomes the positive potential.
+So you can say, just the physics of a harmonic oscillator.
+There's one thing I like which is sometimes not taught
+into an atomic physics course, because it
+is a force on a macroscopic dielectric object.
+
+So let's assume we have an atom, we don't have an atom.
+We have something which is bigger.
+Let's assume a tiny [INAUDIBLE] sphere,
+or you can assume a small sphere of glass.
+What happens if I shine a laser beam
+on the small sphere of glass?
+Well, let me assume that the laser beam is--
+well, if the laser beam hits the sphere right on,
+it's symmetric.
+There is no force.
+So what you want to do is we want
+to have a laser beam, shown here by this arrow which
+has a maximum here, so the profile is like this.
+And you want to discuss whether the sphere is
+sucked into the laser beam.
+And this would be an attractive force.
+Or whether this sphere is repelled.
+And all we want to use is optics,
+the optics of refraction.
+When we have a laser beam which is a weak, medium, strong,
+strong here, and for red detuning,
+we have an index of refraction which is larger than one.
+So this sphere acts like a lens.
+So that means those photons are bent in,
+and those photons are bent in.
+And when a photon is bent in, the momentum of the photon
+has changed.
+And the momentum, of course the opposite momentum transfer
+is imparted to the sphere.
+So in this case, we have more photons
+in this part of the laser beam, which are bent up than photons
+are bent down.
+And this means the net force is that this sphere is
+sucked into the laser beam.
+And if you go for blue detuned light,
+where the index of refraction is smaller than one,
+it is the opposite.
+So the picture which we have discussed here
+was for atoms for microscopic objects,
+but you have actually similar physics over stimulated
+force for mesoscopic and macroscopic objects.
+And then what matters, whether you trap or anti-trap,
+is whether the index of refraction is larger than 1
+or smaller than 1.
+And you know, two level systems for blue detuned light
+have an index of refraction which is smaller than 1.
+And for red detuned light, our atomic clouds
+have an index of refraction which is larger than 1.
+But this picture, that you can use the same set up,
+the same focused beam and a similar dipole force
+to trap larger objects is actually
+exploited in a different field of physics,
+in biology, in the form of optical tweezers.
+When actually, in the early 80s, when Steve Chu
+came to Bell labs and had discussions with Art Ashkin,
+they actually discussed optical trapping
+both of atoms, and both of biological objects,
+little micro-spheres or cells.
+And it's sort of remarkable that both approaches were
+realized within the same year.
+So atoms were trapped in '86, and macroscopic objects
+were manipulated, I think it's exactly the same year.
+And as you know, the optical tweezer
+is now an important technology in biology, in biophysics.
+For instance, you can focus a laser beam

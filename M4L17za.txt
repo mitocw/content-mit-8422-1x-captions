@@ -1,0 +1,20 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17za.txt
+#
+# Captions for 8.422x module
+#
+# This file has 11 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We've discussed dipole traps, different ways how
+we can understand why there is a dipole potential
+from the harmonic oscillator, to the [INAUDIBLE] atom,
+to the refraction of light by small spheres.
+So in all cases, we realize that red-detuned light traps.
+Today I want to discuss what is at work here,
+electrical magnetic forces.
+And then I want to address what several of you
+have ask, where is energy conservation.

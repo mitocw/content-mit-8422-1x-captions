@@ -1,0 +1,135 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zf.txt
+#
+# Captions for 8.422x module
+#
+# This file has 126 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We have two fundamental forces--
+the electric force.
+And if you have two charges separated
+and they field two different electric field--
+we derive from The Coulomb force, the dipole force,
+and the force on the electric dipole is--
+the potential is d dot E, the gradient of it
+is d times gradient E. With correct factorial notation.
+Whereas the Lorentz force is V cos B.
+So these are the two forces we have to consider.
+Let me show two configurations where we use dipole forces--
+the stimulated light force.
+One is here, where we focus a laser beam.
+And let's just assume, for the sake of the discussion,
+that the laser beam--
+it's propagating here and the linear polarization
+goes up and down.
+So now we have a dipole movement of the atom which
+oscillates up and down, which is parallel to the electric field.
+So now we have d dot E, and indeed, if you take the atom
+and move it into the laser beam, it
+will experience an attractive force.
+And this attractive force is purely electric.
+
+But let's now come to the situation which many of you
+work on in the laboratory.
+That we have two-plane waves, so the laser beams
+are infinitely extended.
+We have two-plane waves, and they form an optical lattice.
+Now the dipole-- the oscillating dipole,
+the electric dipole-- is again driven
+by linearly polarized light.
+It points up.
+But the gradient of the electric field
+is in the direction of the interference of the lattice.
+So the gradient of the electric field
+is perpendicular to the dipole movement.
+So therefore, d dot E is exactly 0.
+And therefore the electric part of the potential,
+the Coulomb force--
+which is microscopically behind it--
+will not contribute anything.
+So I could stop here and say, well, OK.
+Since we have only the Coulomb force and the Lorentz force.
+I've proven to you it's not the Coulomb force,
+so therefore it's the Lorentz force.
+But let me just tell you why.
+So what I'm really telling you is,
+it is actually remarkable that if we go along the z direction,
+and we take the z derivative of the AC Stark shift potential,
+and the AC Stark shift potential is 1/2.
+Alpha is now the polarizability--
+we use alpha in many places--
+times E square.
+So this is the AC Stark shift potential,
+and the spatial derivative of the AC Stark shift potential
+is a force, but it's the Lorentz force.
+Actually, I was amazed.
+I had to work it out myself, because I hadn't
+seen it is discussed anywhere.
+But you can simply take the electric field of a standing
+wave, perform this derivative, and what you find
+is you get the Lorentz force.
+If you wonder how you get it, without going
+for all the vectorial notation, the Lorentz force
+is V cos B. The velocity of the charge
+is related to the derivative of the dipole movement.
+The dipole movement is charge times position,
+and the derivative of the dipole moment
+is charge times velocity.
+So don't let yourself fool yourself when
+you have an oscillating field.
+There are charges which move--
+there are currents inside the atom.
+So our V cos B, the V is pretty much the dot,
+the d dot is polarizability times E dot,
+and this is alpha polarizability,
+frequency times electric field.
+But as Cody said, we can go from p dot A to d dot E,
+or to be precise, the magnetic field
+is the curl of the vector potential.
+And the curl gives us the wave factor k--
+I'm suppressing factorial notation here--
+and you know that E--
+the electric field-- is the temporal derivative of a.
+So therefore we get that.
+So if you now multiply d dot with the curl of A
+you get something which is k alpha E square.
+k is for standing wave, the spatial derivative.
+So I've shown you-- at least you can see by dimensional
+analysis, or by just pointing to the different terms--
+that if you take the AC Stark shift
+potential to the derivative, you get everything which
+you have in the Lorentz Force.
+
+It would be a 10 minute easy homework assignment--
+but we are running out of homework assignments.
+We're at the end of the semester--
+to show that explicitly.
+So it is really the Lorentz force
+which provides the trapping potential
+in an optical lattice.
+
+Questions?
+Boris.
+So in the simple picture of the lattice,
+you're saying that the transverse confinement is
+provided by the electric force?
+But what about [INAUDIBLE] direction?
+Say I've got an electric field like this
+at the other direction?
+OK, I can discuss with you two simple geometries.
+In one case, in one direction, it's
+the pure Coulomb force at work, in the other direction
+it's the pure Lorentz force.
+But in general, when you go through an AC Stark shift
+potential, you have both.
+So you may wonder that the Coulomb
+force, when you integrate it, would not be integrable.
+It does not give rise to potential.
+Also the Lorentz force does not give rise to potential.
+But if you add the Coulomb force and the Lorentz force,
+you can integrate it up to the optical dipole potential.
+I find it remarkable, but it is what it is.
