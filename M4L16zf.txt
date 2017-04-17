@@ -1,0 +1,148 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zf.txt
+#
+# Captions for 8.422x module
+#
+# This file has 139 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, we have done molasses in one dimension.
+We have done beam slowing.
+We just did a short discussion about molasses
+in [INAUDIBLE] dimensions.
+The one technique which is missing now
+is the magneto-optic trap.
+Let me just spend five minutes to discuss the background
+behind the magneto-optic trap, because for many of you,
+I think you were just born when the magneto-optic trap was
+invented.
+Well, I joined the field in 1990.
+I joined the field in 1990, and that was three years
+after the magneto-optic trap has been invented.
+And one could actually say, many people say, it was,
+if that is one more singular development in laser
+cooling and such, it's molasses and the magneto-optical trap.
+So let me tell you why the magneto-optical trap, you
+shouldn't take it for granted.
+It was actually in 1983 that Ashkin--
+was it Gordon or Ashkin?
+I think Ashkin, Art Ashkin-- that he presented
+an optical Earnshaw theorem, And it is nicely
+described in Bill Phillips' Varenna notes, which
+I have posted on the website.
+And it's pretty much proof that you cannot build a trap using
+the spontaneous light force.
+So in other words, this is a proof
+which people took as a correct proof
+that something like the magneto-optic trap
+will not exist.
+So what is this proof like?
+Well, and that teaches you what was the mental concept,
+or the mental barrier, people had
+to break through before they invented
+the magneto-optic trap.
+The proof is the following.
+If you think that you have beams.
+I mean, a model for the spontaneous life force
+is you have photons, and the photons
+are sent blasting the atom.
+Each photon is like a grain of sand,
+and the atom is then scattering the sand in all directions.
+You can really make this completely classical picture
+of the spontaneous light force.
+
+Almost.
+
+If you do that, you would say the spontaneous light force
+is proportional to the stream of photons, which is described
+by the Poynting vector.
+But now, you have in electromagnetism, a continuity
+equation, which says the divergence of the Poynting
+vector plus the change of energy density in a certain volume
+has to be zero.
+So if you are in a steady state, if you
+have an arrangement of laser beams
+and the intensity or the energy density
+of the electromagnetic field is at steady state, that tells you
+that the divergence of the Poynting vector has to be zero.
+Well, if the divergence of the Poynting vector
+is zero, using this equation, that
+says the divergence of the spontaneous light force
+has to be zero.
+But if the divergence of the force has to be zero,
+that means you cannot have a force which is inward from all
+directions, because such a force,
+a trap needs a force which is inward.
+A trap requires a negative divergence.
+
+Do you see the wrong assumption in this proof?
+Or did I convince you that the magneto-optic trap is not
+possible, because this proof would say you cannot make
+a trip out of the spontaneous light force.
+
+Well, you threw out the change in energy density, so that's--
+But that's OK, because light, if you switch on a laser beam,
+light travels at the speed of light.
+And 10 to the minus 10 seconds, in picoseconds,
+you reach steady state.
+And you know when you operate the MOT,
+you're not switching on and off your lasers at picoseconds.
+It's not that.
+Yes?
+Do you use the spatial variation of c?
+Yes, exactly.
+
+The force is not just proportional to the Poynting
+vector.
+This would be true if I had grains of sand,
+but photons have to fill a resonance condition.
+You can assume, maybe assume, I'm an atom,
+but I have a spatially varying magnetic field around me.
+At one magnetic field, I feel the force of the laser beam
+because I am resonant.
+At another magnetic field, the laser beam just goes through me
+because I'm not in resonance.
+So therefore the proportionality between the Poynting vector
+of the laser beam and the light force
+ignores that the light force is resonant,
+that the light force depends on polarization and such.
+So the solution is the divergence of--
+if the c parameter is spatially dependent,
+then we can have a divergence, and then we can do trapping.
+And it was actually Dave Pritchard, in '85 or in '86,
+who wrote a really influential paper.
+He said the optical Earnshaw theorem can be circumvented.
+We can have a spatially dependent factor.
+And what can be spatially dependent is saturation.
+If you focus a laser beam, you have a spatially varying
+saturation parameter.
+There can be some optical pumping.
+That can be light.
+So he discussed several possibilities
+how the optical Earnshaw theorem was circumvented.
+At this point in 1986, he didn't realize
+that it can be done with a magnetic field gradient.
+When he talked about possible ways of circumventing
+the optical Earnshaw theorem, [INAUDIBLE], who many of you
+know, who is a famous researcher in our field,
+had the idea that applying a magnetic field gradient
+could work.
+But nobody thought at this time that it
+would work in three dimensions.
+So the fact that it works in three dimension
+is almost a miracle.
+So when the idea was born, all those schemes, and also
+the original idea of applying a magnetic field gradient,
+were conceived as one-dimensional scheme.
+Most of the schemes cannot be easily generalized to three
+dimension, but the MOT scheme works as well in three
+dimension as it works in one dimension.
+Anyway, so this is sort of the background.
+And since I was a post-doc when there were only two
+or three groups who were operating a magneto-optic trap.
+I put together with my own hands the first magneto-optic trap
+which was ever used at MIT.
+I mean, it's ancient history.

@@ -1,0 +1,280 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 271 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+And now we are ready to put everything together.
+So we want to know the force.
+The force using Heisenberg's equation
+of motion for the momentum derivative
+is the expectation value of the operator,
+which is the gradient of the Hamiltonian.
+OK, so now we have to take the gradient of the Hamiltonian.
+
+This is the only expression actually today.
+I would have liked to just write it down and build it
+up piece by piece.
+But let me step you through.
+We want to take the gradient.
+
+The dipole operator of the atom does not have an R dependence.
+It's just it's on the atom, wherever it is.
+But the gradient with respect to the center of mass position
+from the atoms, comes from the operator
+of the electromagnetic field.
+So in other words, what this involves
+is the gradient of the operator of the fully quantized
+electromagnetic field.
+But we have already written that the electromagnetic field
+is an external electromagnetic field.
+Classical electromagnetic field plus a vacuum fluctuations.
+But the vacuum fluctuations are symmetric.
+There is nothing which tells vacuum fluctuations
+what is left and what is right.
+So therefore, the derivative only
+acts on the classical electromagnetic field.
+So this is how we have now, you know,
+we first threw out the coherent state.
+And now we throw out the vacuum state.
+And therefore, it is only the classical part
+of the electromagnetic field which
+is responsible for the forces.
+
+Now we make one more assumption which greatly simplifies that.
+R is the center of mass position of the atom.
+And we have to take the electromagnetic field
+as the center of mass position.
+And if the atom is localized, wave
+packet with a longer [INAUDIBLE] wave.
+We sort of have to involve the atomic wave function
+when we evaluate this operator of the electromagnetic field.
+However, if the atom is very well localized,
+you would actually want the atom to be localized to
+within an optical wavelength.
+Then under those circumstances, you
+can replace the parameter R, which
+is the position of the atom, by the center of the atomic wave
+packet.
+So therefore, the kind of wave nature of the atoms which
+means the atom is smeared out.
+As long as this wave packet is small
+compared to the wavelengths, you can just
+evaluate the electromagnetic field
+at the center of the wave packet.
+This assumption requires, since the scale
+of the electromagnetic field is set by the wavelengths.
+This requires that the atom is better,
+it's localized better than an optical wavelengths.
+And that would mean that the energy
+of the atom or the temperature has to be larger
+than the recall limit.
+And if your localized then to within a wavelength,
+your momentum spread is larger than Heisenberg's uncertainty
+relation [? in h bar ?] k.
+And that means your energy is larger than or equal energy.
+So if you want to talk-- if you want to go to the low--
+if you want to have a description of light forces
+at that limit, you may have to revise this point.
+But for most of laser cooling, when you start with a hot cloud
+and cool it down to microkelvin temperatures,
+this is very [INAUDIBLE].
+Collin?
+The electric field doesn't contribute in the sense
+of the expectation value?
+The zero?
+But wouldn't the rms value be non-zero?
+So what's the--
+Exactly.
+I mean in the end, you will see that in a moment.
+When we talk about cooling limits,
+fluctuations spontaneous emission provides heating.
+It doesn't contribute if you want to find the expectation
+value for the force.
+The vacuum and the fluctuations--
+I mean that's also logical.
+The vacuum has only fluctuations,
+it has no net force.
+But the fluctuations heat, and for heating it
+will be very important.
+
+But we come to that a little bit later.
+So what if the light is squeezed, if you [INAUDIBLE]?
+
+If the light is squeezed, yes.
+That's a whole different thing.
+We really assumed here that the light is in a coherent state.
+Now--
+The approximation that we had, that
+will remain an approximate state, right?
+[INAUDIBLE]
+
+Well, you know, if you--
+this can crease a vacuum.
+And then it's creased.
+But there's often photons you can't really
+laser cool with it.
+So the only way you could possibly laser cool
+is if you take this creased vacuum and displace it.
+So now you have instead of a little circle
+which is coherent state, you have
+an ellipse which is displaced.
+I haven't done the math.
+Maybe that would be an excellent homework
+assignment for the next time I teach the course.
+You could probably show that the displacement operator, which
+is now displacing this creased vacuum,
+again can be transformed into a c number.
+And the ellipse, this creased vacuum fluctuation--
+an ellipse has an even symmetry, has 180 degree rotation
+symmetry.
+And I could imagine that it would not contribute.
+Again, it would not contribute with a force.
+So in other words, if you have a displaced creased vacuum,
+my gut feeling is nothing will change here.
+But what will change are the fluctuations
+which would possibly change the heating.
+
+OK, so within those approximations,
+Heisenberg's equation of motion for the force
+becomes an equation for the acceleration
+for the atomic wave packet.
+And it involves, now, two terms.
+One is the atomic dipole moment as
+obtained from the Optical Bloch Equations.
+And the other one is nothing else
+than the gradient of the classical part
+of the electromagnetic field.
+And with that, we are pretty much at the equations which
+you looked at in your homework assignment, which
+was a classical model for the light force.
+Because this part is completely classical.
+And the only quantum aspect which we still have
+is that we evaluate the dipole moment not necessarily as just
+a driven harmonic oscillator.
+When we take the optical block equations,
+we will also find saturation.
+A two level system can be saturated.
+Whereas an harmonic oscillator can never be saturated.
+Let me just repeat.
+So this is completely classical except for the expectation
+value for the dipole moment.
+But for low excitation, of course,
+and we've discussed it many, many times.
+A two level system is nothing else
+for weak excitation than a weakly excited harmonic
+oscillator.
+Leader So then we are completely classical.
+But we want to discuss also saturation and then [INAUDIBLE]
+the optical Bloch equations, of course, come in really handy.
+
+Next approximation.
+We want to now approximate the dipole moment, the expectation
+value of the dipole moment with the steady state solution.
+
+The steady state solution, an analytic expression,
+we just plug it in and we can have wonderful discussion
+about light forces.
+The question is are we allowed to do that?
+Now I hope you will remember that's actually one reason why
+I did that when we discussed the master equation
+and we discussed an atom in a cavity.
+I introduced to you the adiabatic elimination
+of variables.
+We adiabatically eliminated all diagonal matrix elements.
+Whenever you have something which
+we'll access sufficiently fast and you are not
+interested in this short time scale,
+you can always say I will replace this quantity
+by its steady state value.
+Steady state with regard to this slowly changing parameter.
+And we'll want to do exactly the same here.
+So let me just translate.
+It's the same idea, exactly the same idea.
+But let me translate.
+If an atom moves, we have two aspects, two timescales.
+One is the motion of the atom.
+The atom may change its velocity.
+The atom may move from an area of strong electric field
+to an area of weak electric field.
+But this is really all that is related to the motion,
+to the change of momentum of a heavy object.
+But now inside the atoms, you have,
+you play with the block vector, excited state.
+You put-- if the electric field is higher,
+you have a larger population in the excited
+state than in the ground state.
+But this usually adjusts on the--
+this adjusts with a damping time of gamma
+with the spontaneous emission rate.
+That's usually very fast.
+So you can make the assumption, when an atom moves
+with changing electric field, at every point
+in the electric field, it very, very quickly, the dipole moment
+assumes the steady state solution
+for the local electric field.
+And this would now be called an adiabatic elimination
+of the dynamics of the atom.
+And we simply replace the expectation value
+for the dipole moment by the steady state solution
+of the Optical Bloch Equations.
+
+Well, this is of course an approximation.
+And I want to take this approximation
+and show you that, you know, how what simpler conclusions
+we can draw from that.
+But I also want you to know, I mean
+this is what I focus off in this course,
+to sort of think about them and get a feel where
+those approximations breakdown.
+So this approximation requires that the internal motion,
+you know, two level physics, that the internal density
+matrix, it has a relaxation rate of gamma.
+Whereas the external motion, we will actually
+see that very soon when we talk about molasses and damping,
+has a characteristic damping time.
+Has a damping-- has a damping time, which
+is one over the recall energy.
+The recall energy involves the mass.
+The heavier the object, this is the weight.
+So the damping time, it has all the write scaling.
+And you will actually see later today
+that we can actually obtain this as a time scale
+over which atomic motion is changing.
+
+So is that approximation, this hierarchy of time scales,
+is it usually fulfilled?
+It is fulfilled in almost all the atoms you are working on.
+For instance, in sodium, the ratio of those two time scales
+is 400.
+But if you push it, you will find examples like helium
+in the triplet statement, a stable helium
+in the triple state, where the two time scales are comparable.
+Helium is very light.
+So therefore, it takes--
+its light, therefore it's faster for a light atom
+to change its motion by exchanging momentum
+with electromagnetic field.
+And at the same time, the transition in helium
+is narrower and therefore slower.
+So for metastable helium, the two time scales are comparable.
+So if you really want to do quantitative experiments
+with metastable helium, you may have to do--
+you may need a more complicated theory.
+But of course, if something is sort of simple in one case,
+the richest situation provides another opportunity
+for research.
+And I know for instance, [? Helmuth Caff, ?]
+a good colleague and friend of mine, he focused for a while
+on studying laser cooling of metastable helium.
+Because he was interested what happened
+if those simple approximations don't work anymore.
+Then the internal motion and the external motion
+becomes sort of more entangled.
+You have to treat them together.
+You cannot separate them by a high degree of time scales.

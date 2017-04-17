@@ -1,0 +1,37 @@
+#
+# File:   content-mit-8422-1x-captions/M4-intro.txt
+#
+# Captions for 8.422x module
+#
+# This file has 28 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Welcome to module 4 of the course in Atomic and Optical
+Physics.
+In module 4, we take the topic to the next level.
+We are considering a new property of light, namely
+mechanical properties.
+Light cannot only transfer energy, and excite atoms,
+and transfer population between internal states.
+Light can also change the momentum of atoms,
+and these are called optical forces, or light forces.
+In this module, we provide the first principal presentation
+of those forces, and then we discuss it
+in the context of laser cooling.
+We discuss optical molasses, we discuss a magneto-optic trap.
+So we are providing an introduction
+into all the tools which have revolutionized
+atomic physics in the '80s.
+We will also emphasize the dressed-atom picture,
+which provides a very powerful and intuitive way
+to describe light forces.
+Finally, we go beyond light forces
+by discussing magnetic fields, which
+can exert forces on atoms, and these are magnetic traps.
+Magnetic traps, together with evaporative cooling,
+enabled Bose-Einstein condensation,
+another major revolution in atomic physics
+which occurred in the '90s.

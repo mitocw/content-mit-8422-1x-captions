@@ -1,0 +1,96 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 87 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, we are going to have a quick look at those two forces.
+So therefore I'm now discussing the two simpler but already
+very characteristic cases for those forces.
+One is we want to look at a plane traveling wave.
+And then we want to look a pure standing we've.
+And the beauty of it is in the plane traveling wave,
+you have a plane wave.
+The amplitude of the electric field is constant everywhere.
+It just oscillates.
+And therefore, this alpha vector is 0.
+And in a few minutes, we look at the standing wave.
+And in the standing wave, the beta vector is 0.
+So the traveling wave and the standing wave
+allows us now to look at the two forces
+separately, in two physical situations which
+are as you will see later, highly
+relevant for experiments.
+Well, I don't think I have to tell anybody
+in this room, maybe except some people who
+take the course for breadth requirement,
+that standing waves are optical lattices are common in all x.
+And similar, traveling wave beams
+are used for instance for decelerating atomic beams.
+So we illustrate the two forces now.
+But we are really discussing two experimentally very important
+geometries.
+OK, plane traveling wave.
+I mean, I'm just really, plug now--
+the electromagnetic field for plane traveling wave,
+I plug it into the equations above.
+The important thing is, and which simplifies things a lot,
+is that the alpha vector is 0, the amplitude of the plane wave
+is, that's where the plane wave is constant.
+And the beta vector is the gradient
+of the frequency is just the k vector of the light.
+So therefore, the dissipative or spontaneous light force
+was the [INAUDIBLE] frequency times the v component
+of the optical block vector times h bar k.
+And this has a very simple interpretation
+because the steady state solution of the optical block
+equation is nothing else than gamma times the excited state
+population.
+And since the excited state scatters or emits
+photons at the rate gamma, this is nothing else
+than the number of--
+well, absorbed emitted scattered photons times h bar k.
+We are in steady state here, so the number
+of photons, which are emitted into all space into the vacuum
+has to be the number of photons, which has been
+absorbed from the laser beam.
+So therefore, the interpretation here is very simple.
+You have a laser beam.
+Every time the atom absorbs have photon, it receives
+a recoil transfer h bar k.
+Now afterwards, the photon is scattered.
+But this scattering is symmetric and does not
+impart the force onto the atom.
+And this is what we discussed earlier.
+The quantum part of the electromagnetic field
+is symmetric.
+And here you see sort of what it means visually.
+Spontaneous emission goes equally
+probable in opposite direction and there is no net force.
+But there is heating as we discuss later.
+So we can plug-in the solution, the steady state
+solution from the optical block equation.
+That's our lorentzian.
+We have discussed power broadening already
+when we discussed the Optical Bloch Equation.
+And of course, I just remind you,
+that if you separate the system with a strong laser power, what
+you can obtain is that half of the population
+is in the excited state and half of the population
+is in the ground state.
+Under no circumstances do you get the maximum force.
+And the maximum spontaneous force
+is the momentum per photon times the maximum rate
+at which a 2-level atom can scatter photons.
+
+So that's in a nutshell.
+I think all you have to know about the spontaneous light
+force as far as the force is concerned.
+But we still have to discuss the heating associated
+with this spontaneous force, which are the force
+fluctuations Questions?

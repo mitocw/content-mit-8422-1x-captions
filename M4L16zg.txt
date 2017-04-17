@@ -1,0 +1,90 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zg.txt
+#
+# Captions for 8.422x module
+#
+# This file has 81 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me now simply describe to you how
+the magneto-optic trap works.
+
+Let me describe it for an atom which actually doesn't, which
+an atom which we are not using in the lab.
+We usually use atoms with a hyperfine structure,
+but let me just, for pedagogical simplicity,
+assume that we have an atom which has an s to p transition.
+And in the p transition, we have the three different magnetic
+quantum numbers.
+So it's a simplified model.
+And what we are doing right now is we are applying molasses.
+Two beams which act as molasses.
+But there is one difference now.
+They have different polarization.
+Sigma plus and sigma minus.
+And in addition, we apply a linear magnetic field gradient.
+So what happens now is the following.
+The linear magnetic field gradient
+does Zeeman shifts in the opposite direction
+to the m plus 1 and m minus 1 level.
+Now the transition to m minus 1 is done by sigma plus light.
+The transition to m plus 1 is done by sigma minus light.
+So what happens now is if you have an atom,
+and it moves away from the origin,
+it will eventually come closer and closer in resonance
+with the sigma plus light.
+But the sigma plus light comes from the left side,
+so the atom will be pushed back.
+If the atom moves out here, it moves further and further away
+in resonance from the sigma plus light,
+but it moves now in resonance with the sigma minus light,
+and the sigma minus light is pushing the atoms back.
+So this geometry has an inward force from both directions,
+and therefore works as a trap.
+So let me now describe it mathematically,
+which is very, very simple.
+What we have to do is we just have like in molasses,
+have two laser beams.
+Two times the expression for the spontaneous light
+force, and you'll remember we got the molasses equation
+by taking the two laser beams, and putting
+in the Doppler shift, which is a velocity-dependent shift.
+Well, all we have to do is for those two laser beams,
+we have to put now a spatially-dependent Zeeman
+shift, which varies linearly with position.
+So therefore all we have to do is we sum up the total force
+as a spontaneous force for the right
+and for the left laser beam.
+And in addition to the molasses effect,
+we put now in the spatial dependence.
+So we don't have to do the math again.
+We did already a Taylor expansion in v,
+but let's now just do a Taylor expansion
+in the [? blue ?] expression.
+And then we find that there is a linearly restoring force,
+both in velocity space and in configuration space.
+
+Which actually tells you something interesting.
+The more friction you have, the larger is the restoring force.
+So the trapping and the cooling are really connected,
+at least in this simple model of the spontaneous light force.
+So if you have this kind of force,
+a linear force in velocity, a linear force in position,
+this is the equation of motion of a damped harmonic
+oscillator.
+We have a spatial force constant, k, linear force,
+which is linear in displacement.
+So this is a damped harmonic oscillator.
+Usually, you don't see atoms sloshing
+in your magneto-optic trap like in an harmonic
+oscillator, because if you look through the [? typical ?]
+numbers, and by just doing the Taylor
+expansion of the spontaneous light force,
+you can immediately get analytic expressions for those numbers.
+In almost all cases, the harmonic oscillator
+is overdamped.
+
+So that's how the magneto-optic trap works.

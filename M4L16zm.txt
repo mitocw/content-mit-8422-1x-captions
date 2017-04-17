@@ -1,0 +1,47 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zm.txt
+#
+# Captions for 8.422x module
+#
+# This file has 38 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The solution is that the coupling is now
+increasing the splitting.
+The splitting between the two levels
+is, again, the generalized [INAUDIBLE] frequency, which
+you've seen many, many times.
+But now we want to really get the wave function.
+We want to get something out of the dressed atom picture.
+And that's the following.
+We started out with the bear states--
+ground state with n plus 1, excited state with n photons.
+And the 2 by 2 matrix, after the diagonalization,
+is now a linear combination of those.
+And it's convenient to use sine theta cosine
+theta because then the states are automatically normalized.
+If I introduce, the solution is now
+that the angle theta is given by this equation.
+That's just the solution for the 2 by 2 matrix.
+And the physical picture which we have obtained
+is the following if this here is the energy of the excited
+state within photons.
+I've just sort of drawn this as a reference parallel,
+but now I want to draw it as a function of the laser
+frequency.
+Well, the ground state with n plus photons
+has exactly the same energy on resonance,
+but if the photon is more energetic, then this state,
+because it has n plus 1 photons versus n photons,
+if the photon is more energetic than a resonant photon,
+this state has higher energy, and here it has lower energy.
+In other words, we have, now, a level crossing between the two
+bare states, but a level crossing with interaction
+turns into an avoided crossing, and the solution
+which we have just derived are the glue curves.
+And if I go far away from resonance,
+this behavior here, which is perturbative,
+is nothing else than the AC stark shift.

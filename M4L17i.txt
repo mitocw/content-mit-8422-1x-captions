@@ -1,0 +1,170 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 161 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now we have the friction coefficient.
+Let's take it further.
+I want to give you-- in this perturbative limit,
+I want to give you the momentum diffusion coefficient.
+Then we will find in the perturbative limit,
+what is the lowest temperature to which we can cool?
+So pretty much I do everything as we have done before,
+but I use the simple perturbative limit.
+Again, in order to calculate the diffusion coefficient,
+the momentum diffusion coefficient in the heating,
+we need the fluctuations of the force.
+Just remember, we're in the perturbative limit.
+The atom is mainly in the ground state, which
+is the upper dressed level.
+It has only a little excited state at mixture,
+so it will mainly stay in this state.
+But then with this excited state,
+it makes this power of the Rabi frequency.
+It makes a transition to the other dressed state.
+But the other dressed state is almost 100% excited state.
+It will leave the other dressed state almost immediately.
+This could be akin to Monte Carlo wave function result,
+that the atom experiences the force
+in the upper dressed level, then it goes to the lower dressed
+level, which is mainly the excited state, just for a time
+1 over gamma, and then it returns.
+The picture now is that the atom, for almost all the time,
+experiences the steady state force, which
+is the blue dashed line.
+Then only when it goes to the other dressed state,
+there are small spikes where the force has changed sign.
+If we now calculate the fluctuations of the force,
+the integral of F squared.
+
+Once we calculate the square, the small deviation
+from the average force does not contribute.
+What contributes are the spikes.
+All I do is, I take the force square in one of the spikes.
+
+And the force is nothing else in the derivate.
+Remember, we have a standing wave of u0.
+The derivative of the standing wave is the force.
+But if you have a sinusoidal lattice,
+the force is k times the amplitude of the lattice.
+I square it.
+So this is the spike squared, then I
+have to multiply with a time 1 over gamma,
+over which the force stays the same.
+You can see the correlation time of the force.
+But then I have to multiply-- also when I do an average over
+many trajectories, I have to average over the probability
+that--
+I have to multiply with the probability
+that the atom is in the dressed state one
+and not in a stage two.
+It may take you a few minutes just
+to think about the combinatorics.
+But in the end all I do is I take the force square
+and multiply with the correlation time
+when the atom is in stage two, and get the probability
+that the atom is in stage two.
+And when the atom is in stage one, in my ensemble,
+it doesn't contribute at all, because in stage one
+you're so close to the average force
+that it doesn't contribute with the fluctuation.
+Anyway, it's simple but subtle.
+It's a one-liner.
+And now based on this perturbative picture,
+we have perturbatively exact, an expression for the heating
+rate.
+But now it's interesting.
+The rate, gamma 1,2, the rate to switch between dressed energy
+levels, all of this also appears in the expression
+for the friction coefficient.
+Therefore, if you are now asking,
+what is the ultimate temperature to which we can cool the atom?
+It is the ratio of this analytic result for the heating
+coefficient divided by the analytical result
+for the friction coefficient.
+Pretty much everything cancels out, and what remains is u0.
+This is a remarkable result. It's highly non-trivial,
+and I really enjoy it, showing to you how simply it can be
+derived by--
+it's really just perturbation theory,
+but you have to put in the right concepts from the dressed atom
+picture.
+What we learn is the following.
+If we have a standing wave, and we
+cool with a stimulated force, the lowest temperature
+is with a prefect of which I haven't calculated,
+the amplitude of the standing wave.
+That means that it is impossible to ever localize atoms
+within a standing wave.
+Laser cooling cannot be used to create atoms in an optical
+lattice.
+The temperature of the atoms is always
+comparable to the depths of the lattice,
+so therefore the atoms will never
+be localized in one well of the lattice.
+
+This is generally valued.
+The assumption we have made here is
+that we have a two level atom.
+Well, a lot of you have worked with atoms in optical lattices,
+and you often use evaporative cooling,
+take a Bose-Einstein condensate, which is pretty much nanokelvin
+temperature, put it in an optical lattice.
+But before '95, people studied laser cooling in atoms
+in optical latices.
+And this was only possible because atoms
+can be cooled to lower temperatures
+than we have derived here, because they are not two level
+atoms.
+Laser cooling in a standing wave, localization
+of atoms in a standing wave by laser cooling
+is only possible by physics beyond what we have discussed.
+Collin?
+If you use something like Raman sideband cooling,
+you could get a three levels for that,
+but you eliminate the third.
+Really, is just that it's too low.
+If you do Raman sideband cooling.
+Keep posted, I think in the next 10 minutes
+I cover what you want to see, because now it
+involves two ground states.
+I want to show you if you have two ground
+states, two hyperfine--
+Raman sideband cooling, if you have two different ground
+states, there is new physics and I briefly
+want to touch upon that.
+Let me just fill in one thing here.
+And that is, if you take everything
+I've told you seriously, you would say, "OK.
+Too bad.
+We cannot localize atoms in an optical lattice
+because the temperature is always comparable
+to the amplitude of the lattice.
+But by making the lattice smaller
+and smaller and smaller, I can reach
+lower and lower temperatures."
+Well, yes, to some extent that's possible.
+But what we've done here is we've done approximations.
+We've only focused on the stimulated force.
+We have not looked at the recoil which
+comes in spontaneous emission.
+And therefore, the moment we would make the optical lattice
+smaller than gamma, then we have to include heating
+by the spontaneous light force, and the result will be that
+blue molasses cannot reach lower temperatures than red detuned
+molasses.
+And for red detuned molasses, we have already
+discussed the famous Doppler limit
+which just gamma over two.
+So that's what I wanted to present to you
+with the stimulated force.
+First, a more general discussion using the real
+dressed atom picture.
+But now in the end to fly over using sort of the baby
+dressed atom picture, which is simply perturbation theory.

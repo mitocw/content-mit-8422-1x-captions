@@ -1,0 +1,72 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 63 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So this takes care, actually, of most
+of the electromagnetic field.
+We'll come back to that in a moment.
+The next thing is we want to use the full quantum solution
+for the atomic dipole operator.
+And that means we want to remind ourselves
+of the solution of the optical Bloch equations.
+Talking about the optical Bloch equations,
+I just have to remind you of what we did in class.
+But I have to apologize.
+It's a little bit exercise in notation.
+Because in atom-photon interaction
+they use a slightly different notation
+than you finding other sources.
+On the other hand, I think I've nicely prepared it for you.
+And I give you the translation table.
+In atom-photon interaction, they regard the Bloch vector.
+And we have introduced the components, u, v, and w,
+as a fictitious spin 1/2.
+Therefore, you find, with this kind of old-fashioned letters,
+sx, sy, sz, in atom-photon interaction.
+The other thing, if you open the book, atom-photon interaction,
+is that there are operators--
+a density matrix, the atomic density matrix, sigma,
+and sigma head.
+One is in the rotating frame, and one is in the lab frame.
+So we have to go back and forth to do that,
+but the result is fairly trivial.
+So this is simply the definition.
+First of all, the density matrix is a full description
+of the atomic system.
+But instead of dealing with matrix elements of the density
+matrix, it's more convenient for a two-level system
+to use the fictitious spin or the Bloch vector.
+So the important equation--
+these are the optical Bloch equations--
+is the equation A20 in API.
+And it's simply the first order differential equation
+for the components of the optical Bloch vector, u, v,
+and w.
+Notation is, as usual, the laser detuning delta l.
+Omega 1 is the Rabi frequency.
+And this is the parametrization of
+the classical electromagnetic field which drives the system.
+Now, this equation is identical to the equation
+we discussed in the unit on solutions of optical Bloch
+equations.
+We just call the Rabi frequency g.
+Delta l was called delta.
+And then-- factors of 2 are always was confusing--
+the components r, x, y, z are 2 times uvw.
+And the reason for that is some people
+prefer that it represents spin 1/2,
+so they want to normalize things to 1/2.
+Or if you want to have unit vectors,
+you throw in a factor of 2.
+But that is all.
+So if you're confused about a factor of 2,
+it's exactly the substitution which has been made.
+So these are the optical Bloch equations.
+And what we need now is the solution.

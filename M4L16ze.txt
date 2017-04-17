@@ -1,0 +1,183 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16ze.txt
+#
+# Captions for 8.422x module
+#
+# This file has 174 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We started with two beams.
+We just discussed one beam.
+Trap slowing.
+And let's go now to what most of you use in the laboratory,
+namely six beams.
+You want to cool in xyz, so you have one-dimensional molasses
+with two beams times three.
+So in the limit that the intensity is low,
+you just add up all the forces.
+You say each beam has a spontaneous light force
+and you add the six spontaneous light forces up.
+
+At low intensity-- and you have to take my word for it--
+you can ignore all the interference effect
+between the beams.
+They can actually lead to very interesting effects.
+I will give you at least a taste what will happen--
+actually, pretty good taste--
+what happens at higher power.
+We need the dressed atom picture,
+and we'll discuss how the stimulated force can
+be used for cooling.
+
+But if you don't have a two-level system,
+you have sigma plus, sigma minus transitions.
+And the beams interfere.
+You get spatially varying polarizations
+of your interference patterns.
+And then you have [INAUDIBLE] physics.
+But in the simplest case of a two-level system,
+there is a regime at low intensity
+where you can simply take the equations we get,
+work out for molasses, and apply them to xyz.
+
+I put on the web site a nice handout, a review paper
+by Bill Phillips, who is discussing
+1D molasses versus 3D molasses.
+And if you enjoy it, you can read
+how numerical factors of one, or two, or three
+now appear in the friction coefficient,
+in the heating coefficient, and then
+how they affect the final temperature.
+But you got the full concepts and the correct idea
+from one-dimension molasses.
+
+Now let me give you an outlook for what
+we will be doing next week.
+Next week, we want to understand the following.
+What happens to the friction coefficient
+when we increase the power?
+Well, you'll remember when we have red detuned light,
+then we had one [? Laurentian, ?] another
+[? Laurentian. ?] The slope was negative,
+and negative means positive friction.
+We cool.
+And if you put more power into it, the linear slope increases.
+And for low power, the friction coefficient
+is proportional to the laser intensity.
+But now look what happens.
+If you approach saturation, then the friction is not
+only saturating, it suddenly changes the sign.
+And this is qualitatively new.
+And you should little bit wonder about it.
+Wasn't the reason why we have cooling that you have
+a laser which is red detuned?
+And the photon which is spontaneously emitted
+is on resonance and this is the energy difference.
+But now I'm telling you at high intensity,
+it's not the red detuned laser which cools,
+it's the blue detuned laser.
+So you should wonder about it.
+There is really something new to be learned.
+So I want to motivate you to follow me today and next week
+through an alternative description
+of what light does to atoms using the dressed atom picture.
+And in the dressed atom picture, we
+will very naturally understand why now blue detuned light
+provides cooling.
+But right now for you, this should be a mystery.
+But it should be something where you say hey,
+still something qualitative is missing in our understanding
+of light forces.
+OK, I will not be able to explain it to you to explain
+it physically to you.
+I first have to introduce the dressed atom picture,
+and I will do that in 10 minutes or so.
+But what I want to do here is, if I'm telling you
+something goes terribly wrong, and we completely
+miss even the sign of the force.
+Blue detuned light is now cooling, not red detuned light,
+I at least wanted to tell you what went wrong.
+Because haven't we done an exact, almost exact discussion
+of light forces?
+We use the gradient of d dot e.
+We used for d the steady state solution of the optical block
+equations.
+Haven't we done everything right?
+Well, we did approximations.
+And what happens is, and this is the reason
+for those qualitatively different things, that we
+should, in order to get those effects,
+not use for the dipole moment, for the off-diagonal matrix
+elements of the density matrix, the steady state solution
+for the optical block vector.
+We have to acknowledge that it always takes a finite time
+to reach steady state.
+
+For instance, if it takes, let's say, a spontaneous emission
+time, the atom has to, if the atom goes through a standing
+wave, it goes from high intensity to low intensity,
+it takes about one spontaneous emission time.
+When you are highly excited, but now you
+go through a node of this standing wave,
+the steady state solution is hey,
+at the node of the standing wave, there is no light.
+The steady state solution with no light
+is you better go back to the ground state.
+But that takes something on the order
+of the spontaneous emission time.
+So therefore, when I'm excited because I'm
+in the middle of the bright laser beam,
+and I go fast into the dark region,
+I'm still excited, because I didn't have time
+to get rid of my excitation.
+In other words, the internal degree of freedom,
+the population of ground and excited state
+will lag behind the steady state solution
+by a lag time which is a spontaneous emission time.
+And if the lag time, and that would
+mean if I multiply with the velocity
+it's pretty much that there is a spatial displacement.
+
+I'm always a certain distance away from the steady state
+solution.
+And actually this point, to introduce the lag time,
+we will do it in a wonderful physical way
+when we have the dressed atom picture.
+But it can be done with optical block equation.
+It's just a real pain, because the optical block equation
+is like a matrix equation.
+You have to do--
+it's completely obscure how it is done.
+But in order that you convince yourself,
+I posted the original paper from Gordon and Ashkin
+where this was done.
+You read the math.
+You will understand the result, but you
+don't understand the derivation, the physical picture behind it.
+The dressed atom picture will give us a lucid explanation
+for exactly what a lag time does,
+and why this results in cooling.
+But anyway, this is the physics we have done wrong.
+At low power, it's OK.
+At high power, we really have to take care of this effect.
+
+And if we take care of this effect--
+and as I said, we don't need the dressed atom picture.
+We can fully do it within the framework of the optical block
+equation, but it's messy--
+we would actually get out, and you
+see that in the references, the result
+that the friction coefficient in a standing wave at weak power
+is exactly two times the friction coefficient
+for a traveling wave.
+And that justifies that we describe molasses
+by the spontaneous light force of two traveling waves,
+completely ignoring the standing wave.
+But the same treatment of the optical block equation
+will then eventually give us a result that alpha changes sign
+at high intensity.
+But as I said, I want to describe
+that after we have introduced the dressed atom picture.

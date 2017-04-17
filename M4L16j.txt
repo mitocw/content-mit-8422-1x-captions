@@ -1,0 +1,89 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 80 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we have the reactive force.
+The reactive force is written here
+by just-- what have we done?
+Well, you'll remember the alpha vector was the gradient
+of the Rabi frequency.
+And we have to multiply with the u
+component of the steady-state solution of the optical Bloch
+equation.
+Here it is, just put together.
+
+It's a nice expression.
+There are two things you should know about it.
+The first one is that you can actually
+write this force exactly as the gradient of a potential.
+
+So there is a dipole potential.
+And it is exactly this dipole potential
+which is used as a trapping potential when
+you have dipole traps.
+
+Probably 99% of you use dipole traps
+in the limit, where the detuning is large.
+And then the logarithm of 1 plus x simply becomes x,
+and you have the simple expression you are using.
+But in a way, this is remarkable.
+The dipole force can be derived from a potential,
+even if the detuning is small and you
+have a hell of a lot of spontaneous scattering, which
+is usually not regarded as being due to conservative potential.
+So this expression, that the reactive force
+is a gradient of a potential, even applies to a situation
+where gamma spontaneous scattering plays a big role.
+And you're not simply in--
+and this is what this last term is-- in the perturbative limit
+of the AC Stark Effect.
+That's number one you should know about this expression.
+The second thing is if you look at this expression,
+the question is, what is the maximum reactive force?
+We talked about the maximum spontaneous or dissipative
+force, which is h bar k, the momentum of a photon,
+times gamma over 2.
+What is the maximum force you can get out
+of the reactive force?
+Well, of course if you want a lot of force,
+you want to use a lot of laser power.
+Therefore, you want to use high Rabi frequency.
+And now if you want to use your laser power wisely,
+the question is, how should you pick the detuning?
+And you realize if you pick the detuning small,
+there is a pre-factor which goes to 0.
+But if you pick your detuning extremely large,
+the denominator kills you.
+And if you analyze it and/or stare
+at this expression for more than a second,
+you realize that the optimum detuning
+is when the detuning is on the order of the Rabi frequency.
+And if you plug that in, you'll find that
+under those optimum conditions, the reactive force
+can be written, again, as the momentum of a photon.
+It must be.
+The momentum of the photon is the unit
+of force, the quantum of force, which has to appear.
+But now the frequency is not gamma,
+but it is the Rabi frequency.
+So the picture you should sort of have
+is that under those situations, just
+assume the standing wave consists
+of two traveling waves, and the atom is Rabi flopping.
+But it is Rabi flopping in a way that it goes up
+by taking a photon from one laser beam,
+and then it goes down by emitting the photon
+into the other laser beam.
+So viewing each Rabi flop cycle, it
+exchanges the momentum 2 h bar k with the electromagnetic field.
+So therefore, the reactive force, the stimulated force,
+never saturates if you increase the Rabi frequency, depending,
+of course, on your detuning, but if you choose the detuning
+correctly, you can get a force which is just

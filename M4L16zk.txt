@@ -1,0 +1,53 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zk.txt
+#
+# Captions for 8.422x module
+#
+# This file has 44 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, when we describe an atom in the laser field, and the atom
+scatters light.
+Or we have a laser beam--
+and I have to tell you, when we have a laser beam,
+we don't provide exactly N atom and N photons.
+The laser beam is in a coherent state,
+and they are Poissonian fluctuations.
+But now we do the next approximation.
+Namely, we say when N is large and delta N can be neglected
+with regard to N, then, at least for the range
+of important photon numbers for the problem,
+this coupling becomes independent of N.
+We simply take the average number of photons in our laser
+beam, and define an electric field which
+is independent of N. The product with a dipole operator
+of the atom, that's what we call the Rabi frequency.
+At that point, we introduce a classical electric field
+through this definition, and therefore the dressed atom
+picture--
+also, we started with the fully quantized Hamiltonian--
+is now identical to a classical field with this electric field
+amplitude.
+What we have gained is, we could discuss everything
+in a time independent picture.
+
+I promised you, we go back to two
+by two matrix, which we have seen many times.
+It's a two level system.
+We have the detuning.
+We are in the rotating frame, so that means the ground
+and the excited state with N and N minus 1 photons,
+have the same energy.
+But if you have a detuning, there
+is a difference whether we excite the atom
+or whether we put a photon in the laser field.
+You have seen that many, many times.
+The coupling is now described by the Rabi frequency.
+That's our typical two-level system
+where the two levels, if they're in the rotating frame,
+everything is time independent.
+The two levels are split, and they are coupled.
+How many times have you seen the solution of a two

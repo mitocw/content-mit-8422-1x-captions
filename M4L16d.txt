@@ -1,0 +1,37 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 28 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+You know, from any harmonic oscillator,
+when it comes to the absorbed power,
+that it's only the in quadrature component
+which absorbs the power.
+And you can immediately see that, when we say--
+just use what is written in black now.
+The energy is nothing else than the charge
+times the displacement.
+When we divide by delta t, you find that the absorbed power
+is the electric field times the derivative
+of the dipole moment.
+Well, if we ever reach over one cycle,
+we are only interested in d dot, which
+oscillates with cosine omega t.
+But that means, since it's d dot,
+d oscillates with sine omega t.
+And this was the in quadrature component v.
+So it is only the part v of the optical Bloch vector which
+is responsible for exchanging energy
+with electromagnetic field.
+And we can also, by dividing by the laser freq--
+by the energy of a photon, find out
+what is the number of absorbed photons.
+But we did that already, when we discussed optical Bloch
+equations.
+OK, so that was our look back on the optical Bloch equation,

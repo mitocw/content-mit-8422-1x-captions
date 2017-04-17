@@ -1,0 +1,113 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16o.txt
+#
+# Captions for 8.422x module
+#
+# This file has 104 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So you'll remember, we had the dissipative force
+of each laser beam.
+Now, we have two laser beams.
+We sum them up, because the two laser
+beams come from different directions with a minus sign
+here.
+And for the same reason, we have plus and minus sign
+in the Doppler effect.
+So what we have is the following.
+Each force of each laser beam has this Lorentzian envelope,
+shown in black.
+But the other force of the other laser beam
+has the opposite sign.
+And the two have opposite Doppler shifts.
+So if I add up the two black forces, I get the rate force.
+And the rate force is anti-symmetric with respect
+to velocity.
+So therefore, in the limit of small velocities,
+I get a force, which is minus alpha times v. And this
+is the force of friction.
+And in a whimsical way, people called this arrangement of two
+traveling waves, optical molasses,
+because the atom literally gets stuck in this configuration,
+like a tiny ball bearing you throw into honey.
+So this is optical molasses.
+Actually, I think some of the Europeans
+had to learn the word, "molasses, for it.
+In the US, everybody knows what molasses is.
+While in Europe, we know what honey is.
+But molasses is not a standard staple.
+But anyway, it's optical molasses.
+OK.
+Very simple result. And again, it's
+not easy to get it out of this stimulated force,
+but it's possible.
+I will actually tell you how we get
+cooling out of the stimulated force later in some limit.
+[INAUDIBLE] is it because the reason--
+like the assumption of dissipative forces
+is easier for this derivation?
+And the stimulated force will be like [INAUDIBLE]
+for the assumptions?
+
+I'm not sure if there is a simple answer why it's easier--
+well, it can't be easier than that.
+Then there has to be something wrong with our assumptions
+of stimulated force, so that we cannot get [INAUDIBLE].
+Yep.
+I think what happens is what I briefly said.
+To the best of my knowledge-- but I'm not 100% certain--
+we have the simple expression because we
+have used the steady state solution of the optical Bloch
+equation.
+In other words, we have a laser beam.
+And it's just the power of the laser
+which tells us how much light scattering happens.
+And we use the steady state solution.
+And we sort of have folded that into the force for one laser
+beam.
+And then, we have the same package
+for the other laser beam.
+And we have never considered that the two laser
+beams may have some cross-talk.
+And this is indeed valid for low laser power.
+However, if you want to get cooling out
+of the stimulated force, I will show some of it to you later,
+you can no longer use the steady state solution,
+because it would miss the effect here.
+You wouldn't get any cooling out of it.
+In order to get something which is dissipative out
+of the reactive force-- reactive force
+is, by definition, not dissipative-- you
+need a dissipation mechanism.
+And the dissipation mechanism is that you're not
+quite steady state.
+There is a relaxation time, a time lag.
+The atom is not instantaneously in its steady state solution,
+it needs a little bit of time to adjust.
+And it is this time lag of the atom which eventually
+gives rise to an alpha coefficient
+in the stimulated force.
+So then, physically, you are doing cooling experiments
+if you take care that the [INAUDIBLE] in the steady state
+limit?
+
+What I'm telling you is, for the spontaneous force,
+we get, in leading order, the effect,
+by assuming the steady state limit.
+But if you want to get it out of the stimulated force,
+as far as I know, you don't get it with a steady state limit.
+
+So you have to use--
+if you use different approaches--
+I mean, this is why you want to pick your approach.
+Sometimes, you get something already in lower order.
+Sometimes, you get it in higher order.
+And I think one favorite example is
+you solve this problem about radio scattering
+and Thomson scattering pick your Hamiltonian-- d dot e,
+or p minus a.
+In one case, you have to work harder than in the other case.
+And I think, here, it's similar.

@@ -1,0 +1,81 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 72 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Then let's do a similar discussion
+with reactive forces.
+So a standing wave is parametrized here.
+We only have an alpha vector, not a beta vector
+now, because everything is in phase.
+There is no phase phi of r.
+So therefore, there is no dissipative force.
+The only force is a reactive force.
+
+Since a reactive force depends only on u,
+there is no exchange of energy.
+So that raises the question, what is really going on if it
+is only the reactive part with u, how can the atom,
+how can the motion change if it cannot exchange energy?
+Well, we'll come to that in different pieces.
+The one part I want to sort of discuss here
+is that I want to show you that at the level of our discussion,
+we can already understand that the atom is actually
+doing a redistribution of energy and momentum.
+Well, if I only hold onto my standing wave,
+there is no energy exchange, because the atom is always
+in phase with a standing wave, the atomic dipole, which
+is responsible for the force.
+But I can now do what everybody does in the lab.
+We generate the standing wave as a superposition of two
+traveling waves.
+And if I have a superposition of two traveling waves,
+there is a point in space where the phases of the traveling
+waves are the same.
+Then one phase is advanced in phase.
+On the other side, one of the waves is lagging in phase.
+And for pedagogical reasons, I pick the point
+where the two traveling waves are 90-degree phase shifted.
+
+Now the situation is that we have our electric field.
+And what is responsible for the reactive light force
+is the u part of the dipole moment of the optical Bloch
+vector, which oscillates in phase.
+But nobody prevents me from analyzing it with respect
+to E1 and E2.
+And so if I ask now--
+I say I have one laser beam.
+I have another laser beam.
+And if you want after the laser beams have crossed,
+you can put in two photodiodes, and you can not only
+ask what happens to the standing wave.
+You can also ask what happens to each traveling wave.
+Are photons absorbed?
+Or what happens?
+And now what is obvious is, if you have an harmonic oscillator
+and you have an oscillating dipole moment,
+if the dipole moment is within 0 and 180 degrees
+with a drive field, you absorb power.
+If it is in the two other quadrants,
+it emits or delivers power.
+And now you see that we are in a situation which
+I've picked here, where one traveling wave loses
+energy and the other traveling wave gains energy.
+And there is a classic experiment
+which was done by Bill Phillips a while ago.
+He had atoms in an optical lattice,
+and they were sloshing.
+And he could really measure that when the atoms were accelerated
+this way, one of the laser beams gained power and the other one
+lost power.
+So while the atoms were sloshing in momentum space,
+the power between the two laser beams
+was distributed back and forth.
+So this is the character of the dissipative force--
+that it distributes momentum and energy between the two

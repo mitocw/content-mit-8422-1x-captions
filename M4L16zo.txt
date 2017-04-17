@@ -1,0 +1,60 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zo.txt
+#
+# Captions for 8.422x module
+#
+# This file has 51 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+You can immediately read off the matrix elements.
+Since the intensity from this golden rule
+is the matrix element squared, we
+find immediately that the upper lower sideband in the carrier
+involve terms cosine to the fourth theta,
+sine to the fourth theta, cosine square, sine square.
+We got the matrix element.
+The only thing we have to know now is that the beats--
+no, the rate is given by the matrix element.
+But the intensity, by the-- sorry.
+The radius given by the matrix element square.
+But now, what is the intensity of the line?
+Well, the upper sideband is emitted
+by the upper dressed state because you
+have to go from the upper dressed state
+to the lower dressed state to get the blue detuned photon.
+Therefore the intensity for the sideband
+is this rate times the population
+in the upper dressed test.
+So what is missing at this point--
+and we need it urgently for next week--
+what is the population in the upper and the lower sideband?
+
+We know the trasition rates between the upper
+and lower dressed state.
+We know we have just found the rate.
+What is the rate?
+What is the matrix element squared when you go from,
+one is the upper, two is the lower state of the manifold,
+so we have just gotten those rates.
+And the rate equation says the change of population
+in the upper dressed state is given
+by the departure from the upper state
+and what arrives from the lowest state.
+Since we are interested in the steady state solution,
+we can just set the left side to 0,
+and then the rate equations simply
+give us the population in terms of the rates.
+In other words, if you ask, what is this steady state
+solution in the upper or lower dressed state,
+it's given by the ratio of those rate coefficients.
+But we just got those rate coefficients,
+and this gives us another bunch of sine and cosine functions.
+In other words, we know now what is the population
+of the dressed state.
+Everything is expressed by one non-trivial parameter, theta,
+and all we get is sine squared cosine squared sine
+to the fourth.
+We just get those trigonometric functions.

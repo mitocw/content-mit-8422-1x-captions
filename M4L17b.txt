@@ -1,0 +1,94 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 85 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me show you one nice piece of physics, which
+can be formulated both in the air, in the uncoupled
+and in the dressed state basis.
+And this is the process of spontaneous emission.
+If an atom is in the laser field,
+it just emits photons, rapid-fire photons.
+And I want to show you now how we would describe it
+in the bare basis, how we describe it
+in the dressed basis, and we get two very different physical
+pictures out of it.
+In the bare basis, maybe just think of quantum Monte Carlo
+simulation.
+A photon has been emitted.
+And that means we are in the ground state.
+Now, it takes a Rabi cycle before the ground state
+atom is in the excited state.
+And when it is in the excited state, it can emit again,
+and goes back to the ground state.
+And then things start over.
+So the picture you obtain here is the picture
+of anti-bunching--
+that the atom emits a photon, but then
+it takes the inverse Rabi frequency
+to load the gun again.
+And then it can fire again, and emit the next photon.
+So therefore, the probability of getting another photon right
+after you've observed the first photon is reduced or at t
+equals 0, it is exactly 0.
+And this is anti-bunching.
+The photons are anti-bunched.
+So this is how we would describe the radiative cascade, how
+we go from n to n minus 1 to n minus 2-- how we lose photons
+from the laser field and dump them
+into the anti modes of the vacuum.
+That's how we describe it in the uncoupled basis.
+Well, in the dressed basis, we have sort of
+diagonalized the atoms interacting
+with the strong laser field.
+And now we have the following picture.
+We have this manifold here.
+We can emit from this manifold, and we
+can go to the upper or lower dressed state.
+And then the next thing will happen again.
+But what we realize here, if we are in the upper dressed state,
+we can either emit on the carrier,
+or we can emit a blue detuned side band.
+But once we have emitted a blue detuned side band,
+the next side band has to be red detuned, because we are now
+in the lower dressed state, and we need a lower side band
+to go back to the upper dressed state.
+So what this picture gives us, it gives us the side bands
+because we are resolving the splitting in this picture.
+And secondly, it tells us that there
+is an alternation between the blue detuned photons
+and a red detuned photon.
+
+Now you would say, well aren't those two pictures
+really different?
+In one case, we have anti-bunching,
+and all the photons are the same.
+And over here, I talk about an alternation between a blue
+and a red side band.
+Well, again, the two pictures are complementary.
+In this case, if I want to resolve the anti-bunching,
+I need a temporal resolution which
+is better than the inverse Rabi frequency.
+But if my temporal resolution is better than the inverse Rabi
+frequency, then I don't have the spectral resolution
+to observe the sidebands, and vice versa.
+If I want to resolve the side bands,
+if I want to distinguish the red from the blue detuned side band
+of the Mollow triplet, I cannot run the experiment with respect
+to resolution which would be required to observe
+the anti-bunching.
+So these are sort of two different pictures.
+One is sort of in terms of energy eigenstates
+when we have spectral resolution.
+And this other picture is more appropriate
+when we are interested in the short time domain.
+So in that sense, you need both.
+You need the bare basis.
+You need the dressed basis.
+And you have to just know for which physical process, which

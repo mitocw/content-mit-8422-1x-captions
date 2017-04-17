@@ -1,0 +1,139 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zj.txt
+#
+# Captions for 8.422x module
+#
+# This file has 130 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we want to now exactly--
+well, not-- we want to do the correct approximations
+and after some approximations, exactly
+solve what the atom does with one laser beam.
+So the laser beam is described by the standard Hamiltonian
+for single mode light.
+The atom is described by, well, excitation energy omega 0
+and b is the excited state.
+So if you don't have any light-atom interaction,
+the eigenstates are just product states, an atom in the excited
+or the ground state.
+And N is the photon number.
+Colin.
+You said that it's usually easier
+to understand physics [INAUDIBLE]
+versus [INAUDIBLE] equations.
+Yes.
+Can you think of--
+is that sort of a general rule, or is this just
+like it's only applicable to certain areas and [INAUDIBLE]
+problems?
+
+You're really asking an expert question.
+And I talked to a Jean Dalibard and Claude Cohen-Tannoudji,
+who invented the dressed atom picture when
+I wanted to understand what happens when
+we have a blue detuned lattice.
+And I used the dressed atom picture, and I got confused.
+So what happened is the following--
+if you pick your right basis, the description is simple.
+But simple means if all the physics is your atom
+is in one dressed state or the other dressed state,
+and it just transitions between the dressed states.
+And that is easy, and this happens
+in the limit of large detuning.
+But if you are in the regime where
+coherences between the dressed states matter--
+in other words, the density matrix in the dressed state
+basis has now off-diagonal matrix element,
+the physics becomes complicated again.
+So in other words, what I'm telling
+you is, the best description happens when we have two level
+system, we always need a 2 by 2 matrix,
+but if you pick the description where the solution is diagonal.
+If you have to deal with coherences,
+and coherence is coupled to population, it's complicated.
+And there are some cases--
+one is the blue detuned lattice which
+I encountered, where you have to consider the coherences to get
+the correct answer.
+And usually, also when the laser beams are weak
+and on resonance, the dressed atom picture is not
+providing any advantages.
+So you want to use the bare picture for weak excitations
+and yes, in the resonance case, the dressed atom picture,
+if you're very close to resonance,
+the dressed atom picture gets more complicated.
+To give you the answer in something we've discussed,
+you know already that when you drive
+an atom with a laser beam, you get the Mollow triplet.
+And the Mollow triplet shows you--
+I hope we can finish that today--
+shows you the energy splitting between the dressed energy
+levels.
+But if the Mollow triplet is not resolved
+because the generalized Rabi frequency is small,
+then you're not resolving your dressed atom levels.
+And then the dressed atom level is not
+providing a big advantage.
+Yes, you have to pick.
+For certain problems, the dressed atom picture
+will not help you.
+But I can reassure you, and this is
+what I learned from Jean Dalibard and Claude
+Cohen-Tannoudji, if you really look at the full matrix
+with the off-diagonal matrix element and everything,
+you will always find exactly the same solution.
+
+OK, so anyway, we were just writing down
+product states of the atoms and the eigenfunctions
+of the Hamiltonian for the light,
+which are Fock states, number of states with n and n plus 1.
+But the important thing is now the following--
+in the limit of small detuning, the ground state
+with n plus 1 photon is almost degenerate with the excited
+state with n photons.
+And we call these two states a manifold, the manifold e of n.
+And n is the photon number in the excited state.
+
+So what happens is, if we look at all those states,
+they are grouped into manifolds.
+And the energy separation between two manifolds
+is, of course, I go from n to n plus 1, the energy of a photon.
+So now I introduce the atom-laser coupling
+in the usual dipole approximation.
+And what happens is this dipole approximation,
+this dipole light-atom coupling, will couple, of course,
+ground and excited state.
+And it will, of course, have a big effect when
+the energy splitting is small.
+Well, you will see that in the next line.
+But we have the co- and counter-rotating terms.
+This dipole Hamiltonian will also
+couple the ground state to the excited
+state in the other manifold.
+This is the off-resonant term, which we will neglect.
+OK, so here are the equations for that.
+
+Our electric field is, of course, a plus a dagger.
+The dipole operator is that.
+And if we take what is in front of the electric field,
+and define this as the coupling constant g,
+we have what I just told you--
+that within a manifold, the ground state
+with n plus 1 photons is coupled to the excited
+state with n photons.
+g is simply the coupling constant, which all parameters
+have been included in that.
+But then, because of the matrix element of a or a dagger,
+we have the square root of n plus 1.
+
+OK, so what we are now doing is we are going with this coupling
+within a manifold, which is strong because the two
+levels are energetically close.
+And we will neglect the non-resonant couplings
+to the other manifolds.
+And that's just another way of doing, again, the rotating
+wave approximation.

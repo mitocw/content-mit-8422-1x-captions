@@ -1,0 +1,63 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16n.txt
+#
+# Captions for 8.422x module
+#
+# This file has 54 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Optical molasses.
+I know some of you will hate it.
+Because I've just explained to you that in a standing wave,
+we don't have any spontaneous light force.
+All we have is the reactive forces stimulated force,
+because it is the u, the in-phase oscillation of the
+of the atomic dipole operator, which
+is responsible for everything.
+But now I'm just wearing another hat.
+And I tell you that there is a limit, where
+the total force can be regarded the sum of the two forces.
+So therefore, I'm pretending now that if you
+have neo resonant light in the standing wave,
+that the force in the standing wave, which you know
+is a purely reactive force can now
+be written as the sum of the two propagating waves.
+And of course, each propagating wave
+does a purely dissipating force.
+That is, what I'm telling you can be mathematically proven.
+
+That the stimulated force in a standing wave
+is equal to the sum of the two dissipative forces
+of each traveling wave.
+Just keep that in mind whenever you are,
+you think you can rigorously distinguish
+between the dissipative force and the simulated force.
+Keep in mind that a standing wave, which
+has only a stimulated force, as I rigorously proved to you,
+can alternatively be described as the sum of two
+spontaneous light forces, each of which
+provided by one of the traveling waves.
+
+Well, it sort of makes sense in the perturbative limit.
+You can just take one beam, you can take the other beam
+and the combined effect of the two laser beams
+is higher order.
+So the fact that in some low intensity limit,
+this has to be valid is pretty clear.
+
+But just a warning, if you really
+want to use the stimulated force here, you are in big trouble.
+It's much, much harder to get this result out
+of this new wave force.
+Because to get this stimulated force with velocity dependence,
+requires you to take solutions of the Optical Bloch Equations
+which are not steady state, but not adiabatic.
+So just a warning, you can do it if you
+want with a simulated force.
+But I would strongly advise you to first use
+the simpler formalism.
+You have to go to very different approximation skills and much
+more technical complexity if you want to get it out

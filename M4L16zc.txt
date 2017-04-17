@@ -1,0 +1,296 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zc.txt
+#
+# Captions for 8.422x module
+#
+# This file has 287 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+And now I want to give you the exact description
+for one typical example of a slowing technique.
+And a lot of the results we find in chirped slowing
+apply to other slowing techniques.
+I know I've taught it several times,
+and there is the conceptional point
+that you can only describe chirped slowing well
+when you go to the decelerating frame of the atoms.
+You want to describe it in the frame of the atoms which are
+continuously being decelerated.
+So the way how I can introduce it is the following.
+I take the maximum.
+I take the spontaneous light force.
+This is exactly the expression we
+have discussed several times.
+And now I'm saying we decide that we
+want to decelerate atoms with a deceleration a, which
+is negative because we slow them down.
+Of course, if you pick a too large that it would require
+more than the maximum spontaneous light force,
+you will not find a solution.
+But let's simply assume we want to decelerate atoms
+with a deceleration a.
+Well, what happens is this deceleration a
+requires a certain force.
+If the intensity of the laser would provide more force
+on resonance, then it's not going to work,
+because we want to decelerate the atoms
+like this deceleration.
+So therefore, the atoms, if they are decelerated,
+have to be at a detuning delta prime in such a way
+that the spontaneous light force is exactly
+providing the acceleration we decided
+we want to have for our atoms.
+In other words, this detuning, in the frame of the atom,
+the atoms are on resonance when the light force is exactly
+providing the force to give you the acceleration a.
+But if you have more laser power than absolutely necessary,
+in the frame of the atoms, the atoms
+have to be detuned in such a way that the force
+with the detuning is exactly providing
+the acceleration we want.
+
+So that's the easiest way to explain it.
+We have to set the stage.
+We have to introduce this nominal detuning.
+OK, so you can say that this detuning is just a definition.
+And now we want to describe the slowing process.
+So we have said we want to start with atoms
+at an initial velocity, which will actually cancel out
+in a moment.
+But let's do it in a systematic way.
+And afterwards, we want the velocity
+to decrease linearly in time.
+
+I simply defined this parameter, delta prime,
+to be a solution of this equation.
+So this is a well-defined quantity.
+And the laser detuning, which I program my laser
+to change its detuning as a function of time,
+is now this nominal detuning minus a Doppler shift
+due to the velocity of the atoms.
+I'm really solving the problem backwards for you.
+I first decide what should be the velocity
+trajectory of the atoms.
+How should the atoms slow down?
+And then I define what is the detuning which
+will result in that?
+That's the easier way to understand it.
+Of course, if you pick this detuning,
+the atoms will exactly do that.
+
+OK, but now what we are doing is the following.
+This is the acceleration, and the velocity
+we want the to have, but there may
+be some atoms in the beam which do not have this velocity.
+They deviate from this velocity with v prime.
+So the goal of cooling would now to reduce v prime
+to zero to make all the atoms follow the trajectory we
+have designed for them.
+
+OK, many words, many definitions.
+Now we can simply substitute what
+we have defined into the equation,
+and we get a wonderful result. So we take equation 1, which
+was the equation for the light force,
+and we put all those definitions,
+which I went to great lengths to explain to you, into it,
+and we get this result. It's just that the detuning has
+been expressed by delta prime and the velocity
+by this difference, velocity v prime.
+It's pure mathematical substitution.
+But now comes the important point.
+That we want to describe everything now
+in the decelerating frame.
+The atoms are meant to decelerate with a deceleration
+a.
+And you know from classical mechanics,
+if you describe something decelerating frame,
+you have to add a fictitious force.
+This fictitious force since the acceleration is constant,
+is a constant force.
+
+But I'm expressing it now by the other parameters.
+We've chosen our acceleration.
+We've chosen the detuning, delta prime.
+I mean, everything is connected.
+And this is just a way to use the correct, the most
+easiest units, or the correct parametrization
+for this constant force.
+
+And the important thing for you is this equation is exact.
+It's exact for an arbitrary velocity v prime of the atoms.
+So let me just summarize.
+I've taken the spontaneous light force.
+I've given you a bunch of definitions.
+What delta prime is.
+That's how you program your laser.
+But then in the decelerating frame,
+we need a fictitious force.
+And this is nothing else than a mathematically exact rewrite
+of the spontaneous light force in a decelerating frame.
+But now what happens is we had a light force.
+Because we assumed the laser is counter-propagating
+there's a minus sign.
+The fictitious force has a plus sign.
+And that means that we can--
+and if v prime is zero, the force is zero.
+So we can now make a Taylor expansion for small v prime.
+So we have again a viscous force, a friction force,
+and it turns out that this friction coefficient for beam
+deceleration is exactly 1/2 what we got before for molasses.
+But that's clear we have one laser beam, whereas in molasses
+we had two laser beams.
+If you ask, what is the heating?
+Well, if you have one laser beam, and now two laser beam,
+the heating described by the momentum diffusion coefficient
+is also just 1/2.
+One beam heats exactly 1/2 of what we got for two beams.
+And therefore, the temperature which
+characterizes the width of the velocity distribution
+in the frame of the decelerating atoms
+is exactly the Doppler temperature we had before,
+because the two factors of 1/2 cancel.
+So now I have given you-- and I hope you take some pleasure
+in it--
+an example where the laser cooling for two-level system
+is exactly described.
+There's only a single beam, and the Doppler limit
+is the exact solution.
+I've not made any approximation other
+than assuming I have a two-level system for which
+the spontaneous light force has the expression we have derived.
+
+I know, even with my explanation,
+you have to read through it once or twice, because I
+made a few substitutions, and you really
+have to digest them at your own pace.
+So let me give you a summary of what we have done graphically.
+One laser beam scatters light.
+And it is this [? Laurentian. ?] And it's a negative
+[? Laurentian ?] because we have a counter-propagating beam.
+We push the atoms into the negative direction.
+They fly in the positive direction.
+But by chirping the laser, by going
+into the decelerating frame, the force doesn't go to zero.
+I had to add an offset.
+And this offset is a fictitious force
+due to the transformation of the decelerating frame.
+And now you realize that this force,
+and it is the correct force in the decelerating frame,
+has two zero crossings.
+One is a stable point, and one is an unstable point.
+And the stable point says, if an atom happens to be too fast,
+it gets a correcting force, and this is like a lock point.
+There is a stable lock point.
+All the atoms which did not have the correct velocity we wanted
+them to have, they are sucked into this lock point,
+and eventually will pile up at a huge peak
+at this nominal velocity.
+And the width of this peak is simply
+described by the Doppler limit.
+Before I take your question, let me show you
+what happens in the two frames.
+
+This is v prime.
+This is the velocity in the decelerating frame.
+And let's say our initial velocity is this.
+So what happens now is all the atoms within,
+the atoms are decelerated towards v prime equals zero.
+The friction force puts them to v prime equals zero.
+But since we are in a decelerating frame,
+in the absence of the laser, the whole Maxwell-Boltzmann
+distribution is just shifted, not
+because the velocity of the atoms change,
+because we are in a decelerating frame
+and we are accelerating away from the atoms.
+And what I just described for you is the following.
+That at v prime equals zero, we have our friction force.
+And the atomic distribution in this frame
+is now pushed through.
+And everything which goes through this resonant region
+is collected.
+And you have a peak which is piling up
+at v prime equals zero.
+
+Probably it's easier, but mathematically I
+needed the decelerating frame, if you
+use the following picture.
+And just think of this beam slowing
+I explained to you, if you just switch on a laser hear,
+you would just burn a hole into the velocity distribution
+and pile up the atoms.
+But now you sweep, and when you sweep, you take the peak,
+push it further.
+It gets a bigger peak here.
+Push it further.
+So eventually what you're doing is
+by chirping the laser in the correct way,
+with the correct laser power and all that,
+you are just pushing the atoms all out.
+And eventually, they are piled up
+in a narrow distribution, which is
+defined by the time when you just switch off your laser
+beam.
+So one chirp of the laser from an initial detuning in the lab
+frame to a final detuning in the lab frame
+will just sweep out the whole Maxwell-Boltzmann distribution.
+And if you suddenly switch off the laser,
+you have frozen in a velocity distribution which is exactly
+described by the Doppler limit.
+
+So what is easier to understand?
+Molasses with two beams, or beam slowing with a single beam?
+I think molasses is easier, because everything
+happens in the lab frame.
+But think about it.
+It's a nice example for which no approximations have to be made.
+Questions?
+
+Yes, Nancy.
+It's not really obvious me how in this mathematics
+we are choosing a time-dependent detuning as opposed
+to a time-dependent acceleration, deceleration.
+
+The way how I presented it logically,
+we said we want a certain acceleration to happen,
+and then we provide our laser that kv is the Doppler shift.
+ka is how the Doppler shift changes as a function of time.
+And we chirp our laser exactly in frequency
+with a chirp which is ka.
+So in other words, I started to define constant a, and that
+would require that the laser is now chirped in a linear way.
+I could have started the other way around and said,
+hey, let's assume we chirp the laser in a linear way,
+and then we do the corresponding substitutions,
+and the result would be the same.
+No, actually, if we did not want to have a detuning which
+was time-dependent, would we have gotten--
+we still have a force.
+And that force would have been just changing the terms.
+Well, then it's more complicated.
+Yeah, then you have to integrate a differential equation,
+but what happened is the following.
+What I've done is by defining the acceleration and then
+the chirp, I have this situation that in the reference
+frame of the decelerating atoms, the detuning is constant.
+So usually you go to a decelerating frame
+if something else simplifies and what simplifies
+is that in the frame of the atom,
+the laser detuning is constant.
+So you can also say the frame in which the atoms decelerate is
+exactly the frame in which the chirp has disappeared,
+because the decelerating frame compensates
+a chirp with a linearly varying, time varying Doppler shift.
+
+But the physics, I think, is really--
+the moment you have a force which has a zero crossing,
+it's a lock point.
+You determine the slope, and alpha
+together with the momentum diffusion gives you
+the final temperature.
+So I hope you enjoy that it's actually
+the same physics, exactly the same physics we discussed
+with some approximation for molasses.

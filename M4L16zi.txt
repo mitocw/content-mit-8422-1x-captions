@@ -1,0 +1,164 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zi.txt
+#
+# Captions for 8.422x module
+#
+# This file has 155 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the dressed atom.
+I was waiting until this point to introduce a dressed atom
+picture for you, because the dressed atom picture is
+the natural picture you want to think about, for instance,
+for the Mollow triplet, and we had already
+some discussion about it.
+But it is also the natural picture
+you want to think about it when you describe
+the stimulated light force.
+And I mentioned already, it is the dressed atom picture which
+will help me to give you the physical picture behind if you
+have strong laser beams, why blue detuned light cools
+and not red detuned light.
+So you should be motivated now to learn about the dressed atom
+picture.
+But first I have to say, it's not anything new,
+what I'm teaching you.
+It has exactly the same physics in it
+as the optical block equations.
+It's just that the optical block equations are
+often more complicated, and they don't
+provide the clear insight.
+And the reason is the following.
+Often when you describe a physical phenomenon,
+you can choose one basis set, or you can use another basis set.
+But if you're in the wrong basis,
+you get the correct results, but in the wrong basis,
+you just can't describe the physics easily.
+So in other words, with the dressed atom picture,
+I want to introduce dressed atom states
+for you, which are no longer the ground state and the excited
+state.
+I want to treat the atoms dressed up
+by the laser beam, which is one mode
+of the electromagnetic field.
+So the atoms, together with this one laser beam,
+will be partially excited, partially in the ground state.
+And these partially excited atoms, this
+is the dressed atom basis.
+But if you think in terms of those states,
+you have a much easier way to formulate
+certain physical processes.
+Exactly processes where you high laser power.
+At low laser power, the dress states
+are identical to the naked states,
+to the ground and excited states.
+But at high laser power, at infinite laser power,
+the two dress states are the symmetric and antisymmetric
+equal superposition of ground and excited state.
+So that's what we want to describe now.
+
+So the difference to the optical block equation
+is that we are now really looking
+for the combined state of the atom
+and the electromagnetic field.
+So what we want to do is, this is sort of our picture
+that we have.
+This is our Hamiltonian.
+We have the atom interacting with a vacuum
+through spontaneous emission, with a reservoir
+of empty motes.
+But now it also interacts with a laser beam.
+And you'll remember when we did the master equation,
+we looked at this.
+We derived a master equation for this.
+And then we added in the unitary time
+evolution due to a laser beam.
+But what we want to do now is we want
+to first take care of the atom in the laser beam
+almost exactly in an exact diagonalization.
+And once we have re-diagonalized that,
+we have now eigenstates which we call the dress states.
+Then we allow, not the ground and excited state.
+We then allow the dress states to emit into the vacuum.
+And this is the formulation we want to obtain now.
+
+Let me make one comment before I go
+through a few simple equation.
+And that's the following.
+If I want to treat this system almost exactly,
+I have two choices.
+I use a strong laser beam so I could,
+as we have discussed several times,
+simply use a time-dependent external electric field.
+The laser beam is e0 times cosine omega t,
+and I just introduced it in the Hamiltonian.
+And you can get everything I describe now for you
+out of this Hamiltonian.
+However, there is an alternative way,
+and this one is I simply assume that the laser beam is
+described by the fully quantized field, and I use a Fuchs state.
+I just assume n, the number of photons, is very big.
+And that corresponds-- and this is, at least for that purpose,
+a valid description of the laser beam.
+So what happens is you really want to look through that.
+I've really learned a lot by comparing
+the purely classical treatment of the laser beam
+and the fully quantized description of the laser beam.
+The results are the same.
+They are absolutely identical.
+And what you will see is, by a bunch of approximations,
+we reduce a total Hamiltonian to--
+you've seen it many times-- a 2 by 2 matrix.
+And whether you start with a classical field
+or whether you start with a fully quantized field,
+if you make the right approximation,
+you get the same 2 by 2 matrix.
+But there is a difference.
+This Hamiltonian is time-independent.
+a dega a.
+Time-independent Hamiltonian.
+If you take a classical field, which is cosine omega lt,
+you don't have a time-independent Hamiltonian.
+You have a driven system, and your wave function
+has an external time dependence.
+The laser beam is driving the wave function.
+So in other words, you have two choices
+when you want to describe how an atom interacts
+with a strong laser beam.
+You can use a fully-quantized field, which is conceptually
+a little bit more complicated, because we've quantized
+the electromagnetic field.
+But then everything is time-independent,
+and everything I do here is really easy.
+I can go over it now in five minutes,
+and you understand everything.
+Well, in your homework, I've already
+asked you at an earlier homework to look
+at simply the two-level system driven by a classical field.
+And in your next homework, number 10, your last homework,
+I'm asking you now to interpret the solution
+with a classical field.
+And it's actually a little bit a challenge
+to take the time-dependent wave function,
+and read the physics out of this time-dependent wave
+function, which corresponds to the physics we derive
+in the dressed atom picture.
+But you have two ways.
+One is a classical field.
+Then the wave function, the Hamiltonian is time-dependent,
+and the wave function is time-dependent.
+Or here, I start with a quantum field,
+and everything is time-independent.
+But the solutions are identical.
+Well, one is a time-dependent wave function,
+one is a time-independent, but if you interpret
+the solution in terms of what happens to the physical system,
+you will find exactly the same.
+So in other words, I decided I do the easy part here, which
+is the fully-quantized part.
+And this is probably what will get stuck in your head.
+But since I think it's an important pedagogical exercise,
+you have to go through the homework

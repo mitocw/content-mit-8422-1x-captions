@@ -1,0 +1,192 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 183 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Our main topic today is to understand light forces,
+in particular the stimulated force,
+using the dressed atom picture.
+And I hope once you understand how light forces can
+be described in the dressed atom picture,
+you will love the dressed atom picture,
+as most atomic physicist do.
+It is really the language we use, the intuition
+we apply to atomic systems.
+Whenever we have a laser beam which drives the atom,
+it is in most situations more appropriate and better
+to use dressed states as your basis states,
+and not the naked, the bare states, which
+are ground and excited state.
+Now I know last week I quickly went through the dressed atom
+picture.
+Let me go through in a fly over by not
+doing any of the derivation, but making a few comments here
+and there.
+Also, because I want that some of the results
+are fresh in your head when we apply it
+to mechanical forces of light.
+So I told you that in dressed atom picture
+we have two kinds of interactions.
+The atom interacts with the vacuum
+with a razor wire of empty modes or spontaneous emission.
+And they also interact with the laser field.
+And the new feature about the dressed atom picture
+is that we first saw this exactly,
+we re-diagonalize the Hamiltonian for that Hilbert
+space, and then we allow spontaneous emission to happen.
+Now, the derivation is pretty straightforward.
+After a number of assumptions, we simply came to the 2
+by 2 matrix where we have two levels of the atoms coupled
+with a Rabi frequency.
+I derived it here for you using the quantized electromagnetic
+field, but in your homework, you do your life the same 2
+by 2 matrix using a classical electromagnetic field which
+drives the atoms.
+And we've talked about the similarities and differences
+last week.
+Now, the 2 by 2 matrix is fairly trivial.
+We can immediately diagonalize it.
+And we find eigensolutions, which
+are just sine theta, cosine theta
+amplitude, linear superpositions of the naked states.
+And the naked states are ground and excited states,
+state A state B with n or n plus 1 photons in the laser field.
+
+So it's simple.
+It's just a 2 by 2 matrix, but the insight
+we can get out of it is pretty profound and pretty subtle.
+So what we first discussed is, and we really
+need that to understand forces and energy conservation,
+we can now look at spontaneous emission.
+Spontaneous emission coupling to the empty modes of the vacuum
+can only connect an excited state B with a ground state A.
+And therefore, we have diachromatically
+those four combinations, represented here
+by those four arrows.
+And if you look for the matrix element,
+you collect cosine theta and sine theta factors.
+And that's what we did here.
+So we immediately get in the dressed atom picture
+an expression which tells us what
+are the matrix elements for the carrier, for the blue
+and for the [INAUDIBLE] of the Mollow triplet.
+But then there is something else,
+and I added this to the lecture notes in green.
+We can also now, if you know what the transition rates are,
+we can set up rate equations and can solve them.
+And once you solve a set of differential equations for rate
+equations you know what the populations are.
+But now today I want to tell you one more subtlety.
+You know already that you cannot,
+in the most general situation, formulate an equation with just
+a population.
+You know that we have master equation,
+we have the optical Bloch equation.
+This is an equation for the density matrix.
+And usually we get equations where the populations
+are mixed with coherences.
+In other words, you cannot just say the diagonal matrix element
+of the density matrix is the population,
+and the change of population is what goes out of this state
+and what arrives in this state.
+Coherences play a role.
+But, and this is what dressed atom picture does for you,
+in the limit that we have a strong Rabi frequency,
+and this is the limit you want to consider here,
+the matrix equation decouples into an equation
+for populations and an equation for coherences.
+And if something decouples, that should tell you
+we are on the right track.
+We have the right description.
+In this description things decouple, things are simpler.
+And that means this description is
+most appropriate for the physics we want to understand.
+Or to say it more specifically, and all the details of course
+are in the book "Atom Photon Interactions",
+you can rewrite the optical Bloch equations
+not in the bare basis, but in the dressed atom basis.
+And in the dressed atom basis, you
+find this wonderful separation between populations
+and coherences.
+
+So we have these simple rate equations
+by setting the left hand side with 0,
+we find the steady state populations.
+This will be very important to understand the light forces.
+But you should just remember the steady state solutions.
+We know them.
+They are just exactly given by this angle theta which tells us
+what kind of superposition of the bare states
+form the dressed states.
+Remember in the case of theta equals 45 degrees
+the dressed states are just symmetric and antisymmetric
+superpositions of the naked states.
+Now, what is also important are those rate
+equations have a time constant.
+The time constant is here the relaxation time
+for populations.
+And we know exactly what it is.
+So it's a little bit more complicated to find
+the equivalent equation for the coherences.
+But just take my word.
+The density matrix in the dressed atom basis
+decouples into an equation for population which is simple.
+The equation for coherences is a little bit harder derive
+but looks the same.
+And from this equation we have now an expression for what
+is the relaxation time for coherences.
+And just to show you one non-trivially example,
+if you add up cosine squared plus sine squared, you get 1.
+But based on what we derived, we have
+to take cosine to the power 4, sine to the power 4.
+And this gives us an effect of one half, which
+will appear somewhere in an important place
+in a few minutes.
+
+So with that, we can now address,
+we know now something about the intensities of this Mollow
+triplet because the intensity is nothing else
+than the population.
+What is the population in the initial state times the matrix
+elements squared.
+But what comes out very naturally
+is that we have different widths.
+The features have different widths.
+The side bands have a different width
+from the central part of the Mollow triplet.
+And well, this is now very naturally interpreted.
+One has a width which is the relaxation
+rate for the population.
+The other one, the side bands have
+a width which is the relaxation rate for the coherences.
+
+I showed you, and this was just a reminder of a few weeks ago,
+that when we looked at the linear matrix equation, which
+is the optical Bloch equations, we
+discussed complex eigenvalues mathematically.
+And those complex eigenvalues, the imaginary part
+is the side band frequency.
+And the real part was the width.
+What I have now is sort of, I can get everything
+from the dressed atom picture.
+But what I have gotten in a very natural and simple way
+is this case, which is the case where the dressed atom
+picture is particularly simple.
+It's called a secular case where the population and coherences
+decouple.
+And so what I just showed you is that the population relaxation
+time is gamma over 2.
+This explains now why in this case,
+the widths of the central feature
+is one half of what it is when we're on resonance.
+So everything is sort of nicely playing out here.
+
+OK any questions about dressed level populations, rate
+equations, the Mollow triplet?
+Because we want to apply it now, in a few minutes,

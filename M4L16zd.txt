@@ -1,0 +1,42 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zd.txt
+#
+# Captions for 8.422x module
+#
+# This file has 33 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK.
+We had a discussion last time about we have the force,
+we find exactly what happens to the atoms,
+but we may have to think about it in different ways
+to figure out where the kinetic energy goes from.
+And I think I mentioned it already in the last class
+that what happens is you have a [INAUDIBLE] laser, which
+is the photons I absorbed.
+But the atom is scattering light in all directions.
+And so if you go 90 degrees, you don't have a linear Doppler
+shift.
+If you go forward, backward with the same probability
+as geometric pattern, the Doppler shift averages to 0.
+So in average, you emit photons, which are on resonance.
+And therefore, every time you scatter a photon,
+you radiate away the energy which
+is equal to the Doppler shift.
+
+That means initially when the Doppler shift is huge,
+each photon transports away a lot of energy.
+And this lower the atoms are, the less the photon
+transports away.
+But that makes sense.
+If you have a huge velocity and you subtract h by k,
+the momentum of the photon, the kinetic energy
+is quadratic in velocity.
+The h by k, the momentum transfer of a photon
+takes out more kinetic energy the faster
+the velocity of the atoms is.
+So everything makes sense.
+It is consistent.

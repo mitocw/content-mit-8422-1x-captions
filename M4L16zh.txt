@@ -1,0 +1,116 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zh.txt
+#
+# Captions for 8.422x module
+#
+# This file has 107 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+However, the magneto-optic trap is not so simple.
+I would actually say nobody fully
+understands the magneto-optic trap,
+because we have a multi-level structure.
+We don't have just one count level.
+A sodium [INAUDIBLE] atom has--
+
+f equals one and f equals two--
+has eight different hyperfine levels.
+So there is not one level, and we can excite the atoms,
+there are eight different levels.
+And those laser beams do optical pumping
+among those eight levels.
+And you have to solve eight equation
+for eight different levels.
+And the amazing thing is it still works.
+It still works pretty much at least qualitatively as well
+as I just described to you.
+So it's a combination of optical pumping and Zeeman shifts.
+It even works better than advertised,
+because as I will tell you in the next few weeks
+you can reach temperatures because
+of the multi-level structure.
+You reach temperatures which are much colder than the Doppler
+limit.
+It's called polarization gradient cooling.
+It's just as if you have laser beams
+and you have atoms with hyperfine structure,
+they are colder than the Doppler limit.
+First nobody understood it, and then
+Bill Phillips figured it out, and that he figured out
+why atoms get colder.
+This was at least the main point emphasized by the Nobel
+Committee when he got the Nobel Prize for laser cooling.
+Of course, he had already invented Zeeman slowing before,
+so he had a few other things under his belt.
+But anyway, the fact that the MOT works
+even better than advertised is another miracle.
+And this is related to the hyperfine structure.
+And finally, the fact that you can simply extend it
+to three dimension is, I said, the first or second
+maybe the third miracle, it also works,
+because when you look at the field of two
+coils, this so-called anti-Helmholtz field,
+there are some directions where the magnetic field is not
+just-- where the direction of the magnetic field
+is not radially outward.
+This is a much more complicated magnetic field.
+It goes outward here, outward here,
+but in between the quadrupolar field it sort of curves.
+There are some directions where the magnetic field is not
+radial.
+And you would say, hey, the one dimensional
+scheme is [INAUDIBLE] set.
+Actually, before the magneto-optic trap
+was demonstrated, Dave Pritchard's student, Eric Robb,
+did calculations on what happens in these diagonal directions,
+which have no resemblance to the one dimensional scale.
+The solution is in those directions the trapping form is
+a little bit weaker, but the big picture is it doesn't matter.
+So there was an idea conceived in one dimension
+for a simple atom structure, and this idea worked even better
+for real atoms and in three dimensions.
+OK, in your homework assignment you
+will put in some numbers, which show
+what happens if you take a vapor, an alkaline vapor
+at a very low density of 10 to the 8 per cubic centimeter,
+pressure of typically 10 to the minus 8 Tor
+and you arrange six laser beams around it.
+Well, those laser beams have a restoring force in velocity
+that means they cool and increase the phase space
+density of your sample by eight orders of magnitude.
+Those laser beams have also a restoring force
+in the spatial dimension.
+Therefore, you get a cloud which has three orders
+of magnitude higher density.
+
+So the temperature goes down by eight orders
+of magnitude, which means the phase space density is enhanced
+by 12 orders of magnitude.
+So if you're talking about the goal of reaching
+Bose-Einstein condensation, which requires a phase space
+density of one, just having a dilute vapor
+and these six laser beams with a little bit of magnetic field
+increases your phase space density
+by 15 orders of magnitude.
+So this is why molasses and [INAUDIBLE]
+were real milestones.
+Now with 15 orders of magnitude, you
+are just four or five orders of magnitude
+away from Bose-Einstein condensation.
+And we will discuss in a week and a half
+what techniques were needed to bridge
+the gap between those temperatures
+and densities [INAUDIBLE] the degeneracy of gases.
+
+So anyway, so that's the story of the magneto-optic trap.
+So I'm also telling you that because I'm
+proud that a lot of the pioneering work in this regard
+happened at MIT.
+It was Dave Pritchard who realized that the Optical
+Earnshaw theorem can be circumvented,
+and it was him in collaboration with Steve Chu
+that they together realized the first magneto-optic trap.
+And this was in 1987.

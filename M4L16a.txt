@@ -1,0 +1,106 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 97 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Today is a conceptually simple lecture,
+because I'm not really introducing some subtleties
+of quantum physics.
+We know our Hamiltonian, the dipole Hamiltonian.
+This is the fully quantized Hamiltonian,
+how atoms interact with the electromagnetic field.
+And of course, it's fully quantized
+because E perpendicular is the operator
+of the quantized electromagnetic field.
+And it's the sum of a plus a dagger.
+But when it comes to forces, it's actually fairly simple.
+We don't introduce anything else.
+This is our Hamiltonian.
+This is the energy.
+And the force is nothing else than the gradient
+of this energy.
+So I decided today--
+it's rather unusual, but I will have everything pre-written,
+because I think the concentration of new ideas
+is not so high today.
+So I want to go a little bit faster.
+But I invite everybody of you, slow me down
+if you think I'm going too fast, and if I'm skipping something.
+Also, another justification is at least
+the first 30%, 40% of the lecture you've already
+done as a homework assignment when
+you looked at the classical limit of mechanical forces.
+You actually had already, as a preparation
+for this class, a homework assignment
+on the spontaneous scattering force and the stimulated dipole
+force.
+Well, the only subtlety today is,
+how do we deal with a fully quantized
+electromagnetic field?
+But what I wanted to show you in the next few minutes
+is in the end, we actually do approximations
+that the quantized electromagnetic field pretty
+much disappears from the equation.
+We have a classical field.
+And then almost everything you have done in your homework
+directly applies.
+The only other thing we do today is the dipole moment.
+Well, we use, for the dipole moment of the atom,
+the solution of the optical Bloch equation.
+So we get rid of all the quantum character
+of the electromagnetic field in two stages.
+One is the following-- well, we want
+to describe the interactions of atoms with laser fields.
+And that means the electromagnetic field
+is in a coherent state.
+And you know from several weeks ago,
+the coherent state is a superposition
+of Fock states, coherent superposition, and such.
+So they are really photons inside.
+It's a fully quantized description of the laser beam.
+And this is something if you're not familiar,
+you should really look up.
+There is an exact canonical transformation
+where you transform your Hamiltonian into, so to speak,
+a basis transformation to another Hamiltonian.
+And the result is, after this unitary transformation,
+the coherent state is transformed to the vacuum
+state.
+So in other words, the quantized electromagnetic field
+is no longer in a coherent state.
+It's in a vacuum state.
+But what appears instead is a purely
+classical electromagnetic field, a C-number.
+So you can sort of say--
+I'm waving my hands now--
+the coherent state is a vacuum with a displacement operator.
+All the quantumness of the electromagnetic field
+is in the vacuum state.
+And that's something we have to keep because this
+is responsible for spontaneous emission, quantum
+fluctuations, and such.
+But the displacement operator, which
+gives us an arbitrary coherent state, that
+can be absorbed by completely treating
+the electromagnetic field classically.
+
+So therefore, we take the fully quantized
+electromagnetic field, and we replace it now
+by a classical field and simply the vacuum fluctuation.
+So there are no photons around anymore.
+There is the vacuum ready to absorb the photons.
+And then there is a classical electromagnetic field
+which drives the atoms, and of course,
+the classical electromagnetic field
+is not changing because of absorption emission,
+because it's a C-number in our Hamiltonian.
+So this is an important conceptional step,
+and it's a first step how we get rid of the quantum
+nature of the electromagnetic field
+when it interacts with atoms mechanically.

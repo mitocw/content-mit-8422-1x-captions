@@ -1,0 +1,116 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16q.txt
+#
+# Captions for 8.422x module
+#
+# This file has 107 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+That means that we have a heating rate.
+The heating rate we just talked about, the increasing P square.
+Well, if you divide by 2 times the mass,
+it's an increase in kinetic energy.
+So the increase in kinetic energy
+is given by this expression.
+
+And it is common if you have a heating process
+to introduce a momentum diffusion
+coefficient in that way.
+It's just a definition.
+It shows you how P square increases per unit time.
+And now we can get the cooling limit for spontaneous emission,
+namely by saying, in steady state when we have,
+due to photons scattering, the same amount of heating
+and the same amount of cooling, the temperature
+will have asymptotically reached a steady state value.
+
+The heating rate was parametrized
+by momentum diffusion coefficient D over M.
+So this is sort of independent of the velocity of the atom.
+Where, as you remember, the cooling rate
+was proportional to the energy because it
+was an exponential approach to zero energy.
+
+So therefore when we have the heating equals the cooling,
+we have the energy of the atoms there.
+And therefore we find that the energy
+of the atoms in steady state is given by, actually,
+the ratio of heating versus cooling.
+It's in simple expression.
+The energy or the limit in temperature for molasses
+is the ratio of heating versus cooling.
+Heating is described by a momentum diffusion coefficient,
+and alpha is described by the damping force.
+I want you actually to keep this expression in mind.
+A limiting temperature in laser cooling is always--
+actually in other processes in laser cooling
+is the ratio of heating over cooling and momentum diffusion
+coefficient due to heating over a friction
+force due to cooling.
+Because we will later find polarization
+gradient cooling, cooling in blue molasses.
+We will find other cooling schemes
+where we will calculate with the appropriate model
+the heating and cooling.
+And I don't have to repeat this part.
+The moment I calculate the heating, the momentum
+diffusion, and I calculate the friction,
+I know what the limit in temperature is.
+Again, when I said that the energy is kT over 2,
+you know of course kinetic energy
+is kT over 2 times the number of degrees of freedom.
+I assumed 1D here.
+So in everything I've said on this page,
+there are numerical factors which
+may change whether you assume 1 or 2 or 3 dimension.
+We had an expression for alpha.
+Remember we had this Laurent's proof
+the other Laurent's proof and alpha was just a slope.
+I mean, everything is known, I just
+didn't bother to calculate it.
+But it just involves derivatives of Laurentian
+And now we can ask, what is the lowest
+temperature we can reach?
+Well you can now analyze your expression for alpha
+for a two-level system solved by the optical Bloch equation.
+And you find that you will have the most favorable conditions
+for low temperature, you get the minimum possible temperature
+in the limit of low laser power.
+And your optimum detuning is half a line widths away.
+And then you find this famous result
+that if you cool a two-level atom,
+the limiting temperature is simply
+given by the spontaneous emission rate,
+or the line width of your transition gamma.
+And this is the famous result for the Doppler limit.
+For sodium atoms it's 250 microkelvin.
+For rubidium and cesium, because of the heavier mass,
+it's lower.
+It's tens of microkelvin.
+50 or 100 microkelvin.
+So this is the famous limit.
+And the physics of it is the following--
+the narrower the line width is, then you can say,
+the better you can cool particles down
+to zero temperature-- and I think,
+Jenny, your idea with the Raman process
+comes, now, in very handy.
+I can have an atom and I can have a Raman process where
+I scatter photons and go to higher energy,
+or I scatter photons and go to lower energy.
+And the difference between the two processes
+is actually the one that, whether I cool
+or whether I heat, comes from the Doppler effect.
+So the more I can discriminate through the Doppler effect,
+the better I can cool.
+But the Doppler effect, the Doppler shift kv--
+how well I can resolve it depends on the width
+of the atomic transition.
+The narrower the atomic transition,
+the more the Doppler effect can steer the laser cooling,
+the Raman process towards lower velocity,
+not towards higher velocity.
+So that's an expected result, that the natural line

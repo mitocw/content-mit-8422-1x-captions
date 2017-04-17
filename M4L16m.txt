@@ -1,0 +1,92 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16m.txt
+#
+# Captions for 8.422x module
+#
+# This file has 83 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So I've explained to you the dissipative force,
+the active force.
+And in the next unit, I want to show you, simply, applications
+of the spontaneous force.
+In every experiment on cold atoms,
+the spontaneous force is center stage.
+It is necessary to slow down atomic beams.
+It provides molasses, which is a cooling of atoms
+to micro-Kelvin temperature.
+And the spontaneous force is also
+responsible for the magneto optic trap.
+So what I want to do here is, again,
+by showing you the relevant equations, how
+the spontaneous force, which we have just discussed,
+how this spontaneous force leads to those three applications.
+So this is one of the most experimental sections
+of this course, because this equation has it all in it.
+And I just want to show you how this equation can
+be applied to three different important experimental
+geometries.
+OK.
+So this is our equation.
+It has the momentum transfer per photon.
+It has the maximum scatter rate gamma over 2.
+And then, here, it has the Lorentzian line shape.
+And the important thing is, when we talk about molasses and beam
+slowing, is that the detuning is the laser detuning
+and the Doppler detuning.
+So the velocity dependence enters now
+the spontaneous force through the detuning in the Lorentzian
+denominator.
+And it enters through the Doppler effect.
+So you can pretty much say it like this.
+If you have a bunch of laser beam
+and slow and cool your atoms, how can the lasers do the job?
+Well, we measure the velocity of the atoms with the Doppler
+shift.
+And it is the Doppler shift which
+tells the laser beams what to do, so to speak.
+And this is how laser cooling works.
+So just as an experimentalist, you should actually
+know what the scale is.
+If somebody asks you, how strong is the spontaneous scattering
+force?
+Well, way to connect it with real-time unit--
+with real-life units is--
+what is the maximum deceleration?
+Well, this is 10 to the 5G.
+You can ask, is 10 to the 5G a lot, or not?
+Well, for an astronaut, it would be a lot.
+No living organism can sustain 10 to the 5G.
+But I'm really surprised.
+When I did this calculation, when you compare it
+to the electric force on an ionized atom,
+the same force which is provided by the spontaneous light force
+would be provided by an electric field of one
+millivolt per centimeter.
+So it's not easy, if you have a stainless steel chamber,
+to avoid [? patch ?] effects which
+create those electric fields.
+And if you had a battery with nine volt a centimeter apart,
+just a 9-volt battery, it would accelerate an ion four orders
+of magnitude faster than your beloved, strong, spontaneous
+light force.
+So in that sense, 10 to the 5G is
+a lot in the macroscopic world.
+But if you would look at microscopic forces, which
+are often electric forces, it's absolutely tiny.
+And sometimes, I say, the fact that you
+can do 100 killivolt per centimeter,
+that you can make electric forces which are seven, eight,
+or nine orders of magnitude stronger,
+that's actually the reason why ion traps
+were invented before trapping of neutral particles.
+So some developments in the field
+of trapping particles and eventually laser cooling them,
+it first started with ion traps.
+And then, it proceeded to neutral atoms.
+And the reason is the ion trappers
+have forces at their disposal which are eight or nine
+orders of magnitude stronger.

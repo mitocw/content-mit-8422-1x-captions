@@ -1,0 +1,83 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zn.txt
+#
+# Captions for 8.422x module
+#
+# This file has 74 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, let's get some mileage out of it.
+We will talk about light forces--
+that's really interesting, and I hope it's another highlight
+of this course--
+to describe light forces in the dressed atom picture.
+What I want to do here is already
+in preparation for that.
+I want to not yet introduce forces, simply
+figure out what happens in the dressed atom picture
+when the atoms scatter light.
+And you know already the solution.
+The solution is the Mollow triplet.
+We have discussed, with your optical Bloch equations,
+that at low laser power, the Mollow triplet
+has three curves.
+It has three broadened curves, and they
+have different broadening.
+I didn't prove it to you, but I mentioned to you
+at low laser power there is--
+perturbative laser power we discussed at great length
+that there's a delta function.
+And at low laser power, that delta function remains.
+This is sort of the spectrum we get out of it.
+What I want to show you now is how this spectrum is described
+in the dressed atom picture.
+Atom-Photon Interaction has a wonderful discussion
+of all the details.
+I will share with you a few highlights.
+We will go much further in the description of the Mollow
+triplet than we've gone before.
+I will not go to all excruciating details.
+Let's discuss first something we hadn't done so far.
+What are the intensities in this Mollow triplet?
+
+The way we obtain it is the following.
+We have the manifold, the manifold with N minus one,
+and the manifold within photons.
+This is the detuning, and if you allow for the atom laser
+coupling, the split in here is a generalized Rabi frequency.
+You immediately see that in this picture, if you allow
+spontaneous emission from the upper manifold to the lower
+manifold, you have four different combinations.
+One is the long photon, it's the blue sideband.
+This is the red sideband.
+This is blue sideband, this is a red sideband,
+and those two are the carriers.
+But now we can do the following.
+I've just written it down for you
+the solution of the wave function
+with sine and cosine theta.
+
+If we want to emit the blue sideband, we go from the top
+to the bottom.
+But that means since the photon in the rotating wave
+approximation can only be emitted when we go from b to a,
+we find that the matrix element for that
+involves cosine theta times sine theta.
+However, if you want to emit the carrier,
+you go from here to there.
+We always have to find the excited state to begin with.
+
+I must have made a mistake.
+
+Sorry.
+When I want to emit the blue sideband, I go from all the way
+up to all the way down, and I always
+have to find an excited state which
+connects to the ground state.
+This gives me a term, which is cosine square.
+The short, the red detuned sideband gives me sine square.
+And if I want to get the carrier, this one,
+I go from here to here.

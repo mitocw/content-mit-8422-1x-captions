@@ -1,0 +1,157 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16k.txt
+#
+# Captions for 8.422x module
+#
+# This file has 148 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Questions?
+Yes, Jean.
+--The same process as a Raman process,
+except for [INAUDIBLE]?
+Or is it just a--
+It is a Raman process.
+Actually, everything is a Raman process here,
+because in laser cooling, in everything
+which involves the motion, the external degree of freedom
+of the atoms, we have an atom in one momentum state.
+Light scattering always has to involve the excited state.
+And then, we go down to a different momentum state.
+So therefore, laser cooling is nothing
+else than Raman process, yes, the external degree
+of freedom of the atom.
+You may be used to use the word, Raman process,
+more when you start in one hyperfine state
+of the molecules in one vibration or rotation state,
+and you go to another one.
+But well, Raman, for vibration and rotational states
+and hyperfine states, the word Raman is used all the time.
+I usually use it also for the external motion,
+because I think it really brings out
+common features between all those different Raman
+processes.
+So you can actually say that the reactive force is stimulated
+Raman process between two momentum states
+where both legs are stimulated by laser beams.
+In a standing wave, it would be the two legs
+would be stimulated by the two traveling wave components
+of the standing wave.
+Whereas, the dissipative force is spontaneous Raman process
+where one leg is driven by the laser,
+and the other one comes from spontaneous emission.
+
+Mickey?
+When the atoms slow down, the stimulated emitted photon
+has to [INAUDIBLE]?
+And vice versa, when it accelerates [INAUDIBLE] with
+the emitted photon must have--
+So the spontaneously emitted photon?
+Yeah.
+Just I was thinking of actually the stimulated form
+because they are not stimulated [? measurements. ?]
+But I'm confused how, when the energy of the emitted photon
+must be [INAUDIBLE] due to the phase modulation?
+Or it can have both stimulant and [INAUDIBLE] frequency
+than that.
+I mean, this is--
+I mean, we had the discussion after [? Bovi's ?] question.
+If you up and down and you are stimulated,
+you go up in a stimulated way, you go down
+in a stimulated way, and both laser fields which
+stimulate the transition have the same frequency omega,
+you would actually see that there is no energy exchange.
+So at our current level of description,
+we have described where the force comes from,
+but we don't understand yet where the energy goes
+or where the energy comes from.
+And this is really more sophisticated.
+And I don't want to continue the discussion.
+We will encounter one situation, and this
+is in the [? tres ?] atom picture,
+where we will discuss, in a week or so, Sisyphus cooling.
+And we will find out that there is symmetries in the molar
+triplet.
+So again, we will find the missing energy
+in spontaneous emission.
+But if we don't have spontaneous emission, if we just
+have atoms moving in an optical lattice
+without spontaneous emission, it is really what I said,
+the phase modulation.
+And I would probably ask you, at this point,
+to do the homework assignment and maybe
+have a discussion afterwards.
+Because then, you know exactly what I'm talking about.
+
+Does that, at least--
+you can take that as a preliminary answer?
+Yes.
+That's good.
+So these are the two limiting cases.
+One is spontaneous emission, and the other one
+is phase modulation at a certain frequency.
+One can be sustained in steady state.
+You can spontaneously emit, and an atom
+goes through a standing wave.
+And this is sustainable.
+Whereas, the phase modulation thing is actually a transient.
+It's an oscillation, which is [? ADN ?]
+Yeah.
+Just there are some things there--
+like, one is the--
+one [INAUDIBLE].
+
+Yeah.
+Actually-- If that helps you, but it's the following.
+I would sometimes say the--
+you know, I like intuitive explanations
+of quantum physics.
+Let's assume I'm an atom.
+I'm in a bruda tube standing wave.
+And you don't know it yet, but I do Sisyphus cooling.
+By just exchanging photons, a stimulated force,
+I'm actually cooling.
+And you would say, how is it possible?
+Because all the photo exchanges involve
+the same photon, the same energy,
+how can I get rid of energy?
+And I think what really happens is the following.
+The atoms can lose momentum without energy.
+But due to Heisenberg's uncertainty relationship,
+this is possible.
+So the atom is first taking care of its momentum,
+is losing momentum by stimulated force.
+And eventually, before its too late, it
+has to do some spontaneous emission
+where it is paying back its debts in energy to Heisenberg.
+And of course, after a certain time, everything is OK.
+The force was provided by exchanging photons
+of identical frequency.
+And the energy is provided by an occasional spontaneous emission
+event, using one of the molar sidebands.
+So everything is there.
+Everything is a perfect picture, but you
+have to sort of, in this description,
+allow a certain uncertainty that the force is
+the exchange of identical photons,
+and the energy balance is reconciled
+in spontaneous emission.
+And on any longer time scale, there
+are enough events that the balance is perfectly matched.
+But if you will take the position, no, this is not
+possible, the atom can only--
+has to-- with one--
+I mean, its sort of in diagrams.
+It's not that one diagram which scatters a photon
+has to conserve energy.
+You have a little bit of time.
+You have Heisenberg's uncertainty time
+to sort of make sure that another diagram jumps
+in and reconciles energy conservation.
+That's at least my way of looking into it,
+but it's maybe my personal interpretation
+of how all these diagrams and photon scattering
+events work together.

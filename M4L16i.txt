@@ -1,0 +1,150 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 141 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Any question?
+[INAUDIBLE]
+What if there is a net change in the atom's function?
+The energy still has a [INAUDIBLE]
+can make that one move three times faster if you want.
+
+This question has bothered me in many different iterations.
+And at some point I found a very, very easy answer to that.
+And this is one of your homework assignments
+for homework number 10.
+There is a very simple example where you will
+realize where the energy comes.
+
+What happens is, in steady state if everything
+is stationary, of course there can't be an exchange.
+But if you are, for instance, saying--
+and I give you now part of the solution, if you have atoms
+and they are attracted by the dipole force.
+There is a strong laser beam and the atoms are accelerated in.
+And you are now asking, where does the energy come from?
+Because all what the atoms do, at least according
+to what I'm telling you, they redistribute
+photons of energy HPA omega into photons of energy HPA omega.
+So where does the energy come from?
+You have to go higher in the approximation here
+to understand where the energy comes from.
+Let me just tell you one thing.
+This is actually something which I've encountered several times.
+And it can be really confusing.
+I've really proven to you mathematically
+that this is false.
+So in this level of treatment with these very simple
+concepts, we correctly obtain the optical false.
+But if you are now asking--
+
+where does the energy go?
+You have to go deeper.
+And for instance, what happens is,
+if you take a cloud of atoms and the cloud of atoms
+moves in and out of a laser beam--
+just think of it as center of mass dipole oscillations
+of a Bose-Einstein condensate in an optical dipole trap.
+What happens is, when the atoms move in and out
+they actually act as a phase modulator for the laser beam.
+The index of refraction of your laser beam is changing.
+So therefore-- and we don't deal with that
+when we replace the electromagnetic field
+by a c-number.
+Your laser beam when the atoms move in
+will actually show a frequency modulation.
+And you will find-- and it's a wonderful homework assignment.
+I'm pretty proud that we created that and that it works out
+so easily.
+You will find that the kinetic energy of the atoms
+is exactly compensated by the energy
+shift of the photons which have passed through the atoms.
+But I'm giving you a very advanced answer.
+It's often very difficult. If you
+have a simple picture for the force to figure out
+what happens to the energy.
+
+Actually, let me give you the other example.
+The previous example, we have atoms
+and we have a laser beam which cools with radiation pressure.
+This was our previous example.
+Where does the energy go?
+Our wonderful correct within the assumptions
+and exact expression for the force.
+Where does the energy go?
+
+The atoms have a counter-propagating laser beam.
+They scatter photos with this rate.
+Every time they scatter a photon,
+they slow down by h-bar K. They lose energy.
+We have a complete description what
+happens in the momentum picture and in forces.
+
+Where does the energy go?
+The energy the atoms have lost.
+They absorb a slightly higher frequency
+because of the Doppler shift.
+And then slow down and then re-release a photon
+of slightly lower energy.
+Exactly.
+So in that case, it's actually depends which way.
+When the atom loses energy, the energy
+goes into blueshifted photons.
+I'm just saying, in order to address the question-- what
+happens to the energy, we have to bring in, now, physics
+which we didn't even consider to address here.
+It is now the physics of the spontaneously emitted photons.
+We said for the force spontaneous emission,
+vacuum fluctuations can be eliminated.
+But if you try to understand, where does energy go?
+We have to go to those terms.
+And we even find the physics of Doppler shifts,
+which we didn't put in it, which we didn't even assume here.
+But of course it has to be self-consistent.
+So therefore you sometimes have to go to very different physics
+which is not even covered by your equation to see
+the flip side of the coin.
+One side is forces, which are very simple.
+But the other side of the coin can be more difficult.
+We'll actually come back to that when
+we talk about cooling blue molasses,
+cooling with a simulated force.
+How can a simulated force cool?
+Because it's all you.
+We'll get there.
+And it will again be--
+the energy will be extracted through spontaneous emission
+form all those side bends and all that.
+So we have to trace down the energy.
+And we successfully will do that.
+But energy can be subtle.
+Forces are simple.
+
+Other questions?
+
+Actually when I explain to you where the energy goes
+in a dipole trap that it's a phase modulation for the laser
+beam--
+I have been using optical dipole traps
+in my laboratory for many, many years
+before I really figured out where the energy goes.
+And I'm almost 99% certain.
+If you go to [INAUDIBLE] and ask some of the experts
+on cooling and trapping and ask them to figure out
+this problem, most of the people will not
+be able to give you this answer.
+I've actually not found the answer
+in any standard textbook of laser
+cooling until I eventually found it myself and post it
+and prepared it as a homework assignment.
+So many, many people may not be able to give you
+the correct answer.
+Where does the energy go when atoms slosh around
+in a dipole trap.
+Try it out at [INAUDIBLE] it may be fun.

@@ -1,0 +1,124 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 115 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So what I've shown here is, and this
+is the situation we want to focus on for a while,
+assume you focus a laser beam.
+Then plot it as a function of position.
+The atom is outside the laser beam.
+It goes into the laser beam, where it experiences
+the electromagnetic field.
+And if it goes further, it has crossed the laser beam,
+and is out of the laser beam again.
+OK, so what happens is, the splitting between the two
+dressed energy levels is the generalized Rabi frequency.
+And this is outside the laser beam, simply the detuning.
+But then when the laser beam is on,
+the generalized Rabi frequency gets larger.
+We have a larger splitting between the dressed energy
+levels, and so on.
+What is also important is that if the laser is
+red detuned, which is here, the lower dressed level correlates,
+corresponds, to the ground state,
+whereas for blue detuning, the ground
+state in this limit, the ground state
+correlates with the upper dressed level.
+So it's important.
+So therefore, an atom in this situation--
+because atom's are always more in the ground state than
+in the excited state--
+an atom will have more population
+in the upper dressed level.
+And here, it will have more population in the lower dressed
+level.
+OK, so what we want to do now is we
+want to rewrite the stimulated light force or the dipole force
+as--
+we want to express it through the forces acting
+on the dressed atom level.
+Well, I told you that we have a splitting of the dressed energy
+levels by the generalized Rabi frequency.
+So therefore, if I just cover that,
+the energy level of the two dressed
+levels is h bar over 2 plus/minus the generalized Rabi
+frequency.
+And the force, if an atom is in one of the dressed levels
+is simply the gradient of that.
+So therefore, we have the picture
+that the two dressed energy levels--
+the atoms in those two dressed levels--
+always experience opposite forces.
+
+Then an expression for the net force
+is that the average dipole force is the force in dressed level 1
+times the probability that the atom is in dressed
+level 1, and the same for 2.
+And if we sum it up, we get exactly the expression
+we have derived earlier for the stimulated light force.
+But let's just sort of look at it in the following picture.
+If we are blue detuned, and let's assume
+we're not saturating the transition,
+so therefore, the atom will be mainly in the ground state.
+So you have more population in that state.
+But if the laser power is 0, we have 100% population here.
+But when the atom moves into the laser beam,
+there is a superposition of ground and excited state.
+But it also means there's a superposition of upper
+and lower dressed level.
+But we have always, of course, more population
+in the dressed level which connects to the ground state,
+because an atom will--
+
+it also comes out of the solution, but it's natural.
+Just assume you make the laser beam weak.
+You start in the ground state and everything
+is sort of connected.
+The ground state is simply dressed by a small excited
+state contribution.
+So that explains it, why, for blue detuned light,
+the physics is mainly in the upper dressed level.
+And we see the repulsive dipole force of a blue detuned laser,
+whereas for red detuned light, the dominant population
+is in the lower dressed level.
+And we have an attractive force.
+Well, that's simple.
+We haven't gained so much, but we'll see.
+We can now rapidly gain insight by taking it to the next level.
+Let me first mention a trivial example.
+And this is when we are on resonance.
+When we are on resonance, we have equal population
+in the two dressed states.
+They are resonantly mixed.
+And therefore, if the population in the two
+dressed states is the same, but the atoms experience
+opposite forces, that means the dipole force average out to 0.
+
+In a few minutes, I want to calculate for you
+what the heating is.
+The dipole force is 0.
+But you know the atom in this radiative cascade
+is making transitions between upper and lower dressed level.
+So what does it mean for the atom?
+When it is in one dressed level, it experiences a force
+from this side.
+If the atom is in the other dressed level,
+it experiences a force from that side.
+So the atom is actually subject to an average force,
+which is 0.
+But if you take this picture literally, and you can,
+the atom is really whacked left, right, left, right, left,
+right.
+And there is fluctuations.
+And we can use those fluctuating forces to immediately calculate
+what is the heating.
+The force average is 0, but the fluctuations of the force
+cause heating.
+So that's immediately the next step of physical insight

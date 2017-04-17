@@ -1,0 +1,79 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16p.txt
+#
+# Captions for 8.422x module
+#
+# This file has 70 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We now want to put in the fact that the force fluctuates.
+And that means we have heating.
+Before I do that, let me just tell you what the solution is
+for force equals minus alpha times v. Well,
+it means we extract energy out of the system at a rate--
+well, energy per unit time is force times velocity.
+Force times velocity is now minus alpha times v square,
+but v square is the energy, the kinetic energy.
+In other words, this equation tells us
+that the atomic motion, the kinetic energy,
+is exponentially [INAUDIBLE].
+And if there were nothing else, you'd
+just need two laser beams, optical molasses.
+And you would go not just to micro-Kelvin, but to nano
+and pico-Kelvin temperatures.
+It's an exponential decay to absolute zero.
+However, we don't reach nano and pico-Kelvin temperatures
+in laswer cooling, because there are other processes.
+And what is important here is spontaneous emission.
+So the way you treat spontaneous emission is the following.
+You know, every time an atom emits spontaneously,
+there is a random momentum kick of h bar k.
+If you have n photons scattered, because the momentum kicks
+go in a random direction, they only
+add up in a random [INAUDIBLE].
+You get square root n.
+Or if you ask, what is the average of p square
+due to spontaneous emission?
+It is the momentum of the photon squared times the number
+of scattering events.
+So therefore, in the form of a differential equation,
+the heating rate, or the temporal derivative
+of p square, goes now with the number
+of photons per unit time, which is the scattering rate.
+If you would stop here--
+that's what many people do who explain
+heating in this situation-- you would miss half of the heating,
+because what you have treated here
+is only the photon transfer and spontaneous emission.
+However, there is also fluctuation in absorption.
+I mean, just look at two atoms in the ensemble, kind of me
+and another atom.
+And we both scatter photons.
+On average, in the same laser beam, we absorb n photons
+and get n momentum kicks.
+But there is the Poissonian statistics--
+how many photons I absorb and how many
+photons my twin brother absorbs.
+So therefore, due to the randomness in absorption,
+or the fluctuations in absorption,
+there is another square root n variance
+in the recall kicks, which comes from the absorption process.
+And it so happens, for exactly that reason, that the heating--
+the derivative of kinetic energy,
+or the different of momentum squared due to absorption--
+is exactly the same as in emission.
+
+Well, if you now make different assumptions,
+spontaneous emission has a dipole pattern,
+and you get factors on the order of unity, depending
+what the pattern of the spontaneous emission
+is, whether you make a one-d or two-d model
+of spontaneous emission, that the photons can only
+go in one dimension, two dimension, or three dimension,
+so you have to get other pre-factors.
+But the picture is that, without going into numerical factors
+on the order of unity, you have fluctuations in absorption.
+You have a randomness in spontaneous emission.

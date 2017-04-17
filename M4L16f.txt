@@ -1,0 +1,138 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 129 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, you know everything which is complicated
+has been approximated away now.
+And now we have a very simple result.
+So I'm pretty much repeating what
+you have done in your homework, but now with expressions which
+have still the quantum character of the Optical Bloch Equations.
+So let's assume that we have an external electric field.
+It's parametrized like that.
+At this point, by writing it like this,
+I leave it open whether we have a standing wave.
+If you have a traveling wave, of course,
+we have a phase vector kr, here.
+If we have a standing wave, we don't have this phase vector.
+So I have parametrized the electromagnetic field
+in such a way that we can derive a changeable expression.
+And then we will discuss what happens in a traveling wave
+and what happens in the standing wave.
+
+I make one more assumption, here,
+namely that the polarization is independent of position.
+I'm just lazy if I take derivatives
+of the electric field.
+I want to take a derivative of the amplitude
+of the electric field.
+And I want to take a derivative of the phase
+of the electromagnetic field.
+I do not want to take a derivative of the polarization.
+Of course, what I'm throwing out here
+is all the interesting cooling mechanisms
+of polarization gradient cooling when
+the polarization of the light field
+spirals around in three dimensions.
+We'll talk a little bit about that later on.
+I just want to keep things simple here.
+
+OK, so now if we take the gradient
+of the electromagnetic field.
+Finally, we have approximated everything which
+complicates our life away.
+And we have two terms.
+One is the gradient x on the amplitude
+of the electromagnetic field or the gradient x on the phase.
+
+And since we have taken a derivative--
+we take the derivative of the phase.
+Because of the chain rule, the cosine changes into sine.
+
+So therefore, the gradient of the electromagnetic field
+has a cosine in-phase and an in quadrature component.
+And now, for the force, we have to multiply
+this with a dipole moment.
+And of course, we will average over one cycle
+of the electromagnetic wave.
+And of course, that's what we discussed.
+There is a u and v component of the block vector, which
+gives rise to an in phase and in quadrature component
+of the dipole moment.
+And now if you combine, if you multiply
+the gradient of the electric field with the dipole moment.
+And average the cosine part goes with the cosine part,
+the sine part goes with the sine part.
+And the cos terms average out.
+So therefore, we have the simple result
+that we have two contributions to the optical,
+to the mechanical force of light.
+And the u component, the in-phase component
+of the dipole moment goes with the amplitude of the gradient.
+And the in quadrature component goes
+with the gradient of the phase.
+So in other words, when it comes to light forces,
+the cosine component and design component of the dipole moment
+talk actually to two different quantities associated
+with the electromagnetic field.
+It's just in-phase and in- quadrature.
+OK, now so this is--
+
+now I just have to tell you a few definitions and names.
+This component, which goes with the in-phase component
+is called the reactive force.
+Whereas the other one is called the dissipative force.
+The name, of course, comes that if you have an harmonic
+oscillator, the component which oscillates in quadrature
+absorbs directly energy.
+Whereas the in-phase component does not absorb energy.
+I leave it for a little bit later
+in our discussion, how you can have a force and not
+exchange energy.
+That's a little bit of a mystery when
+we talk about cooling with a reactive force.
+We will have to look, scrutinize what happens with energy.
+Because at least in the most basic way,
+the in-phase component of the oscillating system
+does not extract energy from the electromagnetic field.
+So maybe just believe that for now
+when we look and maybe scrutinize it later.
+Any questions?
+So we have now obtained the reactive force, which is also
+called the dipole force or stimulated force,
+and the dissipative force, which is also
+called the spontaneous force.
+The next thing is purely nomenclature.
+We want to introduce appropriate vectors
+which point along the gradient of the phase
+and which point along the gradient of the amplitude.
+And this is done here.
+So we want to say that the reactive
+and the dissipative force are written
+in a very sort of similar way.
+But one of them points in the direction
+of a vector alpha, the other one in the direction of a vector
+beta.
+The beta vector is the gradient of the phase.
+If the phase is kr, the gradient of the phase
+is simply k, the k vector of the electromagnetic wave.
+So that will come in handy in just a few seconds.
+Whereas the reactive force points
+into the direction of the gradient of the amplitude.
+But we never want to talk about electromagnetic field
+amplitude.
+For us, we always use the electric field
+in terms of the parametrized rabi frequency.
+The rabi frequency is really the atomic unit
+of the electric field.
+So therefore, this vector which involves now
+the gradient of the amplitude, becomes a normalized gradient
+of the rabi frequency.
+So these are the two fundamental light forces, the reactive

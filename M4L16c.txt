@@ -1,0 +1,53 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 44 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+What we need now is the solution for the dipole moment.
+Because it is the dipole moment, which
+is responsible for the mechanical forces.
+The dipole operator is, of course,
+n, the non-diagonal matrix elements, the coherency's
+of the density matrix.
+So all we want to take now, from the previous unit,
+the expectation value of the dipole moment,
+which is nothing else than the trace
+of the statistical operator, is the operator
+of the dipole moment.
+
+At this point, just to guide you through,
+we go from the lab frame, from the density matrix
+in the lab frame to the density matrix in the rotating frame.
+And this is when the laser frequency appears
+as e to the i omega L t.
+And therefore, we want to describe things
+in the lab frame, if we use the u and v
+part of the optical block vector obtained in the rotating frame.
+In the lab frame, everything all states at the laser frequency.
+If you drive an atom, if you drive an harmonic oscillator
+with a laser frequency, the harmonic oscillator responds--
+it delays a frequency, not at the atomic frequency
+we discussed that a while ago.
+So therefore, the dipole moment oscillates
+at the laser frequency.
+And the two components u and v, since our laser field
+was parametrized by definition, epsilon0 times cosine omega t.
+You We have now nicely separated with the optical block vector,
+the in phase part of the dipole moment
+and the in quadrature phase of the dipole moment.
+
+If you want to--
+if you didn't pay attention to what I said in the last five
+minutes, that's OK.
+You can just start here saying the expectation
+value of the dipole moment oscillates
+with a laser frequency.
+And as for any harmonic oscillator or harmonic
+oscillator type system, there is one component which is in-phase
+and one component which is in quadrature.

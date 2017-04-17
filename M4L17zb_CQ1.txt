@@ -1,0 +1,36 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zb_CQ1.txt
+#
+# Captions for 8.422x module
+#
+# This file has 27 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, talking about electric and magnetic forces.
+You may think it's a trick question,
+but it's rather subtle.
+All optical forces were derived from the electric dipole
+Hamiltonian d dot e.
+This is what we use as a starting point
+for light forces.
+So my question is, what about the Lorentz force?
+The Lorentz force comes from the magnetic part
+of the electromagnetic field.
+Now, is there a Lorentz force on the atoms?
+And if yes, does it contribute to the light forces?
+Or is it negligibly small?
+
+Actually, the question I'm asking you,
+I don't think it's addressed in any textbook.
+And I think you can go to conferences
+and ask some of your colleagues.
+You may get a wide range of answers.
+So but anyway, has anybody of you thought about it?
+Is there a Lorentz force on neutral atoms?
+If no, we are done.
+If yes, does it contribute?
+Is it negligible?
+Or is it even dominant?

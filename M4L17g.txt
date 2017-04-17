@@ -1,0 +1,229 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 220 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+Let me just summarize.
+The traced atom picture has given us
+two pieces of major insight into the stimulated force.
+The first one is that the atom experiences always
+opposite forces in the two traced levels.
+And it is a population imbalance between the two traced levels
+which results in a net force.
+And this requires either red deturning, then the force
+is repulsive, or blue detuning--
+sorry, red detuning, and then the force is attractive,
+or blue detuning, then is the force repulsive.
+Second, with this time lag thing,
+we understand that time lag, [INAUDIBLE],
+is the way to get cooling.
+And the third things we have learned, when the atom does
+the radiative cascade, the force, when
+it goes from the upper to the lower trace level, the force
+is suddenly reversing its sign.
+And this causes fluctuations that shakes up the atom.
+And this causes heating.
+And this has nothing to do with the other heating mechanism we
+discussed earlier, namely, every time there
+is spontaneous emission, there's a random recoil.
+
+In strong laser fields, the fluctuations
+of the stimulated force, which has
+nothing to do with spontaneous emission,
+are much, much larger than the photon recoil.
+So therefore, for strong laser fields,
+it is this alternation of the force when
+atoms switch traced energy levels, which
+is responsible for most of the heating.
+I want to come now to another physical situation which
+is actually wonderful.
+You learned about Sisyphus cooling.
+Everybody in cold atom speaks about Sisyphus cooling,
+because it's a very, very elegant cooling scheme.
+We usually apply, in the laboratory,
+Sisyphus cooling when we do polarization gradient cooling.
+I will tell you a few things later.
+But this is much harder to understand than the Sisyphus
+cooling, which takes place for a two-level atom
+moving through a blue detuned a standing wave.
+So in other words, I try to explain now to you
+what Sisyphus cooling is.
+The relevant application is multi-level polarization
+gradient cooling, which I give you an idea,
+but it's hard to fully describe.
+But here, in our current discussion
+on the two-level atom interacting
+with one laser beam, or one standing wave,
+we find the simplest physical realization
+of Sisyphus cooling.
+So just to make sure that you are following the argument,
+I have so far explained to you why
+blue detuned light cools in the limit of very small velocities.
+Very small velocity means we did a first order Taylor
+expansion in this lag time.
+But now, I want to discuss with you a different regime, namely
+that the atom moves with a velocity such
+that it can go up and down several periods of the standing
+wave before it does spontaneous emission.
+So before, when we discussed the friction coefficient,
+the velocity was infinitesimal.
+But now, I assume that the velocity is such
+that the atom can surf a few waves,
+and then it will spontaneously emit.
+And let me assume that we are blue detuned.
+So the atom, let's say here, where the splitting is minimal,
+well, this is where we don't have light.
+The generalized Rabi frequency is just the tuning,
+So we are in a node of the standing wave.
+And then the atom starts in the ground state,
+and it experiences the periodic potential
+due to the standing wave.
+But we are going to now ask, OK, when did spontaneous emission
+happen in this picture?
+Well, it cannot happen here, when the atom is in the ground
+state, when there is no light.
+But when there is light, when the atoms moves
+to an anti-node, there is a mixture, indicated in red,
+of the excited state.
+So in other words, when an atom does this roller coaster,
+it will most likely emit a photon, either the carrier,
+or one of the sidebands, when it is
+at the maximum of the potential corresponding
+to an anti-node where it experiences the light.
+OK.
+When the atom emits on the carrier,
+it goes from the upper traced level
+to the upper traced level.
+Then nothing has happened, because the atom
+is in the same traced level.
+Let me now discuss the case when something happens.
+And this is when the atom decays from the upper traced level
+to the lower traced level.
+And at least for weak excitation,
+the lower traced level corresponds
+to the excited state.
+In other words, when there is no light,
+the upper traced level was ground state,
+the lower traced level is excited state.
+But what happens now is actually interesting.
+The atom had to climb up the hill,
+but the spontaneous emission to the lower traced level
+takes the atom to the bottom.
+So you can say, on average it has climbed a hill here,
+but now it is at the bottom.
+And now we want to ask, how does the atom get out
+of the lower traced level?
+Well, the lower traced level is mainly excited when the--
+it's 100% excited, if there is no light.
+But if there is light--
+and light means the generalized Rabi frequency is larger--
+the excited state has now an admixture
+of the ground state, because the light mixes
+ground and excited state.
+So now, of course, whenever there is red,
+you can spontaneously emit.
+But there is a probability that the atom
+is more likely to emit when you are in a pure excited state,
+and not in a mixed state.
+So now, talking about the lower manifold,
+the atom does its roller coaster.
+It has a velocity that it can cover
+several periods of the standing wave in one lifetime,
+but there is a higher probability for the atom
+now to emit when it is on top of the hill.
+So that's remarkable.
+We have the upper traced level, we have the lower traced level.
+The atom is doing the roller coaster.
+But whenever it emits a side band, whenever
+it switches state, it mainly does it
+by emitting at the top of the hill.
+And after the spontaneous emission,
+it finds itself at the bottom of the hill.
+So on average, the atom is climbing more uphills
+than downhills.
+And this is called Sisyphus cooling.
+I think you've all heard about the Greek myth of King
+Sisyphus, who was condemned.
+He challenged the gods, and he got his punishment.
+And his punishment was that he always has
+to roll a stone up the hill.
+And when he's done, the stone falls down,
+and he has to roll the stone up.
+So in other words, we have condemned the atoms
+to the same verdict.
+They always have to go uphill to work.
+Then they fall downhill with the help of a spontaneous photon.
+But then, they have to climb uphill.
+And it is the uphill climb where they experience a net friction
+force which cools the atoms down and reduces
+their kinetic energy.
+
+So this is Sisyphus cooling.
+And since I need it in a few minutes,
+I just wrote down for you, based on this simple and wonderfully
+elegant picture, how much energy does
+the atom lose per unit time.
+What is the cooling rate?
+Well, it's clear that the cooling rate
+comes when the atom switches from one
+traced energy level to the next, because nothing
+happens on the carrier.
+So it is the transition rate between traced level one
+and trace level two.
+And then we multiply with u0 the debts
+of the optic lattice, because it is this energy difference which
+is extracted from the atom.
+
+You may ask, OK, what is time limiting?
+It's really the transition rate from the first traced level,
+which is mainly the ground state,
+to the other traced level, which is mainly exciting state.
+Because once the atom is in this level, which is mainly
+the excited state, it will pretty much
+do the next transition at a rate which
+corresponds to the spontaneous emission rate.
+So in other words, if you're not fully on resonance,
+or if you're not saturated in laser power,
+the rate 1:2 is slower than the rate 2:1.
+And therefore, this radius is the rate limiting step.
+
+Let me show you just a few pictures.
+What I'm just explaining to you was explored very early on.
+Just have to sort of put you back,
+that it was in the mid-80s, '82, '83, '84, that people developed
+[? Zaman ?] slowing.
+It was in '85 that optical molasses with red detuned light
+was demonstrated for the first time.
+It was in '86 that the dipole trap was demonstrated
+by Steve Chu, and in '87 that Steve Chu and Dave
+Pritchard introduced the magneto optic trap.
+So the mid to late '80s were fantastic times
+where one important technique was realized and demonstrated.
+And this was actually the first major experimental paper
+of a new laser cooling group, which
+was founded by [INAUDIBLE], at the L'ecole Normale Superior
+in Paris.
+And it was exactly about cooling atoms with stimulated emission.
+And this is blue molasses. [? This. ?]
+And you exactly see here, out of this paper, the Sisyphus
+cooling mechanism.
+
+And addressing the question about red detuned light here,
+this was actually beam experiment.
+You had a blue detuned standing wave,
+and you were sending an atomic beam through.
+And if this atomic beam was cooled,
+the divergence of the atomic beam was reduced.
+So this experiment had only one blue detuned standing
+wave, and nothing else, because it was not
+a trapping experiment, it was a beam collimation experiment.
+And what is shown here is that you
+have the original atomic beam profile.
+And for blue detuned light, you make it narrower.
+So this is cooling.
+Whereas, for red detuned light, you were defocusing,

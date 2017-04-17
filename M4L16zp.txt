@@ -1,0 +1,79 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zp.txt
+#
+# Captions for 8.422x module
+#
+# This file has 70 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So this is a steady state solution,
+but now we can go back to the rate equation
+and say the time derivative of the rate equation
+has to relax to the steady state.
+This is nothing else than rewriting the equation above.
+But by rewriting the equation above in that way,
+we find now the prefector in front of--
+I mean here, what you have is the time
+derivative is given by the difference of steady state,
+and this is the relaxation coefficient.
+And the relaxation coefficient is--
+that's the solution.
+You just have to do the substitutions yourself.
+The relaxation coefficient, how population
+relates to steady state is now given
+by the sum of the two rates.
+One is going from the upper to the lower,
+and from the lower to the upper state, and each of those rates
+has been expressed by sine squared and cosine squared.
+OK, I'm not doing it here because it's a little bit more
+complicated, but you can also rewrite for the dressed atom
+picture what happens--
+you can rewrite those equations in a way what
+happens not to the population, but what
+happens to the coherences, to the off-diagram matrix
+element formulated in the dressed state basis.
+And what you find is, you find a correlation time, a relaxation
+time for the coherences.
+Remember, for the naked state, populations relaxed with gamma.
+Coherences relaxed with gamma over 2.
+This is where the optical Bloch equations.
+But now we have formulated the physics in the dressed atom
+picture.
+And what the solution is is the following.
+This is sort of weak laser power,
+but, in the most general case, what you find
+is that the width of the central peak
+reflects the relaxation time for the population,
+and the width for this is the relaxation time
+for the coherences in the dressed atom picture.
+So we had, before, with the optical block equations,
+I showed you different cases.
+We had a three quarter gamma.
+I need two more minutes, and I'm finished with my unit.
+So we had to weird factors of three quarters,
+and I showed you how they come from the eigenvalues
+of the matrix of the optical Bloch equation.
+But now we understand them physically,
+namely, the center feature has a peak
+which is the relaxation time for the populations
+in the dressed atom picture.
+And the side bands have a width, which is the relaxation
+time for the coherencies.
+And they no longer differ by a factor of two
+as in the naked bases in which we formulated the Optical Bloch
+Equations.
+By the way, I know a lot of you may be curious
+about the coherent peak.
+You can read about it in API.
+It's 10 pages about correlation function.
+But, in the end, the weight of the delta function
+can be, again, described by values we have just calculated.
+We've just calculated steady state populations
+and transition rates, so this weight
+is nothing else than another combination of sine squares
+and cosine squares of this angle theta.
+So everything is wonderfully and simply described,
+the full physics of that, by just this inner theta

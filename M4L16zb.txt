@@ -1,0 +1,119 @@
+#
+# File:   content-mit-8422-1x-captions/M4L16zb.txt
+#
+# Captions for 8.422x module
+#
+# This file has 110 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Well, I know we had discussions about to take two beams which
+form a standing wave and take it sort of apart
+and calculate the force for each beam.
+Well, sorry, this is what molasses is about.
+Molasses is about two beams.
+And if you want to treat two interfering laser
+beams in the full generality, there
+are a lot of other effects, some of them
+we will be uncovering in the next few lectures.
+But I'm happy now when I discuss beam slowing
+to give you when there is only one single laser
+beam, decelerating atoms.
+That is the only situation I know about where you have
+an exact analytic solutions.
+So I want to present it to you now.
+Actually, for a number of years, I presented the exact solution
+with one laser beam before I presented molasses where
+I have to make approximations.
+But I always felt that beam slowing is more complicated
+because you have to go to a decelerating frame
+and have to add fictitious forces.
+So some of the intuition is lost.
+So that's why I first presented you with molasses
+with two beams for which I need to make approximation
+because interference pattern between two laser beams
+has richness and complexity.
+But now I discuss beam slowing with you.
+So this curve here could be the result
+of the very early beginnings of laser cooling in
+the late '70s, early '80s.
+And this is when people had an atomic beam with a Boltzmann
+distribution.
+And they had one laser beam counter-propagating.
+But the laser beam had a fixed frequency.
+And what is this laser beam doing?
+Well, it resonantly interacts with the atoms,
+which just have the correct Doppler shift
+to be in resonance.
+Those atoms are pushed, scatter photons
+are pushed to lower frequencies, to lower velocities.
+But they are pushed out of resonance
+and eventually the slowing becomes the slower and slower.
+And eventually, things come almost to a standstill.
+So a laser beam which has a fixed frequency
+would modify the velocity distribution
+over an atomic beam in that way.
+People call [INAUDIBLE] cooling.
+And I think some pioneers in Russia
+who did thoughts experiments were disappointed
+that they were not honored with a Nobel Prize in laser cooling.
+This was the first cooling because this distribution here
+is considerable narrower than here and temperature is
+nothing else than a measure of the width of the velocity
+distribution.
+But one can say that those experiments did not trigger
+a revolution in atomic physics.
+The evolution came when people eventually figured out
+how they can narrow down this peak from maybe 100
+or tens of kelvin down to million micro-kelvin.
+So it's clear what is needed.
+If you want to do more slowing, you
+have to sort of make sure that you are talking
+to the other velocities.
+And if you eventually sweep many velocities into one peak,
+clear out the velocity distribution,
+collect all the atoms and put them
+at a monochromatic velocity.
+So for that, you can say, well, if you use a comb of frequency
+or broad spectrum of frequencies,
+you could sort of clean out a larger area.
+And indeed, there are techniques like this, white light slowing
+or diffuse lights slowing.
+But since those techniques are not
+any more of practical importance,
+I don't want to discuss them.
+Let me talk about the simplest technique,
+at least conceptually, which is chirped slowing.
+And this works like follows.
+You start with a laser beam, which is initially in resonance
+with the velocity group.
+And as the atoms slow down, you change the detouring
+of the laser that the laser stays in resonance
+with the atoms.
+So it is a pilot's technique, where you
+have a continuous atomic beam.
+You start with a laser and say, now I start slowing.
+And the laser is following a group of atoms
+as they are decelerated.
+So you can say it is like the atoms are riding the surf.
+The laser is always following the atoms
+as they change the velocity.
+And what is, of course, necessary for that to happen
+is that the chirp and the deceleration of the atoms
+are synchronized.
+You will see that in a moment when I
+put this idea into recreations.
+There is another technique which is
+used in many labs, actually, in all my labs
+and Martin Zwierlein's lab.
+It's called Zeeman slowing.
+And this is discussed in your homework.
+It is a CW version of chirped slowing.
+And a lot of you know what I mean.
+The physics which goes on there is almost identical.
+But for conceptional reasons, it's
+easier not to use magnetic fields and such.
+Let's just keep it simple.
+Let's have one laser beam talking to two level atom.
