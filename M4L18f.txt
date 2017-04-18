@@ -1,0 +1,197 @@
+#
+# File:   content-mit-8422-1x-captions/M4L18f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 188 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+There is one addition we have to make to the model,
+and this is the following.
+We have to introduce losses, losses which
+do not come from evaporation.
+It can be losses due to background gas
+collisions or losses due to inelastic collisions.
+So let me just show you how I introduce that.
+I mean, I told you that the logarithmic change
+of any quantity goes with the logarithmic change in the atom
+number times the coefficient.
+And for reasons which become clear in a moment,
+I'm now not looking at the temperature or the density
+or the phase-space density.
+I'm really interested in the collision rate,
+because the collision rate is what
+drives evaporative cooling.
+As long as we have collisions, the cooling
+can go on, so I want to focus now
+on how does the collision rate change during evaporation.
+And during evaporation, what we are changing
+is the number of atoms because they are evaporating.
+So by just putting everything we have said together,
+I have this expression.
+I assume that the number of atoms
+changes as a function of time with the rate at which
+high-energy atoms are produced.
+And the rate-- the time constant for this
+was lambda, the ratio between the evaporation time
+and the elastic collision time times the elastic collision
+time.
+So this is just rewriting what we have discussed so far.
+But now I introduce that there is another loss
+rate due to inelastic collision technical problems and such,
+which has a time constant of tau loss.
+And if I now do introduce the famous ratio
+of good to bad collisions, good collisions
+are elastic collisions, which drive evaporation.
+Bad collisions are collisions where atoms are just
+lost due to technical reasons and inelastic collisions.
+So if I define this ratio of good to bad collisions,
+I have now this equation here for the--
+which tells me how the collision rate changes with time.
+Just wondering is a dt missing here or not?
+Yes.
+So there should be a dt.
+So this tells me how the relative, or how the collision
+rate changes in the function with the function of time.
+But now remember, since this is not
+the derivative of the collision rate,
+it's a derivative of the collision
+rate over the collision rate, it's a logarithmic derivative.
+What we are talking here about, if you please add dt to it,
+we are talking about is the collision rate exponentially
+growing when this coefficient is positive or is it
+exponentially decaying when this coefficient is negative?
+So you realize that we obtain a threshold condition
+when this coefficient is larger or smaller than zero,
+and this is called the threshold for runaway evaporation.
+So let me just summarize.
+The physics of power loss, the physics of exponential increase
+and decrease, actually means that the experimental situation
+is often talking about a threshold.
+If you are above threshold and you get evaporative cooling
+going, you have a positive exponent,
+and it will go faster and faster and faster.
+If this exponent is negative, you
+have slowed down evaporation, you can evaporate a little bit,
+but it will pretty much come to a standstill.
+So this is why quite often, the experimental realization
+of evaporative cooling requires to put enough atoms
+from the laser cooling stage at sufficiently low temperature
+into a magnetic trap that you fulfill the threshold condition
+for runaway evaporation.
+
+Any questions about that?
+So in other words, what we have found out,
+we have found here an expression for the threshold
+of runaway evaporation, and it tells us
+that we need a minimum ratio of good to bad collisions.
+We may need 100 elastic collision
+until we have one inelastic collision,
+and then our ratio is 100.
+And you will see in a minute, if this ratio is 100,
+if then we can make the right-hand side in such a way
+that we have runaway evaporation.
+OK.
+So the left-hand side is the ratio
+of good to bad collisions.
+This maybe determined how good our vacuum is.
+What determines the right-hand side?
+Well, we talked about it.
+Delta is our trap, our trapping potential, linear or quadratic.
+Alpha and lambda depend on the threshold Ada,
+how aggressive are we in setting a threshold in energy
+for the evaporating atoms.
+And what I'm showing you here is the condition.
+If I vary the ratio Ada, I call this expression Rmin,
+and my ratio of good to bad collisions
+has to be better than that.
+If you just look at the solid curve for a parabolic trap,
+this shows you that you have to pick your parameter Ada
+sort of between five and seven.
+If you pick Ada too fast, evaporation is too slow
+and you need a much better ratio of good to bad collisions.
+In other words, you need a better vacuum, for instance.
+But if you put Ada too low, you are not
+cooling enough because you're cutting
+too deep into the distribution.
+You will also realize that if you take a linear power-law,
+like a quadrupole trap, you get the dashed line,
+and the dashed line has a much lower ratio of-- has
+a much lower value of Rmin.
+In other words, if your vacuum is not good enough
+and you have losses, in a linear trap,
+you can still overcome it by picking your Ada
+in this regime, whereas for a parabolic trap,
+you need at least a two or three times
+better vacuum to get into the runaway regime.
+
+Anyway, this is how you can look at those equations
+and figure out what is needed to get into evaporative cooling.
+Colin.
+Do you need to be in a runaway regime to get PEC?
+Not necessarily.
+Some early experiments have done--
+I think the experiment, the first experiment
+of Eric Cornell, I think they never saw this speed up.
+They had sort of constant evaporation.
+Maybe the evaporation, the cooling rate
+was even slightly going down.
+So you don't necessarily need the exponential speedup,
+but you have to be in a regime where, at least, if you're not
+gaining speed, you're not losing too much speed.
+But yeah, I mean, you can just take the equations
+and analyze them and figure out if you
+are in a favorable regime.
+And ultimately, it's fairly easy to integrate those equations
+as a function of time and have completely realistic models.
+But what I presented to you here is a sort
+of a simple analytic model.
+And I used the criterion for runaway evaporation
+to discuss how you have to pick your truncation parameter
+and what happens if you have a different trapping potential.
+So based on those models, you will find out
+that if you truncate at an Ada parameter of six, you'll lose--
+every truncation of the Maxwell-Boltzmann distribution
+means about 1% loss in the atom number.
+And after 600 collisions, after 600 elastic collision times,
+you have lowered the atom number by 100,
+but your phase-space density has increased
+by six orders of magnitude.
+And that means if you have two orders of magnitude
+in the number and get six orders of magnitude
+in the phase-space density, then your gamma factor, which
+I haven't really defined it here,
+but it's of the effector which tells you
+how the phase-space density increase.
+Every order of magnitude in the number
+boosts the phase-space density by three orders of magnitude.
+And that's regarded as very favorable.
+So in other words, we have talked
+a lot about laser cooling.
+In laser cooling, in the standard laser cooling schemes,
+you are typically six orders of magnitude away
+form quantum degeneracy.
+And this sort of tells you how evaporative cooling
+can get you there.
+You should expect to lose approximately a number of 100
+in the number of atoms.
+And that's what it takes you to go from laser
+cooling to quantum degeneracy.
+
+And you can estimate what your time
+is by asking what is an elastic collision rate
+right after laser cooling.
+If your elastic collision rate is two seconds,
+and you take 600 collisions to get to PEC,
+you know that it will take you 20 minutes
+and you'd better work on a vacuum with just 20 minutes'
+lifetime.
+Or, alternatively, you improve your laser cooling
+or you do some idiopathic compression
+in your magnetic trap to make sure
+that your elastic collision time is faster,
+that you can afford 600 collisions within the lifetime
+given by other parameters.

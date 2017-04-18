@@ -1,0 +1,194 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 185 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We can now use the traced atom picture
+to calculate the heating.
+Remember the final temperature you can reach
+was always the ratio between a heating coefficient,
+which is actually the momentum diffusion coefficient,
+over alpha.
+So right now we have understood the alpha part.
+We know the physical picture.
+y alpha provides cooling why we have a friction
+force for blue-detuned light.
+But let's now take it to the next step
+and calculate what is the heating.
+And I mentioned it already in the context
+of simple molasses, which we discussed two weeks ago,
+that we describe heating by the momentum diffusion coefficient.
+Well, the momentum diffusion coefficient
+tells you that p square is simply
+cooling as a function of time.
+If you have a cold cloud and you heat it up,
+you can describe the heating by the [INAUDIBLE] of p square.
+If you don't like momentum, divide p square by 2m
+and you have the kinetic energy, which increases.
+So it is this momentum diffusion coefficient.
+And if you have a cloud which moves with an average momentum,
+you only want to have the p square minus p average square.
+But if you think about a cloud which is being cooled,
+the second term is [INAUDIBLE].
+OK.
+So the momentum diffusion coefficient
+is the derivative of p square, but the derivative of p
+is simply the force.
+So therefore we can absorb the derivative by replacing--
+at least one of the p's--
+by the force.
+And we can now get root of the second p
+of the second occurrence of momentum
+by saying, well, momentum is derivative of force--
+or, sorry, derivative of momentum is force, or momentum
+is the integral of force.
+So we can exactly rewrite that momentum diffusion coefficient
+by an integral over correlation function of forces,
+and then we have the nice physical picture
+that the increase of kinetic energy--
+the momentum diffusion coefficient--
+comes because of fluctuations of the force.
+Yes?
+[INAUDIBLE] previous page [INAUDIBLE].
+Let's assume this is what it should be.
+
+OK.
+So here is the reminder-- the kinetic energy--
+if you have a process which causes momentum diffusion,
+the momentum diffusion coefficient
+gives you the heating rate.
+And the cooling rate is given by our friction coefficient alpha.
+And as we discussed in the context of molasses--
+of red-detuned molasses, but it applies to any cooling scheme--
+the finite temperature is when you
+have detailed balance between heating and cooling,
+and therefore it's the ratio of the momentum diffusion
+coefficient over the friction coefficient.
+Nancy.
+In the previous step, what was the significance
+of choosing f of 0 basically?
+
+The time arguments were 0 and 8.
+So we said that f of 0 is [INAUDIBLE].
+We assume that the laser beam's Hamiltonian
+is invariant against time translation,
+and we simply evaluate that at t equals 0.
+So that's so often the argument.
+You have fluctuating forces, and you
+could have fluctuating forces at time t and time t prime.
+But then you use the argument that in a steady state
+solution, the correlation function does not
+depend on t and t prime separately but only
+on the difference.
+And then you simply said one argument
+to zero and the other argument becomes a time difference.
+Other questions?
+OK.
+
+So now, by understanding that momentum diffusion is
+nothing else than the interaction over the force
+fluctuation, we can now use this physical picture
+which I gave you earlier that's an atom, which cascades
+through upper/lower upper/lower trace states,
+will experience opposite but equal forces from the right
+and from the left.
+So I can simply evaluate that by assuming we are on resonance.
+On resonance, the force is h over 2 times the derivative
+of the generalized Rabi frequency.
+And the force correlation--
+what is it?
+Well, it's the force f of zero times f of t.
+But as long as the atom is in one trace state,
+the force doesn't change.
+So I simply take here the force--
+I take the force squared, and then when I integrate--
+when I integrate over that, well, the moment the atom
+makes a transition, there is no longer
+any correlation between the force.
+Everything becomes random and the integral average
+is out of zero.
+So in other words, that's the way
+you should look at this integral.
+You start with the force f zero.
+As long as the force is correlated,
+because the atom hasn't done spontaneous emission,
+you have sort of f of zero, f of zero,
+and you integrate it nominally to infinity,
+but you simply integrate it until some spontaneous emission
+randomizes the system.
+So therefore, this integral over the correlation function
+is nothing else than the force squared times the typical time
+scale for a transition.
+So if we put that in on resonance,
+we have the force here.
+We square the force, and then we multiply
+with the spontaneous emission rate which for a resonance
+system is gamma over two.
+And with that, we get now the heating coefficient--
+the momentum diffusion coefficient--
+
+for an atom, which is exposed to resonant light
+and to the stimulated light force.
+
+The paper-- the references I've given you--
+is simply taking this argument and extending that
+to every [INAUDIBLE] detuning.
+For every [INAUDIBLE] detuning, I told you
+what happens on resonance.
+The atom spins equal amounts in each trace state.
+If you detune, the atom spends more time
+in one trace state, then quickly in the other trace state,
+and then more time in the other trace state again.
+So you can, by simply understanding
+what are the rates for cascading between the trace levels,
+you could pretty much write down the expression, find it,
+and here is the solution taken out of the paper.
+So we have the correct [INAUDIBLE],
+but then if the detuning is non-vanishing,
+we get a contribution from the second factor.
+Colin.
+Are you assuming exponential correlation?
+Exponential behavior to the correlation [INAUDIBLE].
+Because then you might have different [INAUDIBLE]
+if there--
+if you're in a cavity.
+
+Well, what happens is the following.
+I think if you're in one trace state,
+and the force pushes you in one direction
+and you integrate over it, you have an exponential decay.
+But instead of integrating over the exponential decay,
+you can just take the 4 squared and multiply it
+with the average time the atom stays.
+So you are asking--
+in other words, if I have an exponentially decaying
+function, I can always approximate it
+by the function of t equals zero times the time.
+And what you are asking me now is, is the time the one over e
+time, or is it an average time?
+What is the correct time to use here?
+I guess wouldn't the time scale depend
+on how the coefficients decay?
+[INAUDIBLE] different--
+
+Yes.
+OK.
+I agree.
+The shape of the decay of the correlation function
+would matter--
+I'm not going into that--
+but what I am sort of assuming here
+is that the correlation function indicated with time
+is the correlation function of t equals zero
+times the correlation time.
+And how the correlation time is related
+to the exponential time, or if there a small prefect in such,
+that may depend on details.
+Yes.
+You're right.

@@ -1,0 +1,151 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 142 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to wrap up the discussion of the stimulated light force
+by discussing pretty much everything again,
+but in the simplest possible limit.
+That's actually something I haven't found in any textbooks,
+but when I derived it for myself, I--
+it helped me to really understand it.
+It's sort of the perturbative result of the dressed atom
+picture.
+So everything is simpler.
+And by telling you, look at this,
+you know this is just the easiest [? arc shift, ?]
+but in the dressed atom picture, it's a generalized Rayleigh
+frequency.
+You suddenly understand the trivial perturbative result
+and how it translates into the dressed atom picture.
+So what I'm presenting you now, in the next 10 minutes,
+it provides a lot of insight, because it
+connects simple pictures.
+So-- so I'm discussing things here
+in the limit that the detuning is large.
+The detuning is larger than the Rayleigh frequency
+and spontaneous emission rate is the smallest of the three
+rates.
+In that case, I can simply do perturbation theory.
+And I want to show you.
+Also because this is pedagogical,
+I just want to show you how the effects come together.
+I neglect all factors on the order of unity.
+And I set each part to one.
+OK, so let's assume we have a standing wave.
+A standing wave is cosine a x and--
+
+So we have an electric field but we describe the electric field
+with a Rayleigh frequency, so the Rayleigh frequency
+forms a standing wave.
+Now what are the two dressed states?
+The dressed states 1 and 2 are the bare states grounding
+the excited state.
+And then there is a perturbative mixture.
+And in first order perturbation theory,
+we take the matrix element over the detuning.
+So one dressed state is the ground state with a little bit
+of excited state mixed.
+The other dressed state is the excited state
+minus sign the little bit of ground state mixed.
+These are our two dressed states in the trivial limit--
+trivial limit that we can apply perturbation theory.
+OK, what are now the transition rates between the two
+dressed states?
+Well, we want to make spontaneous emission
+from dressed state 1 to dressed state 2.
+We have to go from this small admixture, which
+is the excited state admixture, to the ground state here.
+So therefore, we get the product of the two amplitudes,
+and then we multiply with gamma.
+Of course, most of--
+yeah, so this is the rate to go from dressed state
+1 to dressed state 2.
+What is the inverse rate to go back from dressed state
+2 to dressed state 1?
+Well, you go from the excited state to the ground state,
+multiply with gamma, and that's what you get.
+Sure, we have, in perturbation theory, the coefficient is 1.
+It's only in higher order perturbation theory
+that the co-efficient of the bare state becomes less than 1.
+So isn't that simple?
+I mean, we just discussed it with all the cosine
+to the fore or sine to the fore.
+But now in perturbation theory, this
+is surveyed for going from dressed state 1 to 2.
+And this is surveyed to go the other way around.
+So what is our dressed state potential?
+Well, the dressed potential is simply
+the AC Stark shift, which is opposite for the ground
+and for the excited state.
+And the AC Stark shift in perturbation theory
+is nothing else than matrix elements [INAUDIBLE]
+over detuning.
+So this is u-naught This is the potential of the standing
+wave experienced by the atom.
+
+OK, now we want to do Sisyphus cooling.
+What is the cooling rate in Sisyphus cooling?
+Well, remember Sisyphus cooling--
+we assume that the atom is fast enough to go over several hills
+and valleys.
+The cooling rate is determined by the rate
+at which the atoms reach dressed levels times u-naught.
+And I can scroll back, but u-naught
+will see AC Stark effect and gamma 1, 2
+was this expression we had before.
+So therefore, in this simple picture,
+where everything is perturbative,
+we have a nice expression for the cooling rate.
+Well, now let's get something non-trivial out of it.
+What is the friction coefficient?
+Well, in many situations I've plotted for you--
+the force versus velocity.
+Now I want to plot for you the cooling rate versus velocity.
+That means it's force times velocity.
+And, as we just discussed, when the velocity
+is sufficiently fast, that the atom
+can go over several hills and valleys
+in a spontaneous lifetime.
+The cooling rate will saturate at--
+because it is limited by the rate at which the atom switches
+between dressed levels.
+
+OK, but now the question is, if you
+want to understand what happens at low velocities,
+how should we connect the two?
+Well, you can say we know, for analytical reasons,
+that the force versus velocity has to be linear.
+So the cooling rate, which is another power of velocity,
+should be quadratic.
+And since I neglect all factors on the order of unity,
+this is now--
+the force is friction coefficient times v. So
+therefore, what I drew in red here is
+a parabolic approximation, which is alpha--
+the cooling rate-- times v-square.
+And now if I want to know what is alpha,
+I just sort of connect this parabola
+with the saturated value, which I know.
+And I know the transition happens at the velocity when
+the atom moves further than 1 wavelength in one
+spontaneous emission time.
+So, therefore, based on this very physical picture
+and on the inside--
+How low velocities and high velocities connect together--
+I can actually obtain the friction coefficient
+in this [INAUDIBLE] standing wave by taking the cooling rate
+and dividing it by the velocity at which the atom moves
+1 wavelength per spontaneous emission time.
+
+And if I do that, I obtain this result,
+which I have already quoted earlier to you from the paper
+of [INAUDIBLE].
+It looks fairly non-trivial with power to the 6, power to the 5.
+But this is now the simple perturbative results
