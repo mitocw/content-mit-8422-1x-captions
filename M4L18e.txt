@@ -1,0 +1,190 @@
+#
+# File:   content-mit-8422-1x-captions/M4L18e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 181 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me introduce the experimental constraint which
+is very important by asking the question,
+how efficient can evaporative cooling be?
+So based on the idealistic model which I've presented to you
+so far, what is the highest efficiency of evaporation
+you can imagine?
+Collin?
+I guess in principle, you could remove just one atom.
+Like you're saying, [INAUDIBLE] atom.
+Yes, you'll remove one atom, you weight it
+until you have one atom, which has pretty much all
+the energy of the system.
+One atom evaporates and your whole system
+is as cold as you want to have it.
+Of course, you are laughing because this
+will take much longer than the [INAUDIBLE] time
+of a graduate student at MIT.
+In other words, what you realize, time is a premium.
+And it's not just the [INAUDIBLE] time
+of a graduate student, it's not your patience.
+What happens is in a real experiment, there are losses.
+There is some form of technical heating
+since you are not-- since you don't have a perfect vacuum,
+residual gas collisions cause losses.
+And it's clear, you have a time budget, which is set by losses.
+And either you evaporate in this time budget
+or you've lost your atoms for other reasons.
+So that's now, that's now what you want to bring in.
+We can't make a realistic model of evaporative cooling
+without putting in the constraint of time.
+And the time constraint will be--
+is usually determined by losses, by unavoidable atom losses.
+So now we want to understand what
+is the speed of evaporation.
+And so we assume we truncate, really
+move an amount dt dn of atoms above this threshold.
+And then the question is how fast can we do it again?
+How long does it take for collisions
+to replenish the tail of the Maxwell Boltzmann distribution.
+But now, you can make an analytic model,
+was very pleased when I saw that it
+is so easy to actually get a precise analytic model of that.
+If eta-- in the asymptotic limit, the eta is very high.
+The number of collisions, there is a certain number
+of collisions which replenish the tail and you want to know
+how fast does it happen.
+But now you can use detailed balance in an equilibrium
+situation, those atoms will collide with the bulk
+of the distribution.
+And because they are in a highly improbable state,
+most of the outcomes of the collision
+will put those energetic atoms back
+into the bulk of the [INAUDIBLE] distribution.
+So therefore, the number of particles
+which arrive in this tail, in equilibrium
+is identical to the number of particles
+which will leave this tail.
+
+And so all we have to do is we have to calculate how
+many such collisions happen.
+This is an expression for the fraction
+of atoms with the exponential Boltzmann factor, which
+you can find in this tail.
+And those atoms collide with a velocity which is not
+the thermal velocity, the velocity
+is larger by square root eta because those are fast.
+So by simply multiplying the fraction of the atoms
+with the collision rate, we find how many atoms per unit time
+are removed from this tail and in detail balance
+it means the same number of atoms
+is replenished into the tail.
+So if you now switch to a continuous model
+of evaporation, where we constantly evaporate
+the atoms which are produced through elastic collisions
+with an energy larger than eta kt.
+Then this here is our rate of evaporation.
+Since we want to think in terms of time constant,
+this rate of evaporation is described by a time
+constant for evaporation.
+And this time constant is now expressed here
+by our experimental control parameter, eta.
+Nancy?
+So then you are saying that the collisions are putting that
+into the lower velocity states.
+Are these [INAUDIBLE] that are more defined in the Maxwell
+Boltzmann distribution?
+So then you will, like the system [INAUDIBLE]
+it automatically goes into a new Maxwell
+Yes.
+Boltzmann solution.
+And that's what determines [INAUDIBLE].
+But then you are saying that the collisions
+are putting [INAUDIBLE] with the lower velocities.
+So the collisions are [INAUDIBLE]?
+
+No, we assume here that we have only--
+that the truncation is only weakly perturbing the Maxwell
+Boltzmann distribution.
+And at least the easiest way to figure out
+how many atoms are produced, per unit time,
+if atoms in this truncated Maxwell Boltzmann distribution
+collide, they produce with a certain time constant, atoms
+which we populate the tail.
+And I can estimate what is this number of--
+what is the number of atoms which are per unit time fit
+into the tail by assuming I do not have a truncated Boltzmann
+distribution.
+I have a full Boltzmann distribution.
+And I simply calculate what is the total elastic condition
+made of then of the atoms in this tail.
+So in other words, I want to know how many atoms
+are fed into the tail.
+But I get this number of--
+I get these number of collisions by saying in detailed balance,
+this number of collisions is the same
+as the number of collisions in the full Boltzmann
+distribution, which goes backward.
+And with that argument I can immediately
+write down an expression for what
+is the condition rate which produces high energy atoms.
+
+Think about it.
+It's subtle, but it's fairly straightforward.
+I make the assumption, here, that eta is sufficiently large,
+that I can use sort of properties of the equilibrium
+Maxwell Boltzmann distribution to estimate those eight
+constants.
+And actually when I found the analytic expression
+I could compare to and to [INAUDIBLE], which
+was much more complicated and used
+truncated Boltzmann distribution.
+And in the asymptotic limit of large eta,
+I was in full agreement with the other results.
+OK, so yes, we have an expression now
+for the time constant of evaporation,
+how fast evaporation happens because
+of elastic collisions which populate the high energy tail.
+But usually when you have a time constant,
+you want to express it by another physical time.
+And the physical time which characterizes a gas
+is the rate of elastic collisions per atom in a gas.
+So therefore, I want to express the rate for evaporation,
+the rate for which atoms are produced in the high energy
+tail as a ratio lambda with the time
+between elastic collisions.
+And so we realize, of course, that the atoms which
+have enough energy to evaporate are not produced
+in every elastic collision.
+Actually there is an exponential factor, e to the eta,
+because it's only a small part of those elastic collisions
+which happen, which produces a high energy
+atom which can escape.
+OK, so with that we know how many atoms we
+can lose by evaporation and this is our expression.
+But now we have a complete pretty realistic,
+but a wonderful toy model to discuss all aspects
+of evaporative cooling.
+We have our control parameter, eta,
+which sets the threshold at which atoms can evaporate.
+And this factor eta determines the two relevant parameters,
+alpha, which is the efficiency of evaporation,
+and lambda, which is the speed of evaporation.
+If we set eta very high, following Collin's suggestion,
+we can put it so high that one atom can cool the whole system.
+One lost atom, one evaporative atom, one evaporative-- one
+evaporated atom can cool all the other atoms
+to very low temperature.
+But we know that this will take too much time.
+So in other words, we have a compromise.
+If you set eta very high, each atom which evaporates
+provides a lot of cooling power.
+But high eta means we have exponential slowdown
+in the evaporation rate.
+And we have to wait longer and longer
+or we never get into evaporation because inelastic collisions
+and losses has taken its effect.
+So therefore it seems clear that this interplay
+between efficiency and speed is asking for compromise.
+And this is what we have to realize

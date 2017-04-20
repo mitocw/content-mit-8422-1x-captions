@@ -1,0 +1,236 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zp.txt
+#
+# Captions for 8.422x module
+#
+# This file has 227 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we need minima of the magnetic field.
+This provides magnetic trapping potential,
+and there are two kinds of possible trap configuration.
+One is where the minima is symmetric magnetic field,
+and one is where the minima is a finite magnetic field.
+Now the symmetric magnetic field minimum
+can be simply created with an anti-Helmholtz coil.
+What happens is the magnetic field,
+as a function of position, would actually cross from 0.
+It's just the field gradient which crosses from 0.
+But of course, since we are interested
+in the absolute value of the magnetic field,
+we get the V-shaped potential.
+This V-shaped potential was what was
+used for the first demonstration for Bose-Einstein condensation
+because a V-shaped potential is much, much more
+confining in this [? cusp ?] than in harmonic oscillator
+potential.
+And this had advantages for tight confinement
+and rapid evaporative cooling.
+So those quadrupole traps with the V-shaped potential
+are the best confinement you can get,
+the best confinement for the buck.
+And the buck here is your power supply and your coils.
+However, they have a problem.
+When the magnetic field is 0, we violate [INAUDIBLE]
+because the different spin configurations
+become degenerate.
+And in degenerates, you can't have [INAUDIBLE].
+So therefore, the two first demonstrations
+of Bose-Einstein condensation avoided this [? cusp ?]
+in two different ways.
+One way was to use a rotating magnetic field,
+and to use a perpendicular field,
+but which was time dependent.
+And the MIT solution was to use a [INAUDIBLE] tuned laser beam.
+You see optical dipole trap, optical dipole potential,
+to push the atoms away from the dangerous symmetric field
+region.
+I should say most traps which are now used
+are the other kind of trap--
+the trap which has a harmonic oscillator potential,
+which doesn't have the cusp, and where the minimum is
+at a finite magnetic field.
+Let me just make one comment.
+The rotating trap was very popular
+because it led to the first [INAUDIBLE]
+a lot of people who believe that.
+But to the best of my knowledge, it's only used in a few places.
+And the only real application it has
+is since you have some rotating magnetic field,
+by some modification you can actually
+make a rotating potential.
+And this is nice if you want to study
+Bose-Einstein condensation in a rotating frame between vortices
+and things like that.
+But for simply creating a Bose-Einstein condensate,
+this trap is used by far most frequently.
+But there is actually a Renaissance of this trap.
+I mean, one reason why people use this trap,
+and why my own research group immediately
+switched to this trap and we had the idea how to build it,
+is well, harmonic potential is nice.
+Every physicist loves an harmonic potential.
+You can solve immediately thermodynamics
+in a harmonic potential.
+Who wants to deal with that potential?
+Also, if the laser beam just drifts by a micrometer,
+the symmetric potential becomes asymmetric.
+So you characterize your potential today,
+and a few hours later you have a different potential.
+Whereas, a magnetic potential-- harmonic potential--
+once it's characterized, as long as you don't change the current
+in your power supplies it's the same week after week, month
+after month.
+Well, there is a Renaissance now because a lot of groups
+now do experiments in optical lattices.
+They don't care what shape the potential is because they don't
+do physics in this potential.
+They just take the Bose-Einstein condensate--
+or they're called Fermi gases--
+and transfer them to an optical lattice.
+So in that case, it doesn't play any role.
+And then, the advantage of this potential
+is you get more bang for the buck.
+
+You're saying for using it a much more rapid evaporation
+in the V-shaped versus the [INAUDIBLE].
+Yeah.
+What are sort of the differences in the evap time?
+It depends.
+I may run out of time today.
+I need it.
+I wanted to go through evaporative cooling,
+and I will talk to that for evaporative
+cooling there could be a threshold in confinement
+where you go into a runaway regime
+that evaporative cooling is speeding up.
+So if you are--
+
+little bit of confinement can make the difference
+without never getting into a runaway regime,
+or being in the runaway regime.
+So confinement, extra confinement,
+can make the difference between getting a BEC
+and not getting a BEC.
+
+So it really depends.
+It's highly non-linear.
+But I will show you later on that
+when you put the system together that the kind of threshold
+density at which the cloud can evaporate to BEC
+is much lower here than it is there.
+
+But-- and this is the next thing I want to explain--
+it's not really that this is a linear potential
+and this is a quadratic potential
+because those finite magnetic field--
+these traps which have a minimum at a finite magnetic field
+are usually done in the following way.
+Those traps are called Ioffe-Pritchard Trap.
+Ioffe actually suggested such a magnetic field configuration
+for confinement of plasma.
+And Dave Pritchard was the first to point out
+that such a configuration would be a good choice
+for neutral atoms.
+So I sometimes joke, and I say, well, plasma physics is
+the study of very hot matter.
+Cold atoms it's the study of very cold matter.
+But when matter is either too hot or too cold that you cannot
+put it in an ordinary container, you want to confine it with
+magnetic fields.
+And it happens that for plasma you
+need a minimum of the magnetic field.
+And for neutral atoms, you need a minimum
+of the magnetic field.
+So therefore, here is something which ultra cold atoms have
+in common with plasma physics.
+I don't think there is a lot the two fields have in common,
+but when it comes to magnetic field configurations, yes.
+Similar magnetic field configuration
+can confine a plasma, and can confine neutral atoms.
+OK, so the generic way of how these magnetic fields
+are generated is you want to have
+two coils called pinch coils.
+You can say each of them creates a magnetic field, which decays,
+a magnetic field which decays, and now in the middle
+you have the parabolic minimum.
+But then, you have to add the so-called four Ioffe
+bars, which create a linear potential.
+And this is shown here.
+So the pinch coil is simply creating a local minimum
+along the z-axis.
+And if you only want to trap in one dimension,
+you would be done.
+But you want to trade in three dimension.
+And so, what happens is you add out
+an anti-Helmholtz, or quadrupole field in x and y.
+And this blue field is done by the green bars,
+by the Ioffe bars.
+So you add together a harmonic quadratic field
+in the z direction with a linear quadrupole field in x and z--
+x and y.
+And what matters for the atoms is--
+and what matters for the [? zamen ?]
+energy is the absolute value of the magnetic field.
+So you add those things in quadrature,
+and because you add it in quadrature,
+you have now an harmonic oscillator
+potential in x, y, and z.
+So you have an harmonic trap in three directions.
+However, if this field is not larger than this--
+if this field becomes larger than this field--
+so then when you add it in quadrature,
+you actually get a linear potential.
+So in other words, the Ioffe-Pritchard trap
+is quadratic for small values of x and y.
+But if you go out to large x and y,
+you get the linear potential.
+So in the end, and this is maybe--
+this point to Matt's question-- for high temperature,
+the Ioffe-Pritchard trap is actually not
+harmonic in three dimensions.
+It's linear in two dimensions and harmonic
+in the third dimension.
+So therefore, the hit you take in evaporative cooling
+is not as large as we had initially assumed.
+And the moment we realized that, we were building
+a Ioffe-Pritchard Trap.
+And this has been the traps we have
+been using at MIT ever since.
+Well just as a warning, this is sort
+of the simplified description.
+But if you have curvature, the curvature
+has to fulfill Maxwell's equation.
+And you cannot have a curvature only along z.
+Maxwell's equations are three-dimensional,
+so you get sort of all sorts of curvature terms.
+If you really build a magnetic trap,
+you should understand those.
+If you just want to understand why magnetic traps work,
+the previous slide is sufficient.
+There are different ways to build those traps.
+This is a design we invented at MIT.
+It's called a cloverleaf trap.
+So you have one coil, one coil package
+here, another coil package here.
+And what you see is the pinch coils,
+and when you have two of them, you
+create this parabolic minimum.
+We don't like Ioffe bars because if you have a vacuum chamber
+you either have to put the Ioffe bars into the vacuum chamber,
+or you have to drill holes through your vacuum chamber
+to put the Ioffe bars back in force.
+Don't laugh, some people have done it, of course.
+They put little tubes around it--
+so the very highly engineered vacuum
+chamber where they could string Ioffe bars through the chamber.
+But we realized that the same field as Ioffe bars
+can be generated by taking the Ioffe bars
+and flipping them out.
+And after flipping them out, they
+have the shape of cloverleaves.
+It's just a variant of creating the same field geometry.
+Yes.

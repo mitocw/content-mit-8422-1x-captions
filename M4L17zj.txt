@@ -1,0 +1,82 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zj.txt
+#
+# Captions for 8.422x module
+#
+# This file has 73 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me take this famous paper and show you
+one way how polarization gradient cooling works.
+Which is the most famous form of sub-Doppler cooling.
+And this goes as follows.
+If you have [INAUDIBLE] with two laser beams,
+and the two laser beams are lin perp lin--
+linear polarization perpendicular
+to the other linear polarization.
+So you have two laser beams with these polarization.
+When these two polarizations overlap
+and they have the same phase, you get light at 45 degrees.
+But if these two polarization have 90 degree out of phase,
+you get circularly polarized light.
+So as these two laser beams counterpropagate,
+you periodically go from linear polarized sigma
+minus linear polarized sigma plus.
+So you have spatial--
+at any given point, you have a polarization
+but the polarization changes.
+You have a [INAUDIBLE] you would say
+naively lin perp lin don't interfere--
+don't form a standing wave.
+Well, they do not form a standing wave in intensity.
+They form a standing wave in polarization.
+So now what happens is the following.
+If you have a multi-level atom--
+and I use this simple scheme here.
+The different polarizations, linear polarization drives
+pi transition, sigma plus and sigma minus
+drive different transitions and those transitions
+have different strengths.
+So an atom here when it experiences this polarization
+will just cycle.
+But when it experiences the other circular polarization,
+it will be optically pumped over here.
+And then it cycles.
+So therefore an atom, which goes from sigma plus polarization
+and goes here it flies over to an area where you've
+sigma minus polarization.
+It will actually be pumped over.
+So the atom will constantly be pumped back and forth
+between those hyperfine states.
+And this actually gives rise to a beautiful form of Sisyphus
+cooling that the atom experiences sigma plus
+light in one ground state.
+It sort of climbs up the hill.
+It's [INAUDIBLE] the AC Stark shift potential.
+And the AC Stark shift potential because of the--
+for instance, for one hyperfine state,
+sigma plus drives the strongest transition.
+And therefore, where we have sigma plus light
+one ground state has the deepest potential.
+Where we have sigma minus light, it
+is the other ground state which has the deepest potential.
+And so what happens is that the atom is in one hyperfine state,
+it climbs up the hill, and then it's
+optically pumped to the other hyperfine state.
+And we have exactly the same kind of Sisyphus cooling.
+I just show you pictures and you match it with what you know.
+This is more complicated because this involves optical pumping
+between hyperfine states.
+The different hyperfine states of
+different Clebsch-Gordan coefficients and such.
+It's not really complicated, but more complex.
+What I explained to you is how Sisyphus cooling
+works in the [INAUDIBLE] atom picture just
+for a two-level system.
+And here you find a more subtle form of Sisyphus cooling.
+But this form is more important because whenever
+you operate a magnetooptic trap you
+get this cooling mechanism for free.

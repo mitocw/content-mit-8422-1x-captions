@@ -1,0 +1,144 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zh.txt
+#
+# Captions for 8.422x module
+#
+# This file has 135 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to tell you what are the techniques to create
+ultra-low temperatures.
+And the techniques I want to discuss
+is one addition to laser cooling.
+We have, so far, discussed laser cooling to the Doppler limit.
+But now, I have to tell you that that's not
+where laser cooling stops.
+You can go sub-Doppler and subrecoil.
+And at least when the Nobel Prize was given to Bill
+Phillips, Steve Chu, and Claude Cohen-Tannoudji--
+well, If you go to the Nobel website
+and read the report of the Nobel Committee--
+well, they should have given it to those three
+people for the many, many wonderful things
+they have done.
+And I've made frequent references to their work.
+Bill Phillips invented Zeeman slower.
+Claude Cohen-Tannoudji invented the pressed atom picture.
+They have done many, many contributions.
+But the Nobel Committee tried to justify their choice
+with a coherent story.
+And the coherent story was Steve Chu cooled to the Doppler limit
+in molasses.
+Bill Phillips discovered sub-Doppler cooling.
+And Claude Cohen-Tannoudji realized sub-Recoil cooling.
+So the story line was cold, colder, the coldest.
+And that's what we want to talk today.
+
+So sub-Doppler cooling-- well, 10 years ago,
+I spent a whole lecture on sub-Doppler cooling,
+polarization gradient cooling.
+Wonderful-- the kind of epiphany of elegance
+in trying to make handy the description of an atom.
+
+And then I explained, in another lecture, sub-Recoil cooling,
+how you can even cool below the recoil limit.
+Well, this year, 2013, I spent 15 minutes on it.
+The reason is the following.
+When I joined atomic physics and was a post-doc
+in the '90s and assistant professor,
+the conference's theme of future of laser, future of--
+it was full-on attempts to find new ways
+to laser cool, ideas of how to get to lower
+and lower temperatures.
+Many, many different sub-Doppler,
+sub-Recoil techniques were discussed.
+This was the main topic.
+But then, suddenly in 1995, evaporative cooling--
+an intellectually boring cooling technique,
+just have atoms collide and evaporate-- this led
+to the lowest temperature ever.
+And it was almost a sudden transition.
+Within a few months, there was no research,
+no papers anymore on advanced methods of laser cooling.
+Evaporative cooling just completely wiped out
+this area of atomic physics.
+The reason being because all cooling
+schemes which have been discussed had, in the end,
+some problems.
+At some point, photons heat, heat
+because they excite an atom.
+And if an excited atom collides with another atom,
+there is a heating mechanism and such.
+So even all the optimistic proposals for laser cooling
+reached very low temperature, but never at high density.
+And evaporative cooling just did everything for you.
+But anyway, I think, not just because a Nobel Prize was given
+for sub-Doppler and sub-Recoil cooling--
+this is really an accomplishment to understand,
+how can you go through conventional cooling limits?
+And at least every graduate student
+who happens to graduate in AMO physics at MIT
+should know what are the concepts
+behind sub-Doppler and sub-Recoil cooling.
+So what I need, in order to introduce those cooling methods
+for you, is I have to remind you that optical pumping
+is a cooling scheme.
+And one could actually say, to some extent, every cooling
+you do with lasers is based on optical pumping.
+And let me explain that.
+Optical pumping happens that, let's say,
+you have a level structure with a circularly polarized light,
+where you can go maybe, from M equals 1 to M equals 0.
+And then there can be spontaneous emission back to M
+equals 1 and back to M equals minus 1.
+But the laser, because it has angular momentum,
+cannot excite this state to any excited state.
+So what happens, of course, is pretty clear.
+You have whatever distribution you have in state 1 and 2.
+You switch on your laser.
+And after a few cycles, everything
+has fallen into the dark state.
+You have 100% population in stage 2.
+So this is the simplest example of optical pumping,
+using a three-level scheme.
+Well, you may ask now, what has that to do with cooling?
+Well, temperature is the Boltzmann factor.
+And if we can define a temperature by saying,
+the population between two levels
+is given by a Boltzmann factor--
+let's just introduce an energy-splitting delta-E, which
+is somewhat arbitrary here.
+But in any event, you see, if you completely pump out
+a level, if you have all the population
+in one state, this corresponds to 0 temperature.
+So if you optically pump the atoms preferentially
+into certain states, you will blow out
+the entropy of the system.
+The atoms are no longer distributed over as many states
+as before.
+And this corresponds to lower temperature.
+And the message I want to give you
+is that you can understand laser cooling
+as optical pumping in constellation speeds,
+in velocity space.
+When you laser cool, you excite the atoms at high velocity.
+And then because of the mechanism we discussed,
+spontaneous emission leads to lower velocities.
+And this is one form of optical pumping.
+I also like the word--
+optical pumping is, in some sense,
+a spontaneous Raman process.
+
+You go up with the laser photon.
+You go down with a spontaneously emitted photon.
+So this is a spontaneous Raman process.
+And laser cooling, even if you have just a single ground
+state, can be regarded as a Raman process, where
+the initial and final state differ in velocity or momentum.
+You have the same internal state.
+But you have a different external state.
+So you can say laser cooling is spontaneous Raman scattering
+between different momentum states.

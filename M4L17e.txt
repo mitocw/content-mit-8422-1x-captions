@@ -1,0 +1,267 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 258 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I want to discuss what happens now to the force when
+the atom is slowly moving.
+Remember, there is still one phenomenon which
+I owe you an explanation for.
+And this is when we discuss molasses.
+We always had the effect in optical molasses
+with a spontaneous light force that we
+need red detuning of the laser beam to get cooling.
+The simple picture is the atom absorbs a red detuned photon
+and emits away a resonant photon.
+And the net energy difference is taken away
+from the kinetic energy, and this is cooling.
+But then I told you that when you
+go to higher power of the standing wave,
+the sine of alpha of the friction coefficient reverses.
+And that means cooling is now done by blue detuned light.
+Heating is done by red detuned light.
+And that's what we want to understand.
+Well, in order to get any cooling effect or heating
+effect, we have to now change the equation we had
+for the average dipole force.
+Remember also, the average dipole force--
+we did that earlier--
+can be derived from a potential.
+It's a gradient of a potential.
+So therefore, when you fly through a laser beam,
+you go down and up or up and down the potential,
+but nothing has happened to you.
+But the assumption we had for that
+is that the dipole force was calculated
+with a steady-state population.
+So now we want to see if the atom is slowly moving,
+it may not be fully adiabatic, and we
+want to calculate the first correction
+to the non-adiabaticity.
+So in other words, we have the following picture--
+when an atom flies through the laser beam,
+it needs a certain time to adjust its population.
+And we question, what is this time?
+Well, it is relaxation time for the populations
+among the dressed states to adjust.
+And this is exactly the inverse of the rate gamma [INAUDIBLE],
+which we have calculated earlier.
+
+So the physical picture now is that in the dressed level
+1 and 2, the population at any given moment
+is almost a steady state, but there is a time lag--
+a time lag by the time it takes to relax.
+So in other words, the atom is always a little bit
+behind in adjusting to the laser field
+because it takes a finite amount of time.
+So let's now try to understand in this picture, which we have
+obtained with a laser beam, the two dressed levels and the atom
+flying through, let's try to understand
+what this extra lag time means.
+So the atom is flying into the laser beam.
+It starts out in the ground state,
+which means 100% in the upper dressed energy level.
+Now in the laser beam, the higher the laser power is,
+the more there is an admixture of the other dressed energy
+level.
+But what happens is, when the atom is here--
+when it just zoom, it flies in--
+and there was not enough time to adjust the population, that
+would mean that the atom--
+and this is indicated with the red dots--
+that the atom has a little bit of more population in the upper
+dressed level than it would have in equilibrium.
+But what does it mean for the force
+now if there is more population here than there?
+Well, the more population you have in the upper state,
+the more you are climbing up a hill,
+the more you get a force to the left.
+So this red arrow shows due to the non-adiabaticity,
+due to the time lag, there is a little extra force
+to the left-hand side.
+So this is on uphill.
+Let's now understand what happens on the downhill.
+Well, we just have to keep track of signs.
+Here, the atom, in a fairly high laser field,
+is in the upper dressed level with an admixture in the lower
+dressed level.
+But now it flies out of the laser beam,
+but it cannot immediately adjust its population.
+And that means it wants to have, now, more population
+in the upper dressed level, but it hasn't fully adjusted.
+So therefore, instead of having the blue bullet,
+which represents equilibrium, the atom has the red bullet.
+It has a little bit lower population
+in that and higher population there.
+But lower population here and higher population
+here means, if you have a little bit higher population
+than you should have here, it means
+you are climbing up the hill.
+And there is an extra force, which is, again, to the left.
+So we realize the non-adiabaticity,
+the time lag means when an atom goes up the hill,
+there's a little bit extra force to the left.
+And when it goes down the hill, there's
+a little bit extra force to the left.
+And after it has flown through, the steady state part
+of the force roller-coaster up down,
+which can be derived from a potential, has integrated to 0.
+But what is left is this non-adiabatic component
+of the force, which is slowing down the atom.
+In other words, I have shown you in this simple picture
+that the time lag in adjusting the dressed energy population
+means that there is a small differential force which
+is slowing down the atom.
+And what I assumed here was blue detuning.
+So we have cooling.
+We have friction for blue detuned light
+when it comes to the simulated force.
+
+Now, this picture, this equation that the population is
+a steady state at a given position minus a time
+lag, we can solve it.
+And I'm not doing it here, because it involves
+a few mathematical equations.
+But by just using this ansatz, and the rest
+is straightforward, you can then arrive
+at an expression for the stimulated
+for the dipole force.
+Colin.
+In the spirit of last time, keeping track of energy,
+the energy here would be going into the fact
+that now I have, if the atom's a harmonic oscillator,
+it's a little behind the drive field.
+Yes.
+So you imprint some fluctuating on the [INAUDIBLE]
+and that's where the energy is being carried off
+in the laser beam?
+
+Well the energy is carried off by the laser beam.
+I have actually prepared something,
+which I'm going to show you in 10 or 15
+minutes, where the energy goes.
+So let's maybe do that in a moment.
+So this is the physical picture.
+And I think what is also important I want to later tell
+you for other laser cooling mechanisms, which are
+too complicated to describe.
+But they also have a time lag.
+And I think I try to teach you basic concepts by using
+the simplest physical picture I can have.
+And what can be simpler than two levels of an atom and one laser
+beam?
+But what you understand here with this stimulated force,
+which is also called blue molasses
+is, for the first time, how a time
+lag, in adjusting to the local laser field,
+how that leads to cooling.
+OK, I'm summarizing here, simply taking
+this picture, this equation, and turning the crank on it,
+the paper by Jean Dalibard and Claude Cohen-Tannoudji
+calculates what is the dipole force in steady state.
+We get almost the same result with the Optical Bloch
+Equations, but we're discussing here
+the limit that the Rabi frequency is larger than gamma.
+So therefore, if you are missing occurrences of gamma,
+they don't appear here, because we've always
+assumed omega is larger than gamma in this picture.
+OK, now I want to apply this picture now,
+not just going through one hump of the laser field,
+but going through a standing wave.
+So we have a standing wave of light, which is blue detuned.
+
+Of course, in a standing wave of light,
+if you average over one optical wavelength--
+you go up the hill, you go down the hill--
+the lambda average dipole force is 0.
+
+But now you find that if you put in this time lag,
+you find a friction force with a friction coefficient alpha.
+And this friction coefficient is cooling for blue detuned light.
+Now I don't want to elaborate on this expression,
+but if you take the treatment of Jean Dalibard and Claude
+Cohen-Tannoudji, which is very transparent.
+It reads wonderfully easily as a [INAUDIBLE]
+atom-photon interaction.
+In the limit of large detuning, which is the simplest
+possible limit, you find the friction coefficient,
+which looks highly nontrivial.
+It depends to the sixth power of the Rabi frequency and such.
+The only reason why I put it here, in 20 minutes,
+I want to give you a very, very simple picture where
+I derive that for you.
+So that's just a check mark.
+OK, any questions right now about--
+because I want to go on-- about the stimulated force
+in the dressed atom picture?
+And if we allow deviations from the steady-state population,
+we get a cooling effect.
+And this explains the effect of blue molasses,
+and we've applied it here to a standing wave.
+Colin.
+[INAUDIBLE] the upper alpha is our upper [INAUDIBLE] constant,
+the lower one is the polarizability?
+No, thanks for asking.
+Alpha, yeah, we're recycling Greek letters.
+Here it's the friction coefficient.
+Here, remember when we had the light force,
+the spontaneous light force and the stimulated light force.
+One was directed along a vector alpha, and the other one
+along a vector beta.
+Alpha was pointing into the direction of the gradient
+of the laser intensity.
+And beta was the phase gradient of the laser beam.
+So those two have nothing to do.
+This is friction coefficient.
+This is the direction for the stimulated light force.
+And yes, a little bit later today,
+I will use alpha again, but for the polarizability.
+Yes.
+I have a question.
+The [INAUDIBLE] atoms in the blue detuning standing
+wave [INAUDIBLE] in the regular [INAUDIBLE]
+in the regular [INAUDIBLE].
+We're talking not about trapping here.
+
+If you have a standing wave of blue detuned light,
+well, if the standing wave is infinitely extended,
+then the atom is always in the standing wave.
+But if you use two Gaussian laser beams to form a standing
+wave, there is always a net force
+to expel the atoms away from blue detuned light,
+because blue detuned light has an average dipole
+force which is repulsive.
+So whenever you want to manipulate atoms
+with blue detuned light, you need
+an additional magnetic trap or an additional red detuned
+optical trap.
+Because whatever you want to do with atoms,
+if you want to do it with atoms in steady state,
+you have to keep the atoms together.
+And what keeps the atoms together
+is red detuned optical traps or magnetic traps.
+The blue detuned light can be used
+to create a blue detuned lattice.
+Or it can be used--
+at least if you want to do laser cooling
+with blue detuned light, it can be used for laser cooling,
+as I've started to describe for you now.
+
+But yes, I mean, in that sense, as an experimentalist,
+you can run experiments where you have only red detuned
+light-- red detuned light for trapping,
+red detuned light for cooling.
+But if you use blue detuned light for a standing wave
+or for a blue molasses, in addition,
+you will always use red detuned light
+to keep the clouds together.
+So pretty much every experiment usually
+has some red detuned light for confinement.
+And you have to then mix blue detuned light
+with red detuned light to get the two things you want.

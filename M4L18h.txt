@@ -1,0 +1,114 @@
+#
+# File:   content-mit-8422-1x-captions/M4L18h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 105 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now how do we define eta?
+How do we select the energy threshold for evaporation?
+Well, for many, many years Bose-Einstein condensation
+was mainly done in magnetic traps.
+And there are two methods.
+One is just lower the magnetic fields.
+But lowering the magnetic field is pretty bad,
+because it weakens the magnetic trap.
+And if you weaken the trap, you lower the density.
+And therefore, just because of that, the elastic collision
+rate slows down.
+So what turned out to be by far the superior choice
+is to remove atoms with if induced evaporation.
+So if you're a magnetic trap, you can tune
+and our f spin flip transition to a certain frequency.
+But the frequency depends on magnetic field,
+the magnetic field in a trap depends on position.
+So what you are doing is you are selecting with your eye,
+a frequency, a certain point in space
+where the atoms can leave the trap
+and are transferred by a spin flip if transition
+to an n-type trapped state.
+And are then rejected from the trap.
+I mean this is very flexible.
+You can change the depths of your magnetic trap
+by just using an f synthesizer.
+And you can change the trap depths,
+you can lower the trap debts without weakening
+the confinement potential.
+I don't have time to go into details,
+but what I'm showing here is that there is one
+that the two regimes, when you have this magnetic trap
+or have this spin up, or we spin down
+and this is your if transition.
+There is a regime where you have stronger RF,
+you should now use dressed energy levels.
+We've discussed dressed energy levels in the optical domain.
+These are now dressed energy levels in the RF domain.
+And there's a wonderful chapter about it
+in atom photon interaction.
+So it really means in the dressed energy levels
+become something like this.
+So you have a potential, which looks like an inverted w
+and you really realize this potential.
+But when the RF is weak, you have only a certain probability
+where the atoms go back and forth through the transition
+region that sometimes it will fall down to the lower state.
+And this looks more like this.
+The diabetic picture looks more like
+that you have a little leak and the atoms
+are trickling down to the non confining state.
+Anyway, there are two regimes and the experiment
+is usually somewhere in between.
+It is not necessary to go to the fully adiabatic.
+It doesn't pay off to go to the fully adiabatic limit.
+So this is how RF evaporation is implemented.
+But I should say, in these days, a lot of evaporation
+is now done in optical traps.
+And in optical traps, the method of choice
+is you just ramp down the optical trapping potential.
+Now when you ramp down the optical trapping potential,
+addressing Collin's question, you usually
+do not go into the runaway regime
+because I haven't included that my model assumed
+we have a constant trap.
+But if you now add to the model that you are continuously
+opening up, weakening the trap, you
+have another effect which makes the exponent
+for runaway evaporation more negative.
+And I think ultimately you don't get any runaway evaporation
+anymore.
+On the other hand, optical traps are often more tightly
+confining than magnetic traps.
+And you have sufficiently high density to begin with.
+So therefore, you can tolerate a slowdown of evaporation
+and still reach the destination.
+But anyway, we are now getting more and more
+into the technical aspects.
+I think I've given you the concepts.
+But let me just flesh you one picture.
+This, of course, assumes an idealized model
+where we have only two levels spin up and spin down.
+You all know that atoms have hyperfine structure.
+Sodium rubidium has n equals 2.
+And if you draw now the dress levels
+for five hyperfine levels in RF transition,
+it looks fairly complicated.
+But the result is fairly beautiful.
+When an atom in f equals 2 reaches this point.
+And in the dressed atom picture, the point of evaporation,
+the point where the atom is in resonance with the RF
+it's the point where this potential bends down.
+The atom is adiabatically transferred in a tri-state
+from mf plus 2 to mf minus 2.
+So when you evaporate at this point,
+without maybe you noticing it, you actually
+do a four photon transition in the dressed atom picture.
+Again, it's an example where when
+we teach about these schemes we can completely neglect
+about hyperfine structure.
+And it's just wonderful that the actual implementation
+works as well for complicated atoms
+than it does for our idealized two-level atom.

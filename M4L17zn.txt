@@ -1,0 +1,103 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zn.txt
+#
+# Captions for 8.422x module
+#
+# This file has 94 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+The magnetic trapping potential comes
+because we have a magnetic dipole moment, which interacts
+with a magnetic field.
+Magnetic traps are actually classical.
+You can have a classical model for a magnetic trap.
+And in that case, you say this potential is
+mu times b times cosine theta.
+Quantomechanically, of course, the angle
+cosine theta is quantized and we have the different m f levels--
+the different orientations of the spin
+relative to the z-axis.
+
+The fact that the magnetic field can only have minima and not
+maxima means that we want to make sure
+that the magnetic moment times the g factor times
+m f is negative, or cosine theta is negative,
+in the classical picture.
+And if we absorb whatever we choose for cosine theta,
+or we call mu Bohr g m f the magnetic moment,
+we want that the magnetic moment of the particle
+is antiparallel to the magnetic field.
+Then we have a magnetic trapping potential, which is--
+I've taken care of the sign now--
+mu times b.
+And if b has a minimum, this potential has a minimum,
+and that is a magnetic trap.
+But so the consequence of [? Wing's ?] theorem
+is that we can only trap particles
+which are antiparallel with a magnetic field.
+And they can always lower their energy
+by flipping to the other state.
+So therefore, a magnetic trap does not
+allow us to trap particles in the absolute ground state.
+There is always the possibility of spin flip collisions
+which lead to an antitrapped state which is expelled
+from the trapping region.
+Now, spin flip collisions can happen
+when you have particles at sufficiently high density
+and they collide.
+For the experts, there can be spin relaxation,
+there can be dipolar relaxation.
+They're two different kinds of spin flip collisions.
+Fortunately, in magnetic traps, they only
+become relevant when you pick the wrong spin state.
+But for suitable choices, magnetic traps
+are very long-lived.
+Dipolar relaxation often can be a limiting process
+for both Einstein condensates, for instance
+for hydrogen Bose-Einstein condensation, dipolar
+relaxation limited the number and density of atoms
+in the Bose-Einstein condensate.
+But I don't want to talk about cold collisions here.
+You should just know, based on the fundamental theorem,
+you cannot trap in the ground state.
+You have to trap into a state which has
+more energy than other states.
+In principle, it's possible to flip the spin
+and go to a lower state.
+Now, what we have assumed here is when I wrote the trapping
+potential like this, I assume that the atom stays
+in a given hyperfine state.
+So we put the atom in one state and then experience
+its potential.
+Classically, it means that the angle
+of the dipole with respect to the magnetic field
+stays constant.
+And this is the case due to rapid precession.
+Classically, the magnetic dipole precesses
+around the magnetic field.
+And when the direction of the magnetic field changes,
+the rapid precession keeps the dipole aligned.
+Or in other words, for slow changes of the magnetic field
+direction, cosine theta is an adiabatic invariant.
+So the word adiabatic is important either classically
+or you stay in a quantum state as long as you are adiabatic.
+Well, if an atom would rapidly go
+through a region of very weak magnetic field, then
+the precession-- the Larmor precession-- of the atom
+is very slow.
+And this adiabatic condition can be violated.
+And this violation of an adiabaticity condition
+is called Majorana flops.
+So if you operate a magnetic trap
+at very low magnetic field, you may destabilize the trap
+because you violate adiabaticity.
+So, these are the consequences of the fact that we cannot
+create maxima, we can only create minima of the magnetic
+field in free space.
+And therefore, we have to deal with those two possible loss
+processes.
+But, we have learned what kind of magnetic trap, what kind
+of atom to pick.

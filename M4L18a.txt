@@ -1,0 +1,140 @@
+#
+# File:   content-mit-8422-1x-captions/M4L18a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 131 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Today I want to finish our discussion on magnetic traps
+with two demonstrations of classical forms
+of magnetic trapping.
+But I told you that magnetic trapping is a purely
+classical phenomenon.
+The only mechanical aspect is that this angle
+at which the magnetic dipole is always in the magnetic field
+is quantized.
+I also mentioned to you, and this was Wing's Theorem,
+that the total magnetic field can have only local minima, not
+maxima.
+And therefore, we can do magnetic trapping only
+for weak field sinking states.
+These are states, which lower their energy
+with-- for low magnetic fields.
+And as a result, since the spin is up,
+the magnetic moment is interparallel
+to the magnetic field.
+Those states can always lower their energy
+by flipping the spin.
+I know it's a simple demonstration,
+but well, I can't bring a real magnetic trap
+into the classroom.
+So what I have here is just two little ring magnets,
+refrigerator magnets.
+And there is a tube, so I just want
+to demonstrate a one dimensional form of magnetic trapping
+to you.
+And this is our atom, it's a strong magnet elongated
+and it can be spin up or it can be spin down.
+So what you're seeing is now, you're seeing the two magnets.
+And you're seeing our dipole, our atom,
+which is in a stable trapping configuration.
+
+You can see that it's stable by, you know, I just move it
+and you see how it always comes back.
+So that's one position.
+I put it over, here, you have a second position,
+where our magnet is trapped.
+Here is a third one.
+And here's a fourth one.
+So there are four positions where we
+have one dimensional trapping.
+Well, this is one for one orientation.
+Now I take the magnet and flip it over.
+So we are changing now, in the laboratory frame, the sign
+of the magnetic moment.
+And there is actually a very nice minimum,
+you see how clearly it is trapped.
+There is one here in the middle.
+I can also just show you, it really stays put.
+There's a weak restoring force.
+And then here is number three.
+So it seems fairly very rich, I've
+shown you seven different minima where trapping has happened.
+And well, just to fill you in, if this is our magnet,
+these are ring magnets.
+The magnetic field is about-- is something like that.
+And if I plot the magnetic field for this configuration,
+I find indeed that for one orientation,
+there are four maxima of the magnetic field.
+And for this orientation, and there are four,
+there are four minima of the trapping potential.
+But so maybe I should have shown it like this.
+There are 1, 2, 3, 4 minima.
+And for the opposite configuration, the blue--
+for the opposite configuration, there
+are 1, 2, 3 trapping minima.
+But now if you look, there are 1, 2, 3, 4, 5, 6,
+the one's marked in red, which are for strong field seekers
+because these are maxima at the magnetic field.
+And there is only one where the magnetic field
+is a local minimum.
+So in the last part, I have shown you the absolute value
+of the magnetic field.
+And you realize there are 1, 2, 3, 4, 5, 6 maxima.
+And this is responsible for six trapping configurations.
+And the seventh one was the minimum of the magnetic field.
+So in one dimension there is no problem.
+In one dimension I can get a restoring force for the strong
+and for the weak field seeker.
+For any orientation of the magnetic dipole, but if you
+want to have a freedom [INAUDIBLE] trap,
+we have to look at the three dimensional stability.
+And it would be only this one configuration, which
+can be stabilized in x and y.
+What I've shown you are symmetric fields
+so all these minima and maxima are only settle points,
+they trap in one dimension.
+But with suitable radial magnetic field,
+you could turn this one here into a real three
+dimensional trap.
+But the other ones, you cannot.
+Because this would violate Wings theorem.
+
+I find it amazing that, you know,
+that this demonstration has seven
+different magnetic configurations.
+It's just how it turns out to be.
+Questions?
+Collin.
+So if you look at the cloverleaf coil, the parts of the field
+that--
+this is sort of [INAUDIBLE]?
+
+Yeah, so if you look at a cloverleaf trap,
+the pinched coils creates such a minimum
+which provides confinement in this E direction.
+But then you add a field radially
+outward quadrupole field, and that overcomes--
+no, in this demonstration this is actually
+everything is [INAUDIBLE].
+So this is a minimum for this direction,
+but if you would now plot it as a function of x and y and z,
+it would be a settle point.
+So this configuration is trapping along z,
+but n type trapping along x and y.
+But if you add a quadrupole field, a linear field which
+points outward with these cloverleafs or the [INAUDIBLE],
+then they would provide confinement
+which is stronger than the entire confinement
+of the center point.
+If you look at some equations I showed you in the last class,
+you will actually see that in one of the slides
+I had the expression for the magnetic field where
+you see how the [INAUDIBLE], the radially linear confinement
+over [INAUDIBLE] comes the anti- trapping, the anti trapping
+feature of the settle point.
+Other question?

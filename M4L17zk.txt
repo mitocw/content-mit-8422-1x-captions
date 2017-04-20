@@ -1,0 +1,256 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zk.txt
+#
+# Captions for 8.422x module
+#
+# This file has 247 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, sub-recoil cooling-- we can quickly deal with it,
+because I want to prove to you here that sub-recoil cooling is
+impossible.
+And unless you tell me what is wrong in my derivation,
+I don't need to discuss the sub-recoil cooling,
+because I've convinced you that it's impossible.
+OK, so let's assume our atom has an initial kinetic energy.
+And then we absorb one photon.
+That would mean that the momentum has now
+changed by the laser photon, by the recoil.
+And then it emits a photon.
+So the momentum gets reduced by the emitted photon.
+And all I do is I ask, what is the difference
+between the initial kinetic energy
+and the final kinetic energy after two photons, a laser
+photon and this spontaneously-emitted photon,
+have been exchanged.
+And what you find is-- and this is just exact--
+that the change in energy is two times the recoil energy--
+the recoil energy is h bar square k square over 2m--
+
+and this is now the cause term--
+plus kL, the k vector of the laser,
+minus K spontaneous emission times the velocity.
+And now, of course, we assume--
+which is correct-- that spontaneous emission goes
+randomly in all directions.
+So therefore, if you average over many cycles,
+this does not contribute.
+So therefore, we find now that the average energy exchanged
+by an absorption and emission event is 2 times
+the recoil energy plus h bar k laser times v.
+And if you want to make it negative,
+because we want to cool, well, we
+make it negative by arranging the laser beam--
+surprise, surprise-- counter-propagating
+to the velocity.
+This is how we can get the best cooling.
+Well, surprise.
+That's what we expected.
+But you find, of course, that when
+this velocity is very small, then kv
+is smaller than k square.
+So therefore, once the velocity is smaller than the recoil
+velocity of a single photon, you cannot make this equation
+or this expression go negative.
+In other words, what I've shown to
+you is, if there is an atom, which
+has a velocity which is smaller than the recoil velocity
+of a photon, whenever this atom scatters
+a single photon it will be hotter than it was before.
+
+So is it clear what I've shown you in energy?
+When an atom has a velocity which
+is smaller than the recoil velocity,
+any further photon scattering will not cool.
+It will lead to an energy transfer delta-E, which
+is large, which is positive.
+
+So that shows you that sub-recoil cooling
+is impossible.
+
+Any idea how we can sub-recoil cool?
+Any idea why Claude Cohen-Tannoudji
+got the Nobel Prize?
+[INAUDIBLE] in the lattice, you can
+have an effective mass that is much
+heavier that the bare mass?
+OK, great idea.
+We put the atom in a lattice.
+A lattice has bent structure.
+In a bent structure, we have an effective mass.
+And heavier atoms can be cooled to a lower and lower
+temperature.
+Actually, it's well-known that in Doppler cooling
+and sub-Doppler cooling--
+especially in sub-Doppler cooling--
+caesium and rubidium reach a microkelvin.
+Sodium reaches only 25 microkelvin.
+So making the atom heavier is OK.
+But I have to say, you're only rescaling your recoil limit.
+You're not breaking through the recoil limit,
+which is now defined with a heavier effective mass.
+[INAUDIBLE] the spontaneous emission direction?
+And--
+Yes.
+--is that the atom must do the spontaneous emission
+a lot of times.
+Yes.
+And-- yeah.
+That was the assumption.
+It means that, at least for this cooling,
+it needs the time much larger than the [INAUDIBLE]
+instructions in [INAUDIBLE] time?
+Well, that was the assumption here.
+We scatter several times.
+The spontaneously emitted photon do not contribute--
+the recoil of the spontaneously-emitted photons
+cancels out.
+Because spontaneous emission-- and this is correct,
+this is not wrong-- spontaneous emission
+goes equally probable in the plus x and the minus x
+direction.
+Well, I thought I want to show you
+a mechanical demonstration, how you can sub-recoil cool.
+It's not a demonstration in velocity space.
+It's a demonstration in position space.
+What I have here is a Plexiglas tray.
+And it has a little hole in the middle.
+And I have a bunch of ball bearings.
+And I put those ball bearings in.
+Let me translate.
+
+I will be blind.
+I can blindfold myself.
+And all I do is I shake the tray.
+So whenever I shake it, I kick the atoms randomly,
+in position space, from here to here.
+So the amount of position control I have over the atoms
+is on the order of this size.
+But the question is, can I, without having
+any control of the transfer of position I give to them,
+can I steer all the atoms into an area
+here into the hole in the middle, which is very, very
+narrow in position space?
+So the translation is, if I randomly scatter photons
+and I kick the atoms around with h bar k--
+I don't have any control about momentum
+transfer smaller than h bar k--
+is it possible to localize the atoms in momentum space
+to a momentum around 0, which is much,
+much smaller than h bar k.
+Well, let's do the experiment.
+I just close my eyes and I shake it.
+And I shake it.
+And I just shake it for a while.
+And I continue shaking it.
+And well, 0 temperature.
+So without controlling the motion on the scale
+I'm interested in, I manage to cool into a target region,
+which is much, much narrower.
+So in other words, all you need is
+you need some dark state which is velocity-selective.
+If you scatter light, but you create a situation where,
+once the atoms are close to 0 velocity, they are not excited.
+You're not steering the atoms in a deterministic way.
+You just wait until, by random chance, one photon is emitted.
+And by random chance, the atom hits the hole.
+And then it will never be re-excited again.
+This was the idea of this demonstration.
+And yes, in the old days, I may have
+spent two hours on teaching it.
+But by using Raman resonances between ground states, which
+are terribly narrow, or by using VSCPT, Velocity Selective
+Cohesion Population Trapping, you
+can create such narrow dark resonances
+which have the effect that the atoms
+scatter, scatter, scatter.
+But the moment they reach a very narrow region around 0
+velocity, they stop scattering.
+So what was wrong in my proof is that, here, we
+have a situation where we stop the laser cooling exactly
+at the time when the atom, by random chance,
+happens to be at very low velocity.
+And then you don't need any control.
+You just accumulate, in the same way
+as I accumulated the ball bearings.
+
+OK, this was sub-recoil cooling in five minutes.
+Timor?
+So I was going to ask about-- the summarized Doppler cooling
+rate gets us to a temperature on the order of gamma,
+which is natural alignment.
+Yes.
+And the recoil limit is the recoil energy, which is usually
+in tenths of kilograms.
+But if you have a really, really narrow line,
+would you use the Doppler cooling with it?
+You could, in principle, beat the recoil limit
+with Doppler cooling, no?
+If you have a--
+No, you can't.
+Because if you do Doppler cooling--
+Timor's question is, if you simply
+do molasses with a very, very narrow line,
+we derived that the limit of Doppler cooling
+is k-t equals gamma.
+And what you are saying now, if you
+use narrower and narrower lines, can we
+reach arbitrary low temperature?
+This is not the case.
+
+In our derivation of Doppler cooling,
+we made a continuum of assumptions.
+When we plotted the force versus velocity
+and we had the friction force, we
+assumed that an atom, when it scatters a photon,
+stays, let's say, within the linear part
+of the force versus velocity.
+So we had a hidden assumption, which
+required that the recoil energy is smaller than h bar gamma.
+But there is a lot of literature where people looked into it.
+And it turns out that, when you have a very narrow line,
+you can go to the recoil limit, but you can't go beyond.
+If you want to go--
+and I think this is what I showed you
+in the last five minutes--
+if you want to go below the recoil limit,
+you need some velocity-selective dark state.
+And you would not have that in this situation.
+On the other hand, if you have a very narrow resonance,
+you can probably engineer a dark state
+that there is destructive interference
+in some excitation in a very, very narrow velocity class.
+And this narrow velocity class is simply
+selected by the Doppler effect.
+So you can use the narrow line to engineer sub-recoil cooling.
+But the simple arrangement of just having molasses
+with narrower and narrow line will not work.
+Collin.
+I think the group that laser cooled the BEC--
+their dark state was just a [? stark ?] ship,
+like [? green ?] being in the middle of the cloud.
+And it shifted-- their resonance is
+like a kilohertz or something.
+They used a very--
+did they go below the recoil limit in laser cooling?
+I'm not sure.
+I'm not sure.
+They may have had a situation where
+it was enough to go to the recoil limit.
+And I have to check up their paper, but--
+But I remember they did have some sort of dark state.
+Maybe it was to increase density?
+Or-- they had to [INAUDIBLE].
+Anyway, let me just be clear.
+Sub-recoil cooling requires that you have a dark region
+in velocity space.
+For that, you need some narrow line width.
+That's necessary.
+But I think you just don't get it
+by having [INAUDIBLE] propagating the laser beams.
+You have to do something more.
+
+Other question?

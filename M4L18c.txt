@@ -1,0 +1,104 @@
+#
+# File:   content-mit-8422-1x-captions/M4L18c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 95 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK, evaporative cooling.
+Evaporative cooling is a powerful cooling scheme
+to reach nanokelvin.
+Actually, I forgot to update this slide.
+I wanted to say this is the only technique so far
+to reach quantum degeneracy for bosons and fermions.
+Very recently, people have demonstrated laser cooling
+of atomic strontium to quantum degeneracy,
+but if you read the paper, it was laser cooling
+aided not by evaporative cooling,
+but by collisional redistribution of atoms.
+It's like evaporation where you evaporate into and you keep--
+read the paper, it's--
+
+The scheme only worked because collisions--
+
+how to say-- you cooled one region and another region
+was cooled by collisions.
+And this brings you pretty much back to, for example,
+[INAUDIBLE] evaporation.
+Anyway, what I wanted to say is there's a small footnote.
+The field is evolving.
+People you Can find now papers, laser cooling to be easy,
+but if you read the paper carefully or if you talk to me,
+I will tell you that there were still
+collisions necessary, the same kind of collisions which
+drive evaporative cooling.
+But before we go into an expert discussion about variants
+of evaporative cooling, I should first tell you
+what evaporative cooling is.
+But somebody raised his hand?
+[INAUDIBLE], for example, lithium to quantum degeneracy,
+[INAUDIBLE] and that would be just purely
+laser cooling, right?
+Subrecoil cooling has not--
+so any form of laser cooling to subrecoil temperatures
+was not compatible with high atomic densities.
+It only worked at such low densities
+that they stayed far away from quantum degeneracy.
+So nanokelvin, yes, and temperature in the nanokelvin
+range has been reached by laser cooling
+but not at sufficiently high densities.
+High density causes collisions.
+Those collisions are screwing up laser
+cooling so that it doesn't work anymore.
+And the only technique which can reach nanokelvin temperatures
+at sufficiently high densities is evaporative cooling.
+And that applies to strontium.
+Strontium was laser cooled at low density,
+and then the low temperature was collisionally transferred
+to a higher-density region.
+So you can say, in a way, it's an oddity of nature
+that we are now using quantum gases to reveal
+new features of quantum physics using ultracold atoms,
+but the cooling techniques which gets us
+into the quantum degenerate regime
+is pretty much classical.
+So this is a cartoon picture how you could think
+evaporative cooling works.
+You have a thermal distribution.
+You remove the high-energy tail of the thermal distribution,
+and then you allow the distribution to relax.
+And it will relax to a Boltzmann distribution, which
+is a little bit shifted towards the colder, the low-energy,
+side compared to the original dash distribution.
+And if you do it again and again and again,
+you wind up with a distribution of atoms which is colder
+and colder, because every time you X away the high-energy
+tail, you remove atoms which have, on average--
+more than the average energy, and therefore,
+the average energy per atom drops and drops and drops.
+Of course, the atom number also drops rapidly,
+and I was only able to draw it in this way
+because I've been on, I think I--
+actually, did I?
+I forget what the normalization here is in the plot.
+What is n [INAUDIBLE]?
+N is the number of steps.
+So after 25 removals of the high-energy tail, I'm here.
+And after 50, I have a very, very narrow distribution.
+So that tells you already something very powerful,
+which people were not fully aware
+before evaporative cooling of atoms
+was invented that it doesn't take so long;
+it doesn't take so many steps.
+It takes 50 rethermalization steps,
+and each rethermalization takes two or three
+elastic collisions.
+So what this already demonstrates,
+if you can keep your atoms and evaporatively
+cool by removing the high-energy atom,
+after a time, which corresponds to a few hundred
+elastic collision times, just a few hundred collisions,

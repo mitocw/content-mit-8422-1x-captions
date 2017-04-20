@@ -1,0 +1,50 @@
+#
+# File:   content-mit-8422-1x-captions/M4L18i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 41 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+What is the cooling limit for evaporative cooling?
+When we talked about laser cooling,
+I derived for you the Doppler limit.
+And we talked about even improved cooling limits
+when we discussed some Doppler and some recoil cooling.
+So what is the cooling limit for evaporative cooling?
+Well, the answer is there is no fundamental limit.
+It's there is no sort of h bar or quantized limit there.
+There is a practical limit that, which
+usually depends on residual heating or inelastic collisions
+and all that.
+But we have reached an evaporative
+cooling temperatures as low as 400 pico Kelvin.
+And the limit was not set by anything fundamental,
+it was more set by our patience.
+The lower the temperature, the slower
+the process becomes, and also by the sensitivity
+to technical noise and technical [INAUDIBLE].
+
+Of course, just a final comment which
+is a segue to what we hopefully do on Friday.
+For evaporative cooling, I've always
+assumed that the energy is--
+that the energy in the trap is continuous.
+In other words, if you have an harmonic oscillator trap--
+trapping potential, I've neglected the discrete level
+structure.
+And this is an excellent approximation
+because many, many atom traps have just frequencies
+of a few Hertz or kilo Hertz.
+And at very low temperature, even
+at non-operative temperatures, you populate many levels.
+When it comes to the discrete nature of trapping levels,
+we should use a quantum description of the motion
+of atoms in the trap.
+And this is the regime of sideband cooling.
+Sideband cooling is much more important
+for ions, charged particles and for neutral atoms.
+So therefore, we will discuss sideband cooling on Friday

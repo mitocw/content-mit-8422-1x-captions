@@ -1,0 +1,52 @@
+#
+# File:   content-mit-8422-1x-captions/M4L17zo.txt
+#
+# Captions for 8.422x module
+#
+# This file has 43 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So this shows here, the typical hyperfine
+structure of an alkali at home.
+Could be [INAUDIBLE] 87 or sodium-23.
+The fact that we have only a local minimum
+of the magnetic field, means we can only
+trap hyperfine states, which I've marked here in green.
+Where the slope is positive.
+And these are the atoms where the magnetic moment
+is antiparrallel with the magnetic field.
+And well, for stability reasons, we usually
+peak the highest state of the lower manifold,
+or the highest state of the upper manifold.
+In principle, it would be also possible to trap here.
+You have the correct slope, but often those states
+suffer from spin relaxation and collision laws.
+OK.
+[INAUDIBLE] slope before.
+Is it actually possible to make a magnetic trap with the state
+number four from the top?
+So that they expel from the center.
+From [INAUDIBLE]
+Yeah, there is a peculiarity here.
+You have to transition from the wheat field
+to this storm field region.
+Whenever the magnetic moment is constant,
+you need a local minimum of the magnetic field.
+But if the magnetic moment would change,
+and you have a gradient of the magnetic field,
+you could actually trap here.
+So in this case, you have a magnetic field gradient,
+but you have a spatial variation of the magnetic moment.
+This has been discussed in one special paper
+in the literature, but it has not really
+found any use in realization.
+Wouldn't it help-- put the majorana flops in the center,
+because they're repellent from the center.
+Yeah, but these atoms would undergo spin-flip collision,
+so it's not a good choice.
+It would help against majorana flops,
+but we have many solutions against majorana flops.
+And here you would solve the majorana flop problem,
