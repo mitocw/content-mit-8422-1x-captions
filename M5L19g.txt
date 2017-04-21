@@ -1,0 +1,42 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 33 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So just a little bit of show and tell.
+We have this Gross-Pitaevskii equation.
+The Gross-Pitaevskii equation has as Schrodinger"s equation
+a time independent form to get the ground state.
+It has also a time dependent form.
+You simply replace the energy by the derivative
+of the wave function.
+This is a time dependent form.
+Everything is very simple.
+And you can do many body physics, but on your computer
+you pretty much look for similar particle wave function
+and take them to the power n.
+So some areas where the Gross-Pitaevskii equation
+has quantitatively explained experiments,
+one is the expansion of Bose-Einstein condensate.
+It's this famous situation when you
+have an elongated condensate and let it expand.
+It expands faster in the radial direction.
+One simple argument is the pressure
+of the mean field is larger and leads to a faster acceleration.
+So therefore, if you have a cigar-shaped condensate
+and release it, it turns into a disk.
+It inverts the aspect ratio going from a cigar shape
+to a disk shape.
+And that has been beautifully and quantitatively described
+by the Gross-Pitaevskii equation.
+Here we have measured the interaction energy
+as a number of condensed atoms.
+And I mentioned to you that this x perimeter comes often
+with powers of one-fifths and two-fifth.
+And this here is a feat to the power two-fifths beautifully

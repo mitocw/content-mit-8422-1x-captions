@@ -1,0 +1,31 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 22 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+In other words, it is now possible
+using Feshbach resonances.
+I'm just missing color so those dots should be red.
+Red is much nicer.
+
+Just imagine some of the black is red.
+In other words, by using a magnetic field,
+we can go from strongly bound pairs which
+form a Bose-Einstein condensate to weakly bound pairs which
+resemble Cooper pairs of electrons in superconductors.
+This is the physics of the BEC-BCS crossover,
+and in the middle of it we find a new form of superfluidity
+which has not really been realized before.
+Namely, you can see these are molecules
+which are too big to be called molecules,
+or these are Cooper pairs which are too small to be
+called Cooper pairs.
+It's really pairs which sort of elbow each other.
+They just fill all the space.
+The pairs are exactly as large as the F between atoms.
