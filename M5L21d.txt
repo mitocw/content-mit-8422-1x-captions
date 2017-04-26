@@ -1,0 +1,86 @@
+#
+# File:   content-mit-8422-1x-captions/M5L21d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 77 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+We want to talk about quantum computation with ions.
+H1 has a wonderful write up on the wiki
+on the basic concept of quantum computation, and how it--
+how it applies to ions.
+But let me immediately jump to qubit operations.
+I mean you've heard many, many times that a general trend two
+algorithm can be constructed out of single qubit
+rotations and two qubit--
+two qubit gates.
+Single qubit rotations are just oscillations
+on the Bloch sphere.
+If you excite a particle, move it around on the Bloch sphere,
+this is how you can to see the qubit from ground state
+to excited state, any possible superposition state.
+So the physics of single atoms, Rabi oscillation,
+rotation on the Bloch sphere, this is all you
+have to know about center qubit operations.
+The interesting thing is, how to recreate two qubit operations.
+And two qubit operations would mean
+you want to do something to one ion here, depending what
+the state of the other ion is.
+And this is much more subtle.
+So what I want to explain to you now
+is the famous Cirac-Zoller gate, which was really
+a pioneering paper which has thousands of citations
+now, because it showed that quantum computation can
+be experimentally realized in a rather straightforward way.
+
+It's a fundamental theorem of quantum information processing,
+that if you have similar qubit operations and one
+2-qubit gate, which is a C-not gate,
+that this is a universal set of quantum gates.
+Any arbitrary quantum algorithm can be constructed out
+of those gate operations.
+So let me just remind you what the c-not gate is.
+We have qubits, ion one, ion two, they can be in 0 or in 1.
+This can be two different hyperfine states,
+or in the case of the calcium ion,
+it can be the ground state or meta-stable excited state.
+Just two different states of ion one two different states
+of ion two.
+The C-not gate would now say the following,
+the first ion is the control bit.
+And whenever the control bit is 1
+it flips the qubit, the second qubit, if the control bit is 0,
+it does not it does--
+it does nothing to second ion.
+So therefore, the table which shows how the quantum states
+perform is 1, 1, 0, 0, 1, 1.
+It just shows that I'm writing down the matrix in this space,
+it's a 2's table--
+0, 0, 0, 1, 1, 0, 1, 1.
+And it shows that when you have 1, 1 at the input,
+you get 1, 0 at the output.
+If you have 1, 0 at the input, you get 1, 1 at the output.
+Well, the two-- the two qubit gate I want to discuss,
+which has been realized with--
+which can be realized with a simple--
+in the simplest possible way of the Cirac-Zoller algorithm,
+is the controlled phase qubit, which has a 2's table of 1,
+1, 1, minus 1.
+And it means when--
+
+it simply changes the face of the 2-qubit states
+when both qubits are one.
+
+Now this C-not gate can be constructed out
+of the controlled phase gate by having two--
+two similar qubit rotations done with the Hadamard gate,
+the Hadamard gate is taking the bases 1 and 2, and creates 1
+plus 2, 1 minus 2, the symmetric and anti-symmetric
+superposition state.
+So therefore, the c-phase gate is
+as general as the c-not gate, because one can
+be used to construct the other.

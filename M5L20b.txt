@@ -1,0 +1,137 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 128 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+In atomic physics we have a wonderful tool
+to study pairing because atoms can form molecules--
+weakly bound molecules or tightly bound molecules--
+and we can control that in experiments
+with the Feshbach resonance.
+Assume you have two atoms which collide
+and they can form a molecule.
+And if you apply a magnetic field,
+the two free atoms and the molecule
+may have a different Zeeman shift
+and therefore, there may be a level crossing.
+This is called, as a function of magnetic field,
+the Feshbach resonance.
+If the crossing is a crossing, nothing
+happens because the two configurations would not
+interact.
+Physics happens when there are interactions,
+for some hyperfine copying for instance,
+which takes the crossing into an anti-crossing.
+And now you see the following physics
+around this Feshbach resonance, that we have two atoms here.
+Here we have a stable molecule--
+now there are many, many more molecular states down there--
+but for this restricted Hubert space--
+this is the lowest state it's a stable molecule--
+
+the atoms, if you compare the solid line
+with the dashed line, attract each other
+because the solid line has lower energy,
+whereas on the other side of the Feshbach resonance
+they repel each other.
+So therefore, if you look at the scattering
+links or the normalized force between atoms,
+we find this dispersive feature around the Feshbach resonance.
+Atomic physics wouldn't be the same
+without Feshbach resonances, we can now
+tune attractive- repulsive interactions.
+In a richer situation there may also
+be single crossings of their scattering links, which
+allows us to realize non-interacting systems
+and such.
+And Feshbach resonance were first observed at MIT
+some 15 years ago.
+So coming back to fermions, this Feshbach resonance
+gives us something very interesting
+regarding to pairing.
+On that side, where we have stable molecules,
+those molecules are bosons, and those bosons
+form a Bose-Einstein condensate of bound pairs.
+Over here we have attraction, but the attraction is not
+strong enough to form a bound state,
+at least two atoms in vacuum would not
+form a molecular state, the attraction is too weak.
+But we know from condensed metaphysics textbook,
+if you have many fermions, if you have a fermi sea,
+then a fermi sea plus attraction equals BCS Cooper pairs.
+So now we have an opportunity, by simply changing
+the magnetic field, to go form real strongly bound pairs,
+to weakly bound pairs, and eventually
+to Cooper pairs, which would not form pairs in vacuum.
+And this is the kind of physics, which
+was for the first time explored with [INAUDIBLE] atoms
+in the BEC- BCS crossover.
+Jenny?
+Just to clarify, so in the repulsive regime,
+you said that atoms form molecules,
+but that atoms repel each other.
+So you're saying that atoms that don't form molecules
+repel each other or even [INAUDIBLE]?
+Yeah, if I go back to that, here they form molecules,
+here they repel each other.
+And actually, a lot of people think
+the repulsive side on the repulsive side of the Feshbach
+resonance means there is repulsion.
+But look, the atoms attract each other so much
+that they form a molecule.
+You can actually see the repulsion of the atoms
+comes because there is a very attractive moleculer
+state below and those two states repel each other.
+So the repulsion up here is actually
+caused by the molecular stay down there.
+So in other words, if you go from
+the attractive to the repulsive side,
+many people use it, in terms of pairs
+you go actually form very weak attraction, which is not
+sufficient to form a bound state to stronger
+and stronger attraction which now forms a stronger and more
+strongly bound molecule.
+Mark?
+Are there ways you can tell whether the molecule
+[INAUDIBLE] were attracted just by physics?
+
+You mean what the force is between the molecules now?
+It turns out that the molecules are repulsive.
+In some picture here, when the molecule forms,
+you can see it's a loosely bound molecule
+and the repulsion between atoms turns
+into repulsion of molecules.
+If you use a naive theory, which has approximations,
+you would actually find that the scattering length for molecules
+is exactly two times the scattering length for atoms.
+But if you work it out correctly the factor
+is different then, too.
+Colin?
+So, you said that the molecules are bosons?
+Yes
+I guess they're only bosons if the size of the molecule--
+I'll come to that later.
+We'll come to that later.
+Yes?
+My question was, I guess the size of the molecule scales
+pretty strongly with how far away you have a resonancy
+[INAUDIBLE]--
+
+In the universal regime which is open channel dominated--
+sorry for talking shop--
+in that regime, the size of the molecule
+is equal to one half of the scattering lengths.
+So as the scattering links diverge
+the molecule is very, very big, and as we move away,
+the molecule gets smaller and smaller.
+But once we get out of this quadratic regime,
+out of the universal, the halo regime, then of course
+the molecular size is completely determined by the closed
+channel and it is whatever it is in the closed channel
+and there's no relation to the scattering lengths.

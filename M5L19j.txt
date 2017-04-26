@@ -1,0 +1,94 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 85 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So what appears here now for the first time is,
+J. It appears here as the bandwidth,
+but let me immediately give it another interpretation
+as a tunneling matrix element in the following way.
+Right now we have formulated the physics in block wave functions
+which are infinitely extended.
+The block wave functions for the lattice, what
+plain waves are for free space.
+But if you have tight binding limit,
+there is another limit which is important, namely
+a particle is localized and hops around in the lattice.
+The localized particle, of course,
+is in free space it would be a wave packet, a super-position
+of plane waves.
+So let's do the same in the lattice,
+let's construct super-positions of block waves.
+And these are our wave packets.
+And the wave packet is now called the Wannier function.
+And there is a mathematical procedure
+how you should pick the phases here
+to get the maximum normalization,
+but the simpler picture is those Wannier functions are very,
+very close to Gaussian ground state solution of the harmonic
+oscillator at each side.
+The wings are different, but I don't want to go into that.
+It is-- you transform from an orthonormal basis of block wave
+function to another orthonormal basis Wannier function
+and the Wannier functions are as well localized as possible.
+That's the procedure.
+And now we can simply rewrite our total Hamiltonian
+or everything we are interested in, not in block wave
+functions, but in Wannier wave functions.
+And what comes out now is that the bandwidth, J,
+is nothing else than our Hamiltonian with kinetic energy
+in the parody potential.
+But J becomes now a matrix element
+between two Wannier functions.
+
+But the Wannier functions have now,
+I'll put in some indices in a moment,
+connect now two different sides.
+So It is, you have one Wannier functions,
+you have the Hamiltonian and connected to another Wannier
+Function, so it is the amplitude that with the Hamiltonian
+the particle can hop from one side to another side.
+So therefore J, which was the bandwidth,
+is now the tunneling energy, if divided
+by H bar, the tunneling rate from one
+side to the other side.
+For very deep lattice everything is analytic
+and can easily be solved.
+And I mentioned already the tight binding approximation
+you should think about Wannier function
+as just localized Gaussian [? eigen ?] solutions
+of the harmonic oscillator.
+Yes.
+So sort of qualitatively this question sounds sort of silly
+but ignore them when you write down
+this solution for J. We are considering the nearest
+neighbor helping.
+But sort of from the math, I don't immediately
+see why we wouldn't include I equal to J.
+Give me one more slide.
+The J has an index here.
+I just didn't want to overloaded with indices.
+I will immediately-- I mean this is sort of just telling you
+what J is in its simplest form.
+It is loaded with indices.
+And I will exact--
+I will show you in a moment where those indices come in.
+So I just wanted to give you the idea
+that if you want to Wannier function.
+We hop from one Wannier function to the other one
+and the operator is the Hamiltonian.
+And therefore, there should be an index J and L.
+And maybe let me just do the next step first
+and then come back to it.
+But I wanted to tell you here what I'm aiming at,
+namely interpretation of J of tunneling from one side
+to the next.
+But right now I haven't really told you which J I really mean.
+There should be, based on the right-hand side,
+there is a J which has two indices.

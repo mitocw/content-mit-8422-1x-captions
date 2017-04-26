@@ -1,0 +1,163 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19k.txt
+#
+# Captions for 8.422x module
+#
+# This file has 154 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me introduce the other relevant parameter, which
+will also have indices, and that is we
+have to bring in the interactions.
+We want to describe an interacting system.
+We describe an interacting system using the short range
+approximation by assuming that two particles interact
+with the delta function.
+And if we have two particles on side, each of them
+has a density, which is the Wannier function squared,
+and the product of the two densities integrated
+gives us the expectation value for the repulsive energy.
+And this is given here.
+So the moment we introduce interactions,
+we are now interested in the interaction energy
+between two particles, which in this case occupy the same side.
+OK.
+So I've tried to introduce what, sort of, J is.
+J is a matrix element between two Wannier functions
+with the Hamiltonian in between.
+And U is the matrix element of two Wannier functions
+with the interaction operator in between.
+And now I want to use that concept
+to take my full Hamiltonian and transform
+from field operator localized at x to Wannier functions.
+So the B operator are now creation operators.
+They create an atom in the Wannier function.
+In other words, you know, B dega means
+you have a particle in a Wannier function at site I.
+And I just use it as a basis transformation
+and the exact transformation of this Hamiltonian
+is now into this form.
+So what I have right now is I have the tunneling matrix
+element between particles inside I and J
+and I have to sum over all of them.
+And in terms of interaction, I can calculate this matrix
+element by using Wannier function
+with four different indicies and ask what happens.
+And this is simply an exact way of rewriting it.
+And here I've given you the definition.
+So if you want, Matt, forget everything
+I told you about J and U. I've done
+a transformation, an exact transformation,
+from field operators to Wannier function creation operators.
+And this introduces tunneling terms like the this,
+from side I to side J. And this here
+includes products of four Wannier functions
+which are responsible for the interaction term.
+Actually if this is not complicated enough,
+I've suppressed bent indices here.
+I should also now sum over all possible bents.
+But OK, I want to come now to the leading approximation
+in a tight binding model.
+And that is where, I mean, those Wannier functions
+are overlapped.
+Two neighboring Wannier functions
+barely overlap, if I go further away
+the overlap becomes even smaller.
+So the most dominant term are nearest neighbor interactions.
+And the nearest neighbor interaction
+is where I and J differ by one and this is
+what I call J without indices.
+And similarly when it comes to the interaction term
+where we have products of four Wannier functions, well,
+and we want to get the overlap of all four,
+and then multiplied with G, the prefect of our delta
+function to get an interaction term,
+well, the best overlap is if all indices are the same.
+And this is what I call U. So in that limit,
+in that tight binding limit, my Hamiltonian is now very simple.
+It consists of the tunneling term parametrized
+with J and then on side interaction term parametrized
+with U. Yes.
+When we are saying I, J, and K and they are all the same.
+So the interaction is with the particle itself?
+No.
+Two particles per side.
+When the four particles are the same it turns into--
+
+this Hamiltonian here has all indices are the same
+and if you calculate that it turns into the product of two.
+B-b dega is occupation number at each side,
+but if you are careful with commutators
+it becomes occupation number times occupation number
+minus one.
+If you have only one particle per side this term is zero.
+So technically U is if you put in 2 times, 2 times 1.
+If you have two particles per side,
+U in the interaction energy between two particles.
+Just use this expression to figure out
+what it is for three or four, but for one particle
+you get zero.
+The self interaction of a particle is absolutely zero.
+One particle does not interact with itself.
+
+I guess back to my question with the hopping, so when you have I
+equals I or I equals J for the hopping term--
+Yes.
+Do you just--
+No.
+I assume-- No.
+I-J is nearest neighbor I assume that the index I and J
+differ by one.
+Well, yeah, I mean so your argument
+was that the best over that was between nearest neighbors?
+Yes.
+But, so I mean an overlap of the Wannier function is with,
+like at the same site, is just sort of the kinetic energy term
+is it approximately zero or you just absorb that
+into the chemical potential.
+This is zero.
+If you take the lowest band its a zero point energy.
+It's common to all of them.
+P squared it's--
+So we are only looking at nearest neighbor,
+so we essentially are saying the case
+where I equals J is approximately zero
+Just commonly.
+Because it's the major term of the Hamiltonian
+Yeah.
+So P, the kinetic, plus the lattice operator
+so if I take my Wannier function which is built out of--
+I get values for that equation.
+I get a sum over a bunch of energy terms.
+On every side it clears that they are the same.
+So you have a common mode of energy that you can list.
+What would then multiply by the B dega B.
+Yeah.
+I feel like in some sense it would
+have to be in charge of the chemical potential.
+My gut feeling is, and this is why nobody considers it,
+it's just the constant energy, which is probably
+something like the zero point energy
+times the number of particles, which
+is not effecting any dynamics.
+It's pretty much a constant, which can be simply dropped.
+
+Let me just go back to that slide.
+I hope-- let me just look up the reference.
+I haven't looked at it recently.
+When we do this exact transformation
+there should be a reference.
+Whether I and J are--
+what happens when I equals J, I think
+it's just a constant term.
+Because then you are summing over every single lattice.
+Don't you?
+So you get the number of particles times zero point
+energy.
+Yeah, but even mathematically, it keeps just a constant term
+here, which is neglected.
+Thanks.
+It was good to clarify it.

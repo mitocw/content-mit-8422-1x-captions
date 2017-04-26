@@ -1,0 +1,246 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20g.txt
+#
+# Captions for 8.422x module
+#
+# This file has 237 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now we go from Cooper to BCS.
+Those three guys figured out how they can now
+take the physics described by Cooper,
+and really fold it into a correct many-body formalism.
+In other words, not to artificially have two
+fermions which scatter and there is just
+a Fermi-C of the other ones.
+They were now treating the two electrons, which
+scatter on equal footing with the whole Fermi-C.
+So now we have democracy, all electrons are created equal.
+So, I want to derive for you with the BCS wave
+function in the way which was not
+to be done by Bardeen Cooper Schrieffer,
+but it makes an immediate analogy with Bose Einstein
+Condensation.
+So what happens is you could have now the idea, of course
+I'm very suggestive in leading you to this idea,
+two fermions form a pair.
+And if the pairs both condense, then each pair
+should be identical.
+So maybe we should take our n-particles, our n-fermions,
+in half spin up and half spin down, each of them
+should form a pair, so one and two
+forms a pair of three and four forms a pair and such,
+and then we see our wave function of identical fermion
+pairs slash bosons is just a product of those pairs.
+But the molecular wave function and molecular of function
+if you want so far, is the same for all particles.
+So this is just like in the Bose Einstein condensate,
+we have a particle state of n times the same wave
+function, here we have a product state of n over 2 times
+the same pairing wave function.
+Well, the-- we should anti-symmetrize.
+That's important.
+So now let's just see what we got.
+Well we describe everything in second quantization.
+We use fuede operators which create particles
+at a certain position, and then we
+have the wave function of the pairs
+to make sure they are created in the right--
+in the right position.
+We transform everything, our operators
+and do fully transform, if we go,
+from operators in position space to operate us
+in momentum space.
+But now, it's just formulas and you can read up about it.
+But the important thing is now I define a pair creation
+operator.
+This pair creation operator creates one of those pairs.
+And what it does is it creates, we want to focus on the pairs
+with 0 momentum, so it forms a plain wave, firmly
+on the momentum state with minus k,
+with opposite spin with plus k.
+So these are sort of two opposite plain waves
+with 0 momentum.
+But now the reading factor is the Fourier transform
+of this pairing wave function.
+So if you have sort of if you want
+to assume it's a molecular wave function,
+Fourier transformers, and this is the waiting factor.
+And with that definition, this is now
+the creation operator of let's say, a molecule consisting
+of two Fermions.
+OK.
+So now we can say, well maybe a good idea
+of what describes our system is now, so to speak,
+a Bose Einstein condensate where we create, in order,
+two pairs out of the vacuum.
+Well, first I want to show you that this is actually
+the BCS wave function.
+Most people do not use that form for the BCS wave function.
+What I want to show you is that it's mathematically
+identical to the BCS wave function.
+But first I have to clarify, is that really a Bose condensate?
+If I would have shown you this equation
+without telling you anything about what,
+yeah it looks exactly, and over two
+identical b-bose, bosonic particles.
+But now we have to be more careful.
+We have our definition for the pairing operator
+and now we can calculate all those bosons.
+So let's just look at the commutator between [? b-degA ?]
+[? b-degA ?] b, b, yes fine, fine.
+But now the commutator between b and [? b-degA ?] is not 1.
+It would be 1, if the probability
+that the population of one of those plane waves key, if that
+is much, much smaller than one, then the commutator
+is fulfilled.
+But the population of momentum states
+depends on the size of the pair.
+If the size is huge.
+You have no lying momentum states
+which have a huge population.
+If the size is small of the pair,
+you can say, in a tightly bound system
+particles have so much zero point energy
+that every given momentum state has pretty much zero
+occupation.
+So in other words, this criterion
+here tells us that our pairs are bosons if nK
+Is much smaller than one, but if in case not smaller than one,
+then those pairs act out in a fermionic way.
+And the criterion happens exactly when
+the size of the pairs is comparable to the particle
+spacing.
+So in other words, what we have described what this wave
+function is we have a wave function,
+which is two- Bose Einstein condensate
+for tightly bound pairs.
+It's what we expect.
+It still has this form, but those pairs now
+feel the Fermi pressure, and therefore we have--
+this is automatically taken account in the formalism.
+Colin?
+So what's the minus sign?
+On the commutator?
+This one?
+[INAUDIBLE]
+It's a commutator, not the anti-commutator.
+It's b, b-dega minus b-dega, b.
+I just wanted to be careful here because for fermions you often
+will see anti-commutator, but I want
+to check whether these are bosons,
+so I use the pulsonic, the commutator, not
+the anti-commutator.
+Let me just show you one thing real quick.
+Namely, that this wave function is identical to the famous BCS
+wave function.
+Well, almost not quite you know that this
+is a state which has n particles in over two pairs.
+Remember when we talked about photons,
+we had Fock states within particles, within photons.
+But we also had coherent states where alpha square was n,
+but this was sort of, a classical coherent state.
+And this coherent state could be expanded
+as a sum over Fock states.
+And one can now say, to some extent,
+when it comes to certain properties of light in photons,
+sometimes it's important to distinguish whether we have
+a Fock state or coherent state, but for many things,
+if you have any photons in the same state,
+you can have a laser, then you have a coherent state,
+or you have n-photons in a cavity
+and, that may be similar.
+So let me now show you what happens
+when I take these Fock state, but construct what is now
+the coherent state version.
+In the coherent state version, I take,
+this is a Fock state with j particles
+but now we take a coherent superposition.
+And I've chosen my effector such that I
+will get the coherent state.
+And indeed I get the coherent state.
+So this is the same--
+this is now sort of what the laser is for Fock state is
+this coherent state for state with a specific from Fermial
+number.
+And this state now when I chose you can also
+say, many-body physics we say, I just
+went from the canonical ensemble,
+which has a fixed number of atoms,
+to the grand canonical ensemble, where the number of atoms
+fluctuates.
+But now I can simply use the definitions.
+If I tailor expand this component,
+because all higher powers of the fermionic creation operators
+give zero, the tailor expansion ends after the first term.
+And with one more step, I have the famous BCS wave function.
+So therefore, the easiest wave function,
+which has been widely used for, to describe superconductors,
+is really identical to creating n
+over 2 pair speed, identical pair speed in the vacuum.
+And I'm just telling you that because that means now
+mathematically, the BCS wave function, which many people say
+describes a very, very different physics is formally
+equivalent to the wave function for Bose Einstein Condensate.
+OK.
+So what have you done so far?
+We talked about one particle physics,
+how very weak attraction to bound states.
+We realized that if fermions live on top of a Fermi-c
+it gives them-- it gives at least
+the binding, the energetic consideration,
+a two dimensional character.
+And we have two states.
+And we have bound states for infinitesimal attraction.
+And now we have used our intuition,
+if those paths exist, if they form
+kind of a Bose Einstein condensate
+to construct a tidal wave function.
+And now I want to take this tidal wave function
+and show you how we can use it to solve the Many-body
+Hamiltonian.
+So so far, single particle physics, two particle physics,
+intuition to get a tidal wave function.
+But now we go to the many-body problem.
+Colin?
+Yeah, I'm a little bit confused.
+Can you go to the last slide?
+So the BCS wave function has the normal component and the pair
+component, where does the normal component
+come into the Bose thing?
+This one?
+Yeah.
+Oh, we're talking here about t equals 0.
+We're talking about a wave function.
+We're not talking about finite temperature
+where you're already [INAUDIBLE] over-excited states.
+This is only zero temperature physics.
+Was that your question?
+Yeah.
+100% Super-fluid f fraction.
+
+OK, so we are back now--
+Before we begin this, this may be a silly question
+but, why is it that up has to pair with down?
+I mean, it seems OK for up to pair with up, right?
+You still have--
+No, what happens is--
+we have assumed here that we have short range interaction.
+And up and up can never come close together because
+of the power of exclusion.
+But then In principle, if you just--
+if you have a heat wave or whatever, attraction.
+OK.
+It could work.
+You're talking about now different pairing mechanisms.
+I'm talking here about the plain vanilla BCS s wave pairing,
+and that means spin up and spin down pairing.
+
+Also this is where I can work out the analogy with the BC--
+BCS cos [INAUDIBLE] so I'm just giving you
+the simplest example.
+But yes, in helium free at high magnetic field,
+you have one of the phases where up and up and up with p-waves,

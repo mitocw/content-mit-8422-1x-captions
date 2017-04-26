@@ -1,0 +1,172 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19n.txt
+#
+# Captions for 8.422x module
+#
+# This file has 163 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+But now comes the interesting physics.
+We have to ask, what are we doing here?
+I mean, it's all mathematical.
+And the math is really simple here.
+What we have done is we have looked at the isolating state,
+and we have done perturbation [? phi oe ?] in psi times
+b plus b dagger.
+And now, we get an energy correction,
+which is psi square.
+And I mean, what are we really doing here?
+Well, you can say the following.
+We started with a hypothesis that we have a superfluid state
+characterized by psi.
+And psi, at the onset of superfluid, is small.
+But now, we have done the calculation,
+assuming that there is a psi.
+But now, we are turning around and said,
+have we really done the system a favor
+by introducing superfluidity?
+In other words, has our perturbation [? phi oe ?]
+in psi lowered the energy of this state?
+Or raised the energy of this state?
+So in other words, we've done a hypothetical calculation here.
+What would the system feel like if there were
+a little bit of superfluity?
+If the system says, great, I've lowered my energy,
+then we know we're in the superfluid state.
+When the system says, no, I raise my energy because
+of the psi, then the system has rejected our idea
+to introduce superfluidity.
+So therefore, the question we are raising now
+is, after we've done the calculation, for what values
+of u and j is it favorable to introduce a psi or not?
+Now, I was expecting the question of some of you that,
+in second order perturbation [? phi oe, ?] second order
+perturbation [? phi oe ?] always lowers the energy.
+But remember, this is why I emphasized the minus sign.
+We had a psi square term, which came
+from that, which came from the last term of the decoupling
+approximation, which had a minus sign.
+And therefore, we have, in psi square,
+one term which came from this special psi--
+and I emphasized in the decoupling approximation--
+entry of a contribution of psi square, which
+comes from perturbation [? phi oe. ?]
+And the two together can actually change their sign.
+So what we have right now is, if we describe the ground state
+as a function of psi, we have our unperturbed energy
+of the Mott insulating states.
+And then, we have a term in psi square.
+And we should-- and we could, but we don't--
+calculate the next order in psi to the 4.
+And it turns out that, in 4th order perturbation
+[? phi oe, ?] this term is always positive.
+So what happens now to the total energy, when this term, a2,
+which we have exactly calculated,
+analytically calculated, if this term, a2,
+is larger or smaller than zero.
+Well, if you have a parabolic term and a quartic term,
+in this case, both the quadratic and the quartic term
+are opening up, like in a u-shape.
+But here, the total energy turns into w-shape.
+And the interpretation is fairly simple.
+Under those conditions, the system
+prefers to have psi equal 0.
+Whereas, here, it's like the system
+wants to have a psi parameter which is finite,
+either positive or negative.
+And whether it's positive or negative
+is sometimes called spontaneous symmetry breaking between two
+degenerate solutions.
+What I'm showing here is, of course,
+very similar to the Ginzburg-Landau theory of phase
+transitions where you have an effective potential,
+and the phase transition takes place when the second order
+coefficient changes sign, and the effective potential turns
+from U-shape into W-shape.
+So that's what we have done.
+
+So anyway, I think this is a nice problem where
+the interpretation is, I think, much more subtle
+than the calculation itself.
+But we have calculated the phase transition.
+Everything is analytic.
+Here is the analytic result, which
+I know with very indigestible notation.
+The paper-- I followed exactly the paper
+by [? Wunderstraden ?] [? Stoof ?] and collaborators,
+which is posted on the website.
+You can plot this phase diagram in this way.
+But if you use what is more common, normalize,
+there can be the potential by u and normalize j by u,
+you get these wonderful lobes of the Mott insulator
+where you see that, if you increase
+the chemical potential, you have n
+equals 1, n equals 2, n equals 3, Mott insulator.
+And in between, you go through superfluid regions.
+However, if your tunneling is larger,
+if your tunneling is too large, you're only superfluid.
+So this is sort of the way how you
+derive this rather rich phase diagram of bosonic atoms
+in an optical lattice.
+Green is an insulating state, and white
+is the superfluid state.
+
+Let me just conclude by showing a few slides, how
+this can be observed.
+So in one case, we have an insulating state
+with indefinite number of particles per site.
+And here, we have superfluid state,
+which has the normal fluctuations in number.
+Here's another cartoon picture of a condensate in the lowest
+Bloch wave function.
+And here, you have localized number states.
+Often, you observe the transition
+by taking this system and releasing it in time of light
+into ballistic expansion.
+If the superfluid is coherent, the wave function
+on the different sites is coherent,
+and what you get is a multi-slit interference pattern, which
+is a diffraction pattern.
+And you see these characteristic diffraction patterns.
+It's an [? end-slit ?] diffraction pattern,
+which characterizes the coherence in the initial state.
+However, if you have a completely isolating state,
+you have a Gaussian wave packet on each site, which has nothing
+to do with the next neighbor.
+And then, the Gaussian wave function simply
+expands in a structureless way.
+And so, the transition from here to there
+happens exactly when the ratio of u over j
+crosses the value we have derived.
+
+There is another technique of observing
+that which is more recent.
+This is quantum gas microscopes, where
+you do the same physics in two dimensions.
+So you have only one plane where this physics takes place,
+and you can observe atoms now with a microscope.
+So each green dot here is an atom.
+
+You can sort of zoom in.
+And if you now study the region where
+you go through the superfluid to the Mott insulator,
+you see that you have exactly one atom per site.
+If you increase the atom number, you have an insulator
+with one atom per site.
+And in the middle, you have an atom.
+Here you have a state with two atoms per site
+which, for reasons I don't want to discuss,
+are color coded here in black.
+And that sort of goes on and goes on.
+So you can't really resolve, site per site,
+the occupation of the number of atoms per site.
+So I think I'll stop here with the [INAUDIBLE] gases.
+When you think the Mott insulator is
+the end of the story, all motion has been frozen out,
+and you have one particle per site, well,
+it could be the beginning of a new story.
+Because if you use two different hyperfine states,
+spin up and spin down, we can talk about spin ordering.

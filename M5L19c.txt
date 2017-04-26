@@ -1,0 +1,66 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 57 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+When we have diagonalized the Hamiltonian,
+we know everything we want to know.
+I just focused on the quasi-particle energies,
+but you also know the ground state energy.
+And actually here, Colin, you see
+that the corrections to the ground state energy
+scale with N-A cubed.
+So this is really the small parameter in the system.
+But we can also find out what is the ground state wave function,
+and let me use that to introduce an important concept to you,
+called the quantum depletion.
+When you have two atoms in the condensate
+at zero momentum and you switch on the interactions the atoms--
+the interaction, the delta function interaction
+couples zero momentum state to higher momentum states.
+So therefore the effect of interactions
+is that the condensate is not just at zero momentum,
+it has some probability or some admixture of finite momentum
+states.
+This is the ground state.
+This is how the Hamiltonian is diagonalized.
+So from the Bogoliubov approximation
+where we introduced this we and you parameter
+to transfer from one set of Boser operators
+to another set of Boser operators,
+those coefficients give us the population
+of those momentum states in the counsel of the condensate.
+So if I now ask, what is the condensate fraction?
+What is the number of atoms in the zero momentum states?
+It's all atoms, but those who have finite momentum.
+And we find again this small parameter N-A cubed.
+Now this quantum depletion allows me now
+to make a difference, a distinction,
+between the cold atomic gas condensates
+and superfluid helium 4.
+In cold atomic gas condensates, this correction is about 1%.
+So therefore, I can say, with 99% probability,
+or with 99% weight, the condensate, the many body wave
+function of the condensate is just a zero momentum
+state to the way N. And this very complicated admixture
+of correlations into the ideal gas wave function is only 1%
+for alkali gases.
+But for liquid helium, the condensate
+fraction even at zero temperatures only 10%.
+So when people use neutron scattering,
+it would be a long story in itself how this is done,
+but when they use neutron scattering
+to analyze liquid helium at low temperature
+and figure out what is the fraction of atoms which have
+zero momentum, they found 10%.
+The quantum depletion is 90%.
+But that's just the difference between a current gas
+and a quantum liquid.
+And in the quantum liquid, in liquid helium N-A cubed
+is on the order of unity.

@@ -1,0 +1,235 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 226 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+You know in class I always try to teach you something
+conceptional, and the conceptional part
+I want to address now is, let's assume
+we are on the right hand side, on the attractive side
+of the Feshbach resonance.
+Two atoms weakly attract each other
+with the negative scattering links,
+but there is no bound molecular state.
+So how should you know understand
+that if you have many fermions, that those fermions form
+Cooper pairs and pairs.
+And the question I would have for you is, you've definitely,
+probably heard about it, is this pairing mechanism which
+requires the [? fermi ?] C. Is that many-body pairing,
+that somehow correlation between many particles is unnecessary,
+and it's a genuine many-body effect,
+or can you still understand Cooper pairing as mainly
+a two body effect.
+
+So in other words, how much many-body
+is really involved in creating pairs
+in the presence of a [? fermi C. ?]
+Does anybody know the answer?
+
+What do you hear for most people is that, it's
+a real many-body effect.
+Two particles cannot form a pair in vacuum,
+so it is really many-body physics and you say, wow,
+I really have to understand complicated physics.
+
+[INAUDIBLE]
+It has something to do with [? the fermi C. ?] What--
+[? Tim? ?]
+I may know the answer.
+Maybe-- Maybe you like to--
+Well, give it away!
+There is always a ground state in two dimensions,
+I think, between arbitrarily small fractions.
+Fermi C helps you get the two dimensions.
+That's great.
+So what I want to show you is exactly what he just said.
+You can really understand Cooper pairs,
+you can understand the exponential dependence
+on the scattering links by simply
+looking at one particle, two particles,
+with a very weak potential.
+But you have to look at it in two dimension.
+And it is eventually the Fermi C which
+provides the two-dimensional density of states.
+So in other words, the binding of Cooper
+pairs, at least qualitatively, can
+be understood-- understood with a single [? Particle ?]
+Schrodinger equation with under cradled physics knowledge.
+Colin?
+I guess a picture that was, sort of when you think of BCS,
+and a real solid, like a three-dimensional solid is that
+one electron travelling through the lattice,
+repels all of the electrons of similar spins
+or poly-exclusion.
+And then, the electron of another spin moving
+with opposite momentum, sort of, sees
+that as a deficit of that spin component.
+Sort of attracted to that region.
+So in that sense isn't sort of this effective clearing out
+of other particles to make room for another one?
+There's not many bodies associated with Fermi C?
+Very good.
+So we're talking about two different things here.
+One is we need an attraction.
+In the atomic system we get an attraction because of van der
+Waals molecular forces.
+That's it.
+For electrons, which have Coulomb charge,
+where is the attraction?
+And you wonderfully described that there is
+attraction between electrons.
+It's like the couch effect.
+If you sit on a couch, you indent the couch,
+and the person next to you will move towards you.
+Similarly, when an electron goes through a lattice,
+it leaves the polarization of the lattice behind,
+and the next electron is attracted to this trajectory.
+So what you're explaining is full non-mediated process
+which leads to attraction.
+But if I have to fermions which attract each other,
+I don't need this complication.
+But couldn't you get it without a lattice
+without-- just think like the Fermi gas.
+If I had one fermion and I move it, the location that it was,
+has been--
+all the other Fermions have been pushed away
+from that [INAUDIBLE].
+So there's a sort of, a density depletion there.
+So, couldn't another [? spin ?] component
+see that as an effective [INAUDIBLE]?
+I mean density depletion.
+Density waves, and these are sound waves,
+maybe there is a possibility to map it on photons in a lattice.
+I haven't heard about it.
+So I've never heard about such an attraction which
+would happen in a Fermi gas which would give the Coulomb
+propulsion for some correlation attractive component.
+What is well described of course, is the couch model,
+or the photon model, you mentioned.
+But I'm saying, this is just giving you the attraction.
+But the question is now, and that's
+the next question I raised, once we
+have an attraction between two particles,
+do we need many-body physics or single particle
+physics to have pairing.
+So let me now address that.
+Now this is out of the review paper.
+You can read much more about it.
+But it simply reminds you, undergraduate problem,
+what happens when you have two particles with a very
+weak attractive potential?
+And of course since you can eliminate
+the center of mass motion when I say two particles,
+it's the same as one particle attracted
+to a center potential.
+And what you learn, or what you may have already learned
+in your undergraduate days is, that in one D if you
+have an infinitesimal dates of this [INAUDIBLE]
+you found a bound state.
+The bound state will decay very slowly, but it's a bound state.
+In 2-Dimension, you also find a bound state.
+And in two dimensions logarithm appears,
+and often when logarithm appears,
+it's sort of the limit.
+The logarithm is the weakest form of binding,
+and if you go one step further, for a very, very
+small effective potential you do not have a bound state.
+So in 3-dimension, you need a minimum,
+you need a critical energy of the square well, critical dates
+before your bound state, where its infinitesimal attraction
+is enough to bind particles in one or two dimensions.
+So therefore when we talk about fermions
+with a very weak attraction, in 1-D and 2-D, no problem,
+they can form pairs by that.
+Pairs even in vacuum.
+But in 3-D we need something else,
+because an infinitesimal attraction is not
+enough to form a pair.
+Now let me ask you the following question, you all know--
+that, let me just cover this slide
+because it gives the solution.
+You all know that in 3-Dimension when you have radial symmetry,
+you can transform the 3-dimensional Schrodinger
+equations into an angular equation,
+but then also into a one dimensional equation
+for the radial wave function.
+And of course this one dimensional radial equation
+has the same potential as the original three
+dimensional equations.
+So I don't know.
+I want to hear from one of you, why
+it does now an infinitesimal square well
+potential with attraction gives bound states in 1-D,
+but not in 3-D. Because in 3-D the radial wave
+equation uses the same infinitesimal potential
+as in 1-D. Jen?
+Because you have to break down an effective potential that
+takes into account the central Coulomb.
+Perfect!
+But let's use L equals zero.
+Then the centrifugal potential is--
+the centrifugal correction is zero.
+Otherwise you are right, it's an effective potential.
+But let's talk about L equals zero, S-states.
+Then there is no connection to the--
+do to the centrifugal forces.
+
+Go ahead.
+Radio derivative is no longer just
+a simple second derivative, of sort of whatever--
+No, no.
+It is.
+You have a more complicated radial derivative,
+but then you go to an equation, which just says D- 2- D-
+r squared over function U, and it's exactly
+the one dimensional Schrodinger equation, which you write down.
+You can transform the radial equation
+with a more complicated derivative
+into something which is exactly a 1-D Schrodinger equation.
+Yes?
+[INAUDIBLE]
+Sure.
+Uncertainty of relation always can immediately help you,
+you have an uncertainty relation for kinetic energy
+and you realize that you don't have enough potential.
+But maybe mathematically what is different
+between the identically looking 1-D Schrodinger
+equation and the radial Schrodinger equation
+for the wave function U.
+I don't know how this is going to lead to it,
+but I noticed one difference is that in the 3-Dimensional case
+you can't go less than zero.
+Exactly.
+In the 3-dimensional case, you have a wave function psi,
+but then do a substitution that 1-D Schrodinger equation,
+it's not for psi it is for U, and to U
+is the radial part divided by r.
+So you transformed to a different function,
+which is one more power or r.
+And the requirement because of this
+is that your radial wave function of this one
+dimensional radial equation has to have a node in the center.
+And now you see what happens, if you start at zero your wave
+functions shoots up.
+If you don't have enough attraction,
+it will never curve down and become a normalizable state.
+Whereas in 1-D, you do not have the requirement
+that the wave function of your 1-D Schrodinger equation
+is a node.
+So you have same equation, the same infinitesimal potential,
+but the--
+but the radial equation has a different boundary condition.
+So that's the difference.
+And that's important, it the changes of physics completely.
+OK.
+Now it looks very different, and it seems you have to--
+Nicky?
+What about 2-D?
+The limiting case, we come to that in a second.

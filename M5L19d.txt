@@ -1,0 +1,81 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19d.txt
+#
+# Captions for 8.422x module
+#
+# This file has 72 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I mentioned this dispersion relation.
+These are sort of quasi-particles.
+And I, at least, showed you how you
+can measure the slope of the quasi-particle dispersion
+relation by propagating sound waves,
+but let me now tell you how we can
+observe quasi-particles elementary excitations
+directly.
+And this is actually simply done by light scattering.
+If you scatter a photon and the scattered photon
+loses energy, H by nu.
+And it is scattered at an angle, therefore
+it transfers momentum, Q. This process
+can only happen if there is an elementarily excitation
+with momentum, Q. And energy, H nu, So in other words,
+on a photon basis, you can say, photon by photon,
+if you scatter a photon, the photon transfers
+momentum and energy.
+The process can only happen if you can form a quasi-particle
+with this momentum and energy.
+So since this is sort of the direct way of making out
+whether the system has the possibility to absorb momentum,
+Q, and energy H nu.
+This has, sort of, a name.
+This-- the scattering probability
+is called the dynamic structure factor.
+And the dynamic structure factor is just an integral
+over all the possibilities that a many-body system can
+absorb momentum and energy.
+Now, there is one nice feature which
+was introduced by us at MIT and that
+is if you happen to mention the dynamic structure factor
+often you do it with neutron scattering.
+You scatter neutrons or x-rays and they scatter spontaneously
+at an angle.
+And you need a detector to detect the scattered particles.
+But in our case, because the gas is so dilute,
+the distance between atoms is on the order
+of the optical wavelengths.
+We don't want neutrons.
+We don't want x-rays.
+We want photons, because the wavelengths of photons
+is perfectly matched to the properties,
+to momentum transfer and such we need for our system.
+But photons, we have photon lasers.
+So instead of, in a painstaking way, analyzing the frequency
+and the momentum of scattered photons,
+we don't do this spontaneous scattering process,
+we do a stimulated process.
+We use two laser beams.
+And we stimulate a photon to be scattered into the other laser
+beam.
+And by having the two laser beams at frequency difference
+delta-omega, we are really asking the system,
+are you ready to absorb delta-omega energy.
+If yes, then you have a quasi-particle.
+So this is how we do quasi-particle spectroscopy.
+And a few years later, this method
+was defined by the Weitzman Institute.
+And what you see here is they vary
+the angles between the laser beams,
+realize different momentum transfer,
+and what you see is the low dispersion,
+the linear dispersion relation for low momenta,
+and then the quadratic part at high momenta.
+So this is called Spec spectroscopy.
+It's a variant, you can see, of Raman spectroscopy.
+Where you go from zero quasi-particle state
+to one quasi-particle state through unstimulated Raman
+forces.

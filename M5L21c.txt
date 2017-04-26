@@ -1,0 +1,253 @@
+#
+# File:   content-mit-8422-1x-captions/M5L21c.txt
+#
+# Captions for 8.422x module
+#
+# This file has 244 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+What I want to talk more today about, if traps or power traps,
+because they are used in the majority of experiments,
+and they are used in pretty much all experiments
+on quantum information processing with ion.
+So the neat thing, and you know I
+try to teach you concepts in physics, the interesting thing
+about power traps, RF traps is, that you alternate
+at a radio frequency between confinement
+and anti-confinement.
+You can say you have a settled point potential, which
+is confining in x and anti-confining in y,
+but then you switch x and y.
+So therefore the situation is just imagine you're an ion
+and you feel, half of the time a confining harmonic oscillator,
+and half of the time an anti-confining harmonic
+oscillator.
+The question I have for you, and this is a general physics
+question, well, is the sum of it confining
+and an anti-confining potential of the same strengths,
+does it give zero, or does it give you something
+which in the end is confining?
+
+So if you were in a potential, and the potential switches
+permanently from parabolic upward to parabolic
+downward, at any given position the average force
+is zero, because in one phase you are forced to the left,
+in the other case you have the opposite view of the same force
+but with a right with the opposite sign.
+
+What's going on here?
+Yes.
+So, I can't answer this mathematically or physically,
+but I just remember this very cool example
+that someone showed me once where they
+took a saddle shape in space.
+Put a ball in the middle and you spin the saddle,
+and as soon as the ball tries to fall to one side
+that saddle will spin over and pick it up.
+So, I know has to be it is in confinement.
+But I can't answer mathematically.
+OK.
+Colin.
+There could possibly be a threshold.
+Because if you consider spinning it
+so slowly that the particle can just sort of roll off,
+maybe there's a threshold.
+Yeah, there is a threshold.
+I mean, if there's a confining potentially
+for a long, long time, and there's
+an anti-confining potential, and I just
+fall down the anti-confining potential
+and I disappeared to infinity.
+The confining part doesn't help me.
+So there will definitely be a threshold in time
+we have to switch between confining and anti-confining
+sufficiently, replicate Yes.
+Does it have something to do with the fictitious force
+[INAUDIBLE]?
+No.
+But, this would have been a possibility.
+Maybe there is a formalism, but the standard formalism
+does not use a rotating frame.
+Maybe you could think of the classical analogue,
+where you have a bead on a wire, and you have to stable position
+at a finite angle only at certain frequencies.
+Yes
+Set by--
+I'm not sure.
+Anyway you all, I think everybody works,
+or at least has worked with optics
+or knows what optics is, so why don't I discuss the following.
+If you take a positive lens, and negative lens
+with equal strengths, what happens now to your laser beam?
+You sending a laser beam through.
+It gets an inward force by the--
+inward bend by the convex lens, an outward
+bend by the concave lens.
+Is the net effect nothing or is it focusing?
+
+Well, it depends.
+What happens is the following, if the lenses
+are put in close proximity the two bending actions on the rays
+just completely cancel.
+But now we can do the following.
+We can put the two lenses further apart,
+and now the following happens.
+We have a laser beam which is bent inward.
+And you probably all know the lens maker's equation,
+that the further out the rays are
+the more they have to be bent inward to come to a focus.
+So what happens is those beams are now bent inward,
+but when they reach the other lanes they are now bent
+outward somewhat.
+I'm not very accurate in my drawing,
+but the angle which they are bent inward,
+is proportional to the separation here.
+And the angle by which they're bent
+outward is a proportional to the separation there.
+So they inward bend is stronger than the outward bend.
+So therefore, what I'm telling you
+is convex and concave, with a certain distance
+between the two results in focusing.
+
+Now maybe you can just think about it,
+what happens if I reverse convex and concave.
+Is it now still focusing or is it the opposite of the example
+of the example above?
+Now, the first lens bends the beam outward.
+
+Yes?
+And the second lens bends it inward.
+But since we've reached the second lens further out,
+the inward kick is stronger than the outward bend initially.
+So therefore, when you have positive and negative lenses
+of equal strengths, no matter in what order you apply it,
+you always get an inward force.
+
+So this should actually explain
+As long as they're in the focal length, right?
+Can you imagine if you had a positive and a negative
+and it's larger than a focal length away?
+Yes.
+Everything within reason here.
+There will be a stability dial code,
+but I want to first make it very plausible what happens.
+And just to address the question which I raised before,
+if I'm in a potential and I get an equal amount
+of inward and outward force, shouldn't it average to zero?
+The question is how you average.
+if I would keep the distance from the x-- from the x
+is constant I would say, here is a function of, let me call it
+x, the bending angle is a function of x is positive.
+The bending angle at the same x is negative.
+So if I were to do the average at constant x I would get 0.
+But what I do is, I do the average following
+the trajectory of the beam.
+So in other words, if I'm sitting
+on this potential, which switches from attractive
+to repulsive, if I would be here at my position,
+the average force is 0.
+But when the potential is repulsive, in one half cycle
+I'm pushed outwards, and further out the attractive force is now
+stronger than it was before.
+And therefore, if you ever reach with the force at my position
+you will always find an inward force.
+But if you ever reach the force at a fixed location
+it averages out to 0.
+
+So this is exactly how RF ion traps work.
+And, well, the rest are just equations to describe that.
+So I think we have to make a choice.
+I could derive for you the equations, how
+you average over the rapid oscillations of the potential,
+and you get a harmonic oscillator potential,
+and this is how you trap ions.
+But it's pretty much showing to you,
+how the concept I've just explained to you how
+it is reflected in equations.
+Or the second option we have that takes about 20 minutes
+is to explain to you how quantum computing is
+done with two ions.
+In particular how the famous Zoller-Cirac gate works.
+Do you have a clear preference?
+OK.
+Fine.
+But there's one piece of mathematics
+you should understand.
+Really.
+And this is the only essence of the mathematical derivation.
+If I'm standing here and I feel the alternating force,
+it's a cosine omega t and it averages to 0.
+But if the force drives me, it shakes me, this is micromotion.
+Like the beam here, if you go through many lenses,
+the beam does up and down and up and down.
+This is micromotion.
+The micromotion is at cosine omega t.
+And the net attractive force comes
+because the force which oscillates it,
+cosine omega t, and I'm oscillating at cosine omega t,
+then you get cosine square omega t.
+And this gives you the net force,
+which provides the net attractive force,
+and it is the cosine square term averaged
+over the micromotion, which is one half, which
+is responsible for the trapping potential in ion paths.
+Anyway you know the physics very well.
+You understand where the math comes from.
+It's really just the product of the two.
+Selectificaton.
+It's an alternating force, but since the system itself,
+the particle itself, is driven at the micromotion there
+is a rectification going on which leads
+to the cosine square term.
+
+[INAUDIBLE], yes?
+
+So, I think [INAUDIBLE] travellers complained about
+the micromotion, but in fact, they need it for travelling
+to work.
+That's pretty much what's going on here right?
+Yes, actually, [INAUDIBLE] side of the mathematics
+is the micromotion is kinetic energy.
+The harmonic trapping potential if nothing else
+than the micromotion.
+In other words, if people saw in an ion trap
+that you have a harmonic oscillator
+the harmonic oscillator potential is higher here.
+But mathematically, this harmonic oscillator potential
+is the kinetic energy of the micromotion.
+In other words, if you look at the micromotion
+it has a kinetic energy, the kinetic energy
+appears as a potential energy in this slow circular motion.
+So in other words, the potential energy for the trap
+is the kinetic energy of the micromotions.
+You can't avoid it.
+It's-- this is responsible for the restoring force
+Is it quite a conservative trap?
+Or can it have an out of phase component
+to the micromotion response?
+Is there a sin part to the response?
+It's just-- well the circular motion is quite conservative.
+You know asking--
+I'm trying to think if there would be a reason why
+my-- the response-- my dipole response
+would be having something different.
+
+Is there a reason?
+
+Well, to the best of my knowledge, it's all--
+everything is wonderfully conservative
+if you have a separation of time scale.
+If you want to sort of, get something
+strange or non-conservative out of the micromotion
+you have to violate the adiabatic separation
+of timescales.
+It's the possibility that if particles move quickly
+through the potential they are not following the micromotion
+adiabatically.
+And then there is a collision where micromotion is released
+as condition of energy.
+But on the single particle level,
+it's a pretty good approximation.

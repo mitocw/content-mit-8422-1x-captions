@@ -1,0 +1,81 @@
+#
+# File:   content-mit-8422-1x-captions/M5L21a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 72 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+Let's start to discuss ion traps.
+Now in many situations, ions are just charged neutral atoms.
+And if the charge doesn't matter,
+you can do very similar physics with ions and neutral atoms.
+However, the charge makes major differences
+when it comes to confining and manipulating particles.
+So when I compare neutrals to ions,
+the forces which we exert on neutral atoms
+are magnetic forces, optical forces.
+And typically, the traps we can create
+have a DEPs of about 1 Kelvin.
+Actually, you just need superconducting magnets.
+The magnetic traps we build here at MIT have millikelvin DEPs.
+So the trap DEPs is often on the order
+of microkelvin, millikelvin, and Kelvin at the high scale.
+Well, this is very different in ions.
+In ions, you have the Coulomb force.
+If you take electric fields of a hundred volts per millimeter,
+you can create confinement forces for 10,000 Kelvin.
+So you have no problem in confining room temperature
+ions.
+
+So this is trapping and confinement.
+If you talk about cooling, well, our [INAUDIBLE] [? causes ?]
+are Doppler cooling and evaporative cooling.
+You can actually cool ions by evaporation.
+You can also cool ions by evaporative cooling.
+But what has been very common is special to ions
+is the ability to resolve sidebands, sidebands
+of the vibration and motion in the harmonic oscillator trap.
+And in problem set number 10, you
+have looked for the physics of sideband cooling.
+However, sideband cooling is now also coming back
+to neutral atoms.
+For instance, if you have neutral atoms in a very tightly
+confining dipole trap, you can resolve sidebands
+and use those for cooling.
+OK what is the science?
+Well, a driving force for both ions and neutral atoms
+has been clocks.
+If atoms are cold, you can use them
+to have very accurate ways of keeping time.
+And I think currently there is a race
+between the best neutral atom, atomic clocks, neutral
+[INAUDIBLE], optical lattices, and ion traps,
+in particular, the aluminum ion at [? epola. ?]
+So we have clocks in ions.
+And this is what I want to talk a little bit more about today.
+A major driving force quantum information.
+You have two ions and get quantum gates between them.
+Or you eight ions and can have now
+8 qubits in an prototypical quantum computer.
+So quantum information science and quantum algorithms
+was quite important.
+But I would say some of the physics
+is at least discussed and partially pursued with atoms
+and optical lattices.
+And we have talked a lot about, for neutral atoms,
+about quantum simulations, studying superfluidities,
+studying face transitions, magnetic properties
+of many body systems.
+But there's now more efforts to do that with ions.
+[INAUDIBLE] in Maryland is studying
+antiferromagnetic ordering of a spin chain.
+And the spin chain consists of a string of ions in an ion trap.
+So see, actually, on the science side,
+that all three clocks' precision measurements, quantum
+information cubits, quantum algorhythms, and quantum
+simulation of many body systems are
+done with both neutral atoms and ions.
+So these are now two very different platforms.

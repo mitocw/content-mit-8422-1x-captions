@@ -1,0 +1,45 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 36 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me just first show you, I want
+to mix in theory and experiment, how sound can be observed.
+I should actually say, this experiment is sort of dear
+to my heart, because at some point
+it clicked to me, how the new world of atomic physics
+connects with condensed matter physics.
+Soon after we had realized Bose-Einstein condensates,
+a famous condensed matter theorist said,
+hey Wolfgang, you should now observe sound.
+Sound is important, yeah OK, but how do you observe sound.
+Use a piazzo and just kick the system and create a sound wave.
+And I said, oh gosh, this guy doesn't
+know that if you put anything in contact with the quantum
+gas as a piazzo the gases will just stick to it.
+He has no idea what our system is.
+But then I said, wait a moment we have to translate.
+He says use a piazzo.
+Well, I have to translate.
+In atomic physics, how do we kick atoms? with a laser beam.
+And in that moment, I had the idea
+that we can take a Bose-Einstein condensate,
+suddenly switch on a [INAUDIBLE] tuned propulsive laser beam,
+this will do exactly as a piazzo,
+create a density perturbation and then
+the density perturbation will propagate
+with the speed of sound.
+And that worked.
+That was just when Bose-Einstein condensations were very fresh.
+One of the first scientific experiments
+done, we switch on the laser and you
+see color-coded in red the density perturbation which
+propagates outward.
+And the slope of this line is the speed of sound.
+And here we determine the speed of sound

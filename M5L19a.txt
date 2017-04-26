@@ -1,0 +1,98 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 89 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Quantum gases has become interesting
+because of interactions.
+And in my lecture today and in my last lecture,
+I want to introduce you to Boser gases and Fermer
+gases with interactions and they both turn superfluid.
+And the superfluid properties are
+determined by the interactions between the atoms.
+So the purpose of those lectures is number one,
+to acquaint you with important phenomenon cold gases,
+superfluity, superfluity in lattices, superfluity
+just in free gas, and in a normal gas without lattice,
+and superfluity of fermions.
+But at the same time, I also want to have sort of a theme
+for you, how we deal with interactions.
+And that deal and that kind of theme
+is that how theoretically we reduce unsolvable Hamiltonians
+to Hamiltonians which can be solved.
+And you will see that actually appearing
+in different situations with similarities,
+but important differences.
+So just to remind you we started out with the interacting Boser
+gas in a homogeneous system.
+We have a very general way to describe scattering.
+Two particles with initial momentum
+disappear and two particles with momentum appear.
+This is a scattering event.
+Now, this means we have products of four operators, which
+is very difficult to solve.
+And the Bogoliubov approximation,
+which we discussed on Monday, replaces the operator
+for the condensate for the zero momentum state with C number.
+Saying that while n naught, n naught plus one
+is the same, little bit waving your hands, but it's also,
+you can say, the microscopic limit.
+When we photon field with many, many photons,
+we can use a C number in our Hamiltonian
+to describe the electric field.
+So that's the same spirit.
+So maybe I should emphasize it.
+This is for atoms, what you're used
+to do with photons for your whole life.
+OK, with that, we have transformed the Hamiltonian
+into a bi-linear expression.
+And so the moment you have a bi-linear expression,
+you do a Bogoliubov transformation.
+You simply diagonalize it by finding a new set of operators
+where the cross term between a and b or between a
+of k and a of minus k disappear.
+And then you have solved it.
+And this is what we arrived at the end of the last lecture.
+We have, with those approximations,
+we have diagonalized the Hamiltonian.
+Our Hamiltonian is now, you can say a harmonic oscillator
+Hamiltonian or you can say it has
+become a gas of non-interacting quasi-particles.
+Each of those operators creates a quasi-particle
+and the quasi-particle energies e of k.
+And I explained to you that as expected
+the quasi-particle energy is simply particles with momentum
+h by k for a high momentum.
+Because in high excitation a Bose condensate
+is a free particle, but a low lying excitation
+is affected in a major way by all these interactions
+with a Bose-Einsetin condensate.
+And that turns the quadratic dispersion of relation
+into a linear one.
+Or you can say, that turns a free particle
+into a phonon or sound wave.
+
+So that's my review of last class.
+Are there any questions before we go further?
+Cory.
+So does this require low density and weak interactions?
+Or one or the other?
+We will come a little bit later to that.
+But in the end, there is a small parameter.
+The small parameter will be N-A cubed, the gas parameter, N,
+the density, A cubed, the scattering links.
+It's often-- it's usually the dimensionless combination
+of the two, which decides whether we are in the weakly
+or strongly interacting limit.
+There is another assumption which we have made here,
+but it's related to that, as you will see in a few moments,
+that most of the atoms in the condensate.
+We assumed N naught is weak.
+The condensate depletion, the number
+of atoms who are not in the condensate,

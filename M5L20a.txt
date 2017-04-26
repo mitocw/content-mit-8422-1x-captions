@@ -1,0 +1,55 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 46 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+And let's jump right into called cold fermions.
+Almost everything I say in this talk
+is summarized in a review paper, which
+Professor Zwierlein and myself wrote a few years ago.
+The paper will be posted to the group website
+later this afternoon.
+OK.
+When we cool down fermions, lithium-6 and boson sodiums,
+we immediately notice a difference.
+The sodium cloud shrink, shrink, shrinks and forms
+a small Bose-Einstein condensate,
+whereas the lithium cloud stops to shrink when we reach
+the degeneracy temperature.
+And of course, you know it's at low temperature.
+At high temperature, the gases have very similar behavior.
+But at low temperature, they look very, very different.
+And that can be directly observed.
+We know that bosons do something very
+special at low temperature.
+And we talked a lot about it in this course,
+namely they become superfluid and form
+a Bose-Einstein condensate.
+Whereas for single component fermions,
+there is some interesting physics from a Fermi sea,
+but nothing really special.
+So in order to do something more interesting with fermions,
+you need two kinds of fermions.
+And two kinds of fermions can form pairs.
+Just think for moment, two atoms can form a molecule.
+And those bosonic pairs can condense
+into a Bose-Einstein condensate and become superfluid again.
+If that would be all to fermionic superfluidity,
+I would be almost done right now and would say, OK,
+a bosonic atom is a composite particle made of nuclei
+and nucleus and electrons.
+Well, a bosonic molecule is a composite particle.
+But in the end, they all [INAUDIBLE] the same.
+But the special things about fermions
+is there is another form of pairing
+which is much, much weaker.
+And this is a form which leads to superconductivity
+of electrons.
+It's Cooper pairing.
+And this is really much more subtle,
+because the pairs are much larger

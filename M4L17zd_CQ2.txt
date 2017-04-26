@@ -3,13 +3,15 @@
 #
 # Captions for 8.422x module
 #
-# This file has 6 caption lines.
+# This file has 8 caption lines.
 #
 # Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
 #
 #----------------------------------------
 
-The next question is, do you have any idea whether the Lorentz force
-is important, or negligible
+The next question is, do you have any idea
+if the Lorentz force is important,
+or whether it's negligible?
 
-for neutral atoms
+For neutral, or--
+For neutral atoms.

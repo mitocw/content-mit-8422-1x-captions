@@ -1,0 +1,132 @@
+#
+# File:   content-mit-8422-1x-captions/M5L21f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 123 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+But once we have realized that, we
+can now immediately take this idea
+and get the phase gate between two ions,
+because the center of mass vibration is everywhere.
+So therefore, what we can do is, this was ion one.
+
+We can now, and this is the missing step
+I want to show you, we can go to ion two, and we can--
+we can swap the qubit information, ground, excited,
+spin up, spin down, we can swap that
+with the center of mass motion.
+So therefore, what we can do is, when the second ion is spin up,
+we do a print and we do a swapping of the information
+from spin up, spin down, to center of mass motion
+being 0 or 1.
+So the idea is the following, ion two
+should control what ion one is doing.
+So we first focus on ion two.
+We swap the quin of the qubit of ion two,
+into the center of mass motion.
+Then, we do what I just said, the controlled phase
+gate, for ion one, with the center of mass motion.
+And after this is done, we write the center of mass motion back
+into ion two, and then we have nothing to ion two,
+ion two was just putting its information
+into the center of mass motion.
+It helped ion one to do the controlled phase gate.
+And then we swap that information back.
+So this is a sequence.
+After preparing the center of mass,
+we first have to laser cool everything
+into the, in the center of mass motion, into this zero state.
+Then we swap from ion two, the information
+to these four known states, and of mass vibration.
+Then we do the controlled phase gate on ion one,
+and then we swap the information gate.
+The only-- so what I should show you, you may have seen it,
+but what I should show you explicitly,
+how do we swap the information GE you
+from the internal state of ion two.
+How do we write this information into the database, which
+is the photon, which is the center
+of mass vibration in the trap.
+Well, we again use a red detuned [? side ?] pulse.
+We do a pi pulse, driving this transition.
+And just look how beautifully the math works out.
+We have an arbitrary qubit state with superposition
+of calmed and excited.
+And the center of mass motion was laser
+cooled to the ground state.
+So let me just multiply that out.
+So we have co-efficient eight time G0, plus coefficient B
+times E0.
+If we now do a pi pulse, we transfer the info maybe--
+transfer the population from E-node into G1,
+and this is what I've done here.
+But now you see I can factor out the G, and what I have now is,
+I have the same qubit information with coefficients
+a and b, but no longer in the internal state of the ion,
+but in the photon on state in the qubit, which
+is the center of mass motion.
+So the idea here is you can have an arbitrary number of ions.
+And now, you want to have a quantum gate.
+What you do with the quantum gate,
+you say, I want to now take this ion here and have a quantum
+gate with 10 ions further down.
+So you first go to your first ion,
+transfer the information of this qubit into the database,
+into the center of mass motion.
+And now, with the local operation
+here, you can do something to this ion,
+conditionally, on the motion-- the center of mass motion,
+but the center of mass motion reflects the ion over there,
+in which state it was.
+And after you have done the two qubit operations
+between those two q ions, you take
+the center of mass motion, put it back into this ion,
+and at the end of the day what you have done
+is, you have done a two qubit operation.
+You've changed the state of this ion, but all the other ions.
+Have remained the same.
+And with that, you can now, in a chain of ion,
+implement arbitrary two qubit operations.
+
+I think I said it clearer in words,
+here it is in a little bit more formal way, the steps you
+will do to the wave function.
+You initialize, you transfer the information to the database,
+you execute the controlled phase gate,
+and you put the information from the database
+back into the control ion.
+And now your database is free.
+It's back again to the initial value,
+and ready for the next operation.
+I should mention that this was a pioneering paper.
+
+Right now this quantum gate is not the most popular one
+because it has severe requirements.
+One is you really have to cool to the absolute ground state.
+The center of mass motion has to be
+cooled to the absolute state.
+There are other quantum gates which do not
+require such extreme cooling.
+And secondly, the center of mass motion, because all particles
+move together, is the slowest--
+it's one of the slowest vibration
+and motions in the system.
+And if you want to scale up the system to more particle,
+the speed of the gate operation has
+to be slower than the vibration appeared
+of the center of mass motion.
+So these are two disadvantages, but there
+are different gates like geometric gates,
+like Sorenson gates.
+There are other possibilities to involve the same quantum
+logic with ion, but the one of Cirac-Zoller, really
+stands out by its pedagogy.
+It's really a wonderful way to see
+how we take that information, put it in a database,
+do a controlled-- and controlled phase operation,
+and then proceed to the next two qubit gate.

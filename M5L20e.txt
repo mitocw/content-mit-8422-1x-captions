@@ -1,0 +1,87 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 78 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Now, I want to show you how you can take care of all dimensions
+with one equation and not solve three
+different equations with three different, you know,
+kinetic energy terms.
+That goes as follows, you recognize that this is just
+Schrodinger's equation.
+Kinetic energy minus energy equals potential.
+But now, we can Fourier transform it.
+And the nice thing about Fourier transformation
+is that the second derivative is simply--
+spatial derivative is simply q squared.
+So therefore, if you perform--
+if you have describe now everything in Fourier space,
+you have q squared plus k squared times psi,
+but you divide by q squared plus k squared.
+Here, you have a product.
+The product turns into convolution.
+Anyway, it may be not the most familiar way you have seen it,
+but this is just Schrodinger's equation in Fourier components.
+And now, we want to simplify that we have a short range
+potential.
+So we assume we have a short range potential.
+If you had a delta function, the momentum components
+of the potential would be constant for all r.
+But we get into something unphysical
+if we don't put in a cutoff, so we put in a cutoff.
+But with that cutoff, you can rewrite the equation
+as follows.
+And now, we want to do one thing.
+We want to integrate over q.
+Then on the right-hand side, we also have an integral over q.
+And then, we divide by the common factor, and what we get
+is this.
+I know I'm going fast, but this is
+nothing else than rewriting Schrodinger's equation for you.
+But now, look at it.
+It says it has an integral over all energies with the density
+of states or of E, of energy.
+E is k squared.
+This is the energy of the bound state.
+And we want the bound state.
+And on the left-hand side, we have
+our infinitesimal potential.
+I mean, one thing is clear.
+If you have an infinitesimal potential,
+you can only get an infinitesimally bound state.
+So now, we do the following.
+If you go to an infinitesimal attraction,
+the left-hand side diverges.
+And the question is now if the energy goes to zero,
+does the right-hand side diverge or not?
+In other words, if this integral where you said E equals zero
+does not diverge, you cannot fulfill this equation with
+an infinitesimal attraction in the square value potential.
+So therefore, the condition for a bound state
+is now that this expression here with E equals zero diverges.
+And this combines now all cases.
+And you have now an integral equation.
+And you can now solve it for infinitesimal V naught.
+V naught you can solve it.
+What is the energy as a function of V naught?
+And in two dimensions, when the density of states versus energy
+is constant, you have the weakest divergence
+on the right-hand side.
+It's a logarithmic divergence.
+In three dimensions, this doesn't diverge.
+In one dimension, it diverges big time.
+Two dimensions is the limit.
+There's a logarithmic divergence.
+And if you do the math-- which is elementary,
+but I'm not doing it--
+you'll find that the energy of the bound state
+depends exponentially on minus 1 over the attraction.
+So for infinitesimal attraction, this turns to E
+to the minus infinity.
+It's the weakest bound state you can imagine.

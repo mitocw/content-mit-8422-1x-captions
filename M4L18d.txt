@@ -3,8 +3,153 @@
 #
 # Captions for 8.422x module
 #
-# This file has 0 caption lines.
+# This file has 146 caption lines.
 #
 # Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
 #
 #----------------------------------------
+
+I actually use this cartoon picture
+to develop a mathematical model for evaporative cooling, which
+is still the simplest model for evaporative cooling
+which you can find in the literature.
+In any event, but if you think in that way, every time you
+remove a few percent of the atoms,
+you realize that you should think in the logarithmic way.
+Every time you lose a certain percentage of your atoms,
+you decrease the temperature by a certain percentage.
+So in the end, if you think either in discrete steps,
+or continuously as a function of time,
+things should happen exponentially.
+If you want to characterize what happens into the system,
+we should correlate the percentage
+of temperature change to the percentage
+of the change in number.
+And here we have a coefficient.
+And this coefficient would give us
+an exponential, would give us the power law,
+how temperature and number are related.
+Or, mathematically, alpha, which characterizes
+how much cooling do you get for each loss in the number?
+It's a logarithmic derivative of number with temperature.
+All other quantities also scale as power loss of the number.
+Let me just assume we are in a potential.
+We have d dimensions.
+So if you have an harmonic oscillator, it's r2.
+If you have a linear type, r1.
+And, for simplicity, I took d, the number of dimensions
+out, so you choose delta to get 1d,
+2d, or whatever, to get an harmonic
+oscillator or linear potential.
+OK.
+Because of equipartition, the temperature,
+which is a measure for kinetic energy,
+is equal to the potential energy.
+And the potential energy is r to the power d over delta.
+So therefore, the size of the atoms in the trap
+scales with temperature with the power law.
+But if the temperature scales with a power law
+with a number, then the volume of the atoms, the temperature,
+everything scales with the number of atoms
+to some exponent.
+So everything is sort of exponential
+according to power laws.
+So I mentioned already the volume.
+And what I've shown here is just the two parameters which
+determine all exponential.
+The volume goes with the product of delta alpha.
+The density goes with something.
+The phase space density is density over temperature
+to the 3/2.
+The coalition rate is n sigma v. So
+everything scales with n to the alpha.
+And all the coefficients are given here.
+So the question is, what is alpha?
+So it seems delta is our trapping potential.
+Once we know alpha, we've a clear prediction
+what evaporative cooling can do for us.
+Well, alpha was, remember, it told us
+how much we lower temperature or energy
+when we lose a number of atoms.
+So therefore, all we have to figure out
+is, when we evaporate an atom, how much energy
+does it take with it?
+And therefore, alpha will be determined by--
+some people call it the knife edge.
+If we truncate the trap at eta k t,
+I showed you a cartoon where I use
+the x to chop off the tail of the Maxwell-Boltzmann
+distribution at 4kt.
+So eta would have been four.
+So this is what we control experimentally.
+At what energy do we allow atoms to leak out of the trap?
+All
+Right.
+So if you set a threshold of, let's say, 4kt,
+4kt is the minimum energy for atoms to leak out.
+But some will be a little bit faster.
+In other words, they are not creeping over the edge.
+They are jumping.
+They are zipping over the edge.
+But because everything is thermal,
+this extra energy is on the order of kt or half kt.
+And in the first analysis, we can neglect it.
+So in other words, we can see that each atom, when
+it escapes, takes away the energy eta kt.
+And eta is the famous eta parameter,
+which we determine experimentally
+when we evaporate.
+Any questions so far?
+
+Right now, I've pretty much gone through definitions.
+And now I simply look at energy conservation.
+The total energy, so now let's look at how much energy--
+what is the change of energy doing evaporation?
+Well, for N atoms, this is the kinetic energy.
+And the extra potential energy for an harmonic oscillator,
+it would be the same.
+Equipartition for another power law potential.
+We have to introduce this delta parameter, which
+defines the power law of the trapping potential.
+So that means the following.
+Originally, this describes the number of the total energy.
+After an evaporation step, delta N is negative.
+I've lost some atoms and delta T is negative.
+I am now at a lower temperature and a lower atom number.
+And the difference is simply the energy
+taken away by the number of atoms dN which have evaporated.
+With that, by just rewriting that,
+I get a result for the alpha coefficient, which tells us,
+what is the percentage, in temperature--
+how many percent is the temperature
+lowered when I lose a certain percentage
+of the number of atoms?
+Actually 1% of the top of the number of atoms
+gives alpha percent in change in temperature.
+And this is the alpha coefficient.
+So I have an analytic expression for that.
+And sure, you realize if you put your cut eta not
+at higher energy, if you cut at low energy,
+then your alpha coefficient can even turn negative,
+because then the atoms which evaporate
+do not have more than the average energy.
+But actually then, the model breaks down.
+OK.
+
+Alpha characterizes how much more than the average energy
+is removed by escaping atoms.
+So that's now very simple.
+Once we know what is the threshold of the trap,
+eta kt, at what energy do we leak out atoms?
+We have a complete description.
+What is the energy, the phase space
+density, and such and such, after we've
+lost a number of atoms?
+But you've realized, at least for all of you who
+do the experiments, something is missing here
+that sounds almost too ideal.
+We just evaporate.
+And we can freely peek at what is the energy
+or what is the energy threshold and such?
+The experiment is more constrained.
+And we have to work harder to get into this [INAUDIBLE]

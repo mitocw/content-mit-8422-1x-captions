@@ -1,0 +1,258 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 249 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So the Gross- Piteavskii equation
+was invented in 1962, about 50 years ago
+by Gross and Piteavskii to describe vertices.
+Actually, Lev Piteavskii is still alive,
+going strong, and publishing papers.
+One of his latest predictions was solitons in Fermic gases.
+And I know in professor [INAUDIBLE] group, some--
+one of his labs just looked at the same physics
+and compared to theory of Lev Piteavskii.
+And this year we are celebrating--
+I forgot the 85th or 90th birthday of him.
+Huh?
+90?
+I know there's a poster next to my door,
+but I forgot the-- which anniversary.
+So I mean, he's a legend, but he's still walking.
+He's still doing science.
+So if you meet him, you go back to 50 years in history.
+Anyway, it is this Lev Pitaevskii
+and he invented his equations to describe vortices.
+So anyway, so we have this non-linear Schrodinger
+equation.
+Let me just show you what vortices are
+and how they are formed.
+Vortices come if you solve the Gross-Pitaevskii equation
+or if you have ever any quantum fluid or quantum gas
+and you add angular momentum.
+The angular momentum cannot lead to the rigid body rotation.
+This would violate the fact that the velocity field has
+to be equitational to make sure that the phase of the wave
+function is well defined.
+So if you rotate the system, it can
+it can absorb angular momentum only by forming vortices.
+And vortices are singular points of the wave function,
+singular points where the density is zero.
+In other words, I don't have time to give full--
+to be exhaustive here.
+But when something rotates, there is a dynamic phase.
+You can say because there are meta-waves going in circles.
+And the integral of the phase has
+to be an integer number of two pis, otherwise,
+you would not have a well-defined phase
+of the wave function.
+And if you now say you make a circle which is 2pi.
+You make the circle smaller, smaller, smaller.
+In the middle of the circle, you go around the wave function
+changes by 2 pi.
+But what should the wave function do on one point?
+Should it reach number between zero
+and 2pi should the function peak.
+Well the wave function says, I can't peak.
+I just go to zero.
+And a zero value has no phase and I'm fine.
+That's expected what the wave function tells you.
+So therefore, if you want to describe vorticies,
+you want to know describe the Gross-Pitaevskii equation,
+but with the boundary condition that the wave function
+goes to zero.
+And if you want to describe one vortex,
+you want the wave function to go zero
+in the center of the cloud.
+And so you make a corresponding ansatz.
+You allow the phase wrap around by 2pi
+when the angle phi is varied.
+And then when you solve it, you have, of course,
+put in that there should be a zero
+of the density at the center.
+And it's now-- nice for me to--
+there's an important review paper which
+describes all that and more.
+But it's nice to show you now two extreme cases
+of the ideal condensate without interaction
+and strongly interacting condensate.
+The ideal condensate well--
+we are in the first excited state of the harmonic
+oscillator potential.
+And this is the dashed line.
+And of course, the size of the whole, the zero
+is pretty much on the order of oscillator length,
+because there is no other length scale in an ideal harmonic
+oscillator.
+But if you have the interacting system,
+remember what interactions are doing.
+They want to keep the density as constant as possible.
+Well we are not in a box potential.
+We are in an inverted parabola potential.
+And remember our Thomas-Fermi solution, which
+neglects kinetic energy, is the inverted parabola up to here.
+And then the tail is when we can no longer
+neglect the kinetic energy.
+But if you now say, OK fine, but now, in addition,
+we want a vortex in the center.
+The wave function out there says, no, we
+do what minimizes kinetic energy and what
+minimizes repulsive energy.
+We follow the inverted parabola and only
+at the very last moment on the scale of the healing length
+the system meets the required boundary conditions
+that the density goes to zero.
+Anyway with this qualitative understanding,
+you can get a lot out of those.
+You can immediately understand the salient feature
+of the solution.
+
+Tim.
+I know we are not talking details,
+but is there a simple, maybe clear reason
+why when spin a Bose-Einstein condensate
+you get many vortices, but when you
+spin like your coffee in your cup you just get one big one.
+Yes.
+
+OK.
+So the question is if I have a wrap around of four pi in phase
+whether this--
+whether the system should have a doubly charged vortex
+or to similarly charge vortices.
+What is the difference in energy?
+Well, what happens is doubly charged vortices are unstable.
+My group, at some point, were the first to create
+doubly charged vortices but we saw
+that they immediately decayed.
+Pardon?
+
+Initially, we couldn't observe it.
+We just saw that it was unstable,
+but it's a decay into two vortices.
+But it's easy to understand.
+If you put two vortices on top of each other,
+what is the energy of the system compared to one vortex.
+Well, the energy of a vortex is the rotational field around it.
+And if you superimpose two vortices,
+the velocity around the doubly charged vortices
+is twice the velocity of one vortex.
+And therefore, the kinetic energy is four times.
+If you have two vortices which are far separated that it has
+its own velocity field, it has its own velocity field here,
+and when the true velocity fields come together,
+the velocity is already so low that you
+don't have to consider that.
+Then those two vortices have an energy,
+which is two times the energy of a single vortex.
+So therefore when the two vortices,
+they start out with four times the energy of a single vortex,
+and when they dissociate and repel each other,
+they have shedded half of their energy.
+So this argument tells you immediately
+that vortices are in effect repulsive.
+And therefore, any multiple charged vortex
+will spontaneously decay.
+It's also this net repulsion between vortices
+which makes a vortices arrange in a regular lattice.
+The regular lattice, which you saw before,
+is nature's answer to how can we minimize the energy of all
+those vortices.
+And the idea is let's keep the average distance between them
+as large as possible and the answer is a hexagonal lattice.
+Matt.
+So a few slides back you plotted the, sort of--
+when you write the GP equation and you plotted, sort of,
+for the--
+in a box potential the ground state
+and the first excited state, sort of,
+comparing the GP equation to the typical single particle
+solution.
+And so I guess I'm a little bit confused about how,
+sort of, excitations manifest themselves in the system.
+Because in some sense, like if you were to solve the GP
+equation, then would you arrive at
+say like a spectrum of solutions?
+
+I guess I'd be confused at whether the excitations
+manifest themselves into that spectrum of solutions.
+Or rather then, they become excitations that like
+are, sort of, deviations from the mean field as,
+you know, including the extra.
+Matt, you are now asking about something more complicated.
+You're asking what are the excited states of the many body
+system.
+And actually we have already found one answer
+and this is if you want this small excitations,
+it's one particle becomes of phonon
+or one particle becomes a quasi-particle.
+What we are talking about here is
+what happens if they whole macroscopic wave function
+is in an excited state.
+So we are asking here in the box potential, what
+happens if we force all n atoms to have one node in the wave
+function.
+And this is what I'm talking about here.
+So the excitation energy of this state
+here is much, much higher than of single quasi-particle
+excitations.
+I'm not sure if I'm addressing your question here, but--
+So when single particle-- single quasi-particle excitations,
+are those essentially sort of deviations from the mean field?
+There is, you know--
+No.
+They are-- you really look for many body physics--
+
+mean field deviations-- probably what, I mean,
+what you do is the Bogoliu--
+
+in that sense, yes, you are allowing
+in this ansatz the psi operator is
+psi average plus fluctuations.
+You now look for fluctuations.
+And you are looking for the energy ion
+spectrum of those fluctuations.
+And the answer are quasi-particles.
+So it's actually the Bogoliubov solution
+for the spectrum of the fluctuations.
+And the answer is the dispersion relation I will send it to you.
+Whereas here, we are asking what are
+excited states of the macroscopic wave function.
+It's a very, very different question,
+which we have addressed here.
+Colin.
+So when you stir the condensate, do you
+view it as-- do you stir at the track frequency?
+So I do, sort of, N single excitations
+or do you stir at N times the track frequencies.
+So you do one, sort of, N particle excitation.
+The experimental answer is you want
+to stir at the quadrupole frequency, which is square root
+two times the trap frequency.
+Then you create quatrupolar excitations.
+The quatrupolar excitation can be regarded as a standing sound
+wave, but you create a macroscopic number
+of those excitations.
+So you make actually the whole condensate wave function
+oscillate in a quadrupolar pattern,
+but it's a rotating quadrupole.
+And that eventually then rearranges itself
+and leads to vortices.
+So I think the correct answer is the most efficient way
+to create vortices would be to excite quasi-particles,
+but then excite so many, and this
+may relate to Matt's question, create so many quasi-particles
+that you have really a time dependent
+and oscillating macroscopic wave function.
+
+So eventually you have a coherent excitation
+of quasi-particles and that eventually
+means the condensate moves in a quadrupolar pattern,
+but it's a quadrupolar pattern with rotation
+and that eventually turns into many vortices.

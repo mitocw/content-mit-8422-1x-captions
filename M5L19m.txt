@@ -1,0 +1,269 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19m.txt
+#
+# Captions for 8.422x module
+#
+# This file has 260 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let me now take this Bose-Hubbard model
+and discuss it's two limiting cases.
+One case is where U is much larger than J.
+The other case is where J is much larger than U.
+These are the two limiting cases and it
+will turn out that one is an insulator
+and one is a superfluid.
+I mean, that makes perfect sense of course.
+If U is much larger than J I can set J equal to zero
+if I can neglect it.
+No tunneling mean no transport and that means an insulator.
+It's also clear that when there is no tunneling
+that the system is really described
+by a product of so and so many particles per side.
+So it could be one particle per side,
+and have a product of over all the sides,
+or two particles per side.
+So this would be the ground state
+and it's called the ground state of thermal insulator.
+It's also trivial to discuss what
+happens if J is much, much larger
+than U, because then I simply neglect U.
+And I have a free gas, well, a free gas of block wave
+function, but that is the same as a free gas of planer wave
+function.
+It's just that quasi-momentum replaces momentum.
+And if you have just an ideal Boser
+gas in a periodic lattice instead
+of Bose-Einstein condensation in the lowest momentum state,
+you have Bose-Einstein condensation in the lowest
+quasi-momentum state.
+The lowest quasi-momentum state is a superposition
+of all Wannier functions.
+I mean the zero momentum state in free space
+is a superposition of all delta functions,
+of all position delta functions.
+The plane wave is delocalized.
+And the lowest quasi-momentum state
+is just completely delocalized over all Wannier functions.
+But this is nothing else than the Q equal
+zero quasi-momentum block wave.
+The interesting question is, and this
+has led to 100s if not more papers in the literature, how
+do we go from one limit to the other limit.
+And now you would say, well, maybe we
+should use what has worked so well.
+We should use the Bogoliubov approximation,
+just as soon we have a condensate,
+replace all those kind of zero operators for the lowest block
+waves.
+However, this doesn't work.
+Because the interesting thing here
+is to find the transition from the superfluid
+from the Bose-Einstein condensate
+to an insulating state.
+The nature of this approximation is
+that you need N naught to be large,
+but we're interested in the number-- when
+the condensate wave function turns
+to zero and in the insulator it becomes zero.
+So we're actually interested in the opposite limit.
+And indeed, if you would ignore everything
+I've just said, that it doesn't make sense
+to make this approximation, and make it nevertheless,
+you will find that you never get the insulating state,
+because you've pretty much eliminated the possibility
+to reduce carbon in insulating state
+by doing this approximation.
+So I want to show you now that we
+have to do another mean field approximation, which
+is actually nice.
+It has-- it's a very different from this Bogoliubov
+approximation, but it's also mean field approximation
+which will describe our system.
+So the goal is now that I want to find
+an effective Hamiltonian, which describes the transition
+from here to there.
+And the important approximation I will use is the following.
+Again, I have to get rid of operators.
+Products of too many operators cannot be solved.
+And so what I will do is I will use products of operators,
+write them as average value plus fluctuations.
+And then when I multiply that out,
+I take the product of the average values
+and I include the fluctuations in leading order.
+So I take delta A times B and delta B times A average,
+but I neglect the product of those fluctuations.
+You can say I neglect the correlation of fluctuations
+here.
+So this is spelled out here.
+But since I want you--
+the sign is important.
+Just look at this equation, 8 delta
+B plus delta B with B plus A average times B average.
+If I up-- if I absorb A times B by upgrading delta B to B,
+but I do the same here, I have to subtract one product
+of the two average values.
+Its actually this minus sign with
+which will play a role later, but here you see already
+that I went and made this decoupling approximation,
+that I decoupled the fluctuations from each other.
+And I write it in this way.
+There is an important minus sign.
+
+OK.
+So we want to start in the insulating state
+and want to figure out how does this system develop superfluity
+out of the insulating state.
+And the perturbation operator which takes me out
+of the insulating state is tunneling.
+So therefore the operator, which is responsible of breaking out
+of the insulating state is the operator
+which induces tunneling between neighboring sides.
+And the tunneling operator in this Hamiltonian,
+remember the Bose-Hubbard model had J times B dega
+B this was our tunneling term, this involves now products
+of operators.
+And I told you we want to get rid of products of operators
+to get something we can easily solve.
+So we use now this product of operators
+on two neighboring sides.
+And we use exactly this decoupling approximation.
+So therefore, we replace each operator by an average value
+and we neglect the product of the fluctuations.
+And then we obtain this.
+And I've explained to you where minus sign came from.
+So now I call this average value of the operator
+B-L I call the superfluid order parameter psi
+I think I could have chosen side to be complex
+and then B-L dega B-L would have complex conjugate,
+but it is sufficient here to restrict
+the discussion on real numbers and it makes the notation
+simpler.
+So anyway, so I introduce that.
+And what happens now is the following,
+that I have my Hamiltonian.
+The Hamiltonian had the interaction energy.
+
+But the tunneling term is now very simplified,
+because instead of tunneling from one side
+to a neighboring side, the other side
+is sort of absorbed by the mean field,
+by the superfluid order parameter psi.
+And therefore, and this gives me a psi squared
+term which appears here, trust me
+this is just an identical rewrite
+of the previous Hamiltonian by using this decoupling
+approximation.
+So well what we want to-- what we have gained
+now is something really dramatic.
+We had, sort of, many sides and tunneling from side to side.
+But if you look at it now, we simply multiply the effective
+Hamilton-- we take--
+we sum the effective Hamiltonian over side index L.
+So our effective Hamiltonian is now
+the sum of an identical Hamiltonian per side.
+The sites no longer interact with each other.
+Each side interacts with all the other sides
+described by the mean field by the superfluid order parameter
+psi.
+So therefore our many body problem,
+which is still a many body problem,
+but has turned into an effective Hamiltonian for each side,
+because each side has the same Hamiltonian.
+Colin.
+What happened to the J psi squared?
+This here?
+Oh OK, sorry.
+
+OK.
+So here is now, so I can say instead of solving for the sum,
+I can just solve for each side individually.
+And this is now my effective Hamiltonian for each side.
+
+Now, I want to catch at the onset of superfluity,
+so I want to get the system when psi is smaller.
+And therefore I can just ask.
+I don't know what psi is.
+It's part of my solution.
+But I'm interested in the moment when
+psi begins to take off from zero,
+when superfluidity emerges.
+So what I can therefore do is I can regard psi as an epsilon
+parameter as a small parameter.
+And the psi parameter comes with an operator V.
+And this operator V is nothing else
+than B-L dega plus B-L. So in other words, what I'm doing
+is I'm separating my Hamiltonian into an Hamiltonian, which
+is diagonal in the quantum numbers of the isolating state,
+just one, two, three particles per side.
+And psi squared is a C number that psi squared
+can-- is also diagonal in that.
+And now the possibility of tunneling, the possibility
+of superfluidity is now perturbative in this term
+psi times V. OK.
+I don't want to explain actually this expression.
+It just formalizes-- I need it as an immediate step.
+When we have the chemical potential
+and we raise the chemical potential,
+we go from zero to one particles per side
+to two particles are per side.
+And whatever the chemical potential is
+determines whether we have one or two particles per side.
+This is just telling me as a function
+of chemical potential, what is the ground
+state of the insulator.
+So now we take this ground state,
+it's actually much easier described in words
+than by this formula.
+We take this ground state and do perturbation theory in our term
+psi times V. Remember the operator is B dega B
+and the epsilon is psi.
+So in second order perturbation theory, we get psi squared.
+And then V, because it's B-B dega.
+It's very simple.
+It only couples one side to the next.
+It couples one occupation number N to N plus one
+and N minus one, because B and B dega destroy
+your created particle per side.
+So therefore, I can immediately write down
+what this matrix element is in second order perturbation
+theory.
+I mean these are all so-- it's all defined here.
+I know I'm losing you now.
+Nobody will tell me what is the difference between U bar and U,
+but it's trivially defined.
+So the idea is we have the isolating system,
+we do perturbation theory and tunneling.
+And the perturbative operator is psi times B plus B dega.
+The B plus B dega matrix elements
+are trivial, because it admix two N particles per side,
+N plus 1 and N minus 1.
+And this is what we've done here.
+And the Js are just occupation numbers?
+The J is the occupation number of our side.
+OK, I guess two questions.
+So in the bottom equation, what happened to the psi squared?
+Sorry, this is the sum.
+The psi squared is missing.
+I guess it the same for the--
+I had the same question for the equation
+next to the green thing.
+Is there supposed to be a psi squared in there?
+Because originally there was a psi squared in the H-L.
+No.
+This is the ground state where psi is zero.
+And know we do perturbation theory in psi V.
+So we pretty much use-- these are
+the unperturbed energies which appear in the energy
+denominator.
+The wave functions we are using all fox
+states number states per side.
+And here be couple occupation number J to all possible Ns,
+but because of B and B dega, N has only two values, J plus one
+and J minus one.
+And this is what's giving here.
+
+It's mathematically trivial.

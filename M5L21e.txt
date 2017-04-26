@@ -1,0 +1,109 @@
+#
+# File:   content-mit-8422-1x-captions/M5L21e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 100 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So how do we create the Cirac-Zoller Gate?
+So how do we get now the controlled phase
+gate out of trapped ions?
+So the effect is the following.
+Remember, if you have two ions, you
+want to change the phase to minus one of this state
+only if the two ions are qubit up.
+So in other words, we want to do 180 degree rotation of the wave
+function, but only if both ions are up.
+And the question is, how do we do that?
+How just one ion feel what the other ion is doing?
+And let me explain that now.
+The critical element in Cirac-Zoller case
+is the center of mass motion.
+We want at some point, say, when this ion is spin up we
+swap the quantum information from the ion
+to the center of mass motion.
+In other words, when this ion is up, we use laser pulses,
+I will explain that to you, then all the ions
+are moving together.
+And then this ion, because they are all moving,
+knows that this ion was spin up before.
+So it is--
+So the center of mass motion, the common dipole
+oscillation of all ions together in the trap,
+this is the database.
+So this is the key idea.
+But in order to explain it to you I have to go in two steps.
+So let's just take that as a generic level structure.
+We have an S-state, and it has two different hyperfine states,
+spin up and spin down.
+And these are our two qubits.
+There may be a p-state, which we have used for laser cooling,
+but everything is in the ground state of motion
+using cycling cooling, which you've
+started in your homework.
+And what I want to show you first
+is, how we can create a phase gate.
+But I'm only focusing on ion one.
+So hold the thought, ion two will come in a few moments,
+we'll come back.
+So what we can do is the following.
+Each qubit state has a vibration of structure, ground state
+excited state, without center of mass motion.
+But then as a function of vibration,
+or quantum number for the center of mass motion,
+we have G1, G2, E1, E2 and such.
+And what we can now do is, let's assume
+we have another state, a D-state, which
+is an auxiliary state here.
+Fortunately ions and atoms have many states.
+And we can drive a laser transition from S
+to D, which is only in resonance with the first vibration
+of excited state to the D-state.
+So we use a red attuned sideband here,
+which only drives the transition from E1
+to the non vibrational state of the auxiliary state.
+And that means automatically that this laser does
+just nothing to E-node, does nothing to G-node.
+Does nothing to G1.
+So if we have this Hilbert space of G1, G-node, G1, E-node,
+E1, the only transition which is affected here--
+or the only state which is affected here, is the E1 state.
+
+OK, I'm talking about a similar ion.
+I'm just talking about-- talking to a similar ion right now.
+It's really similar.
+So if you switch on this laser, what happens
+is we simply induce Rabi oscillations.
+Simple physics.
+The Rabi oscillation, however, after one Rabi period,
+has changed the phase of the initial state by minus one.
+If you carefully look at what Rabi oscillations are,
+the wave function goes up, down, up, down.
+But we usually discuss what happens to the probability,
+and this is shown in green.
+So when we are back in the original state,
+we have changed the phase of the wave function by minus one.
+So let's just assume that we switch on this laser
+to this auxiliary state, and we have a--
+
+well, it's a-- it's a 2 pi pulse in population,
+but it makes a phase shift of pi-to-the-wave function,
+which is minus one.
+So what we have accomplished now is a phase gate,
+not between two ions, but we have
+a phase gate which, in this Hilbert space, between the--
+no qubit-- qubit up, qubit down, I call it ground and excited
+state, but the other qubit so to speak,
+is the center of mass of motion, 0-1-0-1.
+So this is the twos table of the phase gate.
+
+So technically, we have now done a local phase gate
+with one ion, where the two qubits are ground and excited
+state of the ion.
+This is our qubit we want to work with.
+But then the second qubit, to realize the phase gate,
+was 0-1 of the center of mass vibration.

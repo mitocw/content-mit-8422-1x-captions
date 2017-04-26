@@ -1,0 +1,45 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 36 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+All this is theory, but it has been experimentally observed.
+If you want to pair fermions, we just need two states.
+At MIT we use mainly lithium-6.
+Lithium-6 has many hyperfine states,
+but we just use the two lowest ones
+in a high magnetic field where we have a Feshbach resonance.
+We pair the particles-- well, we need a little bit lasers
+and equipment.
+And then we observe pair condensates.
+They look exactly like atomic condensates
+but there are pairs inside.
+That there are really pairs inside we found out
+with rf-spectroscopy.
+And eventually, when we rotate [INAUDIBLE], we find vortices,
+and you know already vortices are the smoking
+gun of superfluidity.
+With that, I've rushed you through an important
+and very elegant chapter of physics: the BEC-BCS crossover.
+Let me just end with an outlook that I've
+talked about: a basic phenomenon in bosons and fermions,
+both centered about superfluidity,
+because I think it was pedagogical to show
+you the differences and the similarities.
+But we can now regard those ultracold bosons and fermions
+as building block of quantum simulators.
+Building blocks to understand, in its simplest manifestation,
+interesting physics.
+You can see the Bose gases are a quantum simulator
+for superfluid helium.
+The Fermi gases are a quantum simulator for superconductors.
+We briefly talked about optic lattices,
+which can be regarded as a quantum simulator
+for crystalline materials.
+But there is much more you can do with those building blocks.

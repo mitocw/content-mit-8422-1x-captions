@@ -1,0 +1,164 @@
+#
+# File:   content-mit-8422-1x-captions/M5L18j.txt
+#
+# Captions for 8.422x module
+#
+# This file has 155 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+Let me start now with Bose gases I've taught about this subject
+several times at summer schools, and what I give you here
+is a compressed version on it.
+I will not talk too much about the ideal Bose gas
+because most of you have seen that in statistical mechanics.
+And I will also omit superfluid hydrodynamics,
+because well, it's interesting, but it's more
+special than the other topics.
+So what I want to cover here is to give you
+the main ingredients for the description
+of weakly interacting homogeneous and inhomogeneous
+Bose gases.
+And then, at the second part, talk
+about the superfluid-to-Mott insulator transition.
+But well, for those of you who are not
+working with [INAUDIBLE] Bose gases, maybe some of it
+sounds like jargon to you, but there
+is one sort of overarching concept
+which I want to emphasize in the theoretical description.
+And this is some form of mean field approximation.
+When we go through the weakly interacting Bose gas,
+then we go to superfluid thermic gases,
+and we discuss the superfluid-to-Mott to insulator
+transition, one theme will be, if you have a product of four
+operators-- and that's what you get when you're interacting
+atoms--
+you cannot solve anything.
+And you need a method to go from the product of four operators
+to the product of two operators, and then
+you solve a quadratic equation.
+And the step to go from four to two
+is called a mean field approximation.
+And I want to show you three kinds of mean field
+approximations.
+For the one you have often seen for the weakly interacting
+Bose-Einstein condensate, but then I
+want to show you a mean field approximation for fermions,
+where it is a pairing field which is the mean field, not
+your usual mean field energy.
+And then I want to talk about--
+before that even, I want to talk about the superfluid-to-Mott
+insulator transition where we do a very different mean field
+approximation.
+So maybe you will realize a little bit
+by repeating the scheme how theory is done,
+and how you can deal with simple Hamiltonians.
+But you can solve them, because they contain
+products of four operators.
+So there is sort of a thread through those three chapters
+in showing you how you can do interesting many body
+physics by doing the right approximation.
+It also sort of teaches you how many body physics
+is done you haven't Hamiltonian, which you can solve,
+and you have to guess the solution and put half of it
+in an approximation.
+And once you've done the right approximation
+the rest becomes solvable.
+So with that spirit, I want to go with you today
+through the [INAUDIBLE] of approximation for weakly
+interacting Bose gases.
+OK, I don't think have to say too much
+about the ideal Bose-Einstein condensate,
+because it's dealt in pretty much all undergraduate
+or graduate textbooks.
+There are just two things to remember in terms of a system
+description.
+First whether Bose-Einstein condensation occurs or not
+depends on the density of states,
+and that depends on dimension and confinement.
+So the fact that you are in a trap,
+it changes the density of states and it changes the criteria
+for Bose-Einstein condensation.
+But then, in terms of a system description,
+if you want to describe your Bose gas and its properties,
+there are aspects of Bose-Einstein condensation
+which are pretty close to the ideal gas,
+and others which require many body physics.
+What is always close to the ideal gas
+is the transition temperature and the condensate fraction.
+Because what happens is, in almost all experiments,
+when you reach Bose-Einstein condensation,
+your gas is, to a good approximation,
+non-interacting because kt, the transition temperature,
+is much larger than the interaction energy in the gas.
+So before condensation, or at the onset of condensation,
+your gas is like an ideal gas.
+And you only find a few percent corrections
+to the formulae for the ideal gas.
+So therefore, if you want to know
+what temperature do you reach the transition point,
+or if you are below the transition point--
+if you're 50% below the transition temperature, what
+is your condensate fraction-- you
+can simply look up the original formula by Einstein,
+and it gives you a reasonably accurate answer.
+
+However for the condensed gas, for the fraction
+of atoms which are Bose condensed,
+those are atoms in [INAUDIBLE] state,
+for them there is no other scale than the energy
+between the atoms.
+So therefore, for the uncondensed gas,
+you can get away with an ideal gas approximation
+for the condensate itself [INAUDIBLE]
+to put in the many body physics of the interaction.
+Well, this slide shows here shadow images
+of expanding Bose-Einstein condensate.
+We do have episodes of cooling in a magnetic trap.
+You see sort of the shadow picture of the thermal cloud.
+And you see sort of the onset of Bose-Einstein condensation
+as the sudden appearance of what looks like a pit in a cherry.
+There is a cooled and more confined
+distribution of atoms in the Bose condensed state.
+So this gas is pretty much described by an ideal gas--
+well, you can put in the G2 function
+at the onset of cranium degeneracy--
+but it looks almost like an ideal gas,
+whereas in an ideal gas the Bose-Einstein condensate
+should be in the lowest energy state of the trap.
+And I will show you in the next few minutes on Wednesday
+that we are far away from that.
+So interactions are negligible for the normal component,
+for the thermal cloud, but are very important for the Bose
+condensed gas.
+So when you take a cross-sections
+through this cloud of 2D pictures,
+you see how that broad thermal distribution
+turns into a Bose-Einstein condensate.
+And if you look at such a profile,
+you can clearly see the normal component,
+the normal component can be, with good accuracy,
+be fitted by a non-interacting model,
+whereas the central peak, this is Bose-Einstein condensate
+which requires the description I want to show now.
+The condensate fraction is shown here,
+and again with fairly good accuracy,
+it follows the description of Einstein,
+because the condensate fraction is not
+a property of the condensate, 1 minus the condensate fraction
+is a property of the thermal gas.
+In the spirit of Einstein, Einstein
+calculated how many atoms can be in the thermal component
+at a given temperature.
+So Einstein called it the settle weighted gas.
+At a given temperature you can only
+keep in thermal equilibrium a certain number
+of atoms in your gas.
+If you have more atoms, they condense into the calm state.
+This is sort of the statistical description.
+So therefore what I'm plotting here as the condensate fraction
+is actually the property of the normal gas.
+It shows that the normal gas as situated
+can only hold a certain number of atoms,
+and the remainder of the number of atoms

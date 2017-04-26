@@ -1,0 +1,189 @@
+#
+# File:   content-mit-8422-1x-captions/M5L18k.txt
+#
+# Captions for 8.422x module
+#
+# This file has 180 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Let's talk about the homogeneous Bose-Einstein condensate
+and weak interactions.
+If you write down the Hamiltonian
+for the interdictions, it will appear many, many times.
+The general way to write down interactions between two
+particles is you annihilate particles in momentum k and p,
+and then they reappear different momenta.
+So one momentum gets upshifting by q,
+and one momentum gets downshifted by q.
+This guarantees momentum conservation.
+So what I'm showing you here is the elementarily process
+of scattering two particles with momentum k and p scatter,
+disappear.
+That's why we have the annihilation operator.
+And then they reappear two new momenta.
+That's the most general form of a binary interaction.
+And now we have to make approximations.
+Nobody can solve this Hamiltonian
+in the most generally way.
+So one approximation we make is that, since the range
+of the atomic interactions is much smaller than the distance
+between atoms or the [INAUDIBLE] wavelengths,
+we approximate the potential by a short range
+potential, or delta function, where
+the Fourier of the delta function is constant.
+And that would mean, in momentum space,
+this momentum dependent matrix element squared
+is just constant.
+So therefore, we can approximate the Hamiltonian
+by a constant interaction parameter,
+and then we have the sum over all these creation annihilation
+operators.
+I don't want to go into details of low energy scattering
+physics, but it is most convenient to describe
+this parameter by u naught, which
+is the Fourier transform of the interaction potential.
+Or very often we parametrize it with the s-waves scattering
+lenghts, which is the only relevant parameter
+for elastic collisions at low temperature.
+So with that, we have now an Hamiltonian,
+which has kinetic energy.
+And here is the potential energy,
+due to the interaction between the atoms.
+And we have taken this constant Fourier transform u naught out
+of the summation.
+Now I mentioned already to you that a product of four
+operators cannot be solved.
+You need an approximation where you
+reduce the number of operators from four to two,
+and then you solve a quadratic equation,
+and the solution is Bogoliubov solution.
+So how do we reduce, now, this product of four operators
+to two?
+Well, when we have a condensate where many, many atoms are
+in one quantum state, we can make the Bogoliubov
+approximation.
+The Bogoliubov approximation is, well,
+if the creation annihilation operator in this zero momentum
+state for the condensate has the following matrix element.
+And now you can say if n naught--
+the number of atoms in the condensate-- is large, well,
+we can sort of neglect the difference
+between naught and naught plus 1 and naught minus 1.
+And we simply make the approximation
+that the operator a naught and a naught [? dega ?]
+is replaced by the square root of a naught.
+And then in this sum of [? aquatic ?] terms,
+we only keep those terms which have at least two occurrences
+of the index zero.
+Because the terms which have, for instance,
+no occurrence of the index zero, have
+a mul-- don't get this multiplier a naught.
+So we do an expansion in powers of a naught, and we stop here.
+
+So therefore now, if we make sure that any combination
+of those two involves the index the zero,
+we factor out a naught, and then we have products of k minus k
+with [? dega ?] [? dega ?] k minus k annihilation operator,
+or we have mixed term [? a dega ?] k a of k a minus k
+[? dega ?] a minus k.
+But this is what we get.
+The next step is purely technical.
+We want to get rid of a naught and replace it by n.
+So inn is a naught plus the sum of the population
+in all other momentum states.
+And that's now our Hamiltonian, which still looks complicated,
+but it can immediately be solved, because all it involves
+is a quadratic product of operators.
+OK, so what I want to show you is
+that the moment you have bilinear operators,
+all you have to do is, in essence,
+you have to solve a quadratic equation.
+And because with all the indices and constants
+it looks a little bit complicated,
+let me just say that the structure of this Hamiltonian
+involves sums which are a of k and a of minus k. k minus case
+is of course important because that's important for momentum
+conservation.
+So let me now call a of k a, and a of minus k b.
+Then this Hamiltonian has the following structure.
+It has terms a dagger a, b dagger b, b dagger b.
+But then it has the other terms, a dagger b dagger plus ba.
+Now let me put it this way.
+If that wouldn't exist, we would be
+done, because a Hamiltonian, which
+has e0 a dagger a is a harmonic oscillator Hamiltonian.
+It is diagonalized.
+a and a dagger are just Eigen operators,
+which create quasiparticles with energy e0.
+So if we could eliminate this term, we would be done.
+So therefore, let's follow Pogoliubov
+and say that we introduce new operators alpha, beta.
+And the alpha, beta operators are linear combinations
+of a and b, or vice versa a and b
+are linear combinations of the new operators, alpha, beta.
+And since we have a bosonic system,
+and we think it's a good idea to keep it the system bosonic,
+we require that those new operators fulfill
+bosonic commutation relations.
+Those bosonic commutation relations
+are fulfilled if u square minus v square--
+u and v are the linear coefficients,
+which express ab in terms of alpha and beta, if that is 1.
+So in other words, u and v are now two new parameters.
+One condition for u and v is ful--
+is used up to ensure the bosonic character of alpha and beta.
+But now we have a second condition.
+We kind of have two conditions for parameters.
+So what we do is we just rewrite this Hamiltonian
+in terms of alpha, beta.
+And that's what we get.
+It's a bilinear Hamiltonian with a linear transformation stays
+bilinear.
+But now our second condition, which we can impose on u and v,
+is that the prefactor of this cross product is 0.
+So then by using those conditions for u and v--
+and you find the equations in many textbooks.
+I'm not discussing them in great detail here.
+We have obtained a Hamiltonian of this kind,
+and this is diagonalized.
+We know now that alpha, beta create quasiparticles
+at a certain energy.
+So now by going back, I mean, alpha, beta
+were expressed by a and b.
+a was a of k. b was a of minus k.
+I just go back to the original nomenclature.
+But we have diagonalized the Hamiltonian.
+So what we have achieved now is our Hamiltonian
+is written in this following way.
+Actually, I've recycled a now. a is no longer a particle
+in a given momentum state.
+It's now a quasiparticle.
+So we have now diagonalized the Hamiltonian
+for the weakly interacting Bose gas, and what we have obtained
+is, well, we have the full solution, everything
+you want to know about this system
+we know, and in particular, we know
+what are the characteristic excitation
+energies for quasiparticle.
+And this quasiparticle energy gives us
+the energy as a function of momentum
+by replacing the parameter u0 by c--
+c is the speed of sound.
+I can rewrite it like this.
+And you see that it makes sense immediately,
+because we have now a dispersion relation, which
+in the limit of high momenta, is just the normal kinetic energy.
+So the quasiparticles are free particles.
+Whereas at low momentum, when this term dominates,
+the dispersion relation is linear.
+And linear means sound and phonons.
+Bose-Einstein condensation is a low-energy phenomenon,
+so you should not expect that you
+change any characteristics of higher energy quasiparticles.
+If you wreck a particle in the Bose-Einstein condensate
+with high energy, it flies out at a high-energy particle.
+But a low-energy excitation creates sound waves.
+So this is what we have found now.

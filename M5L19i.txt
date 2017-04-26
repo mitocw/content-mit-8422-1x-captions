@@ -1,0 +1,153 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19i.txt
+#
+# Captions for 8.422x module
+#
+# This file has 144 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So we've talked about Bose-Einstein condensates
+in an homogeneous system just to lay the groundwork.
+We've talked about Bose-Einstein condensates in traps
+in inhomogeneous system.
+Now we want to talk about Bose-Einstein condensates
+in optical lattices.
+Well, there are two reasons why we want to do that.
+One is we want to use the Bose-Einstein condensate
+to obtain deeper insight into the properties of matter.
+And a lot of forms of matter appear in periodic lattices.
+So if you put a Bose-Einstein condensate
+into periodic potential, we can at least
+understand some of the properties
+of crystalline matter or electrons
+which are block waves in a periodic potential.
+So this is one reason why.
+The other reason why you want to go to optical lattices
+is the following.
+Ideal Bose-Einstein condensates are trivial.
+Weakly interacting Bose-Einstein condensates are entertaining.
+And you can write a lot of papers,
+have a lot of fun of it, develop your methods.
+Also mildly intellectually interesting,
+because how those weak interactions manifest itself
+in vortices and all that is really rich and interesting.
+But the conceptional problems appear when
+you go to strong interactions.
+Strongly correlated matter is where mean field descriptions
+no longer work, this is really the frontier
+of our understanding of many body system.
+And when you want to be there, you
+want to create a strongly correlated system,
+and strongly correlated systems means
+that the interaction energy dominates over kinetic energy.
+In Bose-Einstein condensates, you
+can only go so far with increasing interactions
+via Feshbach resonances, because you
+get into some interlaced collisions.
+So that's one knob to turn.
+You go to larger and larger scheduling [INAUDIBLE]
+and crank up that interactions.
+But if atoms strongly interact, they start to do bad chemistry.
+They start to spin flip.
+They do other things.
+And in some cases, you keep it under control.
+In others, you just can't keep it under control.
+But another way to get to strong interactions,
+means you could use the kinetic energy.
+It's the ratio of the two which matters.
+And when you put particles in a lattice, well,
+the lattice actually reduces the kinetic energy.
+You may know from condensed metaphysics that in a light
+is an effective mass, which is higher than the bare mass,
+therefore you have reduced the kinetic energy.
+Or if you want another hand-waving approximation,
+the kinetic energy is given by the bandwidths.
+And if the tunneling becomes slower and slower,
+the widths of your band becomes narrower,
+and your kinetic energy is less.
+So anyway, I can give you many hand-waving approximations
+why, in a lattice, kinetic energy is reduced,
+and repulsive energy is probably enhanced,
+because instead of having your atoms spread out,
+they are bunched up at each lattice side
+into a higher density cloud.
+So anyway, maybe you interested in parity potentials,
+or you're interested in quantum systems
+with strong correlations.
+For whatever reasons, you want optic lattices.
+Now I have here a few slides which
+introduce parity potentials, but it is really
+just the single particle physics in the parity potential.
+It has nothing to do with quantum gases.
+This could be the first lecture of how to describe electrons
+in a metal.
+So let me just quickly go through,
+assuming that almost all of you are familiar.
+But I use those slides, also, just
+to give you a few definitions and introduce a few symbols.
+So this is simple, boring, exactly understood physics.
+We haven't Hamiltonian, which has kinetic energy and a parity
+potential, which is our lattice potential.
+It's rather trivial to solve that exactly.
+For your wave function, you use Bloch's theorem
+and divide it by an exponential factor with quasi momentum
+times a periodic function.
+And if you know solve Schrodinger's equation,
+you want to use Fourier space.
+You Fourier analyze the wave function.
+You Fourier analyze the potential.
+And since the potential is periodic,
+sine squared potential has only three Fourier components.
+It's c0 plus minus 1 times the periodicity of the lattice.
+You do a Fourier expansion for your periodic wave function.
+And if you insert that into Schrodinger's equation,
+well, the Fourier transform has turned the differential
+equation into an algebraic equation,
+because the second derivative simply becomes now
+k squared or q squared.
+So in other words, you have a set of linear equations.
+
+There is an index, which is the bent
+index, how high do you want to go and usually you truncate it.
+But it's the same trivial story, which
+is told in all textbooks of condensed metaphysics.
+If you have no bent structure, well, you have the parabola,
+but to prepare for bent structure,
+I've broken it down here in the first [INAUDIBLE].
+And if you now introduce a lattice,
+you introduce bent gaps, and you go from the left to the middle
+to the right for stronger and stronger lattices.
+So the case which I will be focused on,
+because it is the most extreme case away free space,
+is this case, which is called the tight-binding limit, where
+the potential energy of the lattice is large.
+And large means, compared with the kinetic energy of the prion
+zone, which is k squared--
+k is the lattice momentum-- k squared over 2m,
+and that's a recoil energy.
+So that what I mentioned this parameter here
+is the [? depth ?] of the lattice measured
+in recoil energies, recoil energies of the photon,
+because that is the kinetic energy of the free gas
+at the prion zone.
+OK, there are a few things which immediately simplify that.
+Once we are in the tight-binding limit,
+our lattice is really deep.
+And each side forms an harmonic oscillator.
+And the oscillator frequency is analytically
+given by the [? depth ?] of the lattice.
+And the solution here for the lowest bend
+is that the lowest bend, the energy in the lower
+bend, the dispersion relation is,
+well, we have an harmonic oscillator at each side in xyz,
+so the average energy in the lowest bend
+is the zero point energy in xy and z, 3/2 h by omega naught.
+And then we have a cosine [INAUDIBLE] bent structure,
+where q is the cosine momentum.
+And what appears here as the only interesting parameter
+is j, and j is--
+
+I think this 4 should be 4j is the bandwidth.

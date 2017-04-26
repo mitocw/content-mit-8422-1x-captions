@@ -1,0 +1,149 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 140 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+So therefore, if we have a box potential
+and you know the ground state in a box
+is just half a period of a sine function,
+this is a non-interacting condensate.
+This would be the macroscopic wave function in the box
+potential, but if you now put in strong interactions,
+the strong interactions are going
+to flatten out the potential.
+They flatten out the potential and or at the very last moment,
+all right, now it's time to go down, because we have
+to meet our boundary condition.
+And the length scale, where you eventually
+go down, it has a famous name the healing length,
+is the length scale where the kinetic energy
+due to the curvature of the wave function
+is now comparable to the interaction energy.
+If the system would curve down earlier
+it would cost too much repulsive energy,
+because the density is not kept flat.
+If it would curve down to late, the enormous curvature
+would mean a lot of kinetic energy.
+And this is just the best compromise
+between those two criteria.
+So that's how you derive the healing length.
+The healing links is now the length scale
+over which the system is willing to meet boundary conditions
+and not stay flat, as flat as possible.
+Tim.
+Just curious in that equation the atom is the mass of the--
+like each individual--
+The mass is a mass of a single atom.
+A single atom.
+It's not a--
+I don't-- sorry, I wasn't here last class,
+but the quasi-particles have the same mass?
+In the Bose-Einstein condensate they are.
+We don't-- we haven't changed the mass.
+But we're not talking actually about quasi-particles.
+We're simply, actually we are really
+talking about here qualitative features
+of the solution of the Gross-Pitaevskii equation.
+And the Gross-Pitaevskii equation
+is sort of a single particle equation for particles
+of mass of the original biomass, M. It's a macroscopic wave
+function, but I sometimes say it describes a wave function
+of a single particle where all of the other particles
+are included at the mean field level.
+So therefore it is really this, the atomic mass
+and not any form of collective mass here.
+Well, if you would now ask how do interactions
+transform the first excited state in the box potential.
+Well then, it's again flat is the soon as-- as much
+as possible.
+But then, if you want to maintain the parity of the wave
+function, then it's only close to the zero
+crossing within the healing lengths
+that the system says, OK, now I change sign.
+So that's sort of what is inside the Gross-Piteavskii equation.
+Now once you realize that, we can take it to the next level
+and say, well, if we need length.
+Let's say we are interested in the ground state
+and we need like this boundary region
+where the kinetic energy becomes important.
+Maybe we can simplify the Gross-Piteavskii equation
+by neglecting the kinetic energy.
+If potential energy dominates by far, we can neglect that,
+and then we should get a good description, which may not
+be valid in the wings of the wave function,
+but in most of space.
+But now if you look at this equation,
+it's no longer a differential equation.
+It has no derivatives.
+It's just something which applies to the wave function
+beside itself.
+And we can simply solve that.
+The solution of that is the size square of the density
+is nothing else than it's a constant minus the inverted
+trapping potential.
+So therefore, in this Thomas-Fermi approximation,
+where we neglect the kinetic energy completely,
+you just take your trapping potential, turn it upside down,
+and then you fill it up with density
+until you have accommodated the number of atoms
+you want to accommodate.
+And this is, of course, a number of--
+not the constraint in the number of atoms
+is determined by the chemical potential.
+Or if you have a more complicated w-shaped potential,
+the same construction, flip it over, fill it up,
+gives you the condensate wave function,
+the density distribution of the condensate in this potential.
+I don't want to belabor it, but coming back
+to the question of the small parameter.
+If you look at those equations, you
+can identify a parameter, which is--
+this is now this small parameter or this,
+the parameter in this system, which
+is the important dimensionless parameter.
+It depends on the number of atoms.
+And it depends now on the ratio of the scattering length which
+characterizes the interaction and the harmonic oscillate
+length.
+You can say, the harmonic oscillator length
+is the ideal wave function harmonic oscillator.
+So this parametrizes the importance
+of kinetic energy versus scattering length parametrizes
+the importance of interactions.
+And all those solutions can be nicely written
+as what you would have in an ideal gas and then
+this parameter X.
+So in typical experiments N-A, N is a million,
+the scattering length's is smaller
+than the oscillator length's, but it is a million.
+And in this parameter X is usually large.
+So therefore, I'm simply just talking about the solution.
+We have the situation that the chemical potential is larger
+by a power of x, then the ideal gas solution, which would just
+be the ground state with it's zero point energy
+in the harmonic oscillator potential.
+Or the width, the size of the wave function
+is larger than the ground states of the harmonic oscillator,
+but only with an exponent, which is one-fifth.
+Well, we can see that these are now again
+somewhat improved pictures of condensates inside the trap.
+For the expert, the previous picture
+was dark ground imaging, this is now phase contrast imaging.
+And if you take a profile, we clearly
+see the condensate wave function.
+And we see the thermal wings.
+When we look at the size of the condensate wave function,
+you realize what I just meant that the ground state wave
+function, the harmonic oscillator length
+is seven micron in the X direction,
+but here you have 300 micron.
+So this condensate is completely dominated by interactions.
+And it fulfills very nice and pretty
+much the whole shape, except maybe some details
+in the wings, are quantitatively described

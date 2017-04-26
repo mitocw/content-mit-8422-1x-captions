@@ -1,0 +1,69 @@
+#
+# File:   content-mit-8422-1x-captions/M5L21b.txt
+#
+# Captions for 8.422x module
+#
+# This file has 60 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I decided to focus on two aspects.
+One is I want to talk about a special way of trapping ions,
+because there is one difference for ions.
+Ions, until recently, have not been
+trapped in stationary traps.
+They've only been trapped in dynamic traps.
+So you cannot trap ions by simply putting an electric
+potential around it, because the divergence of the electric
+field is zero.
+And that means there's always one direction in space
+where the ions are dragged out.
+You cannot have an inward force from all directions.
+So therefore, when you want to use electric fields,
+you can only use dynamic traps.
+Well, for the experts I should say, you can--
+
+this does not apply for the optical dipole trap.
+We know how we can create trapping potentials
+for neutral atoms using the optical dipole trap.
+And very recently, a group was able to trap ions
+not with electric and magnetic fields provided
+by electrodes or radio frequency,
+but by [? in a ?] focused laser beam.
+So it's a very new development.
+But it uses exactly the mechanism
+which has been used for neutral atoms.
+So when it comes to dynamic traps, the standard tool
+traps which have been used for ion trapping,
+one is the Penning trap, which I do not
+want to describe in detail.
+The Penning trap uses a quadrupole configuration
+of two--
+of positive charge.
+And then, you have a ring with negative charge.
+That means that an ion is confined here
+but would see anti-confinement in the outward direction.
+Now, what do you do with the anti-confinement?
+Well, the solution is that you add a magnetic field.
+And what happens now is the particle
+is well-confined axially.
+But radially when it wants to move out,
+it's turned into a cyclotron orbit
+and therefore stays trapped.
+So this is the principle of Penning traps, where
+the confinement in the axial direction is electrostatic
+and the confinement in x, y is through cyclotron motion.
+OK.
+It's wonderful physics to describe the motion of ions
+in this trap.
+It's the combination of an axial motion, cyclotron motion,
+magnetron motion.
+It's very interesting physics.
+And for many years, Dave Pritchard here at MIT
+used such Penning traps to measure the masses, determine
+the masses, of ions with the highest precision ever
+possible.
+MIT still has the world record of the most precise
+measurements at the 10 to the minus 11 level.

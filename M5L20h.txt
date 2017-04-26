@@ -1,0 +1,183 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20h.txt
+#
+# Captions for 8.422x module
+#
+# This file has 174 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+What I want you to sort of, enjoy now
+is, I took you last class for the Bosons.
+And you should maybe see, how the fermions are different,
+but we use similar concepts.
+And so you may ask yourself at the end of the day,
+are the fermions really so different from the bosons
+when it comes to superfluity, but we're getting there.
+OK so the standard assumption-- the standard--
+let's make this an approximation,
+we use a delta function here.
+And that-- and before we transform we
+go from position space to momentum space.
+But now comes one important approximation.
+I mean fermions are fairly complicated.
+Look I mean we have products of four operators,
+and we integrate over for three momenta, our initial momenta,
+induce the initial momentum, the final momentum,
+and the momentum transfer.
+So we have an integral over three momenta.
+We have to do something, this is too complicated.
+And the BCS Approximation is the only focus
+was in this sum of pair operators that we scatter,
+or we have entered K-prime minus K-prime scatters
+into K minus K. So we pretty much
+say whenever we have in the interaction term two fermions,
+we are only looking at pairs where center of mass momentum
+is zero.
+You can say it's an uncontrolled approximation,
+but it's based on intuition.
+So the hope is that we still capture
+the essence of superfluity by doing this major simplification
+of the Hamiltonian.
+
+So now I want to show you that this Hamiltonian can
+be solved in two ways.
+And this really connects maybe with things
+you have learned previously.
+One is, we can use as a Variational Ansatz
+this pair wave function, which I just constructed.
+That's actually what Bardeen-Cooper-Schrieffer did,
+but they used as a tidal wave function, the BCS wave
+function with the Us and Vs, which is identical.
+But then I want to show you partially now,
+because of I'm feeling nostalgic about the bosons,
+that you can also use a Bogoluibov
+transformation, the same method we learned for the bosons.
+So Variational Ansatz just means use
+this BCS wave function, which I just showed you,
+plug it into the Hamiltonian, and all you
+do is you vary the component--
+you vary the coefficients, u and v,
+until you find the minimum of the energy.
+And this gives you the famous BCS solution.
+And this is the plain [? vanilla ?]
+formalism for superconductors and fermion superfluity.
+OK.
+I don't have time to go into details,
+but I think you've got the big picture.
+But let me now just emphasize the similarities
+we had with the bosons.
+We have a Hamiltonian, even with the--
+with this BCS approximation that we have--
+we've got it over one, sum over momentum,
+by focusing on the pairs zero center of mass momentum.
+You still have products of four operators.
+We want to get rid of it.
+But now we use a mean field idea.
+You know we always get rid of products of four operators
+by grabbing one or two of them, and saying
+we don't look at the operator we look at the expectation value,
+which is the mean field.
+So I want to make a mean field approximation.
+But the group of four bosons was simply,
+we just took the operators C-zero, zero momentum,
+and replaced them with the square root of [? n0, ?]
+the number of atoms in the quantum [? zed. ?] But now we
+have to be a little bit more subtle.
+So what we should now define is a pairing mean field.
+Not an expectation value of C-zero,
+but an expectation value of this creation
+or annihilation operators for pass.
+It's a little bit more abstract, but it follows the same logic.
+So and then we do that decoupling approximation,
+which I lectured about you with a mod insulator,
+that whenever we have products of operators of products
+of pain operators now, we take the mean value
+but we neglect the product of the fluctuations.
+Exactly what I've shown you before when
+we described the mod insulator to super-fluid transition.
+OK.
+This is the pairing--
+this is the pairing filled with an index K,
+and eventually it's important to define a delta, the famous gap
+in the BCS, when the BCS theory, which
+is the sum of our pairing fields with k.
+And it is this delta which plays the role of the condensate wave
+function, exactly in the same way
+as psi, the macroscopic wave function in [INAUDIBLE]
+equation plate, this one.
+So we do the same thing, we just kind of
+write it down with treetop quadratic terms,
+which fluctuation terms.
+And the moment we have now simply bi-linear
+product of operators, we do exactly the same
+as we did with bosons.
+We transform to a set of operators, which
+is Bogoliubov transformation.
+Of course, this time we want to make sure that those--
+
+that the transforming Fermi unit operators
+will want to make sure that after transformation, we
+fulfill fermionic commutator, and then we
+determine coefficients in such a way that cost terms cancel out.
+And what you obtain now is a diagonalized Hamiltonian.
+Its diagonalized.
+It has a ground state energy.
+And this, you now realize, this is nothing
+like a harmonic oscillator.
+Its across a particular gas of independent excitations,
+gamma K is an excitation with energy E- K
+and this means we have diagonalized the problem.
+I can't do justice to the formalism.
+I think the best I can do here for you
+is to show how the same ideas come back
+and sort of the same problem.
+Also everything is now for fermions.
+Mark?
+Could we recall to the previous slide,
+we coupled the sum of K prime separate
+to molecular delta x [INAUDIBLE] over k of the C operators.
+You said [INAUDIBLE].
+Yeah, here.
+Like in the very top line you have the sum
+of K-prime for this one term.
+And then on the next slide you had
+delta, which is the sum over K, of the expectation value
+and then times the sum.
+I derived it myself because it confused me,
+but I can just reassure you if you
+take the original Hamiltonian, plug this into here,
+and neglect the product of the small fluctuations,
+you get exactly this equation.
+Its really just accounting and regrouping terms.
+There is no assumption, no concept involved,
+it's really just plugging it in and the physics
+is that we neglect the coalition of the fluctuations.
+OK.
+We have not solved it.
+Either with a variation of Ansatz
+or with the Bogoliubov transformation,
+two very different ways lead to the same solution.
+We have quasi particles, here.
+We determine what their energies are.
+Well a little bit complicated creations
+to find what the cause of particle energies are.
+But everything is known.
+We can both throw in temperature,
+[INAUDIBLE] did final temperature.
+Well what happens with this Hamiltonian final temperature?
+Well we just have occupation number for those
+quasi-particles the thermal occupation, and we have to--
+self-consistency now look what happens in the presence
+of quasi-particles.
+This eventually leads to an equation
+for the critical temperature.
+So what we see here is as a function
+of the inverse scattering links.
+Here we have BEC temperature, which is constant.
+And when we go on the BCS side, where we no longer form around
+molecules, we have this exponentially decaying
+temperature for very small attraction, the transition
+temperature to the super-fluid state exponentially small.

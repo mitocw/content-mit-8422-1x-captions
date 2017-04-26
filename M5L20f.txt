@@ -1,0 +1,179 @@
+#
+# File:   content-mit-8422-1x-captions/M5L20f.txt
+#
+# Captions for 8.422x module
+#
+# This file has 170 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+OK.
+Let's go from one particle physics, back to fermions.
+And let me now present to you how Leon Cooper really
+found the key ingredients to the longstanding problem,
+how do electrons pair in a superconductor?
+And he did the following, he made
+an artificial simplification, which you can see is ingenious.
+He assumed the following, he just
+wanted to understand how do two electrons pair.
+But he simply assumed that those two electrons are
+on top of a Fermi C. So he pretty much said,
+I want to solve the problem where
+two electrons just scatter through all available states,
+and then figure out if an infinitesimal attraction
+between those electron leads to binding.
+Of course, in the real world the electrons in the Fermi C
+are identical to those electrons,
+to those two special electrons, and they are constantly
+exchanged.
+But he simply made this artificial model,
+and then of course we can immediately right down
+the equivalent equation.
+It's exactly the same formalism, except for when
+we integrate over all energies here,
+we integrate-- yes, we integrate over the 3-dimensional energy.
+But now we integrate only over a small region
+on top of the Fermi C.
+And everything looks the same.
+We just have sometimes subtract the Fermi energy.
+All energies are measured not relative to zero,
+but relative to the Fermi energy.
+If you compare it to the equation I just showed you
+for similar particle bound state,
+you pretty much see that everything
+is the same except for energies immediately
+relative to the Fermi energy.
+And secondly, we are not integrating from zero
+as before, we start integrating from the Fermi energy.
+And that means now that in this area of integration,
+the 3-dimensional density of states is constant,
+namely it's the density for where
+the energy is the Fermi energy, and can
+be pulled out of the integral.
+And then we have the same logarithmic divergence
+estimating two dimensions.
+So therefore the problem of two electrons scattering
+on the surface of the Fermi c, means
+that we have essentially the same condition
+for the electrons as if they would live in two dimensions.
+
+Question.
+If the world were 4-dimensional, and we
+would have the same physics, we had two electrons
+on the surface of the Fermi c, with the physics of the two
+electrons in that regard, be 4 minus one dimension,
+three dimension, or would it be two dimensions?
+
+[INAUDIBLE]
+Well, that's exactly the question.
+Let's say-- let's assume we had four spatial dimensions.
+For this kind of analysis it's effective density
+of states on the Fermi surface.
+Now 2-dimensional?
+Or is it 3-dimensional?
+It should be three, right?
+It's kind of like, you remove one dimension
+by restricting yourself to kind of an area [INAUDIBLE]?
+It is the more you know, if you say,
+the particles have momentum on the Fermi surface.
+Then, if the Fermi surface fixes one momentum, and now
+they have three different momenta.
+So in that sense, the motion on this surface in 4-dimensions
+are 3-dimensional.
+But it was sort of a trick question to some extent.
+Because here we have reformulated everything
+with energy, and the question-- and the answer is now,
+the density of state is constant.
+It is the 4-dimensional density of states,
+but evaluated at the Fermi energy.
+So therefore no matter in what dimensions
+you are, because you are restricted to the Fermi C,
+you integrate over energy with a constant density of states.
+And if you were the constant density
+state out of the integral, you have a logarithmic divergence
+and you pretty much get the same answer.
+So therefore, the physics in four dimensions
+would be the same.
+It would be the fermions which live on this Fermi surface
+would just marginally pair.
+Then how do you explain the reduction of dimensions?
+Where does one more dimension [INAUDIBLE]
+things that are still on the 3-dimensional surface of four
+dimensions?
+Oh well the motion, you can see on the Fermi surface
+is n minus one dimension.
+But the energetic analysis all of us
+uses a constant density of states,
+and the constant density of state
+is characteristic for two dimensions.
+So you have both.
+So if you have analyze the motion, yes.
+You have-- you have n minus one dimensions.
+But if you look at the question of bound states,
+you encounter the same situation as in two dimensions,
+because the effective density of states is constant.
+
+OK.
+So with that the message I have for you is
+Cooper pairing is a signal particle effect.
+A single particle trapped to an arbitrarily weak potential
+in two dimensions, and the only many-body physics, which
+allows those Cooper pairs to form
+is, that you have a Pauli's blocking
+that you will Fermi C, which prevents particles
+from going into the deep Fermi C. They stay on the surface,
+and therefore they form weak pairs.
+So the only many-body physics which
+we need for that kind of pairing is Pauli blocking.
+Mark?
+
+Sorry, could you explain to me what is
+the Er in the previous slide?
+Er was the cut off-- we were cutting off the potential it is
+just short--
+we didn't use a delta potential, we
+used a square well potential, which extends out to r.
+And Er is the recall energy associated with r.
+It's one over r squared, with a few H bars and M
+to give the units of energy.
+
+Colin?
+If you could go back to the--
+So, I could imagine tailor expanding my density of states
+any dimension around the Fermi energy.
+But, you know, I'll always have the constant term.
+The first term, it's 3D, it's either
+one half or some linear term.
+Doesn't that imply that even if you give this system
+any infinitesimal amount of energy
+then might-- that integral no longer diverges.
+
+No, the question of divergence is robust.
+It depends only on the leading term and not on the expansion.
+
+If you're a divergence, you're not changing it
+by a small correction term.
+Because a small correction term is on top of unity.
+If you start with the density of states at zero,
+which goes with epsilon to some power,
+we have a different situation.
+But you catch really the physics by saying,
+you take a contingency of states.
+Anyway let me just go on and say, we should now figure out,
+and this is also important when it
+comes to pairing, which pairs are the most important ones.
+And the message I want to give you here,
+the pairs which are most important ones,
+are the ones which have zero momentum because those pairs
+can scatter to all states on the Fermi surface
+without violating momentum conservation.
+However, if you have the total momentum of the two particles
+which is non-zero, they can only scatter
+on this segment of the sphere, and you got already the message
+that the higher the density of state
+the better it is for the binding.
+So therefore, the pairs which hve the largest
+binding energies will be the ones
+with total momentum of zero.

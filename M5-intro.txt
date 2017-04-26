@@ -1,0 +1,41 @@
+#
+# File:   content-mit-8422-1x-captions/M5-intro.txt
+#
+# Captions for 8.422x module
+#
+# This file has 32 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Welcome to Module 5 of the course Atomic and Optical
+Physics.
+Wow, I can't believe it's the last module of this course.
+And it's an exciting module.
+We will be discussing ultracold Bose and Fermi gases,
+and quantum computation with trapped ions.
+Those are three of the main frontiers
+of atomic and optical physics.
+So now we apply almost everything
+we have learned in this course to frontiers in research.
+Now, ultracold Bose and Fermi gases and quantum computation--
+each of them could be its own course.
+So in this module, we can just touch on the surface.
+We can talk about foundational issues.
+We can establish some common language.
+We can introduce definitions and concepts for those fields.
+But ultimately, it's up to you to follow those fields
+in their exciting directions.
+Quantum degenerate gases and quantum computation
+really changed atomic physics.
+They became the dominant topics at all major conferences
+in the '90s.
+And that has actually, to some extent, remained.
+The reasons are that those fields have rapidly developed,
+and have shown advances and breakthroughs which
+could not be anticipated.
+So at the end of this course, we are right there in the present,
+right there where major developments take place.
+I hope you enjoy this module.
+And I hope you enjoyed this course.

@@ -1,0 +1,155 @@
+#
+# File:   content-mit-8422-1x-captions/M5L19e.txt
+#
+# Captions for 8.422x module
+#
+# This file has 146 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+I've so far dealt with aspects of a homogeneous Bose-Einstein
+condensate where, of course if you are a homogeneous system,
+you formulate everything in momentum space.
+But now we want to deal with the situation
+that our condensates are finite in size.
+And in addition, they are usually
+in harmonic oscillator potential and therefore their densities
+inhomogeneous.
+Let me start the discussion with the inhomogeneous Bose-Einstein
+condensate by showing again the picture which brings
+in some memories of 1996.
+It was the first time that we could
+see the Bose-Einstein condensate in the trap.
+Before, people have just seen it by time of light
+when it was pretty much already destroyed,
+or it was just flying out.
+But here, we see the trap Bose-Einstein condensate,
+and we could even take multiple pictures
+of the same condensate.
+So you can see, this was the first time
+that a condensate was seen alive.
+What you see here is actually the bimodal distribution.
+You see the condensate, and due to speckle pattern,
+the thermal cloud looks like fragmented,
+but this is just a speckle pattern due to the signature
+noise.
+But here you really see now, not in ballistic expansion
+as I've shown you on Monday, but really in situ the size
+and shape of the condensate.
+OK, how do we describe it?
+Well, the message is pretty much exactly the same way
+as we did with the Bogoliubov approximation and such,
+but instead of in momentum space,
+we do it now in position space.
+Actually, I have to say this week,
+I go through a lot of material, but what
+I'm trying is to give you sort of a spirited and animated
+overview that you really know what is important,
+where is the same concept appearing again
+in a different way.
+The details, I've posted actually the original articles,
+references, some high school notes,
+some of them written by myself on the website.
+So yes, it's a little bit different character
+than other lectures.
+I want to show you a lot of things
+and put a special emphasis on the ideas.
+OK, so in second quantization we are now
+using field operators, which create
+and annihilate particles at position r.
+This is sort of the single particle
+Hamiltonian, kinetic energy, and potential energy.
+And our interaction term has now again four operators--
+two annihilation operators, two creation operators--
+but they are now formulated in position space.
+We do exactly the same as we did in the homogeneous gas.
+We assume the potential is short range, that
+means delta function.
+And that means we can get rid of one of the integrations in r
+and r prime.
+But we still have product of four operators.
+We can formally solve this the equation by writing down
+Heisenberg's equation of motion for those field operators,
+but of course this cannot be solved.
+Remember, products of for operators are hard.
+We have to reduce it to two operators.
+And this is actually done by the Bogoliubov approximation again,
+but it's done here in the following way.
+Remember, in momentum space we replaced a naught and a naught
+[INAUDIBLE] by the square of a naught.
+What we do here it is we say, this
+is sort of a [? quantum ?] field.
+And when we have a superfluid, this field operator
+has an average value it's actually
+the microscopic superfluid order parameter.
+So we replace the operator by an average value,
+which we assume is large because many, many particles are
+in the superfluid state.
+And then we have fluctuations, which are small.
+And what we will do is-- well it's pretty clear--
+when it comes to the fluctuations,
+we will neglect higher products, products of four fluctuation
+operators, and we are down to c numbers
+and, as you will see, two operators.
+
+We can-- and this is even more dramatic,
+it wouldn't make sense for the momentum space,
+but it does make sense in precision space--
+we can even do our first approximation
+where we completely neglect those fluctuations.
+And then what we have is when we simply insert a c number into--
+let me just go back-- into this Hamiltonian,
+we have then an equation for this number,
+for this function psi
+And this is the nonlinear Schrodinger's equation,
+or it's also called Gross-Pitaevskiit equation,
+which is now an analogy to Schrodinger's equation,
+but now for the microscopic wave function, which is occupied
+by many, many particles.
+And in addition to the kinetic energy
+and the prepping potential, the external potential,
+it has a term, which is proportioned to the density.
+And this is just a mean field repulsion,
+which one atom feels exerted by the other atoms.
+I should say, so just to connect it
+to what I've said earlier about the [? quantum ?] depletion,
+you can regard the function psi as the best approximation
+to an ideal that Bose-Einstein condensate.
+So if you want to write your many body wave
+function as a function psi to the power n,
+all particles are in the same quantum state.
+Then evaluation of calculation would
+say that this function psi should obey these equations.
+If you want to read up what I've said,
+I've posted a recent paper from which I found very pedagogical,
+where derive the Gross-Pitaevskiit equation
+without even using an operator, psi [INAUDIBLE]
+without using any second quantization.
+They just say, we have an Hamiltonian for an interacting
+system, and we try to write the complicated many body wave
+function as a wave function to the power n.
+And then you put this [INAUDIBLE]
+into your Hamiltonian, and do a variational optimization,
+which single particle wave function
+psi, if taken to the power n, minimizes
+the total energy of n particles, including interactions.
+And the answer is this equation.
+So there are many ways.
+This equation creation it's sort of very natural.
+
+Now you all know about single particle physics,
+kinetic energy and an external potential.
+Let's not learn what this density dependent term does.
+Well, it's pretty clear.
+There is a price to be paid for density.
+And well, the total integrated density
+is, of course, given by the total number of particles.
+That means if you lower the density somewhere,
+you've to increase the density.
+But because this is not a non-linear term,
+if you have an average density, and you lower it
+here and increase it here, you have actually more repulsive
+energy than if the density is flat.
+So this term has only one goal.
