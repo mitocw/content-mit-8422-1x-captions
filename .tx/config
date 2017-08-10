@@ -1,0 +1,1308 @@
+[main]
+host = https://www.transifex.com
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m0l1atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m0l1atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m0l1btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m0l1btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1-introtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1-introtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l1htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l2gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3d2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3d2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3g2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3g2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l3jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4ktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4ktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4mtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l4mtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5a_cq0txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5a_cq0txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5a_cq1txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5a_cq1txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5b_cq2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5b_cq2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5c_cq3txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5c_cq3txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5d_cq4txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5d_cq4txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5e_cq5txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5e_cq5txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5f_cq6txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5f_cq6txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5g_cq7txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5g_cq7txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5h_cq8txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5h_cq8txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5i_cq9txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5i_cq9txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5j_cq10txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5j_cq10txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5j_cq11txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5j_cq11txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5k_cq12txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5k_cq12txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5m_cq13txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5m_cq13txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5ntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5ntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5o2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5o2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5otxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5otxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5ptxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5ptxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5qtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5qtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5rtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5rtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5stxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5stxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5ttxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5ttxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5utxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5utxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5vtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5vtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5wtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5wtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5xtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l5xtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l6gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7mtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7mtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7otxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7otxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ptxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ptxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7qtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7qtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7rtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7rtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7stxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7stxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ttxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7ttxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7utxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l7utxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m1l8etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l10ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l11gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l12gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l8itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2l9ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2s1atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m2s1atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l12htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l12htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l13itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14b_cq1txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14b_cq1txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14e_cq2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14e_cq2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14ktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14ktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14matxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14matxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mbtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mbtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mdtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mdtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14metxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14metxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mgtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mgtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mh_cq1txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mh_cq1txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mj_cq2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mj_cq2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mltxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mltxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mmtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mmtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l14mntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15c_cq1txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15c_cq1txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15e_cq2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15e_cq2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15ktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15ktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15mtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15mtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15ntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15ntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15otxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15otxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15ptxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m3l15ptxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4-introtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4-introtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16mtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16mtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16otxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16otxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ptxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16ptxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16qtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16qtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zbtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zbtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zdtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zdtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zetxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zetxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zgtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zgtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zhtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zhtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zitxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zitxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zjtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zjtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zmtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zmtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zotxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zotxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zptxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l16zptxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zatxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zatxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zb_cq1txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zb_cq1txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zd_cq2txt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zd_cq2txt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zgtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zgtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zhtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zhtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zitxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zitxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zjtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zjtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zmtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zmtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zotxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zotxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zptxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l17zptxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m4l18itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5-introtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5-introtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l18jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l18jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l18ktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l18ktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19jtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19jtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ktxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ktxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19mtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19mtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ntxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l19ntxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20gtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20gtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20htxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20htxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20itxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l20itxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21atxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21atxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21btxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21btxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21ctxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21ctxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21dtxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21dtxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21etxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21etxt/<lang>.txt
+source_lang = en
+type = TXT
+
+[mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21ftxt]
+file_filter = translations/mit-8422-atomic-and-optical-physics-ii-ketterle-videos.m5l21ftxt/<lang>.txt
+source_lang = en
+type = TXT
+
