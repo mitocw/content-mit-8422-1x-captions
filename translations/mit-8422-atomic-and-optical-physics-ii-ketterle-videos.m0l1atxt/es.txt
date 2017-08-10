@@ -1,0 +1,454 @@
+#
+# File:   content-mit-8422-1x-captions/M0L1a.txt
+#
+# Captions for 8.422x module
+#
+# This file has 445 caption lines.
+#
+# Do not add or delete any lines.  If there is text missing at the end, please add it to the last line.
+#
+#----------------------------------------
+
+Así que cuando usted toma un curso de física AMO,
+La pregunta obvia es cuál es la física AMO.
+¿Qué define nuestro campo?
+En realidad, por mucho, la mejor definición
+De lo que es la física AMO, es lo que hacen los físicos AMO.
+Está definido por la comunidad de investigadores de AMO.
+Y esto es realmente característico para nuestro campo.
+Les diré en los próximos 10 minutos
+O algo así sobre esta enorme dinámica
+Del campo, cómo la física AMO ha cambiado
+En una fracción de mi vida.
+Y lo que pasó fue que sentí lo que estaba haciendo,
+Y resultó ser muy diferente de lo que yo
+Hace 10 y 15 y 20 años.
+Nos alojamos en el centro de física AMO.
+Así que yo y toda la comunidad,
+Nos estamos moviendo y hemos tomado el campo a lo largo.
+Así que, por lo tanto, la física AMO es lo que
+Obtiene emocionado a los investigadores de AMO.
+No es una broma.
+Eso realmente sucedió.
+Bueno, un poco más mecánicamente
+Podemos definir la física AMO.
+La física AMO es lo que se hace fuera del edificio
+Bloques que tenemos en la física AMO.
+Así definido por los bloques de construcción.
+Y en la física AMO, construimos sistemas
+Fuera de átomos o moléculas, y luego fotones o luz.
+Y en general, los campos electromagnéticos.
+Campo magnético eléctrico.
+Microondas y todo esto.
+Así que en otras palabras, todo lo que es interesante.
+Y podemos poner juntos con esos bloques de construcción.
+Esta es la física AMO ahora, y esto puede redefinir la física AMO
+en el futuro.
+Ahora, históricamente, esto significaba que aquellos que
+Los átomos y las moléculas
+Disponible en la fase gaseosa.
+Así que tenías gases de átomos, gases de moléculas.
+Y tú los estudiaste.
+Y casi toda la física de AMO fue en realidad
+Sobre partículas individuales, átomos individuales,
+Moléculas individuales.
+Debido a que en la fase gaseosa a alta temperatura,
+Prácticamente aprendiste que en la mecánica estadística
+Cada partícula es por sí misma.
+Y la función de partición de todo el sistema
+Sólo se vectoriza en las funciones de partición
+De las partículas individuales.
+Bueno, quizás con alguna excepción, ocasionalmente las partículas chocan
+En el campo de las colisiones.
+Colisiones entre átomos y átomos, átomos e iones, átomos
+Y moléculas, moléculas y fotones.
+Esto fue ampliamente estudiado en la física AMO.
+Bueno, ahora el campo se ha alejado realmente
+De partículas individuales y colisiones
+Entre dos partículas.
+Lo que está en el centro de atención es la física de pocos cuerpos.
+Y eso, por supuesto, nos lleva al enredo.
+Por ejemplo, la gente estudia el enredo de [? ocho ?]
+Iones en trampas de iones.
+Y, por supuesto, esto está profundamente relacionado
+a [? Cuántica?] Ciencia de la información.
+O si quieres ir de pocos cuerpos a muchos cuerpos,
+Esto ahora está empezando a superponerse con la metafísica condensada.
+Y esto es ahora ampliamente estudiado en el campo de [? Ultracold?]
+Átomos y gases cuánticos.
+Cuando hablamos de física de muchos cuerpos,
+Nos encontramos, por supuesto, en la superposición con la metafísica condensada.
+Yo diría ahora que un fracton más grande de la física AMO
+Y la metafísica condensada se superponen fuertemente.
+[? Eso?] Hablamos el mismo idioma.
+Estudiamos el mismo hamiltoniano.
+Muchos teóricos aplican los mismos métodos
+A los temas que vienen de cualquiera de los dos campos.
+Sin embargo, a menudo en la tecnología, cómo se estudian los sistemas,
+Hay una cultura diferente, tradición diferente, y todavía
+Dos comunidades diferentes.
+La superposición se produce porque hay
+Son sistemas en la naturaleza, que usted puede ver-- bien, natural.
+Los sistemas artificiales de dos o pocos niveles, por supuesto,
+Ayudará a la naturaleza un poco por la ingeniería.
+Esos sistemas son, por ejemplo, puntos cuánticos, o en-recientes, como
+En [? Diamante ?]
+
+O otra superposición con la metafísica condensada
+es eso [? Una frontera de?] AMO física
+Es el control óptico de osciladores mecánicos.
+Microcantilevers, membranas, espejos minúsculos en cavidades.
+Tienen movimiento mecánico, y el movimiento mecánico
+Está fuertemente acoplado al campo del fotón.
+Por supuesto, para los físicos fundamentales de AMO,
+Un oscilador mecánico no es otra cosa
+Que un oscilador armónico.
+Así que [INAUDIBLE] - y esto es una especie de mi tercer intento
+En definir para usted qué es la física AMO,
+La física AMO está casi definiéndose por el quántum de baja energía
+física.
+Así que toda la mecánica cuántica que no tiene lugar
+En giga y tera electron volt, que
+Tiene lugar en baja energía, esta es la física AMO.
+Por supuesto, tal vez no todo.
+Por lo general, cuando está en solución húmeda, es biofísica,
+Y es claramente diferente de la física AMO.
+O si el estado sólido involucrado, entonces es
+Metafísica más condensada.
+Pero yo diría que hay una parte de la física de estado sólido
+Que ya se está volviendo interdisciplinario
+Con la física AMO.
+Y esto es cuando el control del sistema
+No se hace por alambres y [INAUDIBLE],
+Pero es hecho por los láseres.
+Así que si usted tiene un sistema de estado sólido
+Y usted utiliza todos los métodos que aplica a los átomos,
+Se utiliza coherencia de transparencia inducida electromagnéticamente,
+Todos esos conceptos, entonces los físicos AMO se sienten en casa.
+Y no les importa si el sistema de dos niveles
+O el oscilador armónico es un ion que oscila en una trampa de iones
+O si es un cantilever pequeño.
+Los métodos y conceptos son los mismos.
+
+Por lo tanto, se podría decir AMO física
+Es una especie de parque infantil donde
+Puede trabajar en extensiones de sistemas simples
+Que entendemos y apreciamos.
+Y por supuesto, nuestros problemas exactamente solubles
+Son el átomo de hidrógeno.
+Mi colega Dan Kleppner habría dicho que tal vez el hidrógeno
+Átomo - si usted entiende el átomo de hidrógeno,
+Usted entiende todo de la física atómica.
+No estoy muy seguro.
+Yo diría que además del átomo de hidrógeno,
+Usted tiene que conocer el sistema de dos niveles.
+Y por supuesto, usted tiene que entender el armónico
+oscilador.
+Estos son los Hamiltonianos paradigmáticos.
+Y mucha comprensión del sistema mucho más complicado
+Realmente viene de tomar las mejores características de esos tres
+Y combinarlos.
+
+Si tiene preguntas o comentarios.
+Esta es una clase interactiva.
+No dude en hablar o interrumpirme.
+
+DE ACUERDO.
+Así que ahora sabemos, o no sabemos,
+Lo que la física AMO es, permítanme ahora dirigirme,
+¿Cómo se ha desarrollado la física AMO?
+Y os he dicho que la física AMO
+Ha hecho una evolución impresionante en mi vida,
+O incluso en la parte más corta de mi vida,
+Que es mi carrera de investigación.
+Bueno, tradicionalmente, casi todos los campos de la ciencia
+Comenzó con la observación de la naturaleza.
+
+La búsqueda de la ciencia nació de la curiosidad humana
+Para entender el mundo que nos rodea.
+Y los físicos atómicos, bueno, ellos
+Comenzaron a observar átomos y moléculas, generalmente en el gas
+Fase, y lo que estaban haciendo.
+Y ya había alguna evolución,
+Porque las observaciones originales a baja resolución
+Fueron llevados a un nivel completamente nuevo cuando
+Se desarrollaron métodos de alta resolución, cuando llegaron los láseres
+Cuando las personas tenían fuentes de luz que
+Tenía una resolución fantástica.
+Y finalmente, detalles más finos y finos
+De la estructura de átomos e interacciones entre átomos
+Fueron resueltos.
+
+Pero la física AMO es un campo que ha tomado la búsqueda
+De la ciencia mucho más.
+Así que no hay sólo observación de la naturaleza.
+Y quiero escribir eso con mayúsculas,
+Hay CONTROL de la naturaleza.
+
+Y tal vez lo tomes por sentado,
+Pero usted debe apreciar realmente,
+Que controlar la naturaleza, tener control sobre lo que estudias,
+Modificarlo, avanzarlo, llevarlo al siguiente nivel,
+Es realmente algo maravilloso.
+Está completamente ausente en ciertos campos
+Como la astrofísica.
+En astrofísica, todo lo que puedes hacer es observar.
+En física atómica, creamos los objetos que podemos observar.
+Así el control de la naturaleza, el control de nuestra física atómica
+Sistema, desarrollado en etapas.
+El primer tipo de control se ejerció sobre los estados internos.
+Si usted tiene un átomo en energías térmicas,
+Sólo vendría en estados hiperfinos que
+Son térmicamente pobladas, o moléculas
+Vienen en estados rotatorios.
+Y bueno, su control limitado fue simplemente
+Para subir y bajar la temperatura.
+Pero con el advenimiento del bombeo óptico--
+Esto realmente sucedió ya con fuentes de luz clásicas
+Antes de la invención del láser.
+Así que con el bombeo óptico, se puede bombear la población interna
+De moléculas en, digamos, un solo estado rotatorio.
+Así que este es el control sobre el espacio interno de Hilbert,
+Y esto fue realmente recompensado con el Premio Nobel
+A Alfred Kastler en 1966.
+Por supuesto, el siguiente paso después de controlar
+Los grados internos de libertad son
+Tienen control sobre los grados de libertad externos.
+Y esto significa movimiento de control.
+Esto fue, por supuesto, perseguido por la comprensión
+El aspecto mecánico de la luz.
+¿Cómo interactúan los fotones mecánicamente con los átomos?
+Esto finalmente llevó al enfriamiento por láser
+Y condensación de Bose-Einstein.
+Y fueron también esos desarrollos
+Fueron reconocidos con premios importantes.
+Bueno, hay más que controlar
+Grados de libertad internos y externos.
+A continuación, también puede decir, bien, ¿cuánto podemos controlar
+El número de bloques de construcción?
+Y finalmente, la física AMO avanzó
+Ejercer control sobre un solo quantum
+Sistemas - fotones individuales, átomos individuales, un solo átomo
+En una cavidad intercambiando un fotón con una cavidad miles
+De veces.
+Así que este control de los sistemas cuánticos únicos
+En realidad fue reconocido con un Premio Nobel
+hace pocos meses.
+Bueno, en este punto, a veces hago la broma.
+Hemos pasado de grandes conjuntos en muchos, muchos estados cuánticos
+A fotones individuales, átomos individuales en un solo estado cuántico.
+Un solo estado cuántico para muchas partículas
+Es la condensación de Bose-Einstein.
+Así que realmente hemos descendido a átomos individuales, fotones individuales,
+Estados cuánticos únicos.
+Bueno, ¿qué viene después?
+¿No tener átomos ni luz en el vacío?
+Bueno, el vacío tiene algunas propiedades muy interesantes.
+Y si usted habla con Frank Wilczek,
+La naturaleza del vacío - energía oscura
+Es uno de los grandes misterios de la física y de la ciencia
+en general.
+Pero el estudio de eso es definitivamente
+Fuera del alcance de la física AMO.
+Así que lo que pasa es cuando hemos bajado y tenemos ahora
+Control sobre los bloques de construcción,
+Ahora podemos volver a subir de manera controlada,
+Crear complejidad mediante el montaje de unos pocos fotones, unos pocos átomos,
+En nuevos estados enredados.
+Así que ahora podemos llevar nuestro sistema a regiones muy diferentes
+Del espacio de Hilbert.
+Entonces, ¿qué está definiendo ahora?
+El control es que queremos utilizar este control prístino
+Sobre los bloques de construcción para ahora poner en algo que no ha
+Existía naturalmente antes.
+O cuando existía, estaba completamente oscurecido, completamente
+Oculto, por movimiento térmico o por, se puede decir,
+En homogeneidad ampliando nuestra falta de control.
+Y el mejor [? Contraseñas?] Están aquí ahora -
+Enredos y física de muchos cuerpos.
+Es difícil capturar eso en un diagrama, pero déjame intentarlo.
+No sé realmente lo que estoy dibujando,
+Pero creo que recibes el mensaje de que esto
+Es una especie de espacio de Hilbert.
+Y tengo dos hachas.
+Uno es una especie de entropía - alta temperatura,
+Y el otro es la complejidad.
+Y durante bastante tiempo, la gente estudió los gases calientes.
+Así que estos son gases.
+Hay mucha entropía en ella.
+La complejidad en realidad no es particularmente alta.
+Y todo es descrito por un operador estadístico,
+La matriz de densidad.
+La búsqueda del enfriamiento y
+Control - obtener información sobre un sistema
+Es también una forma de enfriamiento.
+Si sabe en qué estado está el átomo,
+La entropía del sistema es 0, incluso si usted no tiene
+Cambió el estado del átomo.
+Así que el control y la refrigeración, control de medición y refrigeración,
+Nos ha llevado hasta el punto en que tenemos sistemas
+Que ya no tienen entropía.
+Están muy, muy bien definidos.
+Y nuestro objetivo ahora es tomar ahora estos sistemas
+A una mayor complejidad, donde las funciones de onda
+Enredado, y tenemos fuertes correlaciones
+En sistemas de muchos cuerpos.
+Esto es ahora descrito por las funciones de onda.
+Pero aquí está la función de onda de una sola partícula.
+Y aquí tenemos ahora altamente correlacionados, altamente enredados
+Funciones de onda de muchos cuerpos.
+Así que al menos para mí ... pero todas las predicciones
+Son notoriamente incorrectas cuando las miras
+En unos pocos años a partir de ahora.
+Pero para mí, esto es donde el futuro de nuestro campo
+Se está moviendo, para conseguir una especie de regiones interesantes de Hilbert
+Espacio donde nadie ha estado antes.
+Como experimentalista y con mucha experiencia
+Estudiantes en esta sala, quiero enfatizar
+Que muchos de esos rápidos desarrollos del campo
+Son impulsados ​​por la tecnología.
+Así que es impulsado por los avances tecnológicos.
+En los años 50 y principios de la década de 1960, la gente
+Pensó que la física de AMO está casi muerta.
+Es una especie de pocas personas con pelo gris
+Continuar lo que han hecho, y el campo
+Finalmente morirá.
+Pero entonces los avances tecnológicos
+Hizo posible hacer grandes [? Conceptuales?] Avances.
+He mencionado el [? Conceptuales?] Avances.
+Permítanme decir algunas palabras sobre la tecnología que
+Lo ha impulsado.
+Hubo una fase de desarrollo de láseres
+Que experimenté cuando era estudiante.
+Pero esos láseres eran fantásticos.
+Ya eran muy estrechos, muy estables,
+Pero eran muy caros y muy complicados.
+Así que si tenías un láser, esto definía tu laboratorio.
+Y luego estudiaste muchas cosas
+Con el solo laser que usted podría permitirse.
+Bueno, probablemente no estás acostumbrado a una especie de gran [? Tinte
+Láser bombeado con un gran láser de iones de argón.
+Fue una inversión de 250.000 dólares para el laboratorio.
+Y, por supuesto, no podía permitirse un segundo láser.
+Se requiere 50 kilovatios de energía eléctrica,
+Y todo ese poder tuvo que ser enfriado por el agua jadeante
+A través de tubos gruesos.
+Así que fue una empresa costosa,
+Pero realmente podrías hacer ciencia maravillosa con ella.
+Así que lo que he visto en los últimos 20 años
+Es la proliferación de lasers de estado sólido,
+Comenzando con los láseres de diodos y
+Hasta el presente año.
+Así que ahora en muchos de nuestros laboratorios aquí
+En MIT, tenemos 10 láseres.
+Y hemos dejado de contarlas, porque agregar un láser
+Al sistema es casi como añadir
+Un amplificador a un circuito o añadir otro circuito
+A un sistema de adquisición de datos.
+Pero no es sólo la sencillez de los láseres
+Que tenemos ahora.
+La robustez de tener 10 láseres en el laboratorio, está bien.
+Anteriormente, si usted tenía tres láseres del laboratorio,
+Pasaste el 90% de tu tiempo simplemente manteniendo el funcionamiento del láser.
+Esos láseres, no tanto continuamente
+como [? Nuestros?] Láseres de onda continua,
+Pero los láseres de pulso también tienen propiedades muy, muy diferentes.
+Los pulsos láser trajeron femtosecond muy, muy corto
+O incluso attosecond.
+Los pulsos más cortos significan que la energía es ahora
+Enfocado a una ventana temporal mucho más corta.
+Por lo tanto, pulsos láser de muy, muy alta intensidad -
+Si enfoca un láser de pulso corto en un sistema atómico,
+Usted puede alcanzar fácilmente un campo eléctrico
+Del láser que es más fuerte que el campo eléctrico
+Del átomo.
+Así que en otras palabras, si usted tiene fotones y electrones, o bien,
+Tal vez los electrones externos, no bajar a los protones individuales,
+Pero usted tiene quizá un núcleo iónico, y usted tiene electrones.
+Ahora debes primero mirar el movimiento de los electrones
+En el campo fuerte del láser y en la estructura atómica
+Como una perturbación.
+Realmente toma la jerarquía de efectos al revés.
+Por lo tanto, la aparición de los láseres de mayor intensidad
+Ha dado lugar a todo un nuevo campo de la física atómica.
+Los láseres son más precisos.
+La invención de los peines de frecuencia,
+Reconocido por el Premio Nobel en 2005,
+Ahora que podemos controlar las frecuencias láser a un nivel
+De 10 a la menos 17.
+Y esto ha redefinido completamente la metrología de precisión
+Y ha avanzado el control sobre átomos y moléculas
+He mencionado antes.
+Finalmente, otro desarrollo técnico,
+Que desempeña un papel importante en la investigación que se persigue aquí
+En el MIT y en otros lugares, son el
+De cavidades de alta finura.
+Las cavidades de alta finura en el rango de microondas,
+Entonces son superconductores, o
+Cavidades ópticas de alta finura por tener supermirrores.
+En realidad son esas supercavidades
+Que han permitido el estudio de la Física de un solo fotón,
+Porque después de todo, los fotones se alejan con la velocidad de la luz.
+Y si quieres observar un fotón en tu laboratorio,
+Tiene que rebotar alrededor de millones de veces
+Con el fin de tener suficiente tiempo para el fotón
+Para hacer algo interesante.
+Así que a veces un campo en la frontera de la ciencia
+Se define por los paradigmas si usted
+Quiere explicar a alguien por qué su campo de interés
+Es genial y emocionante, por lo general
+Hazlo escogiendo algunos ejemplos realmente emocionantes.
+Y quiero mostrarle cómo a lo largo de los años
+Que ha avanzado.
+Definitivamente en los años 50 y 60, usted
+Habríamos mencionado que entendemos
+Ahora estructura atómica, estructura atómica
+De átomos de múltiples electrones.
+El bombeo óptico acaba de comenzar.
+Así que estos fueron los desarrollos emblemáticos de la ciencia AMO.
+Lo bueno de hacer en los años 60 y 80 fue usar la nueva herramienta,
+El láser, aplicado a los átomos y hacer espectroscopía láser -
+[? Subtoplaspictroscopy,?] [? Subnatural?] Espectroscopia,
+Resolución de la estructura hiperfina.
+Wow, quiero decir, esto fue realmente emocionante en esos días.
+Y bueno, las personas mayores que he conocido,
+Mis profesores, mi asesor de tesis, estos
+Fueron las personas que comenzaron su carrera de investigación
+Antes de que se inventara el láser, pero luego
+Como un joven investigador abrazó esta nueva herramienta
+Y ayudó a redefinir el campo.
+Definitivamente en los años 80 y 90, las fotos guay
+Fueron los de los átomos de la trampa magneto-óptica de pie todavía
+Y viajar alrededor.
+Así que el nuevo aspecto eran fuerzas mecánicas
+De la luz, que condujo al enfriamiento del laser ya átomos atrapados.
+A finales de los 90, por supuesto, la emoción
+Era acerca de la condensación de Bose-Einstein.
+Y fue realmente la condensación de Bose-Einstein
+Que condujo la física AMO de los átomos individuales
+Y tal vez dos átomos que chocan con la física de muchos cuerpos.
+Siempre es más fácil analizar esas cosas
+Mirando hacia atrás.
+Así que si ahora me estoy acercando al pasado,
+Tengo que ser un poco vago.
+Pero en los años 2000, creo que los temas candentes
+Eran fermiones ultrafinos y el estudio del enredo
+Y correlaciones.
+¿Y cuál es el paradigma ahora o en un futuro próximo?
+Bueno, creo que tienes que ayudar a definirlo.
+Si usted hace un descubrimiento interesante,
+Esto es lo que la gente va a señalar y diría,
+Esto es lo que ahora define la física AMO.
+Algunos candidatos son, por supuesto, si hay avance importante
+En la computación cuántica.
+En el campo de, cita, "ciencia atómica",
+En realidad podemos hacer algún enfoque hacia estados topológicos,
+Que tienen diferentes simetrías y diferentes propiedades.
+Y otra frontera emergente son los osciladores micromecánicos.
+En el último par de años, sólo
+Tuvo el avance por primera vez -
+Los objetos mecánicos se enfriaron al estado fundamental absoluto.
+Así que, para esa comunidad, fue lo que, para muchos de nosotros,
+La condensación de Bose-Einstein fue hace 15 años.
+
+¿Alguna pregunta?

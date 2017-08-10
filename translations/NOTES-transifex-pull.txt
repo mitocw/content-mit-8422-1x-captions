@@ -1,0 +1,1 @@
+tx pull -a --mode reviewed --minimum-perc=1
